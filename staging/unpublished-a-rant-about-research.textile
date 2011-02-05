@@ -1,0 +1,51 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+    - academia
+    - publishing
+    - productivity
+    - Dan Conover
+title: A rant about research
+summary:
+    
+---
+
+There are some things a scientist is simply not meant to question. Basic research can never be efficiently provided by the private sector. And because basic research is such a fundamental need in our knowledge-based economy, it needs the support of welldoers or the government. Peer-reviewed publishing in academic journals is the best way to add to the world's knowledge. A PhD programme is the tried-and-tested way for young researchers to rapidly gain in-depth knowledge of an object of study.
+
+And yet, none of those tenets are true.
+
+Most research in the humanities isn't economically useful nor does it lead to a a deeper understanding of the world we live in. For every paper about the history of organized labor and every analysis of how youthful readers perceive literature, things we as a society care about, "you'll find a hundred others":http://www.theatlantic.com/magazine/archive/2005/01/lost-in-the-meritocracy/3672/ discussing Jacques Derrida's criticism of Michel Foucault's ideas about intertextuality and the impact of said heuristic framework on a careful reading of John Steinbeck's The Grapes of Wrath. Because literature departments have run out of useful things to think about.
+
+We accept the insignificance of their research because we appreciate these scholars as teachers. Numerous students prefer a liberal education over science, medicine, law or a vocational degree, and we need professors and teaching assistants to provide said education. And professors do research. The research may be pointless, but in the end that's okay — just a harmless byproduct of the considerable teaching duties of the humanities.
+
+Sometimes research works like a perpetuum mobile, and just keeps on going regardless of whether we think it's worthwhile.
+
+At the other end of the spectrum, when research serves a vocation, practitioners add the most value to the conversation, not scholars. Increasingly much of the research that matters in fields like design, journalism and information science is done outside of academia.
+
+Information scientists have been studying the use of wikis for a number of years now, but it was Ward Cunningham who invented the wiki, not a social psychologist or an information scientist. "pbworks":http://pbworks.com/ and "37signals":http://37signals.com/ try out new ideas about how collaborative software should work every day, and I'd take their opinions about the nature of collaboration, trust and social software over those of an academic any day.
+
+Computer Science still has a lively research atmosphere, but then again, you can probably learn a lot more about compiler design while working at Google, than you could at college.
+
+Many a journalist would win the battle with a political scientist, when it comes to insight into how our institutions function and how things get done.
+
+If, like me, you often think about the future of journalism, the thoughts of "Steve Buttry":http://stevebuttry.wordpress.com/ probably carry just as much weight as those of professor "Jay Rosen":http://pressthink.org/ , and probably more than "those of just any ol' academic":http://stevebuttry.wordpress.com/2010/07/15/academics-measure-new-media-again-by-old-media-yardstick/ .
+
+Sometimes, research just carries no value if it's not informed by practice. (Think: "semantic web":http://www.currybet.net/cbet_blog/2010/09/dconstruct-tom-coates-semantic-web-must-die.php .)
+
+There's a certain honesty to doing R&D as a freelancer or within a company. You're biased but you can't hide it. People know who you work for, they read your blog, they know who you are. And they'll know whether your thoughts matter by the success of your approach when you put your research to work.
+
+Research at universities doesn't work like that. College departments don't go bankrupt for doing crappy research. Professors pass their way of thinking on to students, who will have an easier time with their PhD application if their proposal dovetails nicely with the thoughts of your future supervisor. Moreover, because universities have traditionally loathed and resisted outside interference in their affairs, funding councils at the state-wide or country-wide level are usually staffed by fellow scholars.
+
+Academic research can go one of two ways: good work by good scholars leads to a virtuous circle of more good work by ever more capable scholars, or bad work by mediocre researchers gets funded anyway because people within a discipline have become myopic.
+
+Lo-fi research by practitioners has its own faults. It's messy. It's not rigorous. There's no clear methodology. But then again, neither is the accepted practice in academia of ignoring or not publishing data that doesn't match an anticipated outcome, or the engineering of hypotheses after the fact, to assure that they're not out of sync with the findings.
+
+But at least public research is openly available, whereas industry R&D stays behind closed doors. Why, yes, that's true in, say, biotech. But it's the other way around for computer science, information science, political science and HCI research. Conversations that used to happen behind closed doors are moving to blogs, industry magazines and at a proliferation of conferences, as more and more people realize the value of openness. On the other side of the fence, academics are still battling for "open access publishing":http://en.wikipedia.org/wiki/Open_access_publishing . And even then, scholars' predilection for jargon makes it unlikely that most research will reach a broader audience. A far cry from most conference speakers, who often stick to the adage that a failing to explain something in a simple and concise way, indicates your own lack of understanding, not that of your audience.
+
+University research represents the very best and the very worst in human endeavors. It is so, because university research is essentially unmanaged. The only way we hold researchers to account is with the help of bibliometrics. Bibliometrics, which, in a nutshell, grades the importance of authors' works using a deranged variant on Google PageRank.
+
+Universities in the 21st century can do better.

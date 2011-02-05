@@ -1,0 +1,27 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    
+title: On service journalism and making money
+summary:
+    
+---
+
+Mirko over service-based journalism: "I would sign up for that!"
+
+* =>Curbed
+* =>these are the most important decisions in people's lives,
+* it's not investigative journalism but applying the journalistic mindset to these areas can be hugely beneficial.
+
+Journalists complain that they just can't seem to find the time anymore to go beyond the daily grind. They hear all the buzz about the future of context, topic pages, service journalism, wikis, all that jazz, and say: well, we're having trouble enough as it is, churning out all this copy without doing overtime. They hear databases and information systems could provide a goldmine for reports and stories. They frown, and say: seriously, how could we afford the investment when our publisher can't even pay for decent enterprise reporting anymore?
+
+So documentation departments everywhere are scaling down, and digital innovation is curtailed to a couple of experiments here and there.
+
+Here's a little experiment I'd wish some entrepreneurial spirit tried out: put services based on data and context first, try to monetize that. Wikis, databases, background information about important issues rather than breaking news. When you can turn that into a successful business, expand into the traditional storytelling we all know and love. *<<cf. Curbed en Mirko zijn verhaala daarover>>* Database-backed news applications, wikis and rich topical pages, if we play our cards right, could be a money maker, not a resource drain. As Jean-Charles Falloux "says":http://steveouting.com/2009/11/05/so-what-exactly-is-newspaper-web-premium-content-please-tell-me/ over at Steve Outing's blog,
+
+bq. "newspapers [should] consider their documentation department not as a cost unit but as a content provider. [They can offer] our end users that missing brick that will help them understant the context of the news they are reading."
+
+People want to make sense of the world on their own. They won't wait on the erudition and judgment of a professional reporter to tell them what they need to believe. So let's empower people to educate themselves, and turn a profit while we're at it.

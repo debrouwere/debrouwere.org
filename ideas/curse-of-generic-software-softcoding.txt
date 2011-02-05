@@ -1,0 +1,30 @@
+Don't release kitchen sinks
+(or: the curse of generic software) 
+-----------------------------------
+
+I've recently open-sourced a few pieces of software I've been using for a while, but never got around to properly document, test and package. No matter how clean you code, open-sourcing often means cleaning up ugly bits here and there. Removing some hardcoded config values, silly variable names, a little refactoring here and there.
+
+When you open-source a piece of software, you do it in hopes that it might be useful for somebody else, so you round out some obvious gaps in the API,  or even code entirely new bits of functionality. At that point, there's a question that will inevitably pop up: which use-cases do I wish to support? And I've become more and more convinced that the answer should be either: 
+
+1. not that many — this is a specialized app for a specific audience; if it doesn't work for you, fork it
+
+2. a lot — but only because the app is so low-level; it provides infrastructure, a framework or a low-level library to get things done. It can serve a lot of uses because it's not an end product.
+
+Some software tries to marry the advantages of both approaches. Beware. Creating an app that's feature-complete, completely configurable and fits a huge array of high-level use-cases is hard. Very hard. If you're just one guy looking to open-source a piece of code, things can get messy, fast.
+
+If you take care to loosely couple the different components of your application, and distinguish between library/utility code and the glue that puts everything together, you actually have quite a bit of flexibility in deciding what if anything to open-source and how you'll package it. You could release an entire content management system. Or maybe just the wiki component. Or maybe just the versioning system that keeps a history trail for all the content in that wiki.
+
+Releasing that CMS might be your first inclination. But can you really support that amount of code? Is it really useful for organizations that have even slightly divergent needs from your own? The history of Django in particular has a huge amount of languishing or dead CMSes in its trail. Yet because of that all-or-nothing approach, there are very few high-quality building blocks that make it easy for Django devs to build their own CMS. So we're worse of than we would be if those same devs would've focused on open-sourcing little apps, and making those kick-ass.
+
+So stick to small bits of really well-thought out code. Or release bigger, entire apps, but make sure that they do one thing and do that really well. Don't release kitchen sinks.
+
+"Tools for solving everyone’s problems tend to be tools for solving no one’s problem." (David MacIver http://www.drmaciver.com/2009/09/its-all-the-same-really)
+
+
+
+
+=> Op het eerste zicht, en ook op het tweede zicht lijkt het alsof elke nieuwsorganisatie infeite het zelfde nodig heeft: een makkelijke manier om nieuws en media in te voeren, een eindredactiesysteem, moderatie, comments en zoverder. Ten eerste zijn er bestaande platformen en migratieproblemen. Maar veel belangrijker: er zijn eigen accenten, een eigen workflow, een bepaalde organisatie van de redactie die ook weerspiegeld moet worden op de website. (Bv. is online content dezelfde als offline, kunnen er variaties op hetzelfde artikel bestaan?)
+
+ En ook: er zijn sterke verschillen qua aanwezige expertise - de meeste newspaper-cms'en gaan uit van een redactie vol non-technici die een website willen, met als gevolg dat ze zich een ton werk opzadelen bij het schrijven van iets dat zo generisch maar ook zo configureerbaar mogelijk is wat de basis-features betreft... en dan blijft er geen tijd meer over voor al het leuks.
+
+=> Maar de wil om generische software te maken komt in mijn ervaring niet uit megalomale aspiraties, maar uit de eenvoudige wil om iets terug te geven aan de community. Je gebruikt een open-source systeem, je hebt er iets leuks mee gedaan, en je wil dat presenteren als een cadeau'tje en ook wel als een manier om te tonen 'kijk, wij zijn inventief bezig'.

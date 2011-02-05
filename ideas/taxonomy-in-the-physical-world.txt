@@ -1,0 +1,30 @@
+Taxonomy in the physical world
+------------------------------
+
+In my last post about taxonomy, I noted that most taxonomies nowadays are stuck in physical metaphors, something you might've heard before if you're familiar with David Weinberger's work.
+
+What, though, if you're designing ways of categorizing and annotating news stories, and one of the use-cases is using those to feed the sections in the printed paper? What if you're designing a catalogue system for a library, and you want to provide rich, multidimensional metadata, but at the end of the day, _books can still only be in one place at a time_?
+
+What, in short, if the work you're doing, while digital, still touches on the physical?
+
+You can't put a book in three different spots even though it's sort of a horror-sci-fi-drama type volume. But that doesn't mean you're stuck with the old way of designing taxonomies (cf. link naar vorige post). We need an easy way to flatten all that multidimensional metadata into a single tidy hierarchical taxonomy.
+
+(Do mind: this is exactly what IKEA and a lot of larger supermarkets do: they place certain items twice or thrice depending on where people are likely to be looking for them, and to make certain items more visible. You can't place a single item in multiple places, but you can put the same type of stuff in different places. Probably not a good idea if you're keeping a file cabinet (because then you'd be doubting which version was newest etc.) but it can absolutely make sense in some circumstances.)
+
+Sometimes, flattening down rich metadata can even be handy on the web. It's something most of us unconsciously do when constructing a primary navigation for a website.
+
+So here's the counterpart to my Taxonomy in a Digital Age.
+
+1. multiple facets
+
+Pick one. Might be a hard choice, but any physical repository can only be ordered one way. Sometimes, you can cheat your way out of this, by taking the bottom levels of the taxonomy, and ordering those by another facet (e.g. first by genre, within each genre alphabetically by author, within each author alphabetically by title)?
+
+Another option, when you really do need to accomodate a host of different behaviors and use-cases: hand-craft a flattened categorization on top of your taxonomy. This is how most newspapers (unwittingly) construct their primary navigation: they mix up genres with topics with medium with location.
+
+2. polyhierarchy
+
+Polyhierarchy can be easily be flattened into a single hierarchy if there's a way to indicate a primary parent for each node. In a monohierarchy, the primary parent then simply becomes the only parent, and the other ones are ignored.
+
+You can use the non-primary parents as the basis to construct "also check out" references to other related categories whose relationship had to be severed during the flattening process.
+
+3. ?

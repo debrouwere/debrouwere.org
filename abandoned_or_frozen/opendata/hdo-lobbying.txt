@@ -1,0 +1,61 @@
+7 reasons why governments dislike open data
+-------------------------------------------
+
+When I went to Hack De Overheid last May, I proposed a brainstorm session titled "How to lobby governments to open up their data?" I'd almost forgotten about that session, but I actually took some pretty detailed notes. Because late is better than never, I'll try to turn those notes into a couple of blogposts. Here's number one.
+
+## X. There's no incentive
+
+see hdo-lobbying-incentive.txt
+
+## X. You can't get IT guys on the phone
+
+A lot of people are talking and thinking about open data in governments. Journalists and hackers have a tough time convincing governments to open up their existing data sets or make new ones available. And civil servants themselves lament that they would so love to do more open data projects, but can't always seem to get the support of their superiors. So there's pressure on governments to get involved and up their _hacker cred_ from within these self-same governments as well as from concerned citizens and pioneering hackers. Which I found heartening.
+
+So obviously, when we want the government to open things up, we should make it easier for people working on this stuff to find each other. "The people you usually get to phone are entirely clueless, but manoever your way to the IT guy, and with some luck they'll be happy to provide you with whatever data you want in whatever format you want." said XYZ from the Fire Department of ABC.
+
+2. education about formats and why to use them
+3. civil servants just don't see the use, aren't excited about it
+4. concerns about privacy
+5. connecting people
+6. concerns about loss of control: e.g. commercial applications, anyone can do anything with the data that they like
+7. quality of data
+8. making processes explicit so that they can be captured (KM)
+
+## Nobody gets excited about data
+
+Another problem is that, since open data is still so new, government workers just don't see the benefits. We need to get the people who we want to be doing the work to be excited about open government and the incredible things that it can accomplish for citizens and neighborhoods. Maybe, when we as outsiders are requesting datasets, we should be preemptive about this and entice the department which we want to convince to open up their data to do so by getting them excited about prototypes and sketches. "Okay, if we had this data about X in JSON with these annotations, we could make something like..." Demos, not memos.
+
+Even better, though, as the verseoverheid.nl guys (Annemarie van Campen and Martin Borman) mentioned, is when you can get a foot in the door with a working, simple service built on top of existing data (which will usually have to be scraped or might require manual work -- remember, we're trying to convince these people to do better, so it's always going to be a chicken/egg kind of thing.) These things _will_ get people inside of the government talking and asking for more. They might not care about open data, but they know a good thing when they see it.
+
+## Data, what's that?
+
+A related issue is that data doesn't mean to _them_ what it means to _us_. We love JSON, would get giddy about RDF and take a CSV without a second thought, but civil servants usually don't know that that's the sort of data which is easier to work with and build on. Additionally, most departments have never heard of Creative Commons, whereas CC'ing their content (not necessarily data) that's already online could be a worthy first step to a more open government, and would allow a healthy, free interaction between government and citizens. So education is an issue.
+
+## Evangelizing
+
+And while doing demos and evangelizing the merits of open data are part of the story, it'll be even more important to bring those people that are already convinced of the cause inside of government together, so they'll feel less like lonely renegades, but also in order to make them more visible to their colleagues across departments and across municipalities. Nobody can explain the benefits of open data to a civil servant better than one of his peers. So we need to make sure these conversations are happening, and that the excitement spreads from within these beacons within the government. Existing social networks like Ambtenaar 2.0 (or Govloop in the States) could definitely help with this.
+
+## Privacy
+
+Another issue is privacy concerns. Civil servants need more information about all the applicable regulations, and the tools to easily and reliably anonimize potentially sensitive data.
+
+## Data quality
+
+Another unfortunate road block when asking government departments for data is that they're either scared or embarassed about opening up data if that data isn't structured or particularly 'clean', whereas most open data geeks would rather that they invite us to take a look and work together on plans to bring some more structure to the chaos. Even broken data can be useful, or even documents that aren't strictly data at all. They're afraid of delivering data of low quality, whereas they should get over that -- we should get governments to see it as a conversation with citizens and work together with all those involved in making continuous improvement happen.
+
+What's important for us open data guys is that we _know_ the quality of the data: when does it apply, with what methods was it gathered, how accurate is it, when does it expire. But we want to be able to decide for ourselves how good the data actually has to be, to be usable, as that differs a lot depending on how we'd want to use that data.
+
+Another issue related to quality is that gov't should get some assurances from whoever is using their data, that they will take due care not to draw the wrong conclusions from incomplete or sketchy data. Which of course means the data wouldn't be completely open (as it would require an EULA to be signed) but most of us would prefer that over no data at all.
+
+As a side note, though, Henk noted that we should keep in mind that the messy, incomplete data they're scared of giving to us, is going to be exactly the same data they will use to inform their superiors and that these superiors in turn will use to inform politicians. So if we could entice more departments to open up their data, that might also indirectly increase its quality and thereby hopefully better informing policy-making.
+
+## Knowledge management
+
+We shouldn't just stop at data though. Open government is a lot broader than open data. We could really kick up government transparency a notch higher could come about is inside proceedings / meeting notes / interactions between persons; and not in the databases. Open gov is not all about data, but about transparency in any way. But that does require departments to think in a more information-centric way and make sure that crucial parts of how they work somehow do have a written record.
+
+* And if there are remarks being made about some data, we need that as well.
+* (guy from west-Netherlands) Data is being produced for higher-ups and not always for the local gov't themselves, so the national government should ask more often for data, so that more of it gets produced, even locally
+=> accountability is another issue at that level, because more data for higher-ups = more things higher-ups can use to complain
+=> "verse overheid" (?)
+* EU is facing the same issues: they use data for policy-making, so flexibility in policy making is to be had by keeping data somewhat hidden (even though the EU regulates the opening up of data)
+

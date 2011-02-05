@@ -1,0 +1,1 @@
+vorige post "waarom Django" deed me denken aan een oefening die ik een tijd geleden heb gedaan, toen ik eigenlijk nog maar een paar weken in Python aan het programmeren was

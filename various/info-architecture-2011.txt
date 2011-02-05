@@ -1,0 +1,5 @@
+Information Architecture for News Websites - first revision (2011)
+
+* meer onderscheid maken tussen mijn mening en aanvaarde principes
+* typologie van nieuwswebsites: niet enkel de nadruk op krantenwebsites, maar duidelijk maken hoe verschillende soorten media een verschillende aanpak nodig hebben
+* design library

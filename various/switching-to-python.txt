@@ -1,0 +1,485 @@
+*************
+* STRUCTUUR *
+*************
+
+Denk dat dit ding al geëvolueerd is voorbij een gids louter voor PHP-switchers. Het lijkt me best om het te structureren als een wiki, misschien als volgt: 
+
+* 5 reasons to love Python
+	- quick intro, niet de bedoeling om tutorials te vervangen maar
+	"waarom zou ik Python leren" is waarschijnlijk wel één van de
+	grote vragen waar mensen mee zitten als ze zo'n wiki doorbrowsen
+
+* Switching to Python (hoef ik niet noodzakelijk allemaal zèlf te schrijven)
+	* from PHP
+	* from Perl
+	* from Ruby (about explicitness etc.)
+	* from Java
+	* from .NET (about the absence of IDEs and the prevalence of 
+	* a soft intro to OO for people fond of procedural programming
+
+* The philosophy behind Python
+	- code flow cannot contradict code layout
+	- explicitness (in coding; namespaces; reject the temptation to guess)
+	- simple rather than complex or clever
+	- crash early
+	* what you can learn from Python, even if you're not inclined to learn the language
+
+* The language
+	- history (very briefly)
+	- some interesting aspects (significant whitespace, first-class everything, …)
+	- the evolution of the language: PEPs
+	- Should I learn Python 2.x or Python 3?
+
+* Coding in Python
+	- resources (Think like a CS, …)
+	- on Windows (binary packages, cygwin)
+	- on Linux
+	- on OS X (macports & fink; advantages and troubles over Python on windows and linux)
+
+* Python in other environments
+	- IronPython, Jython, ...
+	- Unladen Swallow
+
+* Libraries
+	* the standard library
+	* database handling
+	* … (cf. StackOverflow)
+	- PyPI (former Cheese Shop)
+	- GitHub, Bitbucket, Google Code (& the great migration to GitHub)
+
+* Where can I get help?
+	* StackOverflow
+	* IRC
+
+* The toolset
+	* the REPL
+	* deployment
+	- package management: pip and virtualenv
+	- fabric
+	- the usefulness of unix
+	* documentation
+	- docstrings
+	- Sphinx
+	- ReST
+	* unit testing
+	- doctests, unit tests, twill
+	- nose
+
+* web development
+	* I just want to do some simple hacking
+	* WSGI, fcgi, mod_python, mod_wsgi… eh, what's this all about?
+	* common deployment stacks (ubuntu+nginx)
+	* hosting
+		- Linode, Slicehost
+		- Google App Engine
+	* frameworks
+	- the point and necessity of frameworks in Python
+		* lightweight frameworks
+			- web.py
+			- cherry.py
+			- Pylons
+			- Werkzeug
+		* heavy-duty
+			- Django
+			- TurboGears
+			- Zope
+		* cmses, blogs, wikis
+
+* Python in science
+	* math and statistics (NumPy, Scipy and Matplotlib)
+	* biology
+	* language (NLTK)
+
+* The people
+	* Pythonistas and their weblogs (+ planets)
+	* mailinglists, StackOverflow, IRC
+	* DjangoCon, PyCon, EuroPython // BarCamp
+
+Los daarvan moet de voorpagina een beetje dienen als een "welcome to Python" en dus bepaalde
+elementen bevatten:
+
+* getting started (snelle tutorial, online REPL, waarom Python)
+* download Python
+* community stuff: feed/planet-achtige shiz
+* resources
+* verwijzing naar de hoofdsecties van de wiki
+
+http://showmedo.com/
+http://www.poromenos.org/tutorials/python
+http://joelklabo.wordpress.com/2010/05/06/python-and-django-trying-to-learn-the-basics/
+http://blogfreakz.com/django/django-tutorials/
+http://dirtsimple.org/2004/12/python-is-not-java.html
+process: http://blog.apps.chicagotribune.com/2010/02/26/best-practices/
+http://www.phptodjango.com/
+http://net.tutsplus.com/tutorials/other/10-django-troublespots-for-beginners/
+
+cf. PyMOTW
+
+A small guide to Python
+for PHP-aficionados and other language switchers
+================================================
+
+You've been happily coding away in PHP for these last few years, but something at the back of your brain is letting you know it's hankering for something new. You've had to swallow a bunch of derogative comments about how PHP is really only suitable for script kiddies. (So what?) That it's not object-oriented. (Why should I care?) You heard that all the cool kids are working with Ruby on Rails now. (Who trusts anything made by a Swede and a Jap?)
+
+Why not try out Python? I'll discuss a few pros and cons and give a couple of pointers to get you started, should you be so inclined. I'll focus on web development, because that's what I do.
+
+h3. Why Python is awesome
+
+Let me list a few language features that I really love about Python.
+
+h4. significant whitespace
+
+
+http://stackoverflow.com/questions/1099305/why-is-ruby-more-suitable-for-rails-than-python My experience is that making whitespace significant helps logic errors go away. It's much more confusing to have spacing and syntax disagree. – Nosredna Jul 9 at 0:30
+
+
+
+Yeah, I know, you're perfectly convinced that your IDE (http://en.wikipedia.org/wiki/Integrated_development_environment) can save you from ever thinking about how you indent your code and whether or not you've closed those last curly braces, but let's face it: they're annoying little buggers, and they're entirely superfluous.
+
+For reasons I can't quite fathom, some people dislike the fact that Python forces you to use indentation to indicate the flow of your program (ditto for Sass http://sass-lang.com/). They'd rather work with a soup of *do* and *end* statements in Ruby or put up with unnecessary curly braces just so they can put an if/else statement on a single line. Why? I think about it like this: if you like clean code and program in language that borrows its syntax from C, you'll want to be strict about your indentation even though it doesn't matter to the execution of the program. You'll also avoid putting multiple statements on one line. At that point, curly braces and semicolons become superfluous decoration. Whitespace already ably indicates the logical flow of your code. In other words: 
+
+bq. Python forces you to use indentation that you would have used anyway, unless you wanted to obfuscate the structure of the program. In other words: Python does not allow to obfuscate the structure of a program by using bogus indentations. (http://www.secnetix.de/olli/Python/block_indentation.hawk)
+
+But the practical benefit is not in what Python doesn't allow you to do, it's just one less thing to think about. No experienced coder is going to fret over how to use indentation and curly braces when they're building a piece of software, but when you're "in the zone" you want the least possible amount of distractions. Python gives you the least possible amount of distractions.
+
+Another benefit is that Python code will look pretty much they same regardless of who has written the code. Most people follow the PEP 8 coding recommendations without even knowing those recommendations exist. If you're doing any open source coding, that's a handy benefit.
+
+h4. It looks scarily like English
+
+About 90% of all programming boils down to doing stuff with lists and strings. Looping through an array. Filtering a bunch of stuff, or transforming a bunch of stuff into other stuff. Splitting a string into a list, or joining together elements of a list. Removing initial whitespace or lowercasing a string. Python provides a lot of gimmicks for advanced programmers — things like metaprogramming — but never forgets those essentials. Manipulating lists and strings feels natural and in many cases the code looks like simple English sentences.
+
+# Want to loop through an array?
+for element in list('hello', 'beautiful', 'world'):
+	print element
+
+# Want to do something ten times?
+for el in range(10):
+	my_function()
+
+# Want to lowercase a string?
+"this is a string".lower()
+
+# Want to find a needle in a haystack?
+>>> 'wonderful' in 'this is a wonderful world'
+True
+>>> 'wonderful' in ['this', 0, 3, 'wonderful', None, 'time']
+True
+
+# Want to filter a list?
+>>> list = [2, 6, 8, 10, 12]
+>>> filtered_list = [item for item in list if item > 5 and item < 10]
+>>> print " and ".join(filtered_list)
+'6 and 8'
+
+# And while you're at it, manipulate the list a bit?
+>>> print [item*5 for item in list if item > 5 and item < 10]
+[30, 48]
+
+# Sprintf-like formatted strings are built in as well
+>>> print 'I %s skies of %s' % ('skies', 'blue')
+'I see skies of blue'
+
+h4. The little things
+
+de asterisks in *vargs en **kwargs ipv. func_get_args in PHP
+
+h4. REPL
+
+the interactive prompt
+- interactive prompt om snel code uit te testen ipv. telkens te moeten compilen of je browser te refreshen (phpsh voor PHP)
+
+h4. There's nothing it can do
+
+- krachtig op allerlei vlakken die je op zich niet zo vaak nodig hebt en die niet zo belangrijk zijn, maar als je ze allemaal optelt wordt het wel zeer interessant: list comprehensions, metaprogrammeren, decorators, closures, algemene flexibiliteit zoals first-class functions (nu ook in PHP5.3)
+
+h4. Elegance
+
+- een community die sterk bezig is met elegantie van code. Je kan op StackOverflow regelmatig vragen vinden als "ik weet hoe dit te doen, maar wat is het meest Pythonic?" Soms kan dat tot arrogantie leiden (bv. regexp in Django omdat explicit beter is dan implicit) maar meestal leer je er behoorlijk wat van bij.
+
+I won't go over the entire syntax and built-in functionality. The easiest way to learn the language is by going through "How to Think Like a Computer Scientist":http://openbookproject.net/thinkcs/python/english2e/ which goes through all the basic concepts and syntax. It's available online for no change. Its target audience is actually people without any knowledge of computer programming, but I found it very refreshing to go back to the basic concepts and even to read up on simple stuff like @for@ loops. If you're the impatient type, though, you can browse through it pretty quickly and focus on just the syntax. There's also an official tutorial at http://docs.python.org/tutorial/. If you're really pressed for time, "Learn Python in 10 minutes":http://www.poromenos.org/tutorials/python is a good resource too.
+
+Once you're comfortable with Python, also check out "PEP 8":http://www.python.org/dev/peps/pep-0008/. PEP is shorthand for Python Enhancement Proposals and they bundle all sorts of discussions about the future of the language, as well as decisions that were reached. PEP 8 describes the recommended coding style: how to name your variables, how to use whitespace and so on.
+
+h3. Interlude: why you should care about objects
+
+op een meta-niveau: 
+- zorgt ervoor dat je programma niet te snel een soep wordt, gezien het alles dat samenhoort qua variabelen en functies samenbundelt in klassen.
+- nadenken hoe de objecten in je programma zich tot elkaar verhouden en hoe ze met elkaar interageren is een eenvoudige manier om na te denken over de structuur van je programma, zonder er daarom meteen UML-diagrammen en de hele boel bij te betrekken.
+- Zeer intuïtief bij veel webapplicaties, waar je sowieso denkt in termen van bv. artikels en gebruikers en ... en ...
+
+... maar er is al genoeg gezegd geweest over waarom een mens al dan niet OO moet programmeren. Ik hou het liefst op een paar pragmatische punten: 
+
+- Het gros van de functies die standaard in python zitten (dus waarvoor je geen externe library/package/... nodig hebt) zijn OO. Het voornaamste gevolg voor je day-to-day programmeren is dat die functies makkelijker te onthouden zijn dan in PHP. (cf. Bruce Eckel), bv. str_replace, split, ... De meeste mensen die in Python programmeren gebruiken geen IDE, omdat de taal compact genoeg is dat je het meeste zo kan onthouden. That's really all there is to it.
+
+~~~~~~~~~~~~~
+
+h3. Python is like your mother
+
+* separation of code and content
+
+PHP was made to live between HTML. That's pretty handy to quickly hack a prototype together, but quickly becomes a mess when you're working on bigger projects. Even large PHP projects like Drupal don't always resist the lure of logic mixed in with presentation. Python simply does not provide the possibility to mix your code and your presentation. Unless you use Spyce — and with all due respect to its creator, Jonathan Ellis, nobody does — doing web development in Python means using a templating language like Jinja (http://jinja.pocoo.org/). So even when just starting out with simple projects, you're getting a gentle nudge towards creating maintainable code.
+
+* importing versus including
+
+If you're coming from a PHP background, you're used to splitting up your code in different files, and then including those in a file that ties everything together. Including a file simply executes the code in that file: included files work like regular code, it runs through the script. In Python you don't include code, you import it. Every class, object and function then becomes available to your main program, but the imported code doesn't mesh with your main program. So in Python there is nothing similar to PHP's include_once: it's entirely harmless to import a file more than once, since you're importing resources, not executing code.
+
+<< voorbeeld geven in php van bv. een bestand met een array, en een include met een forloop die door die array loopt, versus in Python waarbij je die loop importeert als functie >>
+
+Python its imports are thus less powerful than PHP's imports, but that way Python forces you into keeping your code flow in a single file, which helps your code from becoming a mess.
+
+The closest to a PHP include in Python is "from mylibrarycode import *" - everything in that library gets dumped into the file that does the import, ready for use. There are a few reasons to be more careful with imports, though.
+
+- duidelijkheid van te werken met namespaces: je kan je code volgen, je weet waar alles vandaan komt; na je code een jaar te laten liggen kan je nog steeds zien dat die rare functie "util.transform_date" beschikbaar is in de util-module, terwijl het in grote PHP-applicaties (bv. Drupal waar functies uit honderden php-bestanden standaard ter uwer beschikking staan) een mysterie is waar je lang op kan zitten vloeken. Werken met namespaces kan voor kleine applicaties dus wat ambetant overkomen en puristisch lijken, maar voor grotere applicaties is het een godsgeschenk. Dat kom je vaker tegen in Python: je moet meer moeite doen up-front dan bij PHP, maar het zorgt ervoor dat het onderhoud en de debugging van je programma gemakkelijker wordt. Hoeveel makkelijker? Moeilijk te zeggen. Niks wereldschokkends, urenlange debugsessies zijn nooit onmogelijk, maar genoeg voor mij om Python te kiezen boven PHP.
+
+* Exceptions and errors
+
+http://www.yosefk.com/blog/what-makes-cover-up-preferable-to-error-handling.html
+
+One of the things you'll notice when working in Python, especially if you're used to PHP or Perl, is that while these languages will do their best to keep your script running — even if includes fail, even if you reference variables that don't exist — Python will raise an exception and won't bother trying to execute the remainder of your code.
+
+Python's way of immediately halting execution and complaining about faulty code, has an interesting effect on how you code. Regardless of the language in which you now write your code, 1/4th of the effort consists of finishing the prototype, and the next three fourth is tieing up loose ends, adding error handling and polishing up. That can be frustrating, because as a coder you often think you're done way before you're done. Steve Yegge calls it "Shit's Easy Syndrome" (cf. ook http://blog.bitquabit.com/2009/07/01/one-which-i-call-out-hacker-news/ -- citaatje)
+
+Python can't cure the syndrome, but it does try to make it more manageable by reducing the time spent polishing somewhat. Because every small mistake in the code returns an error, you spend less time debugging when the end of your project comes near. What initially might look really annoying — PHP or even Javascript are far less picky about your code, they just keep going, whereas Python just keeps crashing and crashing the app — after a while becomes a modus vivendi you couldn't live without. Being picky from the start leads to fewer surprises later on in a project.
+
+<< Eén voorbeeld dat zowel de voor- als nadelen van het systeem aantoont: utf-8 conversie bij mailhandling. >>
+
+De PHP-aanpak is begrijpelijk gezien het voor veel programmeurs een eerste taal is. Als er iets misloopt in de opbouw van de sidebar van een pagina, dan wil je niet dat de rest van je prachtige website plots ook stilvalt. De elegantste oplossing voor dat scenario is exception handling (waarbij je handling er in kan bestaan om in de sidebar een boodschap weer te geven, "whoops, this doesn't seem to be working right now, try later") maar de makkelijkste oplossing -- want je hebt er geen enkele lijn code voor nodig -- is om gewoon het programma verder uit te voeren en van de sidebar een grote leegte te maken (of in het ergste geval wat errors als die niet afstaan op je live server) terwijl de rest van je pagina er volledig uitziet zoals het hoort.
+
+zie ook: 	http://www.steike.com/code/php-must-die/ over error-handling in php
+		http://tnx.nl/php.html
+
+---- maar het plaatst programmeurs soms wel voor een dilemma: enerzijds moet je proberen om try/except blocks te vermijden (je verzamelt eerst de nodige gegevens om te weten of je de volgende operaties op een zinnige manier kan uitvoeren, en dan pas doe je ze) maar anderzijds zijn try/except blocks vaak exact wat je nodig hebt en passen ze perfect in de manier waarover je over je programma nadenkt, "eerst proberen we dit, als dat niet lukt dan proberen we iets anders op deze manier, tenzij we deze fout krijgen want dan is er iets serieus mis", zeker gezien de mogelijkheid in python om specifiek aan te geven welke excepties je wil opvangen (except TypeError:)
+
+~~~~~~~~~~~~~
+
+h3. Things that take getting used to
+
+- geen arrays, maar lists, tuples en dictionaries
+- geen switch, wordt gewoonlijk opgelost met een dictionary (als je geen continues nodig hebt zonder breaks)
+- namespaces
+- er zijn voor alles modules en meerdere modules (bv. levenshtein)
+- pythonic code: ipv isset doe je "in" op een dict, je moet controleren of een variabele bestaat of je krijgt errors
+- mod_python lijkt de beste oplossing maar is dat niet, dan verwijst men je door naar mod_wsgi maar voor je dàt draaiende krijgt op apache ben je ook al weer een eind verder. => gewoon als cgi-script runnen om te beginnen
+- ook om te beginnen: say hello to sqlite
+- gebruik van eigen servers voor frameworks zoals django en pylons, die je proxied naar iets als apache of nginx.
+
+
+h3. What really grinds my gears
+
+cf. de SO vraag
+
+1. pet peeves (maar ook wijzen op de futiliteit van discussies over een bepaald stukje syntax dat je een beetje raar vindt: leg je er bij neer, programmeer er even mee, en kijk hoe productief je er mee bent, ipv. te neuten dat je tegen de 'self' variabele bent in Python oid.)
+2. echte minpunten tegenover PHP
+3. minpunten aan de taal in het algemeen
+
+* annoyances: 
+
+(http://stackoverflow.com/questions/282329/what-are-five-things-you-hate-about-your-favorite-language)
+
+- voor webdev zonder framework een bitch om pakweg met mod_python te werken. Je bent al beter af met cgi-scripts.
+- tenzij je met cgi werkt: server reboots bij code updates kan je vertragen op een trage computer
+- join werkt op een string, split werkt op de list... is totaal absurd en voor zover ik weet uniek voor python
+- prachtige packages (lxml maar evengoed sqlalchemy) maar als je pech hebt is de installatie een hel. Bv. om MySQL te installeren kan je gemakkelijk een uur bezig zijn.
+- pas in Py3K écht deftige unicode-support
+- Python is streng. Verkeerde encoding: UnicodeDecodeError. Een onbestaande index aanspreken van een array: KeyError. Je database-connectie geeft None terug als een query niks returned, en je probeert daar een for-loop over te doen? "NoneType is not iterable." En zoverder. Op termijn kan je daar tijd mee winnen (want je weet direct wat er mis is, eerder dan in de waan te blijven dat je code perfect werkt) maar op korte termijn zou je toch hopen dat python in staat is om een paar van die schoonheidsfoutjes te vergeven, bijvoorbeeld door iets losser te zijn met types (en die None te casten als een lege list).
+
+* dingen die je écht moet appreciëren aan PHP en die valabele reden zijn om Python niet te verkennen:
+- CGI-achtige modus die toch best snel is. Geen gezeik met server reboots.
+- Standaard library die volledig aanwezig is, zonder dat je gelijk wat moet importen
+- Een documentatie die nog altijd net iets uitgebreider is
+
+
+* Batteries included, but where are they?
+
+- itt. tot PHP moet je alles zelf includen
+- de docs zijn meestal vrij goed, maar wat PHP zo ideaal maakt voor een beginner (maar zo "noisy" voor een ervaren programmeur) zijn alle voorbeelden in de comments, en die heb je in mindere mate in de python docs.
+- de standard library van Python is zeer groot maar niet alle libs zijn even goed
+- namespaces zijn de maks, maar je moet er even aan wennen
+
+The official Python tutorial contains "a brief tour of the standard library":http://docs.python.org/tutorial/stdlib.html but there are probably better resources to get familiar with the standard library.
+
+~~~~~~~~~~~~~
+
+h3. The Python ecosystem
+
+After you've mastered the basics of the language, there's still one thing separating you from the true Pythonista. Even when you've finally stopped compulsively adding semicolons to the end of your lines, and when you've grokked the difference between lists, dictionaries and tuples, there's still something amiss. Where the hell can I find documentation and packages? How should my programming environment look? Where can I ask questions and keep up to date with the latest events in the Python community? Are there any frameworks to know about? 
+
+h4. Getting help
+
+I've listed a bunch of tutorials and guides earlier on, but there are two other ways you can get help should you need it.
+
+1. StackOverflow
+2. IRC
+
+h4. Finding and installing packages
+
+==> cf. een pip/virtualenv/fabric tutorial op http://clemesha.org/blog/2009/jul/05/modern-python-hacker-tools-virtualenv-fabric-pip/ voor veel goede referenties en een goede tut an sich
+
+Python has a big standard library, but you have to specifically import packages from that library to be able to use their functionality in your code. This is different from PHP, which preloads just about anything you can wish for.
+
+Python also has a lot of user-contributed packages. They reside on PyPI, the Python Package Index. PyPI is the successor to the Cheese Shop, a name you might have encountered on your previous google searches.
+
+Packages are usually distributed as a single gzipped container which contains an egg file. (Python. Eggs. Get it?) You can easily install those using the "pip":http://pypi.python.org/pypi/pip (Python installs packages) tool. After firing up your trusty command line shell, you install it like so: 
+
+bq. # or whatever the latest version is at the time you are reading this
+wget http://pypi.python.org/packages/source/p/pip/pip-0.6.1.tar.gz
+tar -zxvf pip-0.6.1.tar.gz
+python pip-0.6.1/setup.py install
+
+And then you use it like so:
+
+bc. pip install a-package-name
+
+Pip will then download and install the package for you. Very similar to how PECL works for PHP or CPAN for Perl. If the package isn't located at the PyPI repository, you can also specify a URL: 
+
+bc. pip install http://www.example.com/a-package.tar.gz
+
+If you happen to be using Windows, you can get a POSIX-compatible Bourne shell using "Cygwin":http://www.cygwin.com/ or MinGW:http://www.mingw.org/. Yep, you'll really need to use the command line if you want to work in Python. It can be a chore at first, but over time you'll learn to recognize the benefits of the command line.
+
+Two packages you'll probably need: the "Python Imaging Library" and "MySQLdb". On OS X, they can be a bit involved to get into a working state, because they rely on a few OS libraries being present. But persevere, after that it's smooth sailing.
+
+<<virtualenv>>
+
+h4. Basic web programming
+
+This introduction is for people switching from PHP, so let me talk a bit about web development in Python. The first thing you should know about Python: you really, _really_ need a web framework. Not just for serious, enterprisey projects, but for virtually anything you might want to build that outputs to a web browser.
+
+If you're still just experimenting and those code snippets are getting too large to keep messing with the interactive prompt, you can get away with writing simple CGI scripts. Your apache config will look like this:
+<<>>
+
+And your script template will look a bit like this: 
+<<>>
+
+Very oldskool, but it's really the most hassle-free solution.
+
+Don't even think about using mod_python or mod_wsgi at this point. You might think that they're the equivalents to mod_php when using Apache, but they really are not.
+
+Anyway, at this point you're probably thinking: this code skeleton _really sucks_ when compared to all the goodies you get in PHP. You have to import all sorts of silliness before you can get started and the only way to output something to your screen is by using print statements, which is tedious at best.
+
+Something that people — by which I mean myself — can overlook when switching to another language when they've only ever had experience with PHP before, is that PHP is not just like any other language. It's made for the web, which means that it has a lot of handy HTTP- and HTML-related functionality out of the box. Python does not. So while you can get away with building some decent apps or dynamic web pages in PHP without ever touching "Symfony":http://www.symfony-project.org/, "Code Igniter":http://codeigniter.com/ or "CakePHP":http://cakephp.org/, you don't have that luxury in Python. Python is very much like Ruby in that regard. You don't program in Ruby, you code in Rails.
+
+You'll need a way to render output to HTML, and send that back to the client in a well-formed HTTP-response. You can't mix code and HTML in Python like you can in PHP. That's a good thing because it forces you to separate logic and presentation, but can take some getting used to, and you'll need something similar to Smarty, but for Python. You'll need a way to access your POST and GET variables. You'll want some basic debugging tools. And you have to serve your scripts, so you'll need the equivalent to Apache/mod_php for Python as well. For anything beyond basic testing, you'll want a web framework.
+
+* framework is geen luxe, want er ontbreekt in 'plain python' vanalles dat je in PHP al hebt
+- minor issues: de cgitb debugging kan in het begin overweldigend zijn omdat je een hele traceback krijgt ipv. enkel wat er foutliep op de laatst geparsete lijn.
+- makkelijke manier om cookies, sessies, POST- en GET-variabelen enz. aan te spreken en te maken
+- een manier om html-pagina's te maken zonder alles in print-statements te steken (python heeft geen <% %> tags, al is er wel spyced en PSP)
+- gezien python zo'n sterke OO-features heeft zal je die willen gebruiken "so as not to upset Guido". Ik ben niet zo'n OO-expert maar het voelt gewoon 'natuurlijk' om zo te werken in Python. Eens je database-apps hebt zal je dus je data willen omvormen naar iets dat je uit een database kan halen en er terug insteken ('persisteren'). Je kan dat met plain SQL (zoals in PHP vaak mensen zo'n dingen in assoc. arrays steken) maar het is overbodig werk. Dus dan kom je uit bij een ORM.
+
+=> eens je deze manier van werken gewoon bent, zal je veel properdere code schrijven, gewoon door de structuur die een MVC je oplegt
+
+
+
+
+
+h4. Web frameworks
+
+Python has a plethora of web frameworks that you can choose from. The most popular ones are Zope, Django, Pylons and TurboGears which is based off of Pylons.
+
+* "Zope":http://www.zope.org/ is old, sturdy and reliable. Nobody seems genuinely excited about it these days, which stems from the fact that it's a big beast of a framework and thus a bear to get started with. Not everyone has lost faith in it, though, and for example "The Open Planning Project":http://openplans.org/ is doing some cool projects in "Plone":http://plone.org/, which is a popular CMS that is based on Zope.
+* "Pylons":http://pylonshq.com/ is a very bare-bones "hacker's framework". I've done a few projects in Pylons and it's lovely because it's basically a bit of glue around components that you can pick yourself. Which means you get to work with libraries that are truly best-of-breed, like "SQLAlchemy" to interact with databases and "Jinja" as a template language. It's cool for building web apps, but it misses many features that other Python frameworks do have, and as such you best steer away from it unless you're building web apps (not just websites) and really know what you're doing.
+* "TurboGears" is actually a bunch of candy on top of Pylons, which makes it worth looking into. Although I myself didn't. Sorry guys. Unfortunately, like Pylons, its community is rather small.
+* "Django" is the most popular web framework in Python. It's like Rails to Ruby. It has a big community, lots of really good documentation and a bunch of pluggable applications that do basic tasks like "generating thumbnails for images", "caching", "search", "ratings", "comments" and so on. It has some warts and lacks the internal beauty of Pylons, but all in all it's a very appealing framework. The documentation alone should be enough to convince you to consider Django before turning to the other options. It's your best bet for rapid and relatively stress-free development.
+
+cf. http://stackoverflow.com/questions/1515324/history-of-djangos-popularity
+cf. http://www.ml.sun.ac.za/django/django-in-2010-a-round-up/
+
+There are some content management systems in Python as well, but most people prefer rolling their own using Django, which actually feels a lot like a CMS because of the pluggable apps and the built-in administration interface.
+
+If you're looking for something smaller, here are some minimalistic frameworks:
+
+* "Werkzeug":http://werkzeug.pocoo.org/
+* "web.py":http://webpy.org/
+* "webapp":http://code.google.com/appengine/docs/python/tools/webapp/
+* "cherrypy":http://www.cherrypy.org/
+
+An amazing feature which some of these frameworks share and that I've never seen in PHP frameworks before, is an interactive debugger. Both Pylons, TurboGears, Django (with the command extensions) and Werkzeug have it, and an interactive debugger is simply divine when debugging. <<beetje uitleg wat dat precies doet>>
+
+I'll compare a few Python frameworks and other options like Wordpress and Drupal in more detail somewhere in february, so do stay tuned.
+
+h4. Deployment
+
+Something that might surprise you is that most Python web frameworks have their own built-in webserver. You'll still need Apache or (preferably) NGINX but they'll mainly be doing the administrative parts of serving web requests: authorization, setting up domains and subdomains, serving up your static media such as images and css. Other than that, they'll just serve as a "reverse proxy" 
+
+For Pylons that might look something like this:
+
+<<>>
+
+Or for Django it'll be something along these lines:
+
+<<>>
+
+I won't go into details, because they are specific to each framework and there's plenty of documentation to be found elsewhere. <<link up>>
+
+One thing that you should remember though, lest it comes to haunt you, is that most of these built-in servers will load your code _once_ and only once, to improve performance. There is usually a development mode that auto-reloads every time your code changes, but for deployment to a live server, think about using a process manager like "Supervisor":http://supervisord.org/ to manage your server process or processes.
+
+Hosting is a bit trickier than it is for PHP. You can't just use any commodity hosting, and even hosting companies that support Python, might not allow you to install new packages, which makes them all but useless for any serious work. I've heard some good things about Dreamhost (???) if you really need the cheapest option that's available, but otherwise I'd advise on a good virtual server. I love both "Slicehost" and "Linode". Their cheapest offers are just fine. If you're in Europe like me, Linode is the better option since they have a data center in London which really cuts down on latency. Slicehost has some wonderful tutorials that will get you started with basic server administration in no time.
+
+You can also use Python for free on the "Google App Engine":http://code.google.com/appengine/. App Engine has some limitations and I wouldn't use it to deploy a website, but it's pretty cool and if you can find the time, definitely try it out.
+
+At this point, learning Python has actually turned into (1) learning Python, (2) learning the Bourne shell, (3) learning all sorts of things about the Python community and (4) learning the basics of linux server administration. It goes to show that "PHP really gets some things right":http://blog.ianbicking.org/2008/01/12/what-php-deployment-gets-right/; it can't be beat for simplicity. Why bother learning a new language when it actually makes some things _harder_ to do.
+
+The answer is that you'll eventually be confronted with deployment issues even if you stick with PHP. You'll want to secure your scripts so that a misconfiguration in Apache doesn't allow a curious visitor to download your handiwork and steal database passwords. You'll want a good host where you can install PECL packages and you'll eventually want full control over your server as you do with Python, so that you can "finetune and tweak":http://php-fpm.org/ your setup and install other "non-PHP software that you'll want to use":http://lucene.apache.org/solr/.
+
+Switching to Python means you have to start thinking about these issues _right now_, and you'll have to invest some time in educating yourself. But you'll be learning skills that are valuable regardless of the language in which you eventually end up programming, and you'll be tackling problems that you would encounter in PHP as well, as your knowledge of the language increases.
+
+h4. People you should meet, the blogs, the twitter
+
+Python's community is a mix of Java's enterprisey culture and Ruby's evangelical "programming should be fun" attitude. So there's a lot of talk about things like deployment, code quality and best practices, but also a lot of excitement about new projects and a good-natured atmosphere in general.
+
+- de hoeveelheid kennis die verwacht wordt in discussies of als je vragen stelt, ligt meestal een stuk hoger dan bij PHP. Python mag dan wel oa. gemaakt zijn om als eerste taal aan te leren - en heeft dan ook een heel makkelijke syntax - maar voor de meeste mensen die in Python programmeren is dat een zeer bewuste keuze, en 't zijn dan ook geen amateurs.
+- Flip side of that coin is dat er veel minder noise is, en dat er meer aandacht is voor onderwerpen die heel belangrijk zijn eens je voorbij eenvoudige scriptjes geraakt: bv. deployment (hoe zorg ik dat ik op een veilige manier mijn programmeerwerk online kan zetten zonder dat de hele boel breekt en mensen die de live-site bezoeken foutboodschappen krijgen allerhande).
+
+Here are some nice people who know a thing or two about Python. It really pays off to follow them in your RSS reader if you want to learn more about Python and what people in the community are thinking about.
+
+http://planet.python.org/
+
+* "Guido van Rossum":http://neopythonic.blogspot.com/
+* "Ben Bangert":http://groovie.org/
+* "Ian Bicking":http://blog.ianbicking.org/
+* "Jeff Croft":http://jeffcroft.com/
+* "Jacob Kaplan-Moss":http://jacobian.org/
+* "Simon Willison":http://simonwillison.net/
+* "Jonathan Ellis":http://spyced.blogspot.com/
+* "Armin Ronacher":http://lucumr.pocoo.org/
+
+Not all of these fellows are prolific bloggers, so you'd best dust off your RSS reader if you don't want to end up compulsively checking their respective blogs for an update.
+
+--> korte omschrijving van wie deze personen zijn niet vergeten <--
+
+- de hoeveelheid kennis die verwacht wordt in discussies of als je vragen stelt, ligt meestal een stuk hoger dan bij PHP. Python mag dan wel oa. gemaakt zijn om als eerste taal aan te leren - en heeft dan ook een heel makkelijke syntax - maar voor de meeste mensen die in Python programmeren is dat een zeer bewuste keuze, en 't zijn dan ook geen amateurs.
+- Flip side of that coin is dat er veel minder noise is, en dat er meer aandacht is voor onderwerpen die heel belangrijk zijn eens je voorbij eenvoudige scriptjes geraakt: bv. deployment (hoe zorg ik dat ik op een veilige manier mijn programmeerwerk online kan zetten zonder dat de hele boel breekt en mensen die de live-site bezoeken foutboodschappen krijgen allerhande).
+
+h3. Why learning a new language is awesome
+
+You may have noticed that I don't talk a lot about Python _as a language_. While the concise syntax and the expressiveness of Python will most likely be the primary reason to learn more about it, after a while it is the community, the workflow and development-deployment cycle that becomes really important. Syntax alone won't make you more productive. And you can't do sensible web development in Python just by knowing the syntax. There's a whole host of 'soft' knowledge that have to line up with your technical aptitude in a language, before someone can really say they know a language.
+
+All these issues that go beyond just the language are what makes learning a new programming language like Python so interesting. You'll learn new ways of solving familiar problems, at least if you take the effort to program idiomatically. You'll hear about new ways of handling the life cycle of your software, from development to testing to deployment. People will be excited about different kinds of projects. And there is no reason that you can't apply those lessons to your programming practice in your workhorse language, whatever that may be. Learning a new language is about getting to know a new community and another way of doing things. Learning a new language will give you a fresh take on all things code. Let me sum up a few things that you could take back to your projects in PHP.
+
+~~~~~~~~~~~~~
+
+h3. Cool stuff to take back to PHP
+
+You may like what you see, but not enough to actually switch over to Python. Or you can't dance around PHP for professional projects. PHP can be easier to deploy on 
+
+Bepaalde good practices die binnen de Pythongemeenschap ook common practice zijn, hebben weinig te maken met de taal. Dat betekent dat programmeren in PHP best nog aangenaam kan zijn, als je de tijd neemt om je omgeving en de manier waarop je programmeert wat bij te stellen.
+
+Na een paar maanden programmeren in Python ben ik productiever dan ik was in PHP, maar je moet in acht houden dat "I’d rather trade a (slightly more) verbose syntax and delivering on time against 15 minutes syntactic glory" zoals http://www.sitepoint.com/blogs/2006/02/21/a-pro-php-rant/ stelt. PHP is voorspelbaar, deployment naar de server van je client is meestal een eitje (gesteld dat PHP gecompileerd werd met alle courante packages - je vindt soms nog altijd installaties waar niet eens CURL te vinden is) en je kan je programmatuur uittesten zonder een aparte webserv-app te moeten draaien bij het testen - gewoon Apache opstarten en werken met een banale alles-in-één oplossing zoals XAMPP of MAMP en je bent vertrokken. Dat telt ook voor iets. Dat je pakweg geen anonieme functies hebt in PHP (pre-5.3) is niet het einde van de wereld. Voor kleine projecten is PHP vaak nog altijd de zinnige optie.
+
+- php.ini instellen zodat PHP een foutmelding geeft als je ongedeclareerde variabelen probeert te gebruiken; en in het algemeen de error-reporting zo strikt mogelijk instellen
+- werken met een templating language zoals Smarty
+- zeer consistent omspringen met je spacing en plaatsing van je haakjes (of een IDE dat voor jou laten doen)
+- gebruik maken van namespaces (vanaf PHP 5.3.0!)
+- iets voor betere error-schermen, zodat je niet voortdurend met print_r moet prutsen (var_dump van alles) zoals APD?
+- niets houdt je tegen om wat OO te sprinklen in je code
+- gebruik geparametriseerde queries
+- voor grotere projecten: Doxygen
+
+
+
+----------------
+
+grayrest: "I'd pay more attention to those frameworks if you'd say why they're interesting. I consider python/ruby/perl to be sibling languages. You only really need to know one as your primary language and then steal ideas from the other two. Node is interesting because it solves a problem: efficient long polling setup in a language I know.
+Why Ruby over Perl then? The ruby peoples have great taste in designing mini languages: e.g. sass is amazing in a why-couldn't-I-think-of-that way so I pay attention to them. The best thing I know of coming out of the Perl community is the people (Michael Bayer is my hacking hero for SQLAlchemy)."
+
+(http://news.ycombinator.com/item?id=963341)

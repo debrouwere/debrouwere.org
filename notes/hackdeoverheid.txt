@@ -1,0 +1,27 @@
+* Richard Pope: relevant, actionable, generative
+* NUTS Europese standaard
+* cult of the amateur
+* presentatie van Henk van Ess komt online
+* de-anonymisering -- Google paper eens checken
+* overheden e.a. halen nog regelmatig persberichten, documenten, enz. terug offline. Een eigen archief bijhouden van informatie die je interesseert houdt dus journalistiek gezien zeer veel steek.
+* rotterdam open data checken (+ presentatie van één van de makers)
+* eye-tv en live transcriptie en op basis daarvan news alerts (Henk)
+* James Burke (hdo); Paul Keller; Pascal Van Hecke; Henk van Ess (raad v. onderzoeksjournalistiek?)
+* twingli: Europese blogsearch engine
+* Richard Pope is ook Django developer
+
+Politieke track | publieke dienstverleningstrack
+
+Demos
+-----
+* cronwob / waaromnietopenbaar.nl => bv. een vectorkaart van Nederland, daar betaal je tienduizenden euro voor, maar die wordt opgebouwd op basis van het kadaster van elke gemeente. En die gemeentes gebruikt die kaart ook om leidingen te plannen, bouwaanvragen, ... => beleidsinformatie => kan je via een WOB aanvragen => een 'woborator' waarmee je automatische WOBs kan laten versturen. Awesome.
+* politwoops: alle deleted tweets van politici bijhouden (wat nu online staat vergelijken met oudere versies die je lokaal hebt opgeslagen, en op basis daarvan de deletes vinden) mèt een grote retweet-knop
+* hoodmood: mood in your neighborhood, and push that through to gov't
+* tikker: social authority (retweets etc.) news ticker / alerts for keywords + tracking the original source & how it travelled [eh, nogal onorigineel]
+* Thomas Markus: andere peet die bezig was over flows: met text mining kijken of bepaalde onderwerpen origineren in de media en dan in de politiek aan bod komen, dan wel of het omgekeerd gebeurt voor bepaalde onderwerpen; en opsplitsen naar partij (welke partij is mediagevoeliger?)
+* ridesharing: liften in de 21ste eeuw: dankzij APIs van het openbaar vervoer kan je vergelijken met liften, en dankzij toegang tot verkeersstromen (genre google maps) kan je zien waar je het meeste kans hebt op een lift, ... [zoals heel wat andere ideeën niet noodzakelijk zo realistisch, maar zéér inspirationeel en op basis van dat soort brainstorms kunnen die mensen misschien wel tot een écht leuk project komen]
+* Dutchstats datavisualiseringen (@alper)
+* Richard Pope: "They promised...": aangeven wat een politicus beloofd heeft, de bron daarvoor, en of het al gebeurd is [zoals de Obameter van Politifact, maar dan ]
+* "iemand vroeg naar wat data mining op vermiste personen-data, om te correleren met land van oorsprong, dus dat heb ik dan maar lekker even gedaan" -- indicatief van de sfeer
+
+... en dit werd zomaar even bedacht op een namiddagje, wat wel het alomtegenwoordige enthousiasme toont van de dag.

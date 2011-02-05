@@ -1,0 +1,182 @@
+http://www.chrisbrogan.com/the-next-media-company/
+
+http://onlinejournalismblog.com/2008/03/06/ten-ways-journalism-has-changed-in-the-last-ten-years-bloggers-cut/
+
+Het zou leuk zijn moest iemand over elk van deze puntjes één bladzijde schrijven, genre Get Real. Bv. Pickard over "don't try to monetise something people don't want anyway", Holovaty over journalism=information, Thompson over context first, Doreen Marchionni over community / conversational journalism, Umair Haque over niches, Steve Buttry over journalisten als mensen en authenticiteit, Steve Rhodes (The Monday Papers) kan een algemene inleiding schrijven, Mike Masnick over de dwaasheid van paywalls, Chuck Peters of Dave Winer over radicale transparantie (basic unit of information), ... (Een "distributed manifest", dwz. we zetten deze boel op één gemeenschappelijke website, maar met een canonical reference naar de oorspronkelijke post die iedereen op z'n eigen blog schrijft.)
+
+Terugkerende tendenzen: 
+-> be real (authenticiteit, eerlijkheid tov. 'amateur-journalisten' en tegenover adverteerders, transparantie)
+-> think value (red journalistiek, niet de journalisten; curation; dood de hierarchie; nieuws-ecosysteem waarin je fungeert)
+-> serve (informatie-centrisch, voorbij de vaste genres; services aan lezers)
+-> lean (adaptable dmv. journalisten-als-merken; product los van content; metrics; spil in een ecosysteem eerder dan alles zelf te willen doen)
+
+h2. Save journalism, not journalists
+
+h3. 1. There is only us
+
+Keywords: ambient journalism, conversational journalism
+
+http://www.newsless.org/2009/03/there-is-only-us/
+
+Journalism is a spectrum; journalism is ambient
+
+full-time journalisten in vraag stellen (analoog aan professionals in het onderwijs: je hebt fulltime onderwijzers en proffen nodig, maar mensen uit de zaken- en de professionele wereld bieden ook een enorme meerwaarde) (cf. Lauren Rabaino); journalistiek gaat over het informeren van mensen, en journalisten hebben geen monopolie daarop — ook bloggers, officiële instanties, twitteraars enz. Mensen hoeven geen kranten meer die een half-assed job doen in het "objectief" zijn, ze zijn door allerlei blogs en de "vuilheid" van het web gewoon geworden zich automatisch de vraag te stellen "is dit wel betrouwbaar?" — er is minder hygiëne, en daardoor zijn mensen resistenter geworden tegen vuil. En partijdige bronnen zijn een beetje vuil, maar berichtgeving uit kranten die volledige neutraliteit pretendeert en doet alsof de journalist in kwestie geen mening heeft, dat is héél vuil want veel moeilijker te ontcijferen.
+
+"The independent spectator" wordt een steeds onzinniger ideaal, ten eerste omdat zo iemand _niet bestaat_ (de beste journalisten zijn geëngageerd bezig met hun onderwerp, anders kunnen ze nooit de nodige kennis vergaren), en ten tweede omdat zoiets niet kostenefficiënt is (waarom een journalist meesturen naar elk mogelijk evenement als anderen daar in professionele hoedanigheid of als deelnemer of deel van het publiek tòch heengaan en ook over willen schrijven?
+
+Journalism is about access (http://adamwestbrook.wordpress.com/2010/05/04/journalism-is/) and because a lot of people have access to a lot of things (that they alone have access too), and because access is broadening (open gov), everybody _should_ be a journalist.
+
+"The journalist's job is to report what she hears, sees, weighs, and checks. If blogging helps push journalists to do that job better—and drop the pretense that sticking a virtual microphone in front of two warring sides constitutes reporting—then it will have done us a service." (Ken Doctor, Newsonomics, p. 137.)
+
+Ambient journalism: 
+- http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/230
+- http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/220
+
+h3. 2. The journalist is the brand
+
+keywords: entrepreneurial journalism
+
+Een journalist kan een sterk merk worden op een paar manieren:
+- uitstekende domeinkennis en onderzoekschops
+- een unieke schrijfstijl
+- iemand die een publiek kan aanspreken
+- door genre-overschrijdend te werken: hedendaagse camera's maken fotograferen, audio opnemen en video maken niet alleen meer the province of professional photo- and videographers.
+
+Er zijn te veel journalisten en ze verdienen te weinig — een goed merk stelt zijn eigen prijs.
+
+http://www.buzzmachine.com/2008/12/12/entrepreneurial-journalism-is-not-an-oxymoron/
+
+(dit is een ander punt dan 2, daar gaat het over kostenbesparing, hier gaat het over individualisme, meritocratie, ...)
+
+h2. Save journalism, not newspapers
+
+h3. 5. news is a natural byproduct of context and background
+
+"The story was all we had before — it’s what would fit onto a newspaper page or into a broadcast show. But a discrete and serial series of articles over days cannot adequately cover the complex stories going on now nor can they properly inform the public. There’s too much repetition. Too little explanation. The knowledge is not cumulative. Each instance is necessarily shallow.
+
+...
+
+I want a page, a site, a thing that is created, curated, edited, and discussed. It’s a blog that treats a topic as an ongoing and cumulative process of learning, digging, correcting, asking, answering. It’s also a wiki that keeps a snapshot of the latest knowledge and background. It’s an aggregator that provides annotated links to experts, coverage, opinion, perspective, source material. It’s a discussion that doesn’t just blather but that tries to accomplish something (an extension of an article like this one that asks what options there are to bailout a bailout). It’s collaborative and distributed and open but organized.
+Think of it as being inside a beat reporter’s head, while also sitting at a table with all the experts who inform that reporter, as everyone there can hear and answer questions asked from the rest of the room — and in front of them all are links to more and ever-better information and understanding.
+
+This is the way to cover stories and life."
+
+http://www.buzzmachine.com/2008/09/30/the-building-block-of-journalism-is-no-longer-the-article/
+http://newsafternewspapers.blogspot.com/2008/10/basic-unit-of-news-is.html
+
+h3. 6. we need to adopt an information-centric worldview, en journalistieke genres vloeien daaruit voort
+
+- tekst is niet altijd de oplossing, ook services (cf. infra) en apps en nieuwe manieren om nieuws te brengen zijn nodig.
+- "it's simply an artifact of history that you could roll together a bundle of disparate information -- news reports, stock prices, sports scores, display ads, reviews, classified ads, crossword puzzles and so on -- sell it to readers, and make money." (http://blogs.salon.com/0000014/2005/12/12.html#a953)
+
+h2. Writing about stuff is most exciting when you're actually _doing_ stuff
+
+Over het belang van experts als reporters
+
+=> Reporters are people, too
+
+h3. 7. Reporters should write as humans rather than conform to the convoluted genres of the past.
+
+- journalistieke schrijfstijl is doorheen de jaren verworden tot een heel stijve, droge manier om mensen te informeren. Voor sommige soorten nieuws is dat exact wat we nodig hebben, voor veel ander nieuws en reportages helemaal niet.
+
+Even worse, readers began to evaluate the journalism on the strength of its adherence to the institutional convention, rather than on the strength of the reporting behind it. If a reporter betrayed a hint of personal perspective in a news story — dropping a mildly loaded word, including a minimally subjective characterization — she could be pilloried for violating superficial conventions, no matter how well the story was reported. (http://www.newsless.org/2009/07/eulogy-for-news-voice/)
+
+voorbeelden:
+http://tpmdc.talkingpointsmemo.com/
+http://voices.washingtonpost.com/plum-line/
+http://voices.washingtonpost.com/ezra-klein/
+
+h3. 8. Journalism is a conversation
+
+- "reporters are people too, partaking in the conversation, let's not pretend that's not the case by hiding behind the convoluted genres of the past": journalistieke schrijfstijl is doorheen de jaren verworden tot een heel stijve, droge manier om mensen te informeren. Voor sommige soorten nieuws is dat exact wat we nodig hebben, voor veel ander nieuws en reportages helemaal niet.
+
+"Online communities can be a puzzle, until you remember they are all human, and stop trying to control them" (Neil Perkin http://neilperkin.typepad.com/only_dead_fish/2008/06/whats-next-in-m.html)
+
+h3. radical transparency
+
+- basic unit of information / Winer
+- what we don't know (Thompson)
+- API's
+
+h2. Lean business
+
+h3. 4. Curate, don't rewrite
+
+Don't waste money rewriting stuff that's already out there, curate the best of the web.
+
+We weigeren ook maar het minste werk te doen dat geen meerwaarde oplevert voor onze lezers. Als dat betekent dat we moeten doorlinken naar onze collega's of dat magazines vaker stukken moeten overkopen van andere publicaties, dan is dat maar normaal.
+
+h3. 9. It's not about what we want, it's about what we need.
+
+("Save journalism, not newspapers"; Kitchen sink journalism; Don’t “win the morning.” Win the story.)
+
+- De waarde van scoops is een marketingbeslissing.
+- The only people who miss foreign bureaus  are the people who were staffing them.
+- Vaste werkkrachten betalen is gewoon niet zinnig voor een nieuwsorganisatie, die heel dynamisch moet kunnen omspringen met haar coverage en dus steeds andere mensen moet kunnen aanspreken om te schrijven.
+- We zouden graag gigantische sommen betalen voor bekende columnisten, maar als er bloggers zijn die even goede content produceren en veel minder geld vragen, dan houdt het geen steek.
+
+bis:: snoeien in het org chart
+
+(vlakkere hierarchie, kleinere organisaties, de rollen die we nodig hebben herevalueren, nog meer werken met freelancers)
+
+- de rol van eindredactie herevalueren: enerzijds belangrijker (curation), anderzijds ook minder belangrijk (journalisten moeten zelf goed kunnen schrijven, punt uit)
+- grote managementlagen afschaffen (wet van Parkinson)
+- de journalist moet zelf kunnen publiceren, fotograferen en filmen
+
+h3. 10. een lean business
+
+metrics, testing, demos, not memos
+
+- geen eeuwige filosofische discussies. We testen verschillende aanpakken en we kiezen wat best werkt.
+- De maken demo's, geen memo's.
+- metrics
+- Als we met vragen zitten of discussies waar we niet uitgeraken, dan nemen we de beslissing samen met de mensen die er mee zullen moeten leren leven (de lezers) ipv. aan een consultant of een manager.
+
+h2. Better business
+
+h3. 11. redefine "ad" to "add value" (Ian Schafer)
+
+- add value voor de lezers: meaningful ads
+- add value voor de adverteerders: geen misbruik maken van informatie-assymetrie tegenover adverteerders en sponsors, maar ze de kans geven om op een betekenisvolle manier ons publiek te bereiken, zonder de lezer te ergeren
+- adverteerders ook niet betoveren met pageviews, we need the right kind of pageviews: 
+-> http://www.mediabistro.com/webnewser/epublishing/new_venturebeat_exec_editor_owen_thomas_i_havent_looked_at_page_views_yet_160086.asp
+-> http://www.mathewingram.com/work/2010/03/28/come-on-nick-you-can-do-better-than-that/
+-> http://www.fastcompany.com/article/laura-brunow-miners-pictory-tells-a-new-media-story
+-> "be nice or leave": http://blog.marketing-soc.org.uk/2010/04/a-decade-of-digital-10-things-for-2010/
+
+h3. 12. not all journalism is part of the public good; only support the part that is
+
+Enkel overheidssteun en steun van lezers voor die projecten die een concreet aantoonbaar publiek goed zijn; en die functie als publiek goed ook écht uitvoeren (API's, services, soms zelfs lobbying)
+
+h3. 13. Don't be ashamed of making money
+
+Paypalls take away the value of news (sharing, cf. Techdirt); but we shouldn't be ashamed to make money off what we're doing (cf. 37signals)
+
+h2. It's not about you
+
+(you zijnde de kranten; het gaat niet over jou maar wat je kan bijdragen aan je community en je individuele lezers)
+
+h3. 14. Services op basis van informatie
+
+"...journalism is shifting from being a product to a service and, with this, a news outlet shifts from being a final destination to being part of a network." (Alfred Hermida, reportr.net)
+
+We willen een impact hebben op het leven van mensen. Denk ilive.at.
+
+h3. 15. Radical transparency
+
+Radicale transparantie mbt. bronnen en de basiselementen van de berichtgeving, zodat andere journalisten kunnen verderbouwen op je werk; en API's die dezelfde mogelijkheid geven aan programmeurs.
+
+h3. 16. It's about the ecosystem, not about you
+
+bijdragen aan Wikipedia, participeren aan discussies buiten de eigen publicatie, goede initiatieven van burgers ondersteunen, lobbyen voor open data, onderzoekers en studenten ondersteunen die willen schrijven over onderwerpen die belangrijk zijn voor jouw gemeenschap.
+
+h2. Rethink
+
+h3. 17. We're in the information business, so we should listen to people who talk code. => next newsroom (Chris O'Brien)
+
+- Computers zijn dom en mensen zijn dom, maar combineer beide en je ziet vonken.
+- Algorithmic authority, computergestuurde crowdsourcing, automatische documentanalyse met NLP — moet er allemaal voor zorgen dat we niet gewoon nieuws halen dat ons makkelijk bereikt (zoals via persberichten) maar dat we nieuws uit de verste uithoeken van het web en van bij gelijk welke obscure blogger aan de andere kant van de wereld.
+
+h3. When computers and humans help each other out, we're unstoppable
+
+Computers are stupid and so are we. Human reporters too often have to do menial jobs — scouring the internet for tidbits and sources, finding out what's hot. Computers on their own provide fairly little value as well — the twitter daily news app is cute and Planet Aggregators serve their use, but nobody gets excited over them. But create workflows where computers enhance human functioning, or let humans guide computer reasoning, and sparks fly.

@@ -1,0 +1,6 @@
+About the West-coast startup mentality
+
+- want to get a product out the door that has
+* instant adoption (=> target individuals rather than companies)
+* no barrier to adoption (=> "good enough" technologies like scraping and semantic analysis, rather than going through the hoops of really improving core technologies orgs are depending on -- e.g. in the case of UKn)
+* very small in scope ("minimum viable product", "take your best ideas and cut them in half", ...): e.g. a widget for live reporting, a bookmarking service, a piece of software that helps with customer service... but never the kind of tools that really challenge the status quo (-- which is what we're trying to do with Camayak). Nobody taking on the incumbents. (examples of industries still in the grasp of crappy but big companies).

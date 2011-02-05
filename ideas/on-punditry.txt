@@ -1,0 +1,13 @@
+http://www.joelonsoftware.com/items/2010/03/14.html
+
+"What I am stopping is the traditional opinionated essay that has characterized Joel on Software for a decade. I’m not going to write Ten Ways to Get VCs to Salivate, I’m not going to write Why You Have To Buy a $10,000 Italian Espresso Machine for your Programmers, and I’m not going to write Python is For Aspergers Geeks or Ruby is for Tear-streaked Emo Teenagers. After a decade of this, the whole genre of Hacker News fodder is just too boring to me personally. It’s still a great format... the rest of you, knock yourselves out... I just can’t keep doing that particular thing.
+
+[…]
+
+What we need now, I feel, is not another essay repeating No Silver Bullet for the 18,000th time. We need something that is more objective (based on measurable truth and falseness rather than just lists of anecdotes about successful projects and failed projects). We need something that reflects the best new ideas about what authorship means in 2010, not just electronic forms of 18th-century pamphlets. We need to stop rewriting the same things again and again (fail fast! NDAs are worthless! Execution matters, not ideas! Use the right tools for the job!). Instead we should start filling in the long tail of knowledge."
+
+--> zeer interessante shiz; als ik kijk naar mezelf moet ik wel zeggen dat het makkelijk is om zelf te vervallen in punditry, of om zelf die pundits te blijven lezen en volgen, eerder dan de echte doorwrochte essays… waarom? Omdat je soms nieuwe kennis nodig hebt, maar soms gewoon een call to action, of het besef dat andere mensen denken zoals jij. Iets dat zegt "laat ons de mouwen oprollen" eerder dan het hele bouwplan. Het probleem is wel dat de balans momenteel vaak te veel overslaat in het eerste -- het vraagt minder tijd om te schrijven, gebreken in je eigen kennis kan je gewoon met wat schrijftalent overbruggen, en de kans op reacties van lezers en een virale verspreiding over twitter is veel groter. Wat kan een mens daar aan doen?
+
+--> speech van Devreker over onderzoek nog eens oprakelen, en enerzijds de waarheid daarvan benadrukken maar anderzijds hoe perverse gevolgen dat wel niet kan hebben, zelfs in de academische wereld
+
+--> Holovaty als case?

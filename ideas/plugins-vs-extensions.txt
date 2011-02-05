@@ -1,0 +1,19 @@
+=== Genericize! ===
+
+Andermans code nakijken kan echt lastig zijn, zeker als die code zoveel flexibiliteit heeft en zoveel use-cases in rekening brengt. Als je daarentegen tips en pointers geeft kunnen mensen zelf maken wat ze willen en kan zoiets net makkelijker te onderhouden zijn eerder dan moeilijker.
+
+- wat zijn staples eigenlijk? Bv. comments, gebruikersregistratie, … valt allemaal redelijk wat bij te vernieuwen. Dat is voor de meeste sites niet nodig, maar aan zo'n sites zit geen uitdaging en het bouwen daarvan laat ik graag over aan andere mensen.
+
+Beide communities hanteren dezelfde filosofie. In de woorden van Leonardo Lin: "everyone is currently rebuilding this stuff over and over again and rationalizing it as some sort of secret sauce competitive advantage when it's really infrastructure - stuff that really should be standardized so you can actually get around to doing the new and interesting stuff." The difference is in how both communities interpret this line of thought. In Drupal, it lead to a an incredibly variety of freely available modules. Some are pretty specialized, and only make sense if your requirements happen to coincide nicely with those of the original developer. Others are amazingly generic. But basically anything is a candidate to become a module: there's a module that creates human-readable urls for your site, …
+
+The question sometimes comes up in Drupal circles: why recreate the wheel? http://groups.drupal.org/node/25613
+
+
+Het verschil tussen plugins en extensies
+----------------------------------------
+
+Django werkt met 'pluggable apps'. Apps zijn extensies: ze voegen een stukje functionaliteit toe aan je installatie, maar interageren zo beperkt mogelijk met de rest van je installatie, en je beslist zelf hoe je ze inpast in de rest van je website. Er wordt bijvoorbeeld gewerkt met base classes (bv. bij treebeard), met views waarvoor je zelf de templates nog moet voorzien, nieuwe templatetags waarbij je zelf volledige controle behoudt over waar en hoe je ze gebruikt en zoverder. Er bestaan ook django-apps met grote blokken functionaliteit zoals blogs of e-commercesystemen, maar ik ken weinig mensen die daar echt enthousiast over zijn of veel gebruik van maken. Voor de meeste sites gebruik je een combinatie van Django apps en python libraries.
+
+Drupal heeft een aantal Delicious-modules. Django niet, maar met de pydelicious-module heb je tien minuten later net zo goed een werkende interactie met Delicious op gang. Beide communities willen tijd winnen, maar ze doen dat op een andere manier.
+
+Drupal werkt met modules. Sommige modules zijn extensies, maar de meeste modules in Drupal werken als plugins die functionaliteit toevoegen door _aan te passen_ hoe Drupal werkt. De eerste manier van werken geeft minder integratie (je moet iets meer werk zelf doen) maar brengt op lange termijn veel minder kopzorgen met zich mee.

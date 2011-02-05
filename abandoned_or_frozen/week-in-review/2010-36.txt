@@ -1,0 +1,14 @@
+So, this is what I've been reading since the start of september.
+
+8/23	http://www.fourhourworkweek.com/blog/2010/08/23/seth-godin-and-print-publishing/ => over boeken "as a means to something else"; maar ook een kleine commentaar geven op zijn opmerking over self-publishing
+8/23	http://www.cjr.org/the_news_frontier/we_need_a_failfaire_for_journa.php?page=all & andere links over failure
+8/16	http://blog.programmableweb.com/2010/08/16/writing-bulletproof-apps-with-api-errorpoints/ & semver
+
+Out of the old box:
+
+9/20/2006	http://jeffcroft.com/blog/2006/sep/20/personal-content-management/ & andere links over cms vs wpt
+Jul 2 2009 	http://vimeo.com/5428933 (NYT semantic stuff)
+
+For reference's sake:
+- http://www.niemanlab.org/2010/09/whats-the-law-around-aggregating-news-online-a-harvard-law-report-on-the-risks-and-the-best-practices/
+- http://www.rjionline.org/projects/mcellan/stories/community-news-sites/index.php

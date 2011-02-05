@@ -1,0 +1,14 @@
+(kort postje, voornamelijk bedoeld om feedback te krijgen; een grafiekje voor erbij zou wel leuk zijn)
+
+The anatomy of a story
+----------------------
+
+One point where the terminology of the content repository project needs some more work, is in describing the anatomy of a story. A bunch of different concepts are being packed into one term, "collections", without any clear definition of what a collection entails.
+
+Here's a first stab at a better way of talking about stories and their constituent parts:
+
+* **a story**: a story is the abstract container that refers to something that's being reported
+* **a package**: a package is a bundle of content tailored to a specific platform: an online package, a broadcast package, and so on. Packages consist of different assets.
+* **an asset**: an asset is an individual piece of content. A photo, text, a biography, a map, and so on.
+* **a revision**: each asset may be revised through an editorial process, we call each successive version a revision of that asset.
+* **a take**: a take is a slightly repurposed asset, made for a specific package. E.g. a few extra lines of copy added to a text meant for print, in order to cross-reference a story on another page, which is something you don't need for the internet because you can just place a hyperlink; or a different crop of the same photo for broadcast and for online. Anything more than tweaks or shorter/longer variants should be considered to be different assets, not as takes of the same asset.

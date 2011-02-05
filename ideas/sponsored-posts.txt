@@ -1,0 +1,18 @@
+My thoughts. En mijn vrezen.
+
+cf. http://www.wolf-howl.com/22/sponsored-posts-experiment/
+cf. http://mashable.com/advertise/sponsored-post/
+cf. http://techmeme.com/sponsor (hoewel dit eerder zoals real-time ads is)
+cf. http://www.niemanlab.org/2009/05/gawker-vp-says-sponsored-posts-will-bring-in-majority-of-revenue-one-day/
+cf. http://techcrunch.com/2009/05/24/this-is-not-a-sponsored-post-paid-conversations-credibility-the-ftc/
+cf. http://www.toprankblog.com/2010/04/sponsored-posts/
+cf. http://lifehacker.com/5164257/ als voorbeeld
+=> backbone hiervan is een inventaris van mogelijke sponsors
+cf. http://ryansholin.com/2008/08/07/build-better-business/
+- real-time ads, als hiervoor voldoende takers zouden zijn
+(kan obv. RSS of manuele ingave)
+
+* sponsoring van stukken e.d. is minder controversieel dan het voor Apache geweest zou zijn omdat onze functie niet in de eerste plaats een kritische is — het is te zeggen, het gaat over achtergrond eerder dan over onderzoeksjournalistiek, en om een kritische kijk op de gang van zaken genre Techdirt maar daarom niet het uitspitten van alle vuile verhalen over een school. Dat berichten we wel, maar daarop steunt ons imago niet. (Google vraagt wel nofollow links bij gesponsorde posts, terecht) -- ik denk aan Plantyn dat bv. nu voor bepaalde boeken al begeleidende blogs heeft, een crosspost op een onderwijsblog zou hen waarschijnlijk ook wel interesseren.
+* Een minder confronterende aanpak van bovenstaande is een tweewekelijkse "thank you sponsors" post, maar daarin staat dan weer geen échte content (misschien zie ik sponsored posts wel te rooskleurig in, though)
+* sponsored of affiliate links op zoekpagina's
+	(kan enkel mits een goed uitgewerkt kenniscentrum natuurlijk)

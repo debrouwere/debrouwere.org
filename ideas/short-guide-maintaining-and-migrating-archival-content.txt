@@ -1,0 +1,24 @@
+==============================================================
+A checklist for migrating archival content to a new repository
+==============================================================
+
+The content repository project might, at one point, probably entail phase-outs of certain software and an associated move of archive content in the central content repository. Here's an incomplete checklist of things you should pay attention to when evaluating archive content and the effort it will take to integrate them into a new system.
+
+* Which archive formats are in use?
+* Within the same format (e.g. NITF), are there differences in the way content is stored (e.g. depending on the editorial software, more or less optional fields could be filled in)?
+* How much structure is there in each format that is in use (e.g. do author names include an author id to uniquely reference each staff member, or are their names just plain text?)
+* How many items are we talking about for each archive format?
+* Are there links between different pieces of content (photographs associated with stories, stories bundled together in categories, ...)
+* Is the archive complete or might there be parts missing? (certain publications, certain stories that didn't enter the newspaper through the usual editorial workflow, stories from certain years or months when other software was in use?)
+* To what extent do you wish to integrate archive content with currently produced content? Should authors link up, should archive content be tagged (and if so, how much of that can be automated?), should unstructured blobs of text be converted to new structured content formats that are (or are going to be) in use?
+* Keeping the previous two questions in mind, do a rough estimate of the amount of work involved in migrating the archives. Think about both manual work and development time for migration scripts et cetera.
+* What kind of ROI do you expect? Are you migrating to avoid paying for multiple systems doing the same thing, because you want reporters to be able to search for all content in one single interface, because you want to open up your archive to the public and integrate it into topical pages? If all of the above, what is the priority?
+* Could the project be completed in phases? (Perhaps by doing a transfer to the new system first, further structuring and semantically annotating the content later on.)
+
+Print archives
+--------------
+
+For content currently only available on microfilm or in print archives, additionally you will want to pay mind to some aspects of digitizing archives.
+
+* How good is the paper and the scan quality, and therefore, how accurate are the OCR results? Have you sent a test batch over to a professional OCRing firm, or perhaps did some tests yourself with software like Nuance OmniPage?
+* Would it make sense to wait until OCR quality further matures (five, ten years down the road) or is there value in doing some manual work right now? Reasons to start digitization sooner rather than later would be either to start monetizing on archive content earlier, or to at least have digital scans in the face of a deteriorating paper archive.

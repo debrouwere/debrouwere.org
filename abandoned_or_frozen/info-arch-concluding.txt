@@ -1,0 +1,58 @@
+Four aspects of good information design, and four principles on how to get there
+
+Information and interaction designers make sure people can find what they're looking for. We create the basic architecture that lets readers and visitors to a site flow easily through a site, and invites first time visitors to explore, not click away (http://twitter.com/nbittencourt/status/13498536880). We make sure content creators can focus on _creating_, and work together with software architects to make sure content can pay for itself many times over instead of getting lost in a sea of words. We make environments that entice people to learn, yet also allows for marvelous wandering about.
+
+Having occupied my mind with information design for quite some time now, lately I've been wondering if there are any recurring principles that separate good from bad information design. I'll have a first go.
+
+[[ niet vergeten dat het hier om eigenschappen van een goed ontwerp gaat, en dat omschrijvingen van hoe je dat bereikt enkel _binnen_ een bepaalde eigenschap mogen omschreven worden. ]]
+
+## Don't just take what's there
+
+Few information architects have the luxury of designing a website from scratch. Most often we're improving existing designs, tweaking search engines or testing the efficiency of a new piece of navigation. But if we're only allowed to work on the presentation layer, and not at the deeper level of how information is structured and how it relates to other content, there's really only so much we can do.
+
+The best information architecture is IA that questions the very foundations that make up a website. The best IA projects accord us the resources and organizational support to change workflows and redefine how content management is done.
+
+## It's an ecosystem
+
+voortgaand op het vorige...
+
+- een goede dieperliggende structuur is niks zonder een interaction designer om ze om te zetten in goede website-elementen
+- je kan geen goede informatie-architectuur bouwen bovenop inhoud die slecht gestructureerd is, dus dat betekent dat je vaak moet samenwerken met software-architecten
+- IA gaat hand in hand met een content strategy; je kan als IA niet unilateraal beslissen dat vanaf nu alle inhoud zus en zo gecategoriseerd moet worden, dat elk stuk inhoud een teaser nodig heeft enz. -- het is kwestie van een cultuur te creëeren.
+
+## Ripple effects
+
+Goed structureren van informatie leidt tot alternatieve presentaties, maar is ook de basis van betere navigatie, content reuse and publishing in andere kanalen en verbetert search.
+
+## Flexibility and adaptability
+
+Separation between presentation and structure is commonplace among coders, but not yet among information architects. Presentation should follow from the fundamental properties of our content. 
+* Navigational schemes should be consequent on our content's metadata.
+* Eschew presentational markup in favor of semantic annotations.
+* Content should be split into its constituent parts instead of existing as a big blob of text.
+
+Good separation not only accomplishes flexibility (allowing us to use our content in numerous complementary ways _right now_) but also empowers us to fit our content into any new scheme or strategy we might think up in the future, with minimal effort.
+
+## Make it easy to do the right thing
+- forgiving of forgetfulness (bij ingave van inhoud, bij het doorzoeken van content door synoniemen, door shortcuts te voorzien in navigatie ipv. mensen navigational schemes te doen onthouden om bij hun favoriete content te komen)
+- hulp bij ingave van content (autosuggesties, polyhierarchie bij categorieën)
+
+## Take cues from human interaction
+- tags zijn een taxonomisch concept, relaties volgen de manier waarop wij daar over spreken
+- domain model volgen bij het structureren
+- search moet werken zoals een vraag stellen aan een persoon
+- anticipate and preempt: navigatie moet mensen naar zaken leiden die ze interessant kunnen vinden, je moet mensen niet laten doorklikken en expliciet laten aangeven "ja, dit wil ik".
+
+## Practicality beats purity
+
+-> pragmatic looseness, "degradability" (bv. je moet relaties ook kunnen gebruiken als tags met de meest algemene "heeft te maken met" verhouding)
+-> classification schemes don't have to be pure, they have to align with the ways in which users want to browse your site
+
+* Castles in the sky
+-> wat voor tijdverspilling er nu soms gebeurt (bv. bij het manueel samenstellen van dossiers), wat voor gemiste kansen er zijn, wat voor een gebrek aan toekomstperspectief… doordat we geen structuur brengen in onze websites, en de verbanden tussen onze inhoud niet op een gestructureerde manier duidelijk maken! En kijk wat de NYT kan doen met haar topicpagina's, en hoe succesvol de Guardian iPhone app is door keywords, terwijl BBC haar topicpagina's in de vuilbak moest smijten omdat ze niet de nodige metadata had om de boel te ondersteunen.
+-> automatisch als het kan, manueel als het moet
+
+Computers and humans are a great team in achieving ROI quicker. 
+bv. automatische entity extraction, maar met een human hand
+
+http://mediastandardstrust.blogspot.com/2010/03/why-news-organizations-should-try.html

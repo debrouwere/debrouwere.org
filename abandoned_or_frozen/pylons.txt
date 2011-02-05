@@ -1,0 +1,9 @@
+* Python frameworks and legos
+
+- Pyramid and Pylons: a box of legos: you get some blueprints and some instructions, but you're on you're own. A lot of fun if you don't need to go anywhere.
+- Django: a prebuilt Lego battleship. You can still add stuff and change things around (SQLAlchemy, Jinja, ...) — it's Legos, after all — but chances are that, after all those changes, you'll prefer the original. Because things are loosely coupled, but that still means they're coupled.
+- for comparison's sake, a system like Wordpress is more like playmobil (or a huge plastic t-rex): looks pretty cool, works the way it should out of the box, but it's one big chunk of plastic, so the only way to make it do new stuff is by bending it, not by building on top of it. (I'm not giving CMS plugin systems the credit they deserve, but I don't think I'm being entirely unfair here either.)
+
+Now, I've come to hate the one-big-chunk-of-plastic approach. I like legos. But when I have somewhere I need to be, some product I need to finish, I like me a battleship, not a bunch of parts and vague instructions on how to assemble them. And if I need something smaller than a battleship for maneuverability, to carry it in my backpack, if you will, there's always Flask: it's smaller, it tickles the imagination by leaving you the freedom to add in different components and by leaving the decision up to you, but at the end of the day, what you're getting is still a finished piece of kit, ready to go.
+
+Pyramid? No thanks.

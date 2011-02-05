@@ -1,0 +1,49 @@
+===================
+doctorow - metacrap
+===================
+
+-> people lie ("When poisoning the well confers benefits to the poisoners, the meta-waters get awfully toxic in short order.") ==> dit heeft betrekking op de mogelijkheid om betrouwbaar aan inferenties te doen en cross-site te zoeken op een "semantische" manier, en de kritiek houdt steek _op dat vlak_, maar zegt niks over het nut van metadata binnen één bepaalde site of zelfs binnen een vertrouwd netwerk.
+
+Dit geldt ook voor zijn kritiek dat mensen te lui en te dom zijn om goeie metadata toe te voegen: dit is problematisch voor het linked web (tenminste als men dat all-encompassing wil zien) maar niet voor metadata an sich.
+
+-> This presumes that there is a "correct" way of categorizing ideas, and that reasonable people, given enough time and incentive, can agree on the proper means for building a hierarchy. && There's more than one way to describe something ==> het linked web moet omkunnen met meerdere verschillende taxonomieën en ontologieën over hetzelfde; ook weer geen betrekking op metadata als een organisatiepraktijk an sich.
+
+De suggestie van Doctorow om meer te letten op observational metadata (bv. aantal links naar een pagina, zoals Google doet) omdat die minder vatbaar is voor gaming en omdat ze het werk verplaatst van mensen naar algoritmen, is wel zinnig for some cases.
+
+
+
+==============================
+shirky - ontology is overrated
+==============================
+
+"The strategy of tagging -- free-form labeling, without regard to categorical constraints -- seems like a recipe for disaster, but as the Web has shown us, you can extract a surprising amount of value from big messy data sets." => zie, ook weer een kritiek tegen overdadige claims over het semantic web, maar geen claim tegen de waarde van metadata voor individuele sites, waar men in het geval van de media (en itt. Flickr en Delicious) géén big messy data set heeft om zaken uit te extraheren.
+
+Vergeet ook het punt dat bv. machine learning net beter werkt bij meer structuur. Veel structuur + algorithmic learning = nog veel meer structuur.
+
+* categorizatiesystemen veranderen (of moeten veranderen) doorheen de tijd, omdat categorisaties en hun achterliggende waarden veranderen.
+
+=> klopt, maar is veel minder waar voor digitale categorisatie, waar je minder harde beslissingen moet nemen wegens plaatsbesparing, en waar je een primaire navigatie dynamisch kan construeren obv. meer fundamentele metadata, zodat die kan veranderen en blijven veranderen zo vaak als nodig, zonder dat dat veel impact moet hebben op de onderliggende metadata.
+
+"But every now and again, the skeleton pokes through, and the skeleton, the supporting structure around which the system is really built, is designed to minimize seek time on shelves. [...] Thinking that library catalogs exist to organize concepts confuses the container for the thing contained. [...] The categorization scheme is a response to physical constraints on storage, and to people's inability to keep the location of more than a few hundred things in their mind at once." => goed Weinbergeriaans punt
+
+"People have been freaking out about the virtuality of data for decades, and you'd think we'd have internalized the obvious truth: there is no shelf. In the digital world, there is no physical constraint that's forcing this kind of organization on us any longer. We can do without it, and you'd think we'd have learned that lesson by now."
+
+Over messiness (37% relaties) & gebrek aan polyhierarchie: "Yahoo is saying "We understand better than you how the world is organized, because we are trained professionals. So if you mistakenly think that Books and Literature are entertainment, we'll put a little flag up so we can set you right, but to see those links, you have to 'go' to where they 'are'." (My fingers are going to fall off from all the air quotes.) When you go to Literature -- which is part of Humanities, not Entertainment -- you are told, similarly, that booksellers are not 'really' there. Because they are a commercial service, booksellers are 'really' in Business. 
+
+Look what's happened here. Yahoo, faced with the possibility that they could organize things with no physical constraints, added the shelf back. They couldn't imagine organization without the constraints of the shelf, so they added it back. It is perfectly possible for any number of links to be in any number of places in a hierarchy, or in many hierarchies, or in no hierarchy at all. But Yahoo decided to privilege one way of organizing links over all others, because they wanted to make assertions about what is "real.""
+
+--
+
+"The search paradigm says the reverse. It says nobody gets to tell you in advance what it is you need." ==> mkee, maar waarom moet het of/of zijn? Related content tonen op één specifieke website werkt best via links naar gerelateerde categorieën en hun inhoud, eerder dan via een algoritmische search-gebaseerde oplossing. Mensen enkel naar inhoud laten zoeken via een fancy thesaurus is ook oerdom. Maar 't is toch niet het één of het ander? De kwestie is ook: mensen gebruiken misschien niet langer categorisatie om dingen te vinden, gezien zoeken beter werkt, maar categorizatie heeft wel een rol bij (a) findability -- mensen een breed beeld geven van wat er is, search verrijken met authority files, ... (b) exploratory behavior aanmoedigen: mensen gelijkaardige content suggereren zelfs als ze niet eens zouden overwegen om te zoeken
+
+--
+
+Over wanneer een ontologie een goed idee is zegt hij als criteria: "Expert catalogers / Authoritative source of judgment / Coordinated users / Expert users" maar met die laatste twee ben ik het dus niet eens: een goede IA gebaseerd op ontologieën of taxonomieën is onzichtbaar, het is niet gewoon een domme sitemap of A-Z lijst die een wereldbeeld pusht naar haar gebruikers. Met polyhierarchie, gerelateerde termen en authority files kan je al veel bereiken -- misschien niet àlles wat search betreft maar categorizering is veel breder handig dan voor expliete search.
+
+* signal loss door conflatie van movie/film/cinema -- eh bon, maar zolang je de oorspronkelijke termen behoudt, en er enkel een synonym ring van maakt om additionele aanbevelingen te doen of search te verrijken (mèt de mogelijkheid om exact te zoeken) dan heb je toch het beste van beide werelden?
+
+* Zaken zoals categorisatie actueel houden ("Former Soviet Union" is een beetje awkward) zie ik meer als uitdagingen die een oplossing verdienen, dan als een keiharde kritiek die toont dat taxonomieën niet kunnen werken of niet stabiel kunnen zijn.
+
+==> zowel wat Shirky en Doctorow betreft: ze hebben eigenlijk gelijk als je hetgeen ze zeggen nauw beperkt tot het punt dat ze willen maken en de specifieke fenomenen (semantic web) waarover ze dat punt maken. Het probleem dan is dat je mensen hebt die dat lezen als "de dood van alle andere categorisatiewijzen dan tagging, overal en voor alles" -- denk maar aan Jonathan Stray z'n reacties op mijn blog.
+
+* "Tagging gets better with scale" => klopt, en net daarom dat tagging voor nieuwswebsites vaak geen goed idee is, gezien het aantal producenten van inhoud zeer laag ligt, naar web-normen, en er nooit meer dan één iemand een stuk inhoud zal taggen (tenzij het op Delicious terechtkomt, wat niet echt vaak gebeurt voor nieuws, meer voor resources).

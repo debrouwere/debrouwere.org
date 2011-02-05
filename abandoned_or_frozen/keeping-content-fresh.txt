@@ -1,0 +1,36 @@
+Keeping content fresh: what's your strategy?
+
+Hi, I'm currently in the planning stage of creating an online presence of a student guide to the university and the city of Ghent. There's one question that keeps popping up: how can you create a guide that is as accurate as possible, and how can you spot most easily what needs an update, a fact check or a rewrite?
+
+I'm exploring a few routes, and I'd like some input and/or hear about your experiences. (This isn't strictly newspaper-related content, but since local newspapers often also try their best to be a guide to the city they cover, I thought I'd post it over here anyway.) Here goes:
+
+Architecturally
+===
+
+(1) I've been wondering if a lot of guides perhaps try to be too complete. Any piece of information/data you provide has the potential to go stale. So cutting unnecessary information is the most straight-forward route to reduce wrong info: if it isn't there, it can't be wrong.
+
+Do you really need to provide a telephone number with every pub review, when almost no-one ever calls a pub, and if they wanted to, they could check out the website of that pub for the number anyway? But what about opening hours? Knowing what information is necessary and what information isn't, is tough but it's interesting to think about.
+
+(2) You can't be right about everything all the time. I think users can understand that, but they need to know when they can and when they can't trust the info on a website. Pages that haven't been updated for a while (or that are beyond a manually-set "expiry date") could show a prominent disclaimer, so that visitors know that they'll have to double-check the information. Displaying the time of the last update on every page seems like another no-brainer.
+
+Input from the user
+===
+
+(1) "Report a broken link" and "Report faulty info" buttons may help.
+
+(2) Allowing moderated updates to your pages (wiki-style) can also help to keep info fresh. But only if the site is already running well, which means it'd be foolish to rely on when a website is just starting out.
+
+Automatisation
+===
+
+Since a lot of information is gathered from other webpages, some data mining is possible. The content entry form could include a place where you can specify your source for a piece of information, the information itself, and the context of that information (e.g. the sentence in which you found a name, a number, a date). In your text you enter these pieces of information as variables. A visitor to your site doesn't see these sources.
+
+Now with some cURL magic it's possible to automatically check if the part of the website from which you've gotten your information is still 'intact'. If the exact sentence, paragraph, preceding words or whatever are still there, it's very likely that your information isn't out-of-date. The opposite isn't necessarily true because a rewrite of a text does not imply it contains new or other information. That means cURL data mining can only tell you when your info is probably up-to-date, but not when it isn't - because there will be quite a few false negatives.
+
+Nevertheless, having every bit of information that's sensitive to change in a central place (per page or for the entire website) as well as the source of that information, and knowing what needs to be checked and what doesn't, could save editors quite some time when they're updating content and provide some overview by displaying how much you've checked and how much work is left (in absolute numbers or as a percentage of all data).
+
+The mining module can also suggest possible new data if the context is still intact and only the information in that context has changed. (e.g. from "You can reach us at X" to "You can reach us at Y")
+
+It could also work together with manually provided info, like the expiry dates I mentioned earlier.
+
+Does this seem like a sensible idea to anyone? In principle it seems to me like that would really help out editors, but perhaps in practice the time gains would be minimal. I haven't a clue.

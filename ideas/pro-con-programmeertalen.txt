@@ -1,0 +1,87 @@
+http://www.wikivs.com/wiki/Python_vs_Ruby
+http://groups.google.com/group/comp.lang.python/msg/28422d707512283?pli=1
+http://johan.kiviniemi.name/blag/ruby-vs-python/
+
+Python
+
+* list comprehensions (set notation)
+	[person.name for person in people if person.age > 30]
+... maar Ruby valt wel mee:
+	people.map{|person| person.name if person.age > 30}.compact
+
+* explicieter, one way to do things, no funny business = begrijpelijker
+Python
+	if (format.xml):
+		return posts.to_xml()
+
+Ruby
+	format.xml { render :xml => @posts.to_xml }
+
+(?)
+
+Hoewel er sommige plaatsen zijn waar dit steekhoudt (bv. in Python heb je soms wat boilerplate als je een functie beschikbaar wil maken als property — met de property decorator — terwijl je in Ruby niet verplicht bent om een callable aan te roepen met haakjes. Maar om dan weer duidelijk te maken hoe moeilijk het is om je voor of tegen één van beide approaches uit te spreken: soms wil je effectief de callable en niet de uitvoering daarvan, en dan ben je blij dat Python heel duidelijk het verschil maakt.
+
+Idem met metaprogramming in Ruby en Python: 
+
+"A guiding principal of Python is that the language should strive to be readable. It is why many, many, (many), requests to add syntax modifying features such as macros are rejected. The idea being that when you read one Python program, no one can add, for example, their own implementation of a switch statement and keyword that works in a subtly different way, to someone elses. Likewise, no one could add the @ syntax for decorators to the language, without it being officially integrated into the interpreter itself.
+What Python gains from this is that readers can rely on the syntax of the language to be consistent. Importing a module cannot change the syntax of code." (Paddy3118 @ http://yehudakatz.com/2009/07/11/python-decorators-in-ruby/)
+
+-- weet nog niet --
+* class en method decorators?
+* docstrings?
+* parameter documentatie (Python 3)
+* *vargs en **kwargs?
+
+Ruby
+
+* nog net iets meer objectgeorienteerd, en dat heeft niks met religieus zijn te maken, maar gewoon dat OO-notatie makkelijker en vertrouwd is, en dat het lastig is als daar af en toe van wordt afgeweken
+
+Python
+	file = open('file.txt')
+	file.read()
+
+	isinstance(obj, File)
+	filter(callable, sequence)
+Ruby
+	File.open 'file.txt' do |file|
+		puts file
+	end
+	
+	obj.is_a?(File)
+	callable
+
+Soms maakt het niet uit, bv. some_string.to_i houdt steek (je converteert het object) maar, zoals je het in Python doet, int(some_string) houdt ook steek, je maakt nl. een nieuw int object aan op basis van een string. Maar soms is Python raar.
+
+Guido argumenteert dat "When I read code that says len(x) I know that it is asking for the length of something. This tells me two things: the result is an integer, and the argument is some kind of container." wat niet waar zou zijn voor .length, maar, laat ons eerlijk zijn, hoe belangrijk is die garantie, en hoe moeilijk zou het zijn om van speciale methodes (__) te verwachten dat ze bepaald gedrag vertonen, op straffe van een runtime error.
+
+Men spreekt soms over deze use-case:
+	map(len, list_of_strings)
+Maar in Javascript is dat bijvoorbeeld
+	list_of_strings.map(function (string) { return string.length })
+Of in Python
+	list_of_strings.map{|string| string.length}
+
+* blocks (handig als je DSLs wil maken)
+* gebruikt < voor subclassing. Op zich ben ik geen voorstander van extra sigils, maar het is wel intuitiever dan Python waar haakjes worden gebruikt:
+	class Sub(Super): 
+		pass
+... wat er identiek uitziet als een argument voor een functie, terwijl het om iets heel anders gaat.
+
+Ruby én Python
+
+* operator overloading
+* Python heeft 'self' crud, maar Ruby heeft attr_reader en attr_accessor boilerplate alsook het 'end' statement (i love significant whitespace); Ruby heeft meer sigils (|, @) wat de boel niet noodzakelijk begrijpelijker maakt, Python heeft heel wat __magische__ methodes, en Ruby heeft eval_class en eval_instance; en, ja, join als methode op str en len() zijn gewoon dom, dom, dom.
+* sets! (en Python heeft set literals, nog net iets leuker)
+* string formatting (beats sprintf)
+* Ruby begint misschien stilaan meer libraries te krijgen door de grotere adoptie. Anderzijds, voor bepaalde zaken kan je niet beter doen dan Python, bv. in de machine learning sfeer: NTLK, PyBrain, SciPy, ...
+* beide talen klagen vrij snel als er iets fout zit, itt. PHP en Javascript
+* vroeger was het probleem in Python een overkill aan frameworks, maar tegenwoordig heb je dezelfde situatie als in Ruby: één standaard web framework (Django) en een aantal andere frameworks voor wie speciale eisen heeft (Werkzeug, Pylons, microframeworks zoals Flask tegenover Sinatra etc. in Ruby), behalve dat Python natuurlijk al langer bestaat en er dus meer legacy stuff is (bv. Zope).
+* hoewel Ruby misschien soms iets makkelijker is voor metaprogramming, maakt het gewoonlijk echt niet uit. In beide heb je zeer makkelijke toegang  tot de internals van een klasse en kan je vanalles doen om dat te wijzigen -- waarschijnlijk zelden op dezelfde manier, maar dat is een andere kwestie.
+* Python heeft niks dat private is omdat "we're all grown-ups" en omdat makers van libraries niet altijd weten wàt precies publiek moet zijn -- je weet nooit wat mensen met je code willen doen. Anderzijds laat Python iets minder funky metaprogramming toe, vaak bewust, omdat men niet wil dat iedereen code meteen kan begrijpen zonder te weten hoe de metaprogramming in elkaar zit, en dat de output voorspelbaar is. Ruby werkt met diezelfde overwegingen: soms mensen tegen zichzelf beschermen, maar het hoeft niet te kneuterig. Ze verschillen gewoon van mening over specifieke cases en welke overweging er de overhand heeft.
+
+Javascript
+
+* anonieme functies (maar vaak enkel nodig omdat de taal voor de rest zo onflexibel zijn -- anonieme functies redden de boel en maken het meestal nog redelijk expressief)
+
+
+==> At the end of the day is het vooral het feit dat Python-code nog net iets leesbaarder is (minder sigils, list comprehensions, explicitness) dat me bij Python houdt, en het is het feit dat Ruby volledig OO is dat me aan die taal aantrekt; al de rest is leuke sugar (anon blocks) en triviale verschillen (je doet hetzelfde maar anders), en ze hebben beide de nodige crud in hun taal.

@@ -1,0 +1,155 @@
+- Flask: a nice little prebuilt 
+
+* deliverance en interactie met javascript / AHAH / AJAX, en of dat niet net een reden is om APIs te gebruiken (cf. twitter.com) --- via deliverance kan je AHAH responses ook wel transformen, maar met gewone AJAX die in javascript getemplatet wordt (bv. met jQuery.tmpl); en sowieso leidt het tot een grotere uitdaging. Het is niet meer zomaar effe twee of drie themepagina's wijzigen, je moet ook AHAH transformeren (valt nog mee) en javascript herschrijven (indien AJAX dingen injecteert ergens waar niet meer bestaat, of met een structuur die niet overeenkomt met de rest). Dus zit je weer in de internals.
+
+* http://www.martinaspeli.net/articles/developer-centric-version-control-considered-harmful => scaremongering, is in de praktijk nooit een probleem; bovendien is er met gitflow / nvie + semver wél een een aanvaarde methodologie, en de projectwebsite leidt steeds naar de aanvaarde masterversie; het centrale repository hoeft ook niet beheerd te worden door één persoon. Gewoon in Git kan iedereen met de juiste permissies andere repo's naar binnen pullen, en in GitHub heb je de organizations feature.
+
+"What if I come back after a few months and decide I wanted to own the project all along? We now need to reconcile the two forks. This may be tricky. Perhaps we don't do it. People now have to figure out which one of two versions of the software to "bet" on." => dit is ook bullshit, in het geval van SVN zou iemand ook een fork maken als jij niet responsief bent.
+
+De realiteit is dat Git voor de meeste niet-te-kleine-niet-te-grote projecten identiek werkt aan Subversion, met als enige verschil dat GitHub veel vriendelijker is en Git veel zinniger errors geeft, wat het makkelijker maakt om mee te vertrekken, niet moeilijker.
+
+cf. http://www.garbas.si/blog/2010/i-disagree-developer-centric-version-control-considered-harmful
+
+
+
+
+"I once spent about twenty minutes searching for my copy of Ambient Findability, which I knew was lying around somewhere in my room. The irony does not escape me."
+
+* web-to-print *
+
+<< en dan tot slot hoe zoiets bij een expansie naar print ook voor een enorm voordeel kan zorgen: je hebt al een winstgevende website plus redactieplatform, en het enige dat je dan nodig hebt is voldoende eindredactie om zoiets op papier te krijgen (en deals tussen verschillende nichepublicaties!); je kostenstructuur voor print is dus een pak kleiner dan moest je _beginnen_ met een gedrukt magazine, en de vraag of je online winst zal kunnen maken is ook irrelevant >>
+
+* iets over de verborgen voordelen van transparantie, en de verborgen nadelen van geheimhouding *
+
+cf. Apache
+
+* Quirky-fun biographies: enough already! *
+
+"As assistant managing editor, Jennifer Guevin tracks every aspect of CNET News, from semicolons to server glitches. As a writer, she is particularly focused on science, but has covered everything from handy new kitchen gadgets to underwater robots to Michael Jackson (her editor made her do that). She believes her homemade apple pie will lead her to world domination."
+
+Netlash ("Dirk zorgt ervoor dat alle projecten verlopen zoals het moet, is meester in vertalen van een idee in een beeld en maakt een wicked kopje latte macchiato.")
+
+"User experience designer, content strategist, boston terrier owner" (Karen McGrane on Twitter)
+
+=> fucking hetzelfde overal, dat éne zinnetje om aan te duiden dat je toch een mens bent. It's been done. Do death. Please stop. Show you're a human by actually acting like one, not with carefully crafted I'm-a-professional-but-really-you-know-I-am-pretty-down-to-earth mini-biographies. They're so 2005.
+
+=> misschien gewoon een oplijsting van zo'n biografie'tjes, zonder verklaring, met als titel, "Really?"
+
+=> of misschien eens over mailen met Kristina Holvorson
+
+* isn't curation just adding more noise? *
+
+=> over hoe veel curation, door content samen te bundelen in nieuwe big blobs of text, gewoon meer noise toevoegt en maar passing value toevoegt. Curation zou ook moeten bestaan uit dingen écht te annoteren & metadata toe te voegen, door er naar te verwijzen vanuit topic-pagina's enz.
+
+* over de miserie van non-native speakers die Engels proberen spreken op conferenties *
+
+... het moet, maar het is een miserie en haalt het niveau / de geheelervaring enorm naar beneden.
+
+* avoiding extreme polyhierarchy *
+
+http://www.useit.com/alertbox/ia-mistakes.html
+-> kan je vermijden door 
+	1) tja, ten eerste, goed na te denken en niet te snel 'poly' te gaan
+	2) belangrijker: een primaire ouder aan te duiden, zodat je mensen
+	visuele cues kan geven dat je iets weergeeft dat eigenlijk uit een
+	andere categorie komt
+
+	==> (grafisch) voorbeeldje geven van hoe dat er uit kan zien
+
+* De erfenis van John Dewey *
+
+Dit mag gerust in 4-5 delen. Ik zou hierover willen schrijven omdat mijn wereldbeeld zéér sterk schatplichtig is aan Dewey. Qua pedagogie, qua kennisleer en kijk op wetenschap, qua kunstfilosofie, qua politieke strekking, qua ethiek.
+
+* Samen sterker? *
+
+http://www.apache.be/2010/04/onafhankelijke-nieuwssites-staan-samen-sterker/
+
+Over de kracht van het merk van individuele journalisten, en het belang van een zeker individualisme. (Maar meer op het niveau van de journalist dan op het niveau van organisaties.)
+
+Of, andere invalshoek: meer rechtstreekse kritiek op het soort van samenwerking dat ze lanceren.
+
+* wow versus dawwww *
+
+Over hoe het wow-effect dat je als een for-profit kan teweegbrengen (mensen hebben jou écht graag, én je product) eigenlijk een zeer waardige vervanger is van het 'dawww'-effect dat non-profits toelaat om dingen duurder te verkopen dan wat ze eigenlijk waard zijn. Zelfde resultaat, alleen mag je in het eerste geval trotser zijn op jezelf omdat je inspeelt op mensen hun enthousiasme eerder dan hun moreel voelen.
+
+* Imposter syndrome en being-by-doing *
+
+Over hoe het nog altijd mogelijk is om ergens een expert in te worden door gewoon te obsesseren, zonder dat je een diploma moet hebben of 5 jaar studeren.
+
+Over hoe beseffen dat andere mensen ook zo werken (ook al weten ze het van zichzelf niet) je een meer genuanceerde kijk kan geven op "expertise". De meeste marketingbureau's doen maar wat hun gevoel en een beetje ervaring hen zegt, niet elke informaticus kan uit het niks een project uit de grond stampen, een "natuurlijk charismatisch persoon" zit waarschijnlijk ook uren te vloeken op zijn lezing... Er zijn heel wat beroepen zonder vast metier, zoals een dokter of jurist dat wel heeft.
+
+* the hacker ethos *
+
+over wat het betekent om een hacker te zijn, als coder, als entrepreneur, als gewoon "mens" (cf. hacker's diet): meer doen met minder moeite, meten en bestuderen en evalueren en analyseren, en op basis daarvan een plan uitwerken dat rekening houdt met de omstandigheden waarin je je bevindt
+
+* waarom betalen we voor nieuws? *
+
+Een beschouwing over waarom ik betaal voor WIRED terwijl je alles online kan lezen voor niks: 50% of misschien zelfs meer voor de ervaring, 50% pay-what-you-want omdat ik WIRED echt graag heb en dat wil steunen (Waarom zou je for-profits niet kunnen steunen? We do that all the time).
+
+* delicious als researchtool *
+
+(dit zou leuk zijn moest ik hier een gastlezing of zo over kunnen geven voor studenten journalistiek; atm niet echt het juiste publiek op mijn blog om dit een relevant bericht te maken -- maar op zich wel leuk om te doen, net als bv. "waarom je moet bloggen" e.d.)
+
+Dat twitter een goede research tool kan zijn voor journalisten is al bekend. Maar vergeet delicious niet!
+
+itt. twitter meer gericht op informatie die je kan gebruiken bij je werk, teken daarvan tags als "to-read" en "reference" -- itt. twitter hoef je iets niet geweldig te vinden of al gelezen te hebben om op je delicious te zetten. Analoog aan twitter kan je ook andere mensen volgen, en ook subscriptions nemen op tags.
+
+Als journalist kan je delicious gebruiken om een beat te volgen, als professional om best practices bij te leren en de laatste evoluties te zien, ...
+
+Niks sluit uit dat je zowel twitter als delicious kan gebruiken: je kan via packrati.us zorgen dat je tweetlinks op delicious terechtkomen, en die kan je dan aanvullen met links die misschien te saai zijn voor op twitter, of die je nog niet gelezen hebt, maar die je wel wil bewaren. En met tags is de kans dat je ze terugvindt een pak groter.
+
+De combo RSS-reader en delicious is zeer krachtig.
+
+* The opportunity of a lifetime *
+
+Over hoe mensen vaak verkeerde inschattingen maken van wat "een unieke kans" is. Je moet nadenken over hoeveel je precies moet opgeven, hoeveel werk je _nu_ moet doen om van die kans gebruik te maken, en hoeveel werk die kans met zich mee zal brengen, wat er gebeurt moest je die kans niet hebben, wat de nadelen zouden zijn moest je die kans wél hebben. Bv. een zeer goede klant erbij nemen als je agenda al vol zit omdat zo'n klant op je portfolio hebben een prachtige kans is, is een verkeerde redenering. Het alternatief is ook niet per sé dat je die klant nooit op je portfolio hebt — misschien is afzeggen net het beste, en contact houden zodat je misschien binnen zes maanden of een jaar wél de kans van je leven krijgt, zijnde een kans die zeer opportuun komt, en waar je van gebruik kunt maken zonder dat er enige addertjes in het gras zijn of shiz die je aims kan frustreren.
+
+* A website should be like a person *
+
+Onderbouwde visie op 
+- authenticiteit
+  > in communicatie
+  > in content (bv. techdirt is net bèter omdat je weet dat hij libertair is)
+- het belang van menselijkheid in interaction design
+  > cf. mijn visie op search
+
+* Nieuwe vormen van journalistiek *
+
+- data-based
+- multimedia
+- link journalism
+
+"Call it the Miracle On 34th Street approach to news. For those unfamiliar with the classic film, the Macy’s department store Santa Claus (who is actually the real Santa) sends shoppers who can’t find what they want to Gimbles, Macy’s archrival. While at first Macy’s management is horrified, they’re won over as a customer declares her loyalty to Macy’s for putting the customer first." (http://searchengineland.com/googles-news-experiments-and-read-state-issue-30242)
+
+"De grootste concurrent van sites van traditionele mediabedrijven is niet Google, het is Wikipedia. Omdat de internet-encyclopedie een betere gebruikerservaring biedt; meer context en minder losse eindjes." (Nijst http://www.nijst.org/2009/12/14/googles-living-stories/)
+
+* And now for something completely different *
+(kan een weerkerende rubriek zijn met bredere, meer traditionele blog-onderwerpen of hors categorie)
+
+- "My little ukulele"
+- "Why lifehacker sucks"
+(cf. http://www.43folders.com/2008/09/08/four-years)
+- "Backups": ondanks het feit dat zoveel mensen al data verloren zijn, of adressen als ze hun gsm verliezen, blijft het moeilijk om ze te overtuigen om alles te backuppen. Verder een addendum over het belang van een off-site backup nu een computer zoveel van je kostbare bezit herbergt.
+- iets over mijn opleiding als filosoof
+
+* Terugblik op een jaar freelancewerk *
+
+==> misschien afsplitsen / opentrekken naar "things I learned about working from home" -- over ook mijn ervaringen met zelfstudie in het middelbaar (om 9 uur beginnen of om zeep, agenda bijhouden om niet gek te worden), mijn ervaringen met automatiseringswerk voor schamper tijdens de zomer (de beste manier om werk gedaan te krijgen: van jezelf verstoppen dat het werk is), en dan tenslotte als freelancer thuis (mensen geloven niet dat je werkt en menen dat je op elk moment beschikbaar bent; je hebt geen onderscheid tussen werkuren en niet-werkuren, en geen incentive om zo'n onderscheid wél in te voeren gezien niemand op je staart... dus moeilijk)
+
+(mag vrij persoonlijk zijn, lezen mensen liever en onthouden ze beter dan een droge opsomming van abstracte lessen)
+
+Lessons learned: 
+- het is zeer makkelijk om jezelf te overladen met werk en zeer moeilijk om nee te zeggen; maar als je geen buffers vrijhoudt tussen je opdrachten (als een opdracht uitloopt, als je tijd wil om nieuwe zaken te leren, tijd om te rusten) kom je in de problemen terecht. Zelfs àls je buffers vrijhoudt kan je in de problemen terechtkomen: een klant die enthousiast is over je werk en verder wil gaan op dat èlan kan je niet zomaar afwijzen, hoewel je het eigenlijk zou moeten doen.
+- het meeste voldoening haal je uit werk dat (a) sociaal belangrijk is (cf. DevelopmentSeed, TOPP maar evengoed RSS), (b) dat je héél goed kan doen © dat voor jezelf is. Dat betekent dat je als freelancer eigenlijk beter werk aanneemt dat je capaciteiten niet tot het uiterste strekt, zodat je de tijd en de expertise hebt om echt van een website iets bijzonders te maken en je niet moet zweten om tot een resultaat te komen dat uiteindelijk toch maar middelmatig is. Dat betekent niet dat je het jezelf gemakkelijk moet maken, maar dat je de uitdaging moet zoeken in een perfecte afwerking en een paar verrassende twists, het 'opbouwen' van de site zelf moet een makkie zijn.
+
+Je moet immers niet alleen de site kunnen maken, maar ook de nodige expertise kunnen aanreiken over mogelijke problemen, best practices, suggesties in verband met het opzet van het project, je moet tijdens het maken van de website meerdere alternatieven kunnen aanbieden, anders kunnen cliënten soms eindeloos zitten piekeren over iets dat jij met een paar uur programmeren meteen kan presenteren zodat men alleen nog maar te _kijken_ heeft of iets 'werkt' of niet werkt. Dus, hoe graag je jezelf ook steeds wat verder pusht, het is niet eerlijk tegenover je cliënt als je dat niet kan bieden.
+
+Dat betekent ook dat je beter mensen zoekt om mee samen te werken, want niemand is tegelijk goed in de zakelijke kant, het programmeren, het ontwerpen en het plannen.
+
+Als beginnende freelancer is het ook moeilijk om aan te voelen hoe je met je klanten moet omgaan. Enerzijds heb jij de expertise en wil je dus dat zij ook naar je expertise luisteren en hun plannen aanpassen op basis van wat jij weet uit ervaring dat wel werkt en wat niet werkt.
+
+Samenwerken met andere freelancers is ook niet zo gemakkelijk als het lijkt. Je moet mensen vinden die je goed complementeren, als je die gevonden hebt moeten ze de nodige tijd vrijhebben, en je moet echt met elkaar kunnen samenwerken, wat een communicatie-overhead impliceert. De neiging om zaken uit te besteden en er dan niet naar te kijken en te hopen dat het resultaat iet of wat deftig is, leidt enkel tot miserie.
+
+"When it’s just you and your thoughts it becomes too easy to pick the first thing that pops into your head." (http://tom.preston-werner.com/2008/11/03/how-to-meet-your-next-cofounder.html)
+
+Een andere les is dat developen voor grote budgetten een andere frame of mind vraagt dan developen voor kleine budgetten. Daarmee bedoel ik niet dat, als er veel geld is, je dat als dev moet verbrodden terwijl het ook goedkoper kan, maar dat de manier van de site te bespreken en op te bouwen zal verschillen. In het eerste geval probeer je de noden van de klant zoveel mogelijk te reduceren tot wat een bestaand pakket out of the box kan, zodat je je tijd kan steken in afwerking en tweaking. Dat vraagt een zeer sterke communicatie met de klant, met wie je eigenlijk voortdurend kosten-baten analyses moet maken. Je verschuift ook sneller opdrachten naar de klant (migratie -> handmatig zelf c&p'en; acceptance testing -> gewoon wachten tot je hoort van de klant dat er iets niet werkt; ...) Als er een ruim budget is kan je nadenken over "how can we make this kick-ass". Ook hier moet je zoeken naar kostenreducties en streven voor de best mogelijke ROI, bv. door allerlei bestaande pakketten te gebruiken, en ook hier moet je de klant er op kunnen wijzen als hij zotte kosten doet, maar verder kan je je focussen op het bouwen. Het voelt anders aan. Meer geld betekent quasi altijd een betere site, dus je moet ergens wel respect hebben voor freelancers die bewust hun hele carrière in het low-budget segment blijven, en die er in slagen om al die moeilijke afwegingen te maken.

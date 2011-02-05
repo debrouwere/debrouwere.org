@@ -1,0 +1,50 @@
+It's not a question of being a suave business executive, sweet-talking possible contacts. It's about not being an asshole: knowing what people are up to, writing down when you'd like to contact them again and writing some notes to help you remember what they're like, answering mails instead of letting them pile up. I'm simply not the kind of guy who can get all of that into his head, so I need an engineering solution.
+
+
+
+
+
+
+zie
+http://www.relenta.com/about.html
+http://www.threadsy.com/
+http://www.zoho.com/crm/crm-email.html
+http://www.readwriteweb.com/enterprise/2009/10/email-crm-linkedin-twitter-hustlers-power-drill.php met allerlei tips (oa. toch LinkedIn als self-updating rolodex) en advies om Relenta te gebruiken.
+http://www.gist.com/
+http://www.networkhippo.com/
+http://www.inbox2.com/
+
+... helpdesk-stuff heeft dan vaak wel shared inboxes en bv. Zendesk heeft zelfs integratie met Highrise, maar die is dan weer niet gericht op het _verzenden_ van e-mail en CRM-features (zoals op de hoogte blijven van een twitterstroom) is secundair. Zoho met de CRM mail addon plopt wel mail binnen je CRM ($12 voor professional + $3 voor mail addon per maand)
+
+Gist en NetworkHippo zien er veelbelovend uit, indien niet voor Cog/Raderwerk dan toch voor mezelf.
+
+en dan heb je ook meer helpdesk-achtige stuff zoals ZenDesk en http://www.helpspot.com/
+
+Relenta komt in de buurt (duur though — $25 per maand per persoon) maar de shared inboxes daar zijn vooral een kwestie van kijken wat allemaal in het verleden met een bepaalde persoon besproken is geweest, terwijl ik denk dat het ook nodig is om bv. collega's te verwittigen als blijkt dat er al een paar dagen e-mails van jou onbeantwoord zijn gebleven.
+
+Gist heeft de "awareness"-functie door: je krijgt facebook-, twitter- en blogberichten alsook recente attachments te zien als deel van je mailervaring. Network Hippo doet dat ook.
+
+Inbox2 en Threadsy nemen de boel één stap verder en zorgen dat volledig je communicatie geïntegreerd is: reageren op Facebook, twitter, LinkedIn en GMail kan allemaal van in één applicatie. Op die manier heb je ook geen verborgen informatiestromen die je via je mailapplicatie niet kan doorzoeken.
+
+http://www.networkhippo.com heeft een goede, eenvoudige CRM-ervaring: groepen, goede zoekfunctie, taken (belangrijk!) en weekly reminders over wie je best nog eens mailt.
+
+Er is ook Highrise + http://gmailtohighrise.com/ zodat àl je mail in Highrise zit, maar dan mis je nog altijd de geïntegreerde ervaring en je hebt ook geen shared inboxes.
+
+
+
+Zou graag mijn Grumpy-idee voorstellen als sanity check, zodat ik weet dat mijn aanpak niet compleet fucked-up is, en indien niet, om misschien een partner te vinden om mee samen te werken.
+
+cf. http://www.relenta.com/about.html
+cf. http://blog.jackvinson.com/archives/2010/05/05/hammers_dont_screw_why_should_your_email.html
+cf. http://www-01.ibm.com/software/lotus/products/connections/
+cf. http://www.elsua.net/tag/thinking-outside-the-inbox/
+
+* "filter on the way out, not the way in" <-> Highrise
+* if you're not a natural in networking and customer service, engineer something that makes you great at them
+* mailboxes als tags
+* productiviteitstools: alarm als mails onbeantwoord blijven (a mail is like a ticket, if you're not going to answer you have to explicitly close it), de mogelijkheid om mail enkel op vaste tijdstippen binnen te trekken zodat er niet de temptation is om elke vijf botten naar je mail te kijken
+* flexibel systeem obv. feeds dat het mogelijk maakt om gelijk welke contentstroom te integreren (laatste bestanden gerelateerd aan een persoon op het intranet, twitterfeed, ...), alsook webhooks om makkelijk integratie met externe apps te verzorgen
+* faceted search
+* BSD, wil dat mensen dit gebruiken, meedenken, hell, voor mijn part zelfs geld aan verdienen
+* gemaakt met het oog op _nieuwe_ organisaties, in bestaande structuren is dit heel moeilijk in te passen (verwachtingen van privacy, gewend aan een bepaald gebruik van mail, ...)
+* GTD-principes

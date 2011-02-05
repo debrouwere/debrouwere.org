@@ -1,0 +1,22 @@
+## Why governments dislike open data
+
+When I went to Hack De Overheid last May, I proposed a brainstorm session titled "How to lobby governments to open up their data?" I'd almost forgotten about that session, but I actually took some pretty detailed notes. Because late is better than never, I'll try to turn those notes into a couple of blogposts. Here's number one.
+
+What when the data's not there, though? Different people noted that civil servants often have no incentive whatsoever to make their data more freely available, or to start thinking in more data-centric ways, by turning previously unstructured information like meeting reports or procedures into structured and metadata-rich content. It's not that they don't have enough time, which is definitely true, but the essence is that more data makes for more accountability. More ways their superiors and the general public can keep tabs on them. And while most do appreciate the general sentiment that transparency is a good thing, they're not about to open up theirselves to a flood of scrutiny unless that comes with clear support from their superiors and other incentives from higher-up. Local governments especially need political backing on the national level to be able to even consider open data projects.
+
+The dark side of that coin, as Henk van Ess noted, from his experience as a journalist (and <> of the raad voor oj), is that not all departments have stone-age IT skills, and the ones that are tech-savvy will still sometimes dump a load of unstructured data or unorganized scans, sometimes even hand-written documents on journalists asking for information, in order to satisfy the requirement of transparency, while making it damn difficult and discouraging anyone actually trying to make sense of that pile of data out there. And it's not getting better, it's actually getting worse, as WOB-requests turn requests for data into an antagonistic process. WOBs are very necessary, but they sure aren't improving the relations between journalists (who would be the consumers of a lot of this open data) and the government.
+
+In Chicago, the mayor got so peeved about all the requests, that he made all of the requests themselves public. Journalists care about scoops, so, essentially, making their story ideas public, makes it probable they'll get an exclusive from searching through those piles of data and cleaning them, which in turn makes data journalism less enticing. As Julian Assange said, when he talked about the Afghanistan War Logs:
+
+“It’s counterintuitive,” he said then. “You’d think the bigger and more important the document is, the more likely it will be reported on but that’s absolutely not true. It’s about supply and demand. Zero supply equals high demand, it has value. As soon as we release the material, the supply goes to infinity, so the perceived value goes to zero.”
+
+[Henk over "muur van rubber" -- boek over WOBbing en de problemen]
+
+(I think) X from NRC noted that a lot of WOB request actually end up putting government in a good light. We should put these together and make sure these success stories are read and known.
+
+One participant especially noted that we should be taking this open data thing one step at a time. And the first step should be about showing governments how they can
+- save time and money
+- get positive news about their departments out
+- get input from the public that actually helps them do their job better
+
+It makes sense to focus on positive changes, instead of journalistic endeavors that are focused on getting out potentially damaging data. We're going to have to do things in steps anyway, so there's no avoiding that. Let's focus on the compromising stuff later. Things like FixMyStreet are more harmless and just as useful.

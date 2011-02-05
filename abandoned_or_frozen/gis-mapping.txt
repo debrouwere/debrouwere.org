@@ -1,0 +1,3 @@
+* paar zaken over GV
+* wat uitleg over de technology stack en beschikbare tools
+* waarom het _niet_ zo eenvoudig is (<> "Adding Custom MapBox Tiles to Google Maps in Ten Minutes" van DevSeed wat nogal misleidend is, toch voor een community als die van Drupal die bestaat uit heel wat 'script kiddies' -- niet pejoratief bedoeld -- die daaruit verkeerde dingen kunnen concluderen)

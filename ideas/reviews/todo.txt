@@ -1,0 +1,35 @@
+Enkel IA en information design, niks anders. Punt. Anders gaat het snel out of control geraken en ook in waarde dalen (minder focus). Over de rest kan ik ad lib blogposts schrijven.
+
+Het kan eventueel wél zin hebben om belangrijke papers uit de informatiewetenschap bij elkaar te zoeken en op een beknopte manier weer te geven, gezien dat een wereld is die nu door informatie-architecten onderbenut wordt, wegens te academisch en te weinig praktisch. Daar zou dus echt een meerwaarde kunnen zitten. Misschien ook thesissen / doctoraalscripties.
+
+Al bij al zit ik nu in totaal aan 21 boeken. Met de sneeuwbalmethode zal ik wel aan het dubbele geraken, en zeker in informatiewetenschap en taxonomie valt er wel meer te lezen. Dat is nog goed doenbaar, maar tegelijk wel waardevol voor andere informatie-architecten, waarvan ik durf wedden dat er geen enkele deze allemaal heeft gelezen.
+
+Sowieso al snowballen in "Tagging" en alles van Morville.
+
+* Porter - Designing for the Social Web
+* Peter Morville, Jeffery Callender - Search Patterns
+* Peter Morville - Ambient Findability
+* David Weinberger - Everything is Miscellaneous
+
+Opnieuw doornemen:
+* Zappatera - Editorial Design
+* Robert Lockwood - News by Design
+* White - Editing by Design
+
+Nog te lezen:
+* Peter Morville & Louis Rosenfeld - Information Architecture
+* Smith - Tagging
+* Domain-Driven Design: Tackling Complexity in the Heart of Software
+* Donna Spencer - Information Architecture
+
+Nog te bestellen:
+* Elaine Svenonius - The Intellectual Foundation of Information Organization
+* Heather Hedden - The Accidental Taxonomist
+* Murtha Baca - Introduction to Metadata
+* John Seely Brown - The Social Life of Information
+* Christina Wodtke - Information Architecture: Blueprints for the Web
+* Susan Batley - Information Architecture for Information Professionals
+* Eric Reiss - Practical Information Architecture: A Hands-On Approach to Structuring Successful Websites
+* Peter Van Dijck - Information Architecture for Designers: Structuring Websites for Business Success
+* Marti A. Hearst - Search User Interfaces
+* Richard Saul Wurman - Information Anxiety 2

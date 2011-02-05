@@ -1,0 +1,69 @@
+<SimpleDiagram>
+  <diagram version="1.0.28" createdAt="Mon Aug 30 10:42:06 GMT+0200 2010" updatedAt="Mon Aug 30 10:44:39 GMT+0200 2010" styleName="null" width="2000" height="1600" baseBackgroundColor="16777215">
+    <name/>
+    <description>null</description>
+  </diagram>
+  <sdObjects>
+    <SDSymbol libraryName="com.simplediagrams.shapelibrary.basic" symbolName="Circle" x="341" y="185" height="161" width="170" rotation="0" zIndex="0" color="16777215" colorizable="true">
+      <text/>
+      <textAlign>left</textAlign>
+      <fontWeight>normal</fontWeight>
+      <textPosition>top</textPosition>
+      <fontSize>12</fontSize>
+    </SDSymbol>
+    <SDSymbol libraryName="com.simplediagrams.shapelibrary.basic" symbolName="Circle" x="766" y="186" height="161" width="170" rotation="0" zIndex="0" color="16777215" colorizable="true">
+      <text/>
+      <textAlign>left</textAlign>
+      <fontWeight>normal</fontWeight>
+      <textPosition>top</textPosition>
+      <fontSize>12</fontSize>
+    </SDSymbol>
+    <SDSymbol libraryName="com.simplediagrams.shapelibrary.basic" symbolName="Circle" x="345" y="450" height="161" width="170" rotation="0" zIndex="0" color="16777215" colorizable="true">
+      <text/>
+      <textAlign>left</textAlign>
+      <fontWeight>normal</fontWeight>
+      <textPosition>top</textPosition>
+      <fontSize>12</fontSize>
+    </SDSymbol>
+    <SDSymbol libraryName="com.simplediagrams.shapelibrary.basic" symbolName="Circle" x="765" y="433" height="161" width="170" rotation="0" zIndex="0" color="16777215" colorizable="true">
+      <text/>
+      <textAlign>left</textAlign>
+      <fontWeight>normal</fontWeight>
+      <textPosition>top</textPosition>
+      <fontSize>12</fontSize>
+    </SDSymbol>
+    <SDLine x="537" y="261" height="23" width="217" rotation="0" zIndex="0" color="16777215" colorizable="true">
+      <startX>-6</startX>
+      <startY>0</startY>
+      <endX>201</endX>
+      <endY>0</endY>
+      <bendX>99</bendX>
+      <bendY>-1</bendY>
+      <lineWeight>3</lineWeight>
+      <startLineStyle>1</startLineStyle>
+      <endLineStyle>2</endLineStyle>
+    </SDLine>
+    <SDLine x="525" y="485" height="38" width="243" rotation="0" zIndex="0" color="16777215" colorizable="true">
+      <startX>-22</startX>
+      <startY>-24</startY>
+      <endX>233</endX>
+      <endY>-21</endY>
+      <bendX>112</bendX>
+      <bendY>-105</bendY>
+      <lineWeight>3</lineWeight>
+      <startLineStyle>0</startLineStyle>
+      <endLineStyle>2</endLineStyle>
+    </SDLine>
+    <SDLine x="775" y="576" height="98" width="10" rotation="0" zIndex="0" color="16777215" colorizable="true">
+      <startX>-5</startX>
+      <startY>4</startY>
+      <endX>-266</endX>
+      <endY>13</endY>
+      <bendX>-129</bendX>
+      <bendY>88</bendY>
+      <lineWeight>3</lineWeight>
+      <startLineStyle>0</startLineStyle>
+      <endLineStyle>2</endLineStyle>
+    </SDLine>
+  </sdObjects>
+</SimpleDiagram>

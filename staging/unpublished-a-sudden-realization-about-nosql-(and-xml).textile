@@ -1,0 +1,23 @@
+---
+layout: post
+language: en
+categories:
+    
+tags:
+    - en
+title: A sudden realization about NoSQL
+summary:
+    NoSQL may be bigger, better and meaner, but that's
+---
+
+Nosql. Never been a big fan. Postgres works just fine for me. I'm not developing the next Facebook so I don't need to use the kind of database Facebook uses. I store model data, not http://redis.io/ Relational data, not documents.
+
+But yesterday it hit me. Coders have been on a quest for years on end to abstract SQL away, because we want to be able to use the same frame of mind for querying data that we use for manipulating and filtering datastructures  in code.
+
+One of the big reasons SQL databases took off, I'd guess, is because they promised a general, uniform language for asking questions of data, even if you're not a comp sci grad. Oracle still bases half of its business model on this premise, selling all kinds of reporting tools that, in principle, allow anyone to do useful analysis on your business' data.
+
+But in most apps nowadays nobody ever accesses the database without going through the application. And most of us would much rather fetch clean, straight-up data and do a little processing in code than use SQL to munge, concatenate, split or aggregate data. We don't want to learn two ways of slicing and dicing data if we don't have to.
+
+And that's what redeems NoSQL as a movement. It's not about being better than a SQL database, or even faster or more reliable. It's about a thousand different ways of creating _a coder's database_ . No impedance mismatch. No object-relational mapping.
+
+It's fascinating to see how low ORMs are on the list of priorities of _every_ server-side javascript frameworks, one of the busiest and liveliest new ecosystems and one that doesn't yet know the word "legacy". Why? Well, because why bother when getting started with MongoDB http://www.mongodb.org/ is only a couple of lines away?

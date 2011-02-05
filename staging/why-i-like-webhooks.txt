@@ -1,0 +1,35 @@
+<> http://reprog.wordpress.com/2010/03/03/whatever-happened-to-programming/
+<> gelijkaardige post van Antirez
+
+Webhooks
+
+Een goed idee hoeft niet heel complex te zijn. In het geval van webhooks is het zelfs niet meer dan een nieuwe naam voor iets dat toch al meer dan vijf jaar bestaat. En ik weet niet of er toekomst in zit, maar ik hoop verdorie van wel.
+
+Hoe we omgaan met het web is de laatste vijf jaar drastisch gewijzigd.  web is aan het evolueren van een statische inhoud naar een hele hoop activiteiten en gebeurtenissen.
+
+Ik zal het niet te technisch maken -- het is me te doen over de maatschappelijke impact die webhooks kunnen hebben op ons internetgebruik en onze omgang met computersoftware -- maar het is misschien niet slecht om toch even kort uit te leggen wat webhooks zijn. 
+
+cf. de briljante presentatie http://www.slideshare.net/progrium/web-hooks-and-the-programmable-world-of-tomorrow-presentation
+
+slide 153: "the read-write web gave us user contributed content… i want user contributed (democratized) logic"
+
+* visie dat steeds meer mensen toch een klein beetje zullen leren programmeren
+* API's zijn leuk, maar met huidige api's kan je ofwel (1) data analyseren (2) trends/gebeurtenissen zien door regelmatig te pollen… waarvoor je meteen al een langlopend proces of cron nodig hebt… niet eenvoudig genoeg. Gelijk wat moeten installeren en gelijk wat moeten kopen (zelfs al is het eenvoudige PHP-hosting) is al te veel, en vaak niet genoeg (cron? vergeet het)
+
+Webhooks kunnen draaien op iets als Scriptlets en iedereen die een klein beetje kan programmeren kan er mee overweg (veel scholieren krijgen een basis, maar dan in iets dwaas als Excel, stel je voor dat je op diezelfde tijd hun twitter-account kan laten interageren met facebook. Programmeren wordt plots een stuk leuker)
+
+Voor populaire services kan er bovendien glue code (om het formaat waarin je de data ontvangt of kan terugsturen makkelijker te verzorgen) voorzien worden om alles nog makkelijker te maken — of gewoon al JSON en programmeren in javascript.
+
+Iets als switchub maakt voor populaire services en eenvoudige linkups het programmeren meer de 'icing on the cake' om the really cool stuff te doen, maar verlaagt de barrier-to-entry verder doordat je zelfs niet moet programmeren om toch _iets_ gedaan te krijgen. Het is Yahoo! Pipes maar dan niet enkel voor de dingen die Yahoo support. Cf. ook Gnip onder betalende services.
+
+Check ook mailhook.org en smtp2web om op een eenvoudige manier basic customer support / ticketing te verzorgen zonder veel programmeerkennis.
+
+Voorbeeld:
+
+webhook die elk artikel dat ik like op werktitel.be toevoegt aan mijn Delicious (met de DeliciousAPI amper 5 lijntjes code)
+
+Voorbeeld: 
+
+een 'plugin' die eenvoudige customizatie toelaat van applicaties (achtergrond wijzigen oid.) zonder dat de applicatie ook maar enige pluginsupport moet hebben - gewoon iets sturen en iets terugkrijgen
+
+==> concrete voorbeelden van hoe mijn visie haalbaar is (zeer eenvoudige code)
