@@ -1,109 +1,51 @@
-:bare minimum:
+TODO
 
-- voorlopig geen categorieën en dus ook geen categoriepagina's met bijhorende copy, 
-  maar wel WP tags migreren naar een groot tijdelijk veld
-- geen i18n behalve voorpagina, interface volledig in het Engels
+- alles in één van de volgende categorieën steken: coding, journalism, information architecture, society, business & management, inspirational, personal
+- categoriepagina's zelf niet zo belangrijk, maar activatie van .active class zou wel leuk zijn; ditto voor de taal
 - search via Google
-- 0,5u	pagina dynamisch maken
-- 0,5u	talk dynamisch maken
-- 1u	images via mijn annotate-stuff, maar zo veel mogelijk laten as-is
-- 1u	feeds verzorgen (pythonfeed, feedburner)
-- 0,5u	overschakelen naar Django 1.3
-- 2u	migratie: automatisch (+ html2textile)
-- 3u	migratie: manuele tweaks (imgs terug invoegen?)
-- 1u	comments app integreren en ajaxen (obv. Werktitel-shiz)
+- templates afwerken: post, page, talk en review dynamisch maken
+- feeds verzorgen: per categorie, per taal
+- hand-comben door de migratie en referenties naar afbeeldingen aanpassen
+- Flask comments app maken, integreren en ajaxen (kan wat Werktitel-JS lenen)
+- comments migreren obv. CSV
+- copy afwerken
+- rel-canonical (maar niet voor quotes)
 
-bonus:
-- 1u	migratie: externe comments
-- 1u	caching met Varnish (disabled in debug mode)
-- 1u	CSS en JS beetje cleanen
+NICE TO HAVE
 
-:technische todo:
+- CSS en JS beetje cleanen
+- categoriepagina's
+- post-type pagina's (layout)
+- Jekyll generator voor <figure><img><figcaption></figure>
+- naar equivalente pagina doorlinken bij taalswitch indien bestaand
 
-- 0,5u	overschakelen naar Django 1.3
-- 0,5u	categorieën / types aanmaken en in een fixture steken
-- 4u	overzichtspagina's voor cats, blog, blogtypes, reviews, talks (& blog-archief moet series bundelen)
-- 0,5u	pagina dynamisch maken
-- 0,5u	talk dynamisch maken
-- 2u	foto's en captions (obv. snowglobe + annotate)
-- 2u	i18n: labels
-- 2u	i18n: naar equivalente pagina doorlinken in andere taal indien bestaand
-- 2u	migratie: automatisch (+ html2textile)
-- 2u	migratie: manuele tweaks (imgs terug invoegen?)
-- 1u	migratie: externe comments
-- 1u	comments app integreren en ajaxen (obv. Werktitel-shiz)
-- 1u	CSS en JS beetje cleanen
-- 1u	caching met Varnish (disabled in debug mode)
-- 1u	copy in nl + en afwerken
+BLOG BONUS
 
-= nog ~ 3 fulltime dagen werk voor de boeg, en daarnaast moet ik nog IA reviews schrijven en een blogvoorsprong opbouwen
+- delicious-integratie: categorieën verbinden met tag bundles
+- wat meer html5 tags en semantische dingetjes (DC for auteur en titel, hReview, ...)
+- GA refbacks lokaal bijhouden en naar doorverwijzen
 
-Nice-to-haves:
+CONTENT BONUS
 
-- 0,5u	most popular
-- 0,5u	delicious-integratie
-- 2u	paar semantische dingetjes (auteur, titel, hReview, ...)
-	alsook HTML5 tags (+ html5shiv)
-- 1u	mollom
-
--------
-Phase I
--------
-
-* elegantere layout, die ook reflecteert wat ik nu doe
-  (IA, op zoek naar werk als consultant, OSS projecten)
-  (met phase-out van Typograaf)
-* content strategy beter uitwerken
-	- weekly reviews (Delicious)
-	- Dr. Livingstone
-	(jazz + misschien combineren met foto's en recordings?)
-* basic django
-	- homepage: externe content integreren: guest posts, reacties op blogposts op andere websites, ...
-	- reviews
-	- al de rest nog steeds WP
-* betere categorisering / tags herdenken
-* linode backups
-
---------
-Phase II
---------
-
-* volledig in Django
-	- setup: comments, sass, models maken (blog, ext, talk, review...)
-	- google analytics & feedburner reconfig
-	- migratie van content
-	- manier om foto's en captions te integreren (django-annotate)
-	- theming & feeds
-	- i18n
-	- caching
-	- series aanduiden
-	- graag: mollom, scheduling van posts (evt. met rabbitmq ipv. cron)
-	- voor de lol: semantic metadata (dublin core, hReview)
-	- misschien: categorieën linken aan delicious tags en die ophalen;
-	op termijn misschien hetzelfde voor Flickr
-	- als ik tijd/zin heb: dashboard (comments, backtweets, latest mentions on google, google analytics, ...)
-
----------
-Phase III
----------
-
-* muses ipv. blogroll
-* Textile markup
-* IA reviews met Amazon affiliate links
+- series (speciale pagina voor een serie & backlinks vanuit gelinkte blogposts)
+- notes about persons & orgs + autolinker
+- "where did I write this" (location in YAML front matter)
+- muses
+- IA reviews met Amazon affiliate links
 	(http://www.amazon.tld/dp/1591843065?tag=stdoutbe-20 should work)
 	[COM FR DE UK]
 
---------------------------------
-Ooit, misschien, misschien nooit
---------------------------------
+ADMIN APP BONUS
 
-* essayi.st: betere manier om long-form te schrijven... kan interessant zijn als ik nog essays in aantocht heb, of beslis om een boek te schrijven
+- mollom voor comments app
+- GA houdt data maar 25 maanden bij, dus key metrics alsook dingen zoals refbacks lokaal opslaan, en elke dag GA queryen of er 'verse' data is voor elke URL. Referers is eerste prioriteit, omdat ik daar graag naar kijk en die ook aan lezers getoond kunnen worden. Most popular heeft ook potentieel.
+- backtweets
+- # delicious bookmarks / post (& sitemap.xml)
+- google alerts op mijn naam
 
--------
-PHASE X
--------
+------
 
-- misschien: bij de metadata ook personen, organisaties, gebeurtenissen, dingen (software, standaarden, ...) en plaatsen toevoegen (geotagging zou wel leutig zijn), met een minimaal aantal velden (naam - korte omschrijving - url) -- enfin, hoeft niet allemaal tegelijk
-- ooit: zoekmachine
-	- ooit: meest gelezen posts per jaar
-	- ooit: GA houdt data maar 25 maanden bij, dus key metrics alsook dingen zoals refbacks lokaal opslaan, en elke dag GA queryen of er 'verse' data is voor elke URL.
+STRATEGY
+
+- once the new blog is there, typograaf.be needs to be phased out entirely; GA should be migrated to stdout.be and people sending e-mail to typograaf.be should get an autoreply mentioning my new e-mail address.
+- I want to revaluatie Dr. Livingstone (jazz + misschien combineren met foto's en recordings?)
