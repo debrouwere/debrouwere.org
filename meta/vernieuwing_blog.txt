@@ -1,35 +1,40 @@
 TODO
 
-- alles in één van de volgende categorieën steken: coding, journalism, information architecture, society, business & management, inspirational, personal
-- categoriepagina's zelf niet zo belangrijk, maar activatie van .active class zou wel leuk zijn; ditto voor de taal
-- search via Google
-- templates afwerken: post, page, talk en review dynamisch maken
+V alles in één van de volgende categorieën steken: coding, journalism, information architecture, society, business 
+& management, inspirational, personal
+V active class voor de taal
+V templates afwerken: post, page, talk en review dynamisch maken
+V copy afwerken
+V wat meer html5 tags en semantische dingetjes (DC for auteur en titel, hReview, ...)
+- categoriepagina's zelf niet zo belangrijk, maar activatie van .active class zou wel leuk zijn
+- search via Google (custom-branded?)
 - feeds verzorgen: per categorie, per taal
 - hand-comben door de migratie en referenties naar afbeeldingen aanpassen
 - Flask comments app maken, integreren en ajaxen (kan wat Werktitel-JS lenen)
 - comments migreren obv. CSV
-- copy afwerken
+- copy nog eens nalezen
 - rel-canonical (maar niet voor quotes)
 
 NICE TO HAVE
 
 - CSS en JS beetje cleanen
 - categoriepagina's
-- post-type pagina's (layout)
 - Jekyll generator voor <figure><img><figcaption></figure>
 - naar equivalente pagina doorlinken bij taalswitch indien bestaand
 
 BLOG BONUS
 
 - delicious-integratie: categorieën verbinden met tag bundles
-- wat meer html5 tags en semantische dingetjes (DC for auteur en titel, hReview, ...)
 - GA refbacks lokaal bijhouden en naar doorverwijzen
 
 CONTENT BONUS
 
 - series (speciale pagina voor een serie & backlinks vanuit gelinkte blogposts)
 - notes about persons & orgs + autolinker
-- "where did I write this" (location in YAML front matter)
+- "where did I write this" (location in YAML front matter) + og:location
+	location:
+		description: On the airplane (default: at home / thuis)
+		address: 33 Charlotte Rd, London, UK
 - muses
 - IA reviews met Amazon affiliate links
 	(http://www.amazon.tld/dp/1591843065?tag=stdoutbe-20 should work)
