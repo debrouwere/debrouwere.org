@@ -1,0 +1,33 @@
+MY MARKDOWN/TEXTILE/JADE HYBRID
+
+* support for html5 tags like kbd, highlight, ins, del
+* support for images with captions (figcaption)
+* lists like Markdown, and likewise for headers, blockquotes, code blocks, inline code (backticks)
+* GitHub-style links
+* ``passthrough``
+* Optional pass through typogrify (widont, smartypants, ...)
+
+.whatever			=>	<div class="whatever">
+p.whatever.dude(attr='blah')	=>	<p class="whatever dude" attr="blah">
+#, ##, ...			=>	h1, h2, h3, ...		(setext or atx)
+[link]				=>	<a href="link">link</a>
+[descr|link]			=>	<a href="link>descr</a>
+`code`				=>	<code>
+^super^
+~sub~
+> blockquote
+![img]
+![caption=alt|img]
+![|alt|img]
+![caption||img]
+![caption|alt|img]
+
+* bold & italic etc. within link descriptions and captions
+* q (html5 quote) and attribution for both q and bq
+* both textile and markdown-style OL
+* maybe other microformat / semantic web goodness to give this markup language its own distinct flavor?
+
+POTENTIAL NAMES?
+
+* Dean (after Dean Allen)
+* Kajo (after Robert Cailleau)
