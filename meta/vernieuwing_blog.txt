@@ -24,6 +24,7 @@ NICE TO HAVE
 
 BLOG BONUS
 
+- Something with Delicious? Or should I go for the weekly reviews after all?
 - delicious-integratie: categorieën verbinden met tag bundles
 - GA refbacks lokaal bijhouden en naar doorverwijzen
 
