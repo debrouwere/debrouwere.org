@@ -6,6 +6,7 @@ MY MARKDOWN/TEXTILE/JADE HYBRID
 * GitHub-style links
 * ``passthrough``
 * Optional pass through typogrify (widont, smartypants, ...)
+* Optional paragraph anchors
 
 .whatever			=>	<div class="whatever">
 p.whatever.dude(attr='blah')	=>	<p class="whatever dude" attr="blah">
