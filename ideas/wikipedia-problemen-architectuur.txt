@@ -8,3 +8,6 @@ Wikipedia doet prachtige dingen door interlinking en door zich niet te laten bin
 Hetgeen waarin we Weinberger wel moeten volgen is dat we de structuur van ons domein goed moeten bekijken en eerst goed wikken en wegen voor we overhaast structuur aanbrengen -- structuur die ons domein soms kan mutileren eerder dan het mooi op te delen.
 
 Maar in een wereld waar alles miscellaneous is, kan je nog altijd het verschil maken door wél na te denken over informatie-architectuur. Zo voegen veel sites balkjes toe met 'related content', of widgets die automatisch relevante informatie zoeken… behalve dat die informatie dus de helft van de tijd helemaal niet relevant is en ook geen diepere verbanden tussen inhoud (x volgt op y, x is een reactie op y, x weerlegt y, …) duidelijk maakt.
+
+
+http://sheddingbikes.com/posts/1297662169.html
