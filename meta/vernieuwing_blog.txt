@@ -8,12 +8,24 @@ V copy afwerken
 V wat meer html5 tags en semantische dingetjes (DC for auteur en titel, hReview, ...)
 V comments migreren
 V Flask comments app: read-only
+V categoriepagina's zelf niet zo belangrijk, maar activatie van .active class zou wel leuk zijn
+V feeds verzorgen: per categorie, per taal
+V hand-comben door de migratie en referenties naar afbeeldingen aanpassen
 - prev/next bij reviews
-- categoriepagina's zelf niet zo belangrijk, maar activatie van .active class zou wel leuk zijn
-- feeds verzorgen: per categorie, per taal
-- hand-comben door de migratie en referenties naar afbeeldingen aanpassen
 - copy nog eens nalezen
 - rel-canonical (maar niet voor quotes)
+- check if all comments are present
+
+PRE/POST-LAUNCH
+
+I
+* last go through all copy and blog posts (missing images? weird copy?)
+
+II
+* check whether redirects are working
+* set up an "all" feed redirect and create a new feedburner feed for that
+* check whether feed redirects are working
+* verify whether comments get loaded
 
 NICE TO HAVE
 
