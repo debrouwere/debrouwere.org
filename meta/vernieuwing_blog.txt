@@ -6,17 +6,19 @@ V active class voor de taal
 V templates afwerken: post, page, talk en review dynamisch maken
 V copy afwerken
 V wat meer html5 tags en semantische dingetjes (DC for auteur en titel, hReview, ...)
+V comments migreren
+V Flask comments app: read-only
+- prev/next bij reviews
 - categoriepagina's zelf niet zo belangrijk, maar activatie van .active class zou wel leuk zijn
-- search via Google (custom-branded?)
 - feeds verzorgen: per categorie, per taal
 - hand-comben door de migratie en referenties naar afbeeldingen aanpassen
-- Flask comments app maken, integreren en ajaxen (kan wat Werktitel-JS lenen)
-- comments migreren obv. CSV
 - copy nog eens nalezen
 - rel-canonical (maar niet voor quotes)
 
 NICE TO HAVE
 
+- Flask comments app: writable (& html cleanen!) en ajaxy (kan wat Werktitel-JS lenen)
+- search via Google (custom-branded?)
 - CSS en JS beetje cleanen
 - categoriepagina's
 - Jekyll generator voor <figure><img><figcaption></figure>

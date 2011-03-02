@@ -1,16 +1,18 @@
 MY MARKDOWN/TEXTILE/JADE HYBRID
 
+* Javascript (perhaps w/ Jison?) so it can work both client-side and server-side.
 * support for html5 tags like kbd, highlight, ins, del
 * support for images with captions (figcaption)
+* autolink URLs
 * lists like Markdown, and likewise for headers, blockquotes, code blocks, inline code (backticks)
 * GitHub-style links
 * ``passthrough``
 * Optional pass through typogrify (widont, smartypants, ...)
-* Optional paragraph anchors
+* Paragraph anchors (with prefix of choice, handy if you want anchors on e.g. each paragraph for each comment on a page)
 
 .whatever			=>	<div class="whatever">
 p.whatever.dude(attr='blah')	=>	<p class="whatever dude" attr="blah">
-#, ##, ...			=>	h1, h2, h3, ...		(setext or atx)
+#, ##, ...			=>	h1, h2, h3, ...		(setext or atx, like Markdown)
 [link]				=>	<a href="link">link</a>
 [descr|link]			=>	<a href="link>descr</a>
 `code`				=>	<code>
@@ -18,13 +20,17 @@ p.whatever.dude(attr='blah')	=>	<p class="whatever dude" attr="blah">
 ~sub~
 > blockquote
 ![img]
-![caption=alt|img]
+![caption-which-will-equal-alt|img]
 ![|alt|img]
 ![caption||img]
 ![caption|alt|img]
+|highlight this part| of the phrase
+-delete this- (tricky, thinking about widont/smartypants)
++add this+
+<control-shift A> kbd instruction
 
 * bold & italic etc. within link descriptions and captions
-* q (html5 quote) and attribution for both q and bq
+* q (html5 quote) and attribution for both q and bq	@This is an inline quote@(Paul Bradshaw)
 * both textile and markdown-style OL
 * maybe other microformat / semantic web goodness to give this markup language its own distinct flavor?
 
