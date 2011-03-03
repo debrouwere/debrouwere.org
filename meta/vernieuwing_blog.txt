@@ -1,24 +1,7 @@
-TODO
-
-V alles in één van de volgende categorieën steken: coding, journalism, information architecture, society, business 
-& management, inspirational, personal
-V active class voor de taal
-V templates afwerken: post, page, talk en review dynamisch maken
-V copy afwerken
-V wat meer html5 tags en semantische dingetjes (DC for auteur en titel, hReview, ...)
-V comments migreren
-V Flask comments app: read-only
-V categoriepagina's zelf niet zo belangrijk, maar activatie van .active class zou wel leuk zijn
-V feeds verzorgen: per categorie, per taal
-V hand-comben door de migratie en referenties naar afbeeldingen aanpassen
-V prev/next bij reviews
-V rel-canonical (maar niet voor quotes)
-V copy nog eens doornemen
-- check if all comments are present
-
 PRE/POST-LAUNCH
 
 I
+* check if all comments are present
 * last go through all copy and blog posts (missing images? weird copy?)
 
 II
@@ -26,46 +9,3 @@ II
 * set up an "all" feed redirect and create a new feedburner feed for that
 * check whether feed redirects are working
 * verify whether comments get loaded
-
-NICE TO HAVE
-
-- Flask comments app: writable (& html cleanen!) en ajaxy (kan wat Werktitel-JS lenen)
-- search via Google (custom-branded?)
-- CSS en JS beetje cleanen
-- categoriepagina's
-- Jekyll generator voor <figure><img><figcaption></figure>
-- naar equivalente pagina doorlinken bij taalswitch indien bestaand
-
-BLOG BONUS
-
-- Something with Delicious? Or should I go for the weekly reviews after all?
-- delicious-integratie: categorieën verbinden met tag bundles
-- GA refbacks lokaal bijhouden en naar doorverwijzen
-
-CONTENT BONUS
-
-- series (speciale pagina voor een serie & backlinks vanuit gelinkte blogposts)
-- notes about persons & orgs + autolinker
-- "where did I write this" (location in YAML front matter) + og:location
-	location:
-		description: On the airplane (default: at home / thuis)
-		address: 33 Charlotte Rd, London, UK
-- muses
-- IA reviews met Amazon affiliate links
-	(http://www.amazon.tld/dp/1591843065?tag=stdoutbe-20 should work)
-	[COM FR DE UK]
-
-ADMIN APP BONUS
-
-- mollom voor comments app
-- GA houdt data maar 25 maanden bij, dus key metrics alsook dingen zoals refbacks lokaal opslaan, en elke dag GA queryen of er 'verse' data is voor elke URL. Referers is eerste prioriteit, omdat ik daar graag naar kijk en die ook aan lezers getoond kunnen worden. Most popular heeft ook potentieel.
-- backtweets
-- # delicious bookmarks / post (& sitemap.xml)
-- google alerts op mijn naam
-
-------
-
-STRATEGY
-
-- once the new blog is there, typograaf.be needs to be phased out entirely; GA should be migrated to stdout.be and people sending e-mail to typograaf.be should get an autoreply mentioning my new e-mail address.
-- I want to revaluatie Dr. Livingstone (jazz + misschien combineren met foto's en recordings?)
