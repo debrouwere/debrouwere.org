@@ -11,9 +11,9 @@ V Flask comments app: read-only
 V categoriepagina's zelf niet zo belangrijk, maar activatie van .active class zou wel leuk zijn
 V feeds verzorgen: per categorie, per taal
 V hand-comben door de migratie en referenties naar afbeeldingen aanpassen
-- prev/next bij reviews
-- copy nog eens nalezen
-- rel-canonical (maar niet voor quotes)
+V prev/next bij reviews
+V rel-canonical (maar niet voor quotes)
+V copy nog eens doornemen
 - check if all comments are present
 
 PRE/POST-LAUNCH

@@ -27,7 +27,7 @@ p.whatever.dude(attr='blah')	=>	<p class="whatever dude" attr="blah">
 |highlight this part| of the phrase
 -delete this- (tricky, thinking about widont/smartypants)
 +add this+
-<control-shift A> kbd instruction
+<control-shift A> kbd instruction ==> may be overdoing it, the interesting thing about Textile and Markdown is that they allow plain html, so we could just have, guess what, <kbd>keyboard instruction</kbd>
 
 * bold & italic etc. within link descriptions and captions
 * q (html5 quote) and attribution for both q and bq	@This is an inline quote@(Paul Bradshaw)
