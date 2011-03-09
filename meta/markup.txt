@@ -7,6 +7,7 @@ MY MARKDOWN/TEXTILE/JADE HYBRID
 * lists like Markdown, and likewise for headers, blockquotes, code blocks, inline code (backticks)
 * GitHub-style links
 * ``passthrough``
+* Jade block tag descriptors
 * Optional pass through typogrify (widont, smartypants, ...)
 * Paragraph anchors (with prefix of choice, handy if you want anchors on e.g. each paragraph for each comment on a page)
 
@@ -17,24 +18,39 @@ p.whatever.dude(attr='blah')	=>	<p class="whatever dude" attr="blah">
 [descr|link]			=>	<a href="link>descr</a>
 `code`				=>	<code>
 ^super^
-~sub~
-> blockquote
+> blockquote (w/ multiline support)
 ![img]
 ![caption-which-will-equal-alt|img]
 ![|alt|img]
 ![caption||img]
 ![caption|alt|img]
 |highlight this part| of the phrase
--delete this- (tricky, thinking about widont/smartypants)
+~delete this~
 +add this+
-<control-shift A> kbd instruction ==> may be overdoing it, the interesting thing about Textile and Markdown is that they allow plain html, so we could just have, guess what, <kbd>keyboard instruction</kbd>
 
 * bold & italic etc. within link descriptions and captions
-* q (html5 quote) and attribution for both q and bq	@This is an inline quote@(Paul Bradshaw)
-* both textile and markdown-style OL
+* q (html5 quote) and attribution for both q and bq	"This is an inline quote"@[Paul Bradshaw]
+* markdown-style OL, but should also work with
+	X. one
+	X. two
+	X. three
 * maybe other microformat / semantic web goodness to give this markup language its own distinct flavor?
+
+No support:
+	- kbd
+	- sub
+
+Candidates for inclusion: 
+	- abbr
+	- samp
+
+The interesting thing about Textile and Markdown is that they allow plain html, so we could just have, for example, <kbd>keyboard instruction</kbd>. So we shouldn't want/try to create an alternative syntax to HTML.
 
 POTENTIAL NAMES?
 
 * Dean (after Dean Allen)
 * Kajo (after Robert Cailleau)
+
+BRANDING
+
+* Archer font, all lowercased
