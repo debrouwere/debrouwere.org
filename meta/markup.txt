@@ -48,8 +48,9 @@ The interesting thing about Textile and Markdown is that they allow plain html, 
 
 POTENTIAL NAMES?
 
-* Dean (after Dean Allen)
-* Kajo (after Robert Cailleau)
+* Dean (after Dean Allen) 		2010-my-post.dean
+* Kajo (after Robert Cailleau)		2010-my-post.kajo
+* Tulsa (just because I like it)	2010-my-post.tulsa
 
 BRANDING
 
