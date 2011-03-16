@@ -1,0 +1,18 @@
+Information Architecture for News Websites - first revision (2011)
+
+STAP EEN...
+
+is alle verschillende ideeën in mij serie onderscheiden. Binnen elke post zitten meestal twee tot vijf thema's verwerkt. Soms is er focus (bv. wanneer ik spreek over navigatie), soms niet. Bv. bij "info biz" bespreek ik het idee van core business, er zit een stuk geschiedenis in enz enz.
+
+VERDER
+
+* meer onderscheid maken tussen mijn mening en aanvaarde principes
+* typologie van nieuwswebsites: niet enkel de nadruk op krantenwebsites, maar duidelijk maken hoe verschillende soorten media een verschillende aanpak nodig hebben
+* design library
+* sterke descriptieve focus (maar doen we de Zed Shaw-aanpak, of meer traditioneel als voorbeelden van theorie?)
+* levend document met revisies (en paragraph-level anchors) is misschien leuker dan één herwerking
+
+IA for news reprise:
+=> originally meant as posts outlining a vision, with a nutty thought here and there and some experimental suggestions, but it reached a way broader audience than IAs, and a lot of people read it more like a a "state of things" (we are in the info biz, search) or authoratitative statement of where things are headed.
+
+So, with this reprise, I want to split off the experiments and loose thoughts from the overview of the "state of things" -- so that it can serve as both a primer and something that'll get you thinking about possible future avenues)

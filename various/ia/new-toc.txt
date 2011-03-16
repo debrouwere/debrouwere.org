@@ -1,0 +1,23 @@
+Misschien kan het geheel gepresenteerd worden in de dichotomie back-end / front-end?
+
+* Een goede (front-end) navigatie vraagt nauwkeurige aandacht, maar je kan ze niet realiseren zonder aandacht voor categorisering
+* Verschillende news formats zijn goed voor verschillende dingen... maar om flexibel verschillende formaten te kunnen brengen, én dezelfde informatie in verschillende formaten, heb je aandacht nodig voor structuur en ontologie.
+* Repurposing voor verschillende kanalen brengt front-end en content-strategy uitdagingen met zich mee (shovelware, of doen we iets meer?) maar ook back-end uitdagingen (markdown vs. markup)
+
+---
+
+* exploring information
+  * connecting content
+    - by categorizing: tags, taxonomies
+    - by specifying how things relate to each other: ontologies
+  * navigation
+    - navigation
+    - search
+* dealing with information
+  - structured data and news formats
+  - markup
+  - the basic unit of information
+* presenting information
+  - different content types and what they're good for
+  - news website layouts
+  - different platforms and their strengths

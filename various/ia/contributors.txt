@@ -1,0 +1,57 @@
+------------
+CONTRIBUTORS
+------------
+
+[keep it short]
+
+Dear X Y, 
+
+<intro & vraag om medewerking>
+
+I don't know if my name has ever crossed your radar, but I did a modestly influential series on information architecture for news websites last year: http://stdout.be/2010/04/06/information-architecture-for-news-websites/ When I wrote it, I figured it'd just be an idea dump, but I've since noticed that people keep using it as some sort of a reference... which scares me a little. But then again, there isn't any reference or a book about IA for news, so it's not surprising that people take what they can get.
+
+...
+
+We could surely do an e-book and dead-tree book as well, but I think a free online version is key, especially for people in our industry who make money, first and foremost, through being known.
+
+Or if the traditional e-book-ish deal doesn't sound very appealing, the "Advent" format can be pretty cool too.
+
+---
+
+A ton of ways to contribute: 
+
+* Examples, showcases... anything "empirical"
+* Theory, guides, explanations, ... "what it's all about"
+* Short pieces where you talk about a wacky idea or vision you have; something to inspire and whet people's appetites
+
+If you're not up for such a time investment: 
+
+* Details: part of a website of an experience that you like, with just a single paragraph telling us what's so good about it (as part of a "design library")
+* Links to must-read reference material
+* Thoughts on topics we definitely need to cover (show tentative TOC)
+
+---
+
+Potential people to ask: 
+
+* Paul Rissen (about ?)
+* Jeffrey MacIntyre (content strategy; round up people he knows)
+* Paul Nus (platform-neutral publishing)
+* Matt Waite (innovation at the core; round up people he knows)
+* Paul Ford (about ?)
+* Heather Hedden (taxonomy)
+* Mirko Lorenz (about ?)
+* Ryan Pitts (co-author a piece about navigation? Topic page best practices?)
+
+Aim high (niet noodzakelijk "betere" auteurs, maar potentieel moeilijker te strikken, en vraag ik dus beter nadat ik al andere mensen heb kunnen overtuigen):
+* Martin Belam (e.g. about linking strategies / tyranny of chronology)
+* Matt Thompson (context)
+* Adrian Holovaty (structured data)
+* Peter Morville (co-author a piece about search?)
+
+Also
+* check my Delicious bookmarks
+
+For an intro or blurbs: 
+* Chuck Peters
+* Bill Grueskin
