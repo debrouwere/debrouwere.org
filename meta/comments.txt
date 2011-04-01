@@ -1,0 +1,5 @@
+http://docs.disqus.com/help/58/		data synchronization & server-side display
+
+Q: custom layouts?
+Q: disable threading?
+Q: webhooks for data synchronization?
