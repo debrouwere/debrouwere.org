@@ -1,0 +1,62 @@
+---
+layout: page
+title: Planning ahead
+---
+
+Once you've decided to undertake a community-centric endeavor, it's important to plan it right.
+
+Robert Niles "suggests you ask the following questions":http://www.knightdigitalmediacenter.org/leadership_blog/20100518_robert_niles_the_news_publisher_as_community_organizer/:
+
+# Ask yourself: What are three problems facing your community?
+# Who or what can help you solve one or more of these problems?
+# What are three tools or methods you can use to connect those resources to your community? (Guest posts, meetups, news apps, advertising.)
+# What are three ways of getting the community to notice what you’re doing?
+# What are three ways to get participation in your solution? How will you make sure it resonates with people and meshes with their intrinsic motivations?
+# What are three ways to evaluate your success or failure?
+# Execute and iterate.
+
+One of the things I like most about Niles' approach is that it doesn't try to overdo things. You'll learn most during iterations, even if the project ends up falling short of its goals, so big feasability studies or extensive orchestration won't help you.
+
+Do your due diligence, but don't get stuck perfecting your strategy at precisely the stage when you know _least_ about how people will respond to what you do.
+
+Another useful nugget of general project management advice is that you _must_ make sure to decide beforehand how you'll measure the success of your efforts. Get a good grip on where you are now, and what would change for the better if everything goes according to plan. It's the only way to keep your sanity months down the line.
+
+h2. Potential metrics for user engagement
+
+It's tricky to to measure user engagement by the number of pageviews you're getting. "Measuring relevance, in whatever way possible, is often more valuable than the raw number of clicks or ad views.":http://www.skepticgeek.com/socialweb/the-evolution-from-numbers-to-relevance/
+
+Mahendra Palsule sums up the conceptual shift in the following table: 
+
+| Numbers Model         | Relevance Model                |
+| # of Followers        | Context-driven Lists           |
+| # of Clicks           | # of Interactions              |
+| # of Page Views       | # of Returning Visitors        |
+| # of Ads Displayed    | Time spent on site             |
+| # of Ads Clicked      | # of Subscriptions Gained      |
+| Obnoxious Ads         | Relevant Ads                   |
+| Influence Management  | Dynamic Social Graph           |
+| Sharing Orgy & Noise  | Curation                       |
+| Information Overload  | Filtered, Relevant Information |
+| Traffic Economy       | Attention Economy              |
+| SEO and SMO           | Personalization                |
+
+While the number of unique visitors remains an important metric, here are some other ideas: 
+
+* The amount of subscribers to your print products or e-mail newsletters.
+* The amount of active users on your website (people who log in at least once weekly)
+* The amount of engaged users on your website (people who comment at least once weekly)
+* The amount of traffic directed at pages that provide context: topic pages, q&a's, links to resources and data journalism.
+* Visitor loyalty (repeat visits)
+* The ratio between all comments and accepted comments, or all comments and featured comments.
+* Correlations between how engaging each writer is (indicated by the amount of comments his or her pieces get, pageviews, the amount of times a piece has been retweeted), what topics they cover and how they cover them (which genres, how long is the average piece, does the author respond to comments often).
+* Correlations between certain types of stories (distinguished by mood, length, genre and time to read) and popularity.
+* Track which parts of stories users copy-paste, to see what catches their attention.
+* The amount of pages a reader visits per session, and how long that takes them.
+* Average time spent on the site each month.
+
+Some of these can be used on a daily or hourly basis, to tweak coverage according to what works and what doesn't. A daunting but on the other hand an almost natural next step, once you've decided you care about people and their needs and wishes.
+
+<nav class="prevnext">
+    <a href="formats" class="previous">formats</a>
+    <a href="conclusion" class="next">conclusion</a>
+</nav>

@@ -1,0 +1,44 @@
+---
+layout: post
+title: Context is not a bolt-on
+---
+
+In a world where everybody read the daily newspaper, providing context to the news wasn't really that much of an issue. You could assume that most of your readers knew what you were talking about. You wouldn't have to "recount every story from the very start":http://www.theatlantic.com/magazine/archive/2010/01/cut-this-story/7823/. Not that the pre-Internet days and the golden years for journalism meant people always grasped the bigger picture. But they had enough background information in their brains to at least follow the smaller picture as it evolved. News magazines took care of the rest.
+
+Of course, habits have changed and we're now reading news from different sources, at different times (sometimes not at all) and don't feel bad about skipping front-page stories if they don't look enticing. Newspapers and news websites have to deal with a new kind of audience.
+
+Plus, the idealized picture I painted above was always exactly that: idealized. Having had a good fifteen years to familiarize ourselves with the Internet and its power, we now all know exactly _how_ far from that ideal we are.
+
+Online, where space is bountiful and multimedia and interactive storytelling easy, it really just requires us to recognize how poor our current focus on today's news is at "meeting people's information needs":http://www.yelvington.com/daily-journalism-and-monkey-screech.
+
+The trouble is that it's getting harder for people "to understand":http://www.nieman.harvard.edu/reportsitem.aspx?id=101886 the news. Not the trivia and entertainment, but the chunky bits, the real stuff, the long-standing issues.
+
+If we really want those chunky bits, we go to Wikipedia. Not to The Guardian or the New York Times. It's easier that way.
+
+Thus far, nothing new. "Tristan Harris":http://www.tristanharris.com/2010/03/context-the-future-of-the-web-inklings-of-sxsw/, "Elise Hu":http://elisehu.wordpress.com/2010/03/15/contextualizing-context/, "Jay Rosen":http://archive.pressthink.org/2010/03/07/what_i_plan_to.html and "Matt Thompson":http://newsless.org/2010/03/the-case-for-context-my-opening-statement-for-sxsw/ have been telling you this ad nauseum.
+
+They've also told you about the tools you can use. "Wikis":http://daviswiki.org/, "widgets":http://www.apture.com/, "Q&A's":http://explainer.net/, "topic":http://www.spokesman.com/topics/mlk-bomb/  "pages":http://topics.nytimes.com/top/news/international/countriesandterritories/libya/index.html, "better":http://www.currybet.net/cbet_blog/2009/07/the-tyranny-of-chronology-part-2.php "tagging":http://stdout.be/2010/04/07/tags-dont-cut-it/, "special coverage":http://jacksonville.com/news/cityofhope and "story trackers":http://www.guardian.co.uk/science/blog/2010/jun/09/science-story-trackers.
+
+But it's not working. Not really.
+
+The New York Times has superb topic pages. But surf to the New York Times' website, click on any story and see how long it takes you to find those topic pages and other background information? If you eventually manage to find what you need, kudos. You're obviously very committed to learn more. But wasn't the whole "we need context" meme prompted by the acknowledgement that most readers get confused and quit way before that stage?
+
+Topic pages, story trackers and Q&A's fail because they're never an integral part of a news website. They're Google landing pages, designed to poach some traffic from Wikipedia.
+
+Or we provide background information that hardly gets read, because, as Elise Hu "said last year":http://elisehu.wordpress.com/2010/03/15/contextualizing-context/:
+
+bq. Currently we present it as “more information”. The consumer doesn’t necessarily want “more information”. We want to present the minimum you need to understand a subject, and then develop that as your need for more increases.
+
+If there's one thing we have to realize about context, it's that it's really not just about the information you provide, but also about how you provide it.
+
+Quite a decent number of newspapers have webpages about important topics they cover. Not all, but at least some newspapers are doing an effort to bring more analysis and become more like a news magazine. Reporters are experimenting with telling the bigger picture through databases and visualizations. But what no newspapers, online or offline, seems to have perfected is how this broad, topical information stream should mesh with the daily news that's presented on our front page.
+
+If somebody clicks on a story and is dazzled by an array of unfamiliar names and places and events, how do we turn that experience around?
+
+How do you help people landing on a story through Google, when that story happens to detail but a tiny part of a long and complex issue? Or when a friend forwards them a link to that story, perhaps falsely assuming that their pals are as familiar with the background details as they are?
+
+If people search through your website, will you guide them to topics first, or will they get a list of individual stories and updates to stories?
+
+News websites aren't informing their readers nearly as well as they could be, and it's because they don't embrace contextualizing the news as a central part of their operations. If we continue to view context as a bolt-on, rather than as a true call for an overhaul of the way we present the news, we'll continue to become less relevant and we'll continue to lose money.
+
+News designers have a big challenge ahead. We need to figure out new ways to present information, but more importantly, design pathways and flows that guide readers where they need to be. I pray for the day when online newspapers stop mimicking their dead tree counterparts and start looking like they were made for the web.
