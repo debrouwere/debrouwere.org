@@ -3,15 +3,15 @@ layout: page
 title: Putting news into context
 ---
 
-Context is not rocket science.
+If you analyze the whole "future of context":http://www.futureofcontext.com/ "meme":http://www.knightdigitalmediacenter.org/leadership_blog/comments/20100316_news_in_context/, which culminated at "last year's SXSW":http://panelpicker.sxsw.com/ideas/view/3861, you'll see a nice divide between those who think we have yet to invent the tools and designs to properly put the news into context, or at least to do so in an engaging way, and on the other hand people who put high hopes in the power of existing efforts like wikis, topic pages and the good old hyperlink to _do the context thing_.
 
-The easiest and fool-proof way to provide context is simply _by providing context_. Create overview pages for big topics. Ensure your stories contain a good amount of hyperlinks, and refer back to previous coverage. Refer people to overviews and specials on your own site and elsewhere.
+While I sympathize with the first camp and do feel like we haven't yet found out "what a true context-centric news website would look like":http://blogpost-about-context-as-bolt-on, I'm convinced that most news websites simply fail to provide adequate background information because they're not aware that the focus on day-to-day news updates is really as myopic as it is.
 
-Most newspapers fail to provide adequate information for people new to a topic (and those who simply need a refresher or some bearings) is because they're not aware that day-to-day publishing is really a problem. Providing deeper coverage on an issue usually happens in Sunday newspapers and in carefully crafted specials. That's great, but context isn't _special_, it's what everybody except for the most ardent news junkies need to fully enjoy and understand the news.
+Once news websites do realize the folly of their ways, the good old topic page can go a long way if well-implemented.
 
-The first step, then, to becoming a news organization that cares about context, is to make it a routine aspect of staff meetings and the story budgeting process. We'll repeat this comment later when we talk about community management: most newspapers could do so much more and it wouldn't require even the tiniest bit of innovation. Just that you care.
+If well implemented. Which most topic pages really are not. And that got me to thinking about what the perfect topic page should look like. Here's what I've got thus far.
 
-Once a newsroom has all its ducks in a row, mind you, there's all sorts of fun stuff we can do to be a better information provider. Here's some inspiration.
+
 
 h2. Topic pages
 
@@ -87,3 +87,7 @@ While story trackers don't provide the big picture that a topic page does, that'
 Story trackers can be used both to cover breaking news, but also, as The Guardian shows, to cover a larger issue, like the relationship between DNA and autism, over the course of years. You're free to use them as flexibly as you want.
 
 Story trackers and topic pages are perfect complements. When follow-up stories are bundled together, you can avoid having a big mass of undifferentiated links on your topic pages, and instead show different lines of investigation. "Autism" could be the topic, whereas "DNA and autism" would be a bundle of follow-up stories, along with other potential bundles like "Special education for children with autism".
+
+
+
+I'd love to hear your thoughts and get my hands on other good examples of both topic pages and variations on the genre like story trackers. So bring 'em on.
