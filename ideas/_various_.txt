@@ -1,23 +1,4 @@
-- Flask: a nice little prebuilt 
-
-* deliverance en interactie met javascript / AHAH / AJAX, en of dat niet net een reden is om APIs te gebruiken (cf. twitter.com) --- via deliverance kan je AHAH responses ook wel transformen, maar met gewone AJAX die in javascript getemplatet wordt (bv. met jQuery.tmpl); en sowieso leidt het tot een grotere uitdaging. Het is niet meer zomaar effe twee of drie themepagina's wijzigen, je moet ook AHAH transformeren (valt nog mee) en javascript herschrijven (indien AJAX dingen injecteert ergens waar niet meer bestaat, of met een structuur die niet overeenkomt met de rest). Dus zit je weer in de internals.
-
-* http://www.martinaspeli.net/articles/developer-centric-version-control-considered-harmful => scaremongering, is in de praktijk nooit een probleem; bovendien is er met gitflow / nvie + semver wél een een aanvaarde methodologie, en de projectwebsite leidt steeds naar de aanvaarde masterversie; het centrale repository hoeft ook niet beheerd te worden door één persoon. Gewoon in Git kan iedereen met de juiste permissies andere repo's naar binnen pullen, en in GitHub heb je de organizations feature.
-
-"What if I come back after a few months and decide I wanted to own the project all along? We now need to reconcile the two forks. This may be tricky. Perhaps we don't do it. People now have to figure out which one of two versions of the software to "bet" on." => dit is ook bullshit, in het geval van SVN zou iemand ook een fork maken als jij niet responsief bent.
-
-De realiteit is dat Git voor de meeste niet-te-kleine-niet-te-grote projecten identiek werkt aan Subversion, met als enige verschil dat GitHub veel vriendelijker is en Git veel zinniger errors geeft, wat het makkelijker maakt om mee te vertrekken, niet moeilijker.
-
-cf. http://www.garbas.si/blog/2010/i-disagree-developer-centric-version-control-considered-harmful
-
-
-
-
 "I once spent about twenty minutes searching for my copy of Ambient Findability, which I knew was lying around somewhere in my room. The irony does not escape me."
-
-* web-to-print *
-
-<< en dan tot slot hoe zoiets bij een expansie naar print ook voor een enorm voordeel kan zorgen: je hebt al een winstgevende website plus redactieplatform, en het enige dat je dan nodig hebt is voldoende eindredactie om zoiets op papier te krijgen (en deals tussen verschillende nichepublicaties!); je kostenstructuur voor print is dus een pak kleiner dan moest je _beginnen_ met een gedrukt magazine, en de vraag of je online winst zal kunnen maken is ook irrelevant >>
 
 * iets over de verborgen voordelen van transparantie, en de verborgen nadelen van geheimhouding *
 
@@ -37,24 +18,9 @@ Netlash ("Dirk zorgt ervoor dat alle projecten verlopen zoals het moet, is meest
 
 => of misschien eens over mailen met Kristina Holvorson
 
-* isn't curation just adding more noise? *
-
-=> over hoe veel curation, door content samen te bundelen in nieuwe big blobs of text, gewoon meer noise toevoegt en maar passing value toevoegt. Curation zou ook moeten bestaan uit dingen écht te annoteren & metadata toe te voegen, door er naar te verwijzen vanuit topic-pagina's enz.
-
 * over de miserie van non-native speakers die Engels proberen spreken op conferenties *
 
 ... het moet, maar het is een miserie en haalt het niveau / de geheelervaring enorm naar beneden.
-
-* avoiding extreme polyhierarchy *
-
-http://www.useit.com/alertbox/ia-mistakes.html
--> kan je vermijden door 
-	1) tja, ten eerste, goed na te denken en niet te snel 'poly' te gaan
-	2) belangrijker: een primaire ouder aan te duiden, zodat je mensen
-	visuele cues kan geven dat je iets weergeeft dat eigenlijk uit een
-	andere categorie komt
-
-	==> (grafisch) voorbeeldje geven van hoe dat er uit kan zien
 
 * De erfenis van John Dewey *
 
@@ -102,16 +68,9 @@ De combo RSS-reader en delicious is zeer krachtig.
 
 * The opportunity of a lifetime *
 
-Over hoe mensen vaak verkeerde inschattingen maken van wat "een unieke kans" is. Je moet nadenken over hoeveel je precies moet opgeven, hoeveel werk je _nu_ moet doen om van die kans gebruik te maken, en hoeveel werk die kans met zich mee zal brengen, wat er gebeurt moest je die kans niet hebben, wat de nadelen zouden zijn moest je die kans wél hebben. Bv. een zeer goede klant erbij nemen als je agenda al vol zit omdat zo'n klant op je portfolio hebben een prachtige kans is, is een verkeerde redenering. Het alternatief is ook niet per sé dat je die klant nooit op je portfolio hebt — misschien is afzeggen net het beste, en contact houden zodat je misschien binnen zes maanden of een jaar wél de kans van je leven krijgt, zijnde een kans die zeer opportuun komt, en waar je van gebruik kunt maken zonder dat er enige addertjes in het gras zijn of shiz die je aims kan frustreren.
+Over hoe mensen vaak verkeerde inschattingen maken van wat "een unieke kans" is. Je moet nadenken over hoeveel je precies moet opgeven, hoeveel werk je _nu_ moet doen om van die kans gebruik te maken, en hoeveel werk die kans met zich mee zal brengen, wat er gebeurt moest je die kans niet hebben, wat de nadelen zouden zijn moest je die kans wél hebben.
 
-* A website should be like a person *
-
-Onderbouwde visie op 
-- authenticiteit
-  > in communicatie
-  > in content (bv. techdirt is net bèter omdat je weet dat hij libertair is)
-- het belang van menselijkheid in interaction design
-  > cf. mijn visie op search
+Bv. een zeer goede klant erbij nemen als je agenda al vol zit omdat zo'n klant op je portfolio hebben een prachtige kans is, is een verkeerde redenering. Het alternatief is ook niet per sé dat je die klant nooit op je portfolio hebt — misschien is afzeggen net het beste, en contact houden zodat je misschien binnen zes maanden of een jaar wél de kans van je leven krijgt, zijnde een kans die zeer opportuun komt, en waar je van gebruik kunt maken zonder dat er enige addertjes in het gras zijn of shiz die je aims kan frustreren.
 
 * Nieuwe vormen van journalistiek *
 

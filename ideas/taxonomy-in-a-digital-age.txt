@@ -47,3 +47,18 @@ When linking content to a relevant person, it makes sense to have a person be an
 If this all sounds too abstract: it's like having your own variants on `CrunchBase <www.crunchbase.com>`_ for persons, companies, organizations, local places in Iowa and so on, and using links to these databases as contextual information to any story you write. You can see these entity databases in use at `TechCrunch <http://techcrunch.com/>`_, although there's more potential in ontologies than what you'll see there.
 
 My recommendation on taxonomy construction is simple: use polyhierarchical taxonomies to indicate abstract topics and themes, but use ontologies for everything else.
+
+
+
+
+
+* avoiding extreme polyhierarchy *
+
+http://www.useit.com/alertbox/ia-mistakes.html
+-> kan je vermijden door 
+	1) tja, ten eerste, goed na te denken en niet te snel 'poly' te gaan
+	2) belangrijker: een primaire ouder aan te duiden, zodat je mensen
+	visuele cues kan geven dat je iets weergeeft dat eigenlijk uit een
+	andere categorie komt
+
+	==> (grafisch) voorbeeldje geven van hoe dat er uit kan zien

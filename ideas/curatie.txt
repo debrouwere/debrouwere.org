@@ -1,0 +1,36 @@
+[potentiële Nederlandstalige follow-up van mijn Engelstalige post over "voorbij trend-watching" gaan]
+
+Maar in ons taalgebied komt er eigenlijk niemand in de buurt van wat het zou moeten zijn. http://www.nieuws.be/ is banaal. http://welingelichtekringen.nl/ doet het beter, maar als echte nieuwsbron kan je bij hen niet terecht, het is meer een online magazine waar een aantal belangrijke issues wel aan bod komen, maar itt. de Guardian of de NYT krijg je geen achterliggende context, niet "wat ging hier aan vooraf", geen reporting.
+
+Welingelichte Kringen is bovendien opgesteld volgens het oude Reader's Digest model: je haalt je onderwerpen uit de grote kranten, en je maakt daar een selectie uit plus wat duiding. Het moet beter. We moeten vinden wat belangrijk is, ook al staat het op de meest obscure blog of ook al heeft niemand er al van gehoord. Wij vinden de verborgen juweeltjes, dus wij bepalen waar mensen over spreken op twitter en facebook, in plaats van te kijken welke 'buzz' gaande is en die dan pas (veel te laat!) in onze berichtgeving te verwerken. En we brengen die berichtgeving op onze eigen manier, met een eigen stijl, niet zomaar als droge samenvatting.
+
+http://www.viewsflow.com/ toont wat mogelijk is met de mean-ass combinatie van menselijk inzicht geaugmenteerd met algoritmes, cf. ook http://www.shirky.com/weblog/2009/11/a-speculative-post-on-the-idea-of-algorithmic-authority/)
+
+Of meer traditioneel: om een idee te krijgen hoe zo'n link blogging werkt op grote schaal, lees zeker eens http://www.ordinary-gentlemen.com/2009/12/it-takes-a-village-an-interview-with-patrick-appel/ … en besef dan dat onze opdracht eigenlijk nog eens vijf keer zo groot is.
+
+curating:
+http://owni.fr/2010/02/12/towards-the-google-newsroom-a-revolution-for-media/
+http://techdirt.com/articles/20100215/0036438160.shtml
+http://www.ojr.org/ojr/people/robert/201003/1827/ (hoewel hier nog gesproken wordt over aggregatie, dat is niet meer relevant nu vind ik)
+
+
+"Nieuwssites blijven nog te veel doen alsof zij de enige site ter wereld zijn waar iets interessants op is te vinden. Dat is wereldvreemd. Miljoenen mensen delen links met elkaar, dat is geen leeg getetter. Het wordt tijd dat nieuwssites dat ook beginnen te doen." (Nijst http://www.nijst.org/2010/03/06/geen-leeg-getetter/)
+
+En niet iedereen is daar zo happig op. Blogs als link ghetto's (http://bettween.com/palafo/felixsalmon)
+
+Of ze snappen het gewoon niet (affaire Zachary Kouwe)
+http://blogs.reuters.com/felix-salmon/2010/03/08/link-phobic-bloggers-at-the-nyt-and-wsj/
+
+"The fundamental problem with Kouwe was that when he saw good stories elsewhere, he felt the need to re-report them himself, rather than simply linking to what he had found, as any real blogger would do as a matter of course."
+"If there’s a minor news story on a trustworthy wire service, and you think you need it on the blog, then link to it. You add no value by rushing — with “essence of speed”, no less — to get the exact same story yourself. You’re a well-paid full-time journalist at the New York Times; there are surely higher and better uses of your valuable time than going back to rewrite a story which already exists elsewhere."
+
+----
+
+Bij de Huffington Post schrikken ze daar alleszins niet voor terug, soms is hun blikvanger op de voorpagina zelfs een artikel van een andere website waar ze naar doorlinken. Ik weet niet of wij dat moeten doen, maar ik apprecieer wel de achterliggende houding: 't kan ons niet schelen of het nieuws van bij ons komt, dìt is wat je moet weten. En gezien het origineel een goed artikel is gaan we dat niet half gaan overtypen en dan een paar woorden veranderen zodat we het als eigen nieuws kunnen brengen — iets waar de kranten van vandaag anders wel expert in zijn.
+
+----
+
+* isn't curation just adding more noise? *
+
+=> over hoe veel curation, door content samen te bundelen in nieuwe big blobs of text, gewoon meer noise toevoegt en maar passing value toevoegt. Curation zou ook moeten bestaan uit dingen écht te annoteren & metadata toe te voegen, door er naar te verwijzen vanuit topic-pagina's enz.
+

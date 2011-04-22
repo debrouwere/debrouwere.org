@@ -1,0 +1,7 @@
+http://www.martinaspeli.net/articles/developer-centric-version-control-considered-harmful => scaremongering, is in de praktijk nooit een probleem; bovendien is er met gitflow / nvie + semver wél een een aanvaarde methodologie, en de projectwebsite leidt steeds naar de aanvaarde masterversie; het centrale repository hoeft ook niet beheerd te worden door één persoon. Gewoon in Git kan iedereen met de juiste permissies andere repo's naar binnen pullen, en in GitHub heb je de organizations feature.
+
+"What if I come back after a few months and decide I wanted to own the project all along? We now need to reconcile the two forks. This may be tricky. Perhaps we don't do it. People now have to figure out which one of two versions of the software to "bet" on." => dit is ook bullshit, in het geval van SVN zou iemand ook een fork maken als jij niet responsief bent.
+
+De realiteit is dat Git voor de meeste niet-te-kleine-niet-te-grote projecten identiek werkt aan Subversion, met als enige verschil dat GitHub veel vriendelijker is en Git veel zinniger errors geeft, wat het makkelijker maakt om mee te vertrekken, niet moeilijker.
+
+cf. http://www.garbas.si/blog/2010/i-disagree-developer-centric-version-control-considered-harmful
