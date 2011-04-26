@@ -1,2 +1,0 @@
-* rsyslogd + phplogcon voor logging, en met de python syshandler output dat naar MySQL
-* zest.releaser heeft een paar helpers om package releasing een beetje makkelijker te maken

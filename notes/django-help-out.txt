@@ -1,7 +1,0 @@
-* "make it trivial for us to make decisions" -> e.g. verbale descripties in trac aanvullen met een test of specifieke aanwijziging van wàt er zou moeten gebeuren, zodat een core dev makkelijker kan zien of het wontfix / ... is
-* meerdere tickets samenbundelen en zeggen hoe ze zich tot elkaar verhouden (django-dev) en of ze iets met elkaar te maken hebben -- en de meer traditionele triage
-* Russell vermeldt dat er al gepraat werd over apps.dj.com en enterprise.dj.com (lijst met contractors, hosting, training, ...) -- en dat ze hopen dat er mensen uit de community zijn die daaraan willen bijdragen.
-* bij het begin van de sprints komt er waarschijnlijk een kleine tutorial over triage en hoe je kan helpen
-* zowel Russell als Jacob willen de intro voor Django verbeteren (met oa. betere documentatie over de project/app-opdeling, alsook misschien virtualenv enz.) en willen over het algemeen een pak meer docs.
-* ze hebben mensen nodig die Trac plugins willen maken voor Djangoproject
-* Django heeft nog een heleboel doctests die ze waarschijnlijk graag zouden omzetten naar echte unit tests.
