@@ -1,0 +1,29 @@
+---
+language: en
+layout: post
+categories: 
+    - tech & society
+    - business
+title: When awful sounds great
+summary: 
+---
+
+As a knife was plunged into his chest, Leo let out a groan of agony and collapsed into the ground. Hot tears formed on his eyes, and it'd take a few more excruciating seconds before the adrenaline would kick in and subdue the pain. They had slowly cut out his left eye, but after seeing torture wouldn't quite do the trick, had resorted to brute violence. Gasoline would finish the job. Leo could already feel his flesh burning.
+
+...
+
+Okay, so I'm not a novelist. What I'm wondering is how many of you wriggled in your chair while reading this. Did anyone feel the need to suddenly rub their left eye? Maybe some of you did, but I'm pretty sure most didn't. Empathy makes it possible for humans to feel what others are feeling. Yet, it seems our mirror neurons don't always kick in like they're supposed to. It takes an excellent writer to get readers to identify with negative emotions and physical pain through writing. Heck, even in film, watching a tragic drama unfold for a full two hours hardly ever really makes us feel miserable. Instead, we'll walk out of the theatre and nod to each other "yeah, pretty good movie, very enjoyable".
+
+And so, when "Chris Dixon":http://cdixon.org/about.html "tells us":http://cdixon.org/2011/04/26/there-are-two-kinds-of-people-in-the-world/ that running a startup "means lying awake at night worrying about running out of cash and having a constant knot in your stomach during the day fearing you'll disappoint the few people who believed in you and validate your smug doubters." somehow most of us don't think _no bloody way I'm ever getting involved with a startup_. When we read "Founders at Work":http://www.foundersatwork.com/ and plough through all the misfortunes described there, we feel quite the opposite: _hell yeah, where do I sign up_.
+
+As "Daniel Bachhuber":http://danielbachhuber.com/ told me a while ago: somehow, everything you ever read about startups, even those bad, nerve-racking, gut-wrenching moments come out looking like wonderful experiences you just can't afford to miss.
+
+A founder will say something like "I felt horrible for three years on end. I was never happy." and it sounds like such a damned fair trade-off. You take some crap, but it's all for the greater good: building something beautiful. Really, though, think about it: have you seriously considered how bone-crushingly awful it can be to feel like crap for even a single week? A single month? Another founder will say "I lost my marriage and I couldn't even enjoy Thanksgiving with family anymore because I knew all the work I had left to do" and we think: well, yes, that's no fun, but in the end you'll come out a stronger person.
+
+And the thing is, memories fade. And because memories fade, it's easy for college seniors to convince sophomores they should participate in hazing rituals, or why most people hated high school but will still tell their little kid brother that he should just persevere, because "afterwards you'll realize what a wonderful experience it really is". Because the end result — a successful company, a degree, a tight-knit group of friends — remains, and the misery has long been forgotten.
+
+It's not that we're kidding ourselves. Sure, we do that too, when we've invested so much time in something that we almost cannot but say that we "learned a valuable lesson", punching through layers of cognitive dissonance. But after a while, we start believing it ourselves. So you type about these horrible, horrible experiences you've gone through, because you think they're actually kind of cool. And for your readers, whose mirror neurons are asleep, they're fascinated by your story. You, the brave knight, facing danger and hardship and never quite feeling happy, but all in all _exactly the kind of guy or gal we'd like to be_.
+
+Entrepreneurs don't have to romanticize what they're doing even the slightest bit. We do it for them, because that's how we're wired. And maybe it's a good thing that we forget some of the bad days. The human race is lucky that so many people feel willing to give up everything to risk it for a project they really, really love. To have lawyers and soldiers and politicians and doctors who sign up for 80-hour work weeks without a second thought, even though they've been warned time and again by their elder colleagues. I'm pretty sure I'll end up in that same position sometime in my life again. But sometimes, entrepreneurial war stories do leave me with a bitter aftertaste. Like my mind is subconsciously ignoring what I'm reading, and replacing it with a mantra that goes "Be a man. Start a company."
+
+It's like we subconsciously ignore what we're actually reading, because what we really want to read is, "it's awesome, if you start your own company, you'll be awesome". And you will be awesome, but don't ever kid yourself into thinking that you aren't giving anything up. Like not being able to throw a birthday party because after an exhausting week, you don't feel up to it. Or like not having had a partner for ages, because the only faces you see are your team mates, every single day.
