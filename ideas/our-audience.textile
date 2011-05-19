@@ -1,0 +1,64 @@
+---
+layout: page
+title: "Writing for the community: our audience"
+---
+
+Journalists have to write for a difficult audience. Some people are well-informed, others aren't. Some readers will care deeply about the topic at hand, others are just curious enough to read the first three paragraphs. Some are looking for information, others mainly for entertainment. Some are passive consumers, others want to participate and be more than just members of the audience.
+
+There are ways to serve all of these different needs, but it pays to describe our modern-day audience with a little bit more detail first, and list the challenges that audience brings.
+
+h2. Accounting for light consumers and news grazers
+
+Not everybody who reads a newspaper, turns on the six o'clock news or surfs to a news website hopes to get the same experience. We all have different purposes in mind.
+
+Sometimes, we're the citizens the Knight Commission on the Information Needs of Communities "would want us to be":http://www.knightcomm.org/read-the-report-and-comment/, eager to learn more about the area we live in and up for a good community discussion.
+
+Other times, we're just checking our email and follow that up with five minutes of skimming the news, seeing if perhaps a headline grabs our attention.
+
+And not uncommonly, we're just looking to get the latest updates so we have something to talk about with colleagues and friends.
+
+Stacy Lynch says that some users want to be deeply involved in the news, while others just want an 'efficient' experience <cite>Stacy Lynch with Vivian Vahlberg, Sunny Oh, and Won-joo Yun, How to Become “Easy to Use” Online, 2009,  p. 2</cite> or, heck, just put on a broadcast in the background.
+
+bq.. Fully 62% say it is more important to them to get an overview of the news than to get news about topics of particular interest to them (27%).
+
+[...]
+
+Those who are 18 to 24 are evenly divided about which is more important: 48% say they prefer to get an overview of the news, while 44% say they like getting news about topics of particular interest to them. <cite>Pew Research Center, Audience Segments in a Changing News Environment, Biennial News Consumption Survey, 2008, p. 33</cite>
+
+p. Hard news is not the only kind of news: 
+
+bq. Most copy in all newspapers, and all copy in most newspapers, is simple stuff, and always has been. People read it because it’s relevant to them, because they can talk about it, and because they might as well read the stories after they’ve bought the paper for the supermarket coupons. ("Felix Salmon":http://blogs.reuters.com/felix-salmon/2010/09/17/teaching-journalists-to-read/)
+
+And there's nothing wrong with that.
+
+While people naturally gravitate toward one of these modes of news consumption, I think just as often the way we consume news depends on the mood we're in. So we have to satisfy different kinds of people, but also the same kinds of people at different times. Personalizing the news, then, is a tricky business to be in. Sometimes we're up for browsing, at other times we're up for learning and engaging with what we're reading.
+
+h2. Enjoying the news
+
+If we're serious about better informing communities, we have to tackle a very basic problem: people will keep reading if what they're reading is something they deeply care about, or if it's fun. Preferably both. And yet, for most readers, it's not: 
+
+bq.. Enjoyment of the news has consistently been associated with higher levels of both news interest and news consumption.
+
+Just a third of Americans younger than 25 say they enjoy keeping up with the news a lot, while nearly as many (26%) say they get little or no enjoyment from following the news. <cite>Pew Research Center, Audience Segments in a Changing News Environment, Biennial News Consumption Survey, 2008, p. 31</cite>
+
+p. Journalists are prone to shrug at audience research, and reason that it's a reader's loss if she decides not to read an important piece about, say, corruption in City Hall. But if we really care about serving our local community, it's our problem too.
+
+h2. What happened, what's happening, what's next
+
+An interesting finding, and food for thought, is that people love sports and entertainment news. The Associated Press, in a report from 2008, opines that these stories are so popular because they offer a clear resolution: a beginning, middle, and end.
+
+bq. Games are won and lost; movies are released and reviewed; stars are born and followed everywhere. General interest news, politics in particular, cannot always offer such resolution <cite>Associated Press, A New Model For News, 2008, p. 46</cite>
+
+Few people have taken the AP up on their challenge to try and introduce the same predictability to news coverage that by its very nature doesn't always provide us with a clear beginning and ending. The only example I've found was The Voice of San Diego.
+
+<figure>
+    <img src="/writing/engagement-and-context/images/content/reporter-notes-2.png" />
+    <figcaption>Why should I be interested in this story?</figcaption>
+</figure>
+
+VOSD includes reporter notes as a part of most stories, and these give a short overview of what the story's about, why you should care and what's next. Perhaps that's all readers need to feel like they've got a better bearing on the news.
+
+<nav class="prevnext">
+    <a href="../opening-up-to-the-community/humanness" class="previous">part 1: opening up to the community</a>
+    <a href="a-new-voice" class="next">a new voice</a>
+</nav>
