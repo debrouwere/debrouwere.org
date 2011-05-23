@@ -1,0 +1,19 @@
+sorting, instead of returning a proper resorted array, instead returns an ordered hash, so e.g.
+0 => Z
+1 => A
+becomes
+1 => A
+0 => Z
+... instead of ...
+0 => A
+1 => Z
+
+... which is totally freaking weird.
+
+* for some reason, 'self' doesn't work on static methods, which means there's no (easy) way to do polymorphism with class methods in PHP.
+* sort functions work in-place, instead of returning a new array
+* 5.3 introduced closures, but in a sorry-assed way. PHP needs to invent all kinds of weird callback identifier mechanisms (like array("obj", "method")) and things like call_user_func because it doesn't have first-class functions. Finding something in an array with array_search, without being able to inline your filter function, is freaking annoying.
+* no negative indexes
+* needle/haystack and haystack/needle switcharoos all over the place, most of which could've been avoided if only PHP would've been a bit more object-oriented.
+* some functions work in-place, others return new strings or objects. Some return what they've modified, others return a true/false success/failure message.
+* no real error handling. You need to try really really hard to get PHP to crash.
