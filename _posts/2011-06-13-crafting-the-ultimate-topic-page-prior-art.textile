@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Putting news into context
+title: Crafting the ultimate topic page: prior art
 ---
 
 If you analyze the whole "future of context":http://www.futureofcontext.com/ "meme":http://www.knightdigitalmediacenter.org/leadership_blog/comments/20100316_news_in_context/, which culminated at "last year's SXSW":http://panelpicker.sxsw.com/ideas/view/3861, you'll see a nice divide between those who think we have yet to invent the tools and designs to properly put the news into context, or at least to do so in an engaging way, and on the other hand people who put high hopes in the power of existing efforts like wikis, topic pages and the good old hyperlink to _do the context thing_.

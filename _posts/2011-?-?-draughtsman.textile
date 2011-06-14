@@ -1,8 +1,0 @@
----
----
-
-I've just put up a small app on GitHub which I've been using to help me in prototyping client-side HTML, CSS and JavaScript. I'd been noticing this weird gap in how I prototyped and how I worked on production apps: the former I did quick-and-dirty in plain HTML and CSS just to get something on the page quickly, but whenever I had a prototype that looked like, hey, it might be worth actually turning into something real, I had to convert my HTML into the Jade templating language, my CSS into SASS and my JavaScript into CoffeeScript, losing valuable time but more importantly being stuck with a rather boring and uninspiring task of converting things that already work from one format to another, simply to ensure you'll stay productive in the long run.
-
-Sure, you can use best-of-breed tools like SASS and CS even while you're hashing out a quick prototype — they both have command-line apps that allow you to watch a directory and precompile stylesheets and code for use in a browser. CoffeeScript even allows you to run a client-side compiler. All very nice. But even those two or three steps to getting started are just too damn annoying if you just want to hash out a quick idea.
-
-So I wanted something PHP-like. You browse through the directory listing from your webserver, click on a .jade file and it renders HTML, transparently converting any .sass and .coffee files as well, if you have any.

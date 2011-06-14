@@ -1,0 +1,68 @@
+Websites are becoming more complex every day. Frameworks and CMSes make it easier than ever to create feature-rich websites quickly, but our collective wish to push the envelope keeps us on our toes: the real-time web, faceted search, asynchronous processing, sites and apps that work on any kind of device, and so forth.
+
+Web frameworks can keep that endless deluge of feature requests and ponies manageable, but to get the most out of a framework, you're pretty much required to consolidate your infrastructure and place all bets on a single programming language, a single framework and a single way of doing things. The problem with that, though, is that more often than not it ends up stifling innovation. Marc Frons, CTO for the digital infrastructure of the New York Times mentions how he goes about selecting a technology stack for a project: 
+
+bq. That is where my guys were comfortable with. Those were the technologies they liked. They proved to me they could make them work. I wasn’t about to tell them they had to use something they were opposed to using.
+
+Dictating a certain technology that all employees must use, whatever the situation or project they are faced with, kills motivation. Yet telling engineers what technologies they can and can not use is exactly what happens when settling on a specific platform. The team might have had a say in the initial decision, or perhaps even made the decision autonomously, but once that platform decision was made, their breathing room and room to experiment was instantly severy limited.
+
+At an undisclosed point in the future, developers will start getting unhappy with the established way of doing things, and if their discontent reaches a critical level, a switch to another platform is orchestrated. Of course, because at this point all working parts of your infrastructure are written for the platform you'll be abandoning, all decisions about the successor are based on experience that is limited to hobby projects and small-scale implementations. Wouldn't it be a good bit easier to make such decisions if the technology was already in production use, powering part of the site. That way, you'd merely be deciding to expand upon earlier successes, not to switch to something entirely new because your old thing sucks.
+
+On top of that, adding new functionality to a web site brings with it an uncomfortable dilemma.
+
+bq.. For example, you may want to add a blog. Do you:
+
+# Use the best blogging software available?
+# Use something native to your platform?
+# Write something yourself?
+
+The answer is probably 2 or 3, because it would be too hard to integrate something foreign to your platform. This form of choice means that every platform has some kind of "blog", but the users of that blog are likely to only be a subset of the users of the parent platform. This makes it difficult for winners to emerge, or for a well-developed piece of software to really be successful. (http://deliverance.openplans.org/philosophy.html)
+
+Everybody loves Wordpress. It's great. Yet we're confronted with a whole host of clones in "Django" and "Ruby on Rails" that don't compare favorably to Wordpress _at all_. And still they get used, because we'd rather have a blogging app that integrates with our existing environment than having to mish-mash a bunch of different technologies and platforms. Rightly so. Ian Bicking again sums up some of the advantages to using a central platform: 
+
+# A common look-and-feel across the site.
+# Cohesive navigation.
+# Indexing of the entire site.
+# Shared authentication and user accounts.
+# Cross-cutting functionality (e.g., commenting).
+
+But centralised development means we're missing opportunities. We can't use programming languages, frameworks and software packages that are particularly suited to a specific problem, because we have to insist on a single one-size-fits-all platform if we want to avoid having a site that looks and functions like patchwork.
+
+This situation first presented itself to me a long time ago, when I was still working at the "student newspaper" here in Ghent. I spent a lot of time building up an infrastructure based around "Drupal":http://drupal.org/. A digital newsroom, a wiki with internal documentation, a database that contained all of our advertisers, user management and integration with postfix, our mail server, integration with InDesign to aid in producing our printed magazine. Oh, and it also included a front-facing website.
+
+It's a platform that has served the newspaper well, but it was not without its shortcomings.
+
+For one, you use the stuff that's there, even if it's not best of breed. The CRM-part of the website was limited to a database of possible advertisers in the paper, and a short note on when they were last contacted. At that time, having the database available on our intranet was a big win to having it hidden away in an excelfile that always seemed to disappear when it was most needed. But as far as custumer relationship management goes, it was pathetic.
+
+Upgrades posed a second problem. Because our central installation contained all the building blocks for our internal workflow at the student newspaper, upgrades became all-or-nothing. At some point in 2008 we released a subsite with study advice for new students. I was hankering to try out all the cool new stuff in Drupal 6, but switching that subsite to Drupal 6 would have meant migrating the _entire_ install — intranet, newsroom, crm and all — to that new version, just to be able to experiment a bit with our study guide website and to be able to try new things. And because upgrading everything would have entailed quite a bit of work, we just stuck with Drupal 5. I think they did manage to switch to Drupal 6 recently. I'm guessing it probably wasn't easy.
+
+A third problem, which follows on the second, is that such a big monolithic beast of a system will kill motivation before you know it. This was particularly noticeable at the student newspaper, because it relies on volunteers. Getting people to code for _us_ without renumeration, instead of contributing to one of the multitude of interesting open source projects that are around, was hard enough. Getting people to code for zilch while at the same time forcing them to work with a platform that is more or less cast in stone and that takes considerable time to get up to speed is nigh impossible. The barrier to entry suddenly gets raised from "I'll cobble together some flash to illustrate these articles" to "please check the docs for basic Drupal modules like Panels, CCK and Views, then get familiar with modifying Drupal both in its execution and at the theme layer, learn a bit about all the APIs. When you're done you can code your work as a Drupal module." Really, there is nothing to it!
+
+Wouldn't it be better if we could just mix technologies at will, while keeping a bit of the centralisation and unification that makes programming to a platform so genuinely useful?
+
+I don't have a solution to the platform problem that Ian Bicking has so eloquently described, but I do believe I've found part of the puzzle. And that part is to stop thinking in terms of "a website" and start thinking of a web-based project as a bunch of separate but interacting components that serve as a basic layer that you can build on, regardless of programming language and framework.
+
+achterliggende filosofie
+- best-of-breed
+- flexibiliteit: als iemand anders een ander systeem wil gebruiken kan dat, niet alles hoeft in één taal of één systeem geprogrammeerd te worden, men moet gewoon bv. ons zoek-component of auth-component inwerken.
+- eigenlijk is het een toepassing van "program to an interface, not an implementation", maar op het niveau van al je web properties, eerder dan op het niveau van een individueel programma. Je neemt alle aspecten van je website in handen, eerder dan je neer te leggen bij wat een bepaald platform je biedt.
+
+Dit gebeurt nu al, maar vooral door gebruik te maken van de publieke API's van allerlei diensten van Flickr tot AWS. Het gebeurt ook al bij zeer grote organisaties, die al langer hun gebruikersbeheer apart beheren (eventueel via ActiveDirectory of LDAP) en infrastructuur achter een abstractielaag steken (bv. DBSLayer bij de NYT) zodat verschillende technologieën makkelijker door elkaar gebruikt kunnen worden.
+
+De evolutie die je dus volgens mij zal zien is dat er intern steeds nauwer naar interfaces zal geprogrammeerd worden (voorbeelden geven van onnodige koppelingen bv. door ruwe sql te gebruiken) en er private API's ontwikkeld zullen worden, en dat na de hoogdagen van 'extensibility' - plugins, modules, extensies - er ook hoogdagen komen voor 'pluggable backends'. Intern is dit nu reeds seen mogelijkheid, maar zolang bestaande software niet 'meedenkt' in die richting blijft het de afweging of de ontwikkeling en onderhoud van allerlei wrappers en adapters niet meer moeite vraagt dan het omgaan met de ergernissen van een monolithisch platform.
+
+Het probleem is dat de individuele componenten die we willen laten samenwerken, niet altijd even goed voorzien zijn op interactie met andere software, zodat er zelf nog heel wat programmeerwerk bij kan komen kijken.
+
+Er zal dus nog héél wat moeten gebeuren om deze wereld van ubiquitous interfaces ook een valabele optie te maken voor kleinere organisaties — zoals het studentenblad waarover ik sprak — maar ik hoop echt dat deze manier van werken op den duur net zo eenvoudig en straightforward is als werken met een platform dat nu is, maar dan zonder de nadelen.
+
+* It's not all easy: single sign-on, unified look-and-feel, sitewide search
+
+* Geunifieerde look-and-feel is meestal niet het grootste probleem, maar is daarom niet noodzakelijk makkelijk op te lossen. Stel dat je website voor een groot stuk gebaseerd is rond Django, dan kan je andere Python-applicaties dezelfde base-templates laten gebruiken via Jinja2 en idem voor PHP-applicaties via "Calypso":http://www.beberlei.de/calypso/, maar een neutrale templating language die werkt in allerlei talen is het ook niet. Het gevolg is dat je dezelfde base-templates, maar met andere template tags naargelang het systeem, moet onderhouden. Een andere oplossing kan zijn om in je centrale website de externe apps 'in te plakken' en die applicaties enkel html-fragmenten te laten genereren ipv. volledige pagina's. Nog een andere oplossing is die van Deliverance. Op dat moment wordt het echter moeilijk om nog van volledig losgekoppelde componenten te spreken.
+
+
+
+* webhooks and restful interfaces
+
+* een upgrade van een systeem betekent niet meer een upgrade van héél je omgeving, want je zoekfunctionaliteit is losgekoppeld, je moet je gebruikers en hun profielinformatie niet mee-migreren, losstaande applicaties zoals een wiki (die anders misschien logininfo zouden 'leechen' van je belangrijkste applicatie en dus zouden falen bij een upgrade) worden niet beïnvloed. (Dit vereist uiteraard dat je auth-, index- en andere centrale applicaties minder snel wijzigen of je de implementatie backwards-compatible houdt, anders krijg je net zo goed problemen bij upgrades, maar dan "van de andere kant".)
+
+* communicatie over REST en gebruik van allerlei conventies in het HTML-ecosysteem, zoals ATOM-feeds en sitemaps is cruciaal, maar dat is voor applicaties die zeer sterk op elkaar steunen. Soms is het verbazend hoe weinig verschillende onderdelen van een website van elkaar moeten weten om te kunnen werken. Op deze blog staat het commenting-systeem volledig los van de inhoud; Delicious kan gelijk welke inhoud op het web categoriseren zonder enige tussenkomst van die website zelf; met server-side includes kan je "websites in websites" steken, en niemand die er iets van zal merken.
