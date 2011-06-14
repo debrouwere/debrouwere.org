@@ -7,7 +7,7 @@ title: When websites stopped being things
 summary: 
 ---
 
-Websites are becoming more complex every day. Frameworks and CMSes make it easier than ever to create feature-rich websites quickly, but our collective wish to push the envelope keeps us on our toes: the real-time web, faceted search, asynchronous processing, sites and apps that work on any kind of device, and so forth.
+Websites are more complex every day. Frameworks and CMSes make it easier than ever to create feature-rich websites quickly, but our collective wish to push the envelope keeps us on our toes: the real-time web, faceted search, asynchronous processing, sites and apps that work on any kind of device, and so forth.
 
 Web frameworks can keep that endless deluge of feature requests and ponies manageable, but to get the most out of a framework, you're pretty much required to consolidate your infrastructure and place all bets on a single programming language, a single framework and a single way of doing things. And that sucks.
 
