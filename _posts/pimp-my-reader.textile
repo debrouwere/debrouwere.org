@@ -1,0 +1,5 @@
+---
+layout: post
+---
+
+RSS readers remain one of the most underrated utensils in the journalist's toolbox. <Usability concerns; but also lack of certain functionality that's essential in a newsroom environment or would make the tool fit more naturally in existing workflows, like email ingestion>

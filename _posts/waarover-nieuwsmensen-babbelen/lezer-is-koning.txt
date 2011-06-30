@@ -1,3 +1,4 @@
 Nieuwssites maken die werken voor news grazers en news omnivores: van quick reads tot topic pages
 
 * info over leesgedrag, en hoe het verschilt van uur tot uur en dag tot dag, hoe het meeste op het werk gebeurt enz.
+
