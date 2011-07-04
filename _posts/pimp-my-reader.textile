@@ -1,5 +1,24 @@
 ---
 layout: post
+title: Pimp my Reader
+summary: "Or: building an RSS reader for journalists"
 ---
 
-RSS readers remain one of the most underrated utensils in the journalist's toolbox. <Usability concerns; but also lack of certain functionality that's essential in a newsroom environment or would make the tool fit more naturally in existing workflows, like email ingestion>
+RSS readers are a great tool for journalists to stay on top of things. They allow you to follow a gazillion websites and blogs, both famous and obscure, without having to manually check each and every website each and every day. Once you've become adept at skimming, you can get a ton of news and story ideas in less than thirty minutes.
+
+Not much more than fifteen years ago, a reporter who kept up with trends was somebody who read a couple of different newspapers and magazines and knew a couple of people in different places and asked, "hey, what's going on?" For some journalists that's still how it works, but they're finding themselves no match for their adversaries who _do_ know how to really keep track of the remote regions of the web.
+
+With RSS, an education reporter can follow maybe a hundred international edu-related websites, fifty teacher blogs, thirty blogs from parents, a couple more from professors of education, and so on. Think on that for a minute, and then just weep when you know how few journalists even know what an RSS reader is, let alone use it.
+
+But anyway, I didn't really write this post to weltschmerz. Instead, I think we have to acknowledge that RSS readers like Google Reader are also lacking a good bit of functionality that would make it easier-to-use in a newsroom environment. So I really just wanted to post my wish list:
+
+* *Use an email inbox as a feed.* Journalists are already used to skimming through huge piles of dirt with the odd potential gem: the email address of their beat or section, which is usually filled with PR junk but is also where people mail their story ideas or information to. It would be great if we could combine this stream with our regular RSS stream, so we don't have to check two different apps for the same thing. GMail has inbox feeds, but unfortunately last time I checked they were only providing excerpted messages, which is kind of pointless.
+* *Twitter link feeds.* You should use TweetDeck or CoTweet to keep tabs on twitter, not an RSS reader. But when you're in story-finding mode, what's really most useful is not the actual twitter messages but the stuff they link to. I want something that can aggregate the links from twitter messages, visit each link, and then include the content from each of those links in a feed I can consume in Google Reader. Just like with inbox feeds, this gives us another way to consolidate the sourcing process.
+* *Feed filtering.* Plowing through the noise is part of the game, but sometimes the noise is just too much, and it makes sense to filter feeds, either through simple term matching (remove anything that doesn't have X or Y or Z in it) or exclusion, NLP or through "webhooks":http://www.webhooks.org/.  
+* *Scraping.* Some websites still don't have feeds, or don't have feeds of the things you want. I want a super-simple web scraper that outputs to an RSS feed. (Maybe ScraperWiki does the trick?)
+* *Collaboration.* For big, big topics like American politics, the workload of combing through a gazillion RSS feeds is just too great for one person to bear, so I want a way to easily divide up work and see what colleagues are reading and processing.
+* *Publishing.* I want to be able to share posts through Facebook and twitter, straight from my reader.
+
+I think a lot of this could be handled as small independent apps, which is why it's about "pimping my reader" rather than creating a new one from scratch. I also know some of this stuff could be handled by "Yahoo! Pipes":http://pipes.yahoo.com/pipes/ and "ifttt":http://ifttt.com/ but I really want it to be super-easy (think "FeedHint":http://feedhint.com/) and not spread over five different services — we're trying to make it easier for journalists, not harder, remember?
+
+So anyway, that's my wishlist for a better feed reader.
