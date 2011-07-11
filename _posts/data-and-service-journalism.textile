@@ -1,0 +1,46 @@
+---- the role of data and news apps in the news mix ----
+
+h2. Data, data, data
+
+An essential part of being a journalist is laboring over stories, searching for leads and combing through data, so your readers don't have to.
+
+News organizations can't quite predict or accomodate any information need; different people care about different things and at a certain point we have to decide what will appeal to most readers, and what won't.
+
+That's where data comes in: if we make datasets available, readers can explore at their own pace, and look for what fascinates them.
+
+Of course, there's raw and there's raw. Nothing wrong with plain tables, but there are some good tools out there which allow readers to search, filter and visualize data. That way, readers don't need to be a statistician to make sense out of what they see.
+
+Simple explanatory notes help too, pointing people to the most important data points and warning them about common misinterpretations.
+
+The Guardian's "datablog":http://www.guardian.co.uk/news/datablog aptly balances the unadorned numbers with a good introduction on each dataset from Simon Rogers.
+
+The Texas Tribune is having a lot of success with its "Data Pages":http://www.texastribune.org/library/data/, too. About a third of their page views come from people browsing their databases. Part of that success, if I may venture a guess, is because the Tribune adds interactive maps and good search interfaces to most everything they publish.
+
+Other examples: 
+
+* "Education News Colorado":http://www.ednewscolorado.org/category/news/data-center-news
+* "California Watch":http://californiawatch.org/datacenter
+* "The Chronicle of Higher Education":http://chronicle.com/section/Facts-Figures/58/
+* "CrunchBase by TechCrunch":http://www.crunchbase.com
+* "Jacksonville.com":http://jacksonville.com/news/databases
+* "EdMoney by The Hechinger Report":http://edmoney.org/
+
+h2. News apps
+
+A news app can mean a lot of things.
+
+* Data visualizations are sometimes called news apps, though particularly so when they mash up two or more data sets and contain better-than-average ways of navigating and sifting through data. "Big Apple Ed":http://www.bigappleed.com/ is a good example.
+* Calculators and utilities that help people figure out e.g. how much taxes they're likely to pay next year. Things like "Walk Score":http://www.walkscore.com/.
+* Crowdsourcing, like The Guardian's superb "MP expenses":http://mps-expenses.guardian.co.uk/ project.
+* Non-traditional news forms, like the "EveryBlock":http://www.everyblock.com/ aggregator or "PolitiFact":http://www.politifact.com/.
+* Websites that connect people to government services, for example "SeeClickFix":http://www.seeclickfix.com/, or help you "get in touch with your representatives":http://www.writetothem.com/.
+
+A side note: if you're wondering why we call all these different things news apps, look at it from a software developer's perspective. News apps are always websites that require bespoke solutions and/or number crunching. Simple data visualizations, on the other hand, commonly only require time and off-the-shelf software.
+
+However, trackers, or web pages that track the evolution of something, are also commonly called apps — it isn't reporting, to be sure — even though they're "commonly":http://www.ednewscolorado.org/resources/education-bill-tracker just "plain tables":http://www.kaiserhealthnews.org/Stories/2011/March/02/health-reform-law-court-case-status.aspx that a reporter updates every once in a while.
+
+Name them how you want: news apps are one of the best things to come out of online journalism, and are often of immense use to communities. They raise awareness of difficult issues, help community members navigate difficult decisions like which school they should pick for their children, and can provide a platform that holds your elected officials to account.
+
+Software development being as expensive as it is, the only thing you've left to figure out is which news apps could give you a return on investment and which can't.
+
+Only one caveat: make sure not all your investment in digital journalism goes to data visualizations and apps. There's important work to be done at "the":http://www.niemanlab.org/2011/03/matt-waite-to-build-a-digital-future-for-news-developers-have-to-be-able-to-hack-at-the-core-of-the-old-ways/ "core":http://stdout.be/2010/08/24/sprinkles-on-top/ of our operations, the content management system.
