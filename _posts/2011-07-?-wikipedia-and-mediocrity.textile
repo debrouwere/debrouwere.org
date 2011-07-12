@@ -1,0 +1,33 @@
+---
+layout: post
+language: en
+categories:
+    - information architecture
+    - tech & society
+title: Mediocrity and Wikipedia
+summary: 
+---
+
+Reading an old post by the wonderful Jason Scott about "The Great Failure of Wikipedia":http://ascii.textfiles.com/archives/808, reminded me of an unfinished blog post I've had lying around for the past year or so. As a senior during my undergraduate studies, I contributed pretty actively to Wikipedia, doing research about "philosophical pragmatism":http://en.wikipedia.org/wiki/Pragmatism and related articles. I've also donated to the Wikimedia organization, because frankly, I couldn't live without Wikipedia anymore, and will gladly pay to keep it up.
+
+I've had quite some experience with Wikipedia myself as a contributor, and I would agree that to some extent it's an inefficient process: important stuff gets deleted by idiots, discussions about unimportant issues drag on, pages get deleted because they're somehow deemed not notable enough, and so on. "People get pissed off":http://sheddingbikes.com/posts/1297662169.html and usually they're right to be mad. Wikipedia has its fair share of self-righteous, power-hungry people with too much time on their hands.
+
+On the other hand, I've also had some very fruitful interactions with fellow Wikipedians, and the procedural whackjobs seem to tend most to articles about politics and don't mess too much with pages about literature, philosophy and science.
+
+Wikipedia is such a big place that there are actually parts of it that have an entirely different contributor culture than others, and it's too bad Jason Scott ignores that.
+
+It's also important to note that Wikipedia has a very specific purpose, and that is to make all kinds of subjects and concepts understandable to a general audience, with a (good!) bias towards perpetuating the common wisdom and mainstream ways of thinking. If you have uncovered fantastic new information about a certain topic, you should write an essay or a book or a blog post and then maybe _that_ will get incorporated into relevant Wikipedia articles. If you have a particularly zesty way of writing and are worried that *-for-brain editors will eat it all up and regurgitate it as a bland soup, you're probably right, and you should find another place to share your knowledge. If you're bringing a fresh new angle to a subject, a new way of thinking about things, for God's sake, don't waste it on Wikipedia. You'll find that you'll feel much better about Wikipedia if you look at it as just one repository of knowledge, rather than as a grand unifying thing. Create your own knowledge base, answer questions on StackOverflow and Quora instead of writing about it on Wikipedia, blog about your area of expertise, release your rights-free images on Flickr instead of Wikipedia. The important part is that you share knowledge. Wherever you want, really, as long as we can find it.
+
+I would also disagree that the barrier to participation is too low. Sure, anybody can edit anything, but just clicking that edit button is *way* scary to people. And in fact, wikitext is so damn un-userfriendly that most of us are just disgusted by the whole thing before they even type a single word. Frankly, I'm surprised that something like the Davis Wiki has ever gotten off the ground. It has certainly survived against all odds.
+
+- - - - - -
+
+But Wikipedia is a mess on a technical level as well. They're introducing ever more wiki syntax to cope with semi-structured data (like a person's birth date and current residence), and getting any of that good stuff out still requires a big effort like that of DBPedia.
+
+Editors manually create endless list pages, like "all people born in 1603", while really those kinds of pages should just be simple automated database queries. Sometimes, such drudgery is made a little less awful with the help of Wikipedia bots, which clean up and tweak Wikipedia automatically by crawling through its pages. But those bots themselves are usually a rather convoluted piece of technology. Wikipedia is tragic that way: there has been no money, no strategy and no guts to take the software to the next level for ages now, so we're stuck with a patchwork of fixes and tweaks on top of software that was already out of date when it was first released in 2002.
+
+Luckily, as a reader, you don't really notice that mess, you don't notice that developers have a hard time getting meaningful data out of this huge bank of knowledge, you don't notice that professors and other experts get frustrated fighting with nimwits about stuff those experts know inside-out, you don't notice that many early contributors never return, you don't notice the vandalism, you don't notice how many people with interesting knowledge to contribute are put off by that horrible, horrible wikitext syntax. But it's there, it's happening, it's making Wikipedia less great than it could be.
+
+(What English readers also don't notice is that local versions of Wikipedia, like the one in Dutch, are even more inconsistent in their quality than the English-language flagship. Wikipedia wins by sheer numbers, and when those numbers aren't present, quality suffers. Of course, the fact that structured information like those birth dates or photographs or the amount of inhabitants of a town isn't shared across different languages, even though it usually has no language component, doesn't help. This is also why folksonomies work on Delicious, but why no news website has ever implemented them successfully.)
+
+So really, Wikipedia is a big pile of horse dung, and there are cultural and technical issues that are in grave need for fixing, but for pete's sake, people, let's also just take a minute to appreciate the enormous value of this thing that we've created, we, together, people from all over the world.
