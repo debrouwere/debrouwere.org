@@ -1,0 +1,24 @@
+Hi there, 
+
+I'm actually doing some design and IA right now for a media company and the read-state problem is one of the things I'm focusing on.
+
+I think it's the kind of problem that calls for a number of different solutions that each do their part.
+
+When you end up at a story but don't understand some of the concepts or aren't familiar with an event (like the Arab spring) you should be able to easily find your way to topic pages like you can on Wikipedia, so that's one thing. Either plain text links or something like Apture (but preferably linking to your own background content). And those topic pages, in addition to explaining the basics, should also point to the best content if you want to learn more, not just every bloody semi-related news story.
+
+To avoid annoyance at those ubiquitous background paragraphs ("For God's sake, I know who Muammar Ghaddafi is by now!"), I've seen some very fancy prototypes that allow you do open/collapse certain paragraphs, but honestly, I would just go for a boldly highlighted bullet-point introduction that, because of its conspicuousness, can easily be ignored in a way background paragraphs within a narrative can't be. Sort of like how banner blindness works: if you don't care about it, you won't even see it.
+
+I like your idea about a highlighter for new content, though I probably wouldn't use a slider (I've last read something at a certain point in time, and I want to see everything added since then, not the evolution per sé.) But if you're tackling that, a problem that's just as important is how to point people to updates: you'd need some sort of update feed for each story, and then a way to keep track of what everybody has read, so you can give them Facebook/Plus-like notifications. Again, doesn't solve the read-state problem for newbies, but it does give people relevant new content  that you know they'll understand because of what they've read before.
+
+In that regard, I also really like the work The Guardian is doing with story trackers (really just a collection of stories). You could actually look at it as almost a game, you're at level 3 (the third article) with 6 still to go, and display that as a progress meter or something.
+
+But it's not just about enhancing story pages. A big part of the problem is that people skim the front page and tend to ignore the ongoing stories they haven't read about before, because the barrier seems too high. So perhaps we need "learn more" or "in a nutshell" buttons or icons next to a select number of stories (and then actually write those intro pieces, too).
+
+Much of this is easier for logged-in users, as you know their identity and their reading habits. But you can't rely on cookies to store this stuff, because different people might be using the same computer, and you also can't rely on it for people that aren't heavy users of your website, because they might've just gotten their latest news from one of the gazillion other news outlets out there. So I think personalization could work too, but it has to be subtle and not too in-your-face.
+
+In any case, no such thing as a free lunch I think. Some things like the conspicuous introduction paragraphs or pointing out updates or having a history slider can be done with a little programming, but most of it is about (1) writing *way* more topical background and intro and explainer pieces and (2) having and maintaining enough metadata to indicate which stories are related to / follow up on other stories. So I don't think you can solve the read-state problem at the purely technical level, you really have to get the newsroom behind you and change the way reporters work, too.
+
+Anyway, that's the current state of my thinking :-) I'd be curious to hear whether you see any other opportunities to fix the read-state problem.
+
+Cheers,
+Stijn
