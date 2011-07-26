@@ -1,0 +1,22 @@
+---
+layout: comment
+language: en
+categories:
+    - journalism
+    - information architecture
+title: The Andy Rutledge Debacle
+canonical: http://www.niemanlab.org/2011/07/designing-a-big-news-site-is-about-more-than-beauty/
+context: Design professional Andy Rutledge shared some uncommissioned New York Times website design mockups earlier today, showing what good news website design should look like and describing in detail why the NYT is awful at it. But not everybody agrees. Actually, most people don't.
+--- 
+
+I disliked Andy's inappropriate and vituperative comments about the NYTimes site and I think his ideas about the industry are quite naive, but I did enjoy "the redesign":http://andyrutledge.com/news-redux.php and thought some of his criticism (e.g. that NYT's nav is all over the place) was spot on.
+
+I think people miss the point when they say it's (too) easy to do redesigns if you're not hampered by reqs and politics and financial considerations and whatever, or when they say that Andy's redesign isn't realistic. That's not the purpose of a carte blanche redesign mockup.
+
+Sometimes we need to go crazy and mock up stuff that can't absolutely work in its pure form, because they get the creative juices flowing and they avoid us only ever considering incremental improvements when a full-on rethink might be what we need to move forward.
+
+I've done many of these kinds of designs in the past and I'm actually working on some others for work right now. They always get people thinking, even if you'd never ever actually want to implement 'em.
+
+Andy's mockups revolve around what a news site could look like if the reading experience was all that mattered. Okay, now let's do a similar exercise for a news site that revolves entirely around fostering a community. Or one that is all about bringing context to the news. Or all about sharing. Or new ad and sponsorship forms. Or centered around the mobile experience. You can bet that each of those mockups would teach you something and would help you when you're doing a real redesign.
+
+So, more crappy unrealistic redesigns, please.
