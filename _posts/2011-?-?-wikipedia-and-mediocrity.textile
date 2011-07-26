@@ -8,9 +8,11 @@ title: Mediocrity and Wikipedia
 summary: 
 ---
 
-Reading an old post by the wonderful Jason Scott about "The Great Failure of Wikipedia":http://ascii.textfiles.com/archives/808, reminded me of an unfinished blog post I've had lying around for the past year or so. As a senior during my undergraduate studies, I contributed pretty actively to Wikipedia, doing research about "philosophical pragmatism":http://en.wikipedia.org/wiki/Pragmatism and related articles. I've also donated to the Wikimedia organization, because frankly, I couldn't live without Wikipedia anymore, and will gladly pay to keep it up.
+Reading an old post by the wonderful Jason Scott about "The Great Failure of Wikipedia":http://ascii.textfiles.com/archives/808 reminded me of an unfinished blog post I've had lying around for the past year or so. As a senior during my undergraduate studies, I contributed pretty actively to Wikipedia, doing research about "philosophical pragmatism":http://en.wikipedia.org/wiki/Pragmatism and related articles. I've also donated to the Wikimedia organization, because frankly, I couldn't live without Wikipedia anymore, and will gladly pay to keep it running.
 
-I've had quite some experience with Wikipedia myself as a contributor, and I would agree that to some extent it's an inefficient process: important stuff gets deleted by idiots, discussions about unimportant issues drag on, pages get deleted because they're somehow deemed not notable enough, and so on. "People get pissed off":http://sheddingbikes.com/posts/1297662169.html and usually they're right to be mad. Wikipedia has its fair share of self-righteous, power-hungry people with too much time on their hands.
+You'll be surprised that Wikipedia works its magic through what is actually a very inefficient publishing process: important stuff gets deleted by idiots, discussions about unimportant issues drag on, pages get deleted because they're somehow deemed not notable enough, and so on. "People get pissed off":http://sheddingbikes.com/posts/1297662169.html and usually they're right to be mad. Wikipedia has its fair share of self-righteous, power-hungry people with too much time on their hands.
+
+In some ways, Wikipedia works despite its guardians and community standards, not always because of them.
 
 On the other hand, I've also had some very fruitful interactions with fellow Wikipedians, and the procedural whackjobs seem to tend most to articles about politics and don't mess too much with pages about literature, philosophy and science.
 
