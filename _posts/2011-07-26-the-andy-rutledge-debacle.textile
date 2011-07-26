@@ -5,7 +5,7 @@ categories:
     - journalism
     - information architecture
 title: The Andy Rutledge Debacle
-canonical: http://www.niemanlab.org/2011/07/designing-a-big-news-site-is-about-more-than-beauty/
+canonical: http://www.niemanlab.org/2011/07/designing-a-big-news-site-is-about-more-than-beauty/#comment-265821213
 context: Design professional Andy Rutledge shared some uncommissioned New York Times website design mockups earlier today, showing what good news website design should look like and describing in detail why the NYT is awful at it. But not everybody agrees. Actually, most people don't.
 --- 
 
