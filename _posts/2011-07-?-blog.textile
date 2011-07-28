@@ -1,0 +1,9 @@
+---
+layout: post
+
+---
+
+"Keeping in mind the objectives and challenges identified in this week’s presentations by Shazna Nessa and Mohamed Nanabhay, how does your project take into account the need to facilitate collaboration in the newsroom (whether real or virtual), while acknowledging that team members will have varying technological skill sets?" 
+
+==> I've answered this, more or less, in my previous blog post, at least the part of acknowledging varying technological skill sets;
+==> also, because it's at its heart a consumer tool, the collaboration aspect between hacks and hackers doesn't really apply, though I guess you could see techies making filter webhooks for non-techies (cf. also my cookbook / filter sharing idea) [though, as Mohamed says, journalists don't always spot the problems or inefficiencies they're facing because they're happy to have any kind of tool at all, and because they're focused on the 24-hour news cycle]
