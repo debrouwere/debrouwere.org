@@ -1,0 +1,28 @@
+---
+layout: comment
+language: en
+categories:
+    - information architecture
+    - coding
+canonical: http://www.phillipadsmith.com/2011/07/the-post-post-cms-cms-loosely-coupled-monoliths-read-only-apis.html
+title: On APIs, vanity and loose coupling
+context: If you've been reading my blog in the past months, you know I'm intrigued by the question of whether the CMSes of yore still make sense for news organizations. This is a response to some CMSey ruminations Phillip Smith just posted on his blog, which you should probably read first.
+---
+
+Hi Phillip, 
+
+Really like what I'm reading, but "you bring up":http://www.phillipadsmith.com/2011/07/the-post-post-cms-cms-loosely-coupled-monoliths-read-only-apis.html a couple of rhetorical questions that actually have perfectly valid answers.
+
+You say that the Talking Points Memo front page management app needs read/write access to the content API, but that's actually not true: the titles and teasers that come from the CMS are meant to be placeholders or defaults, and tweaking the copy on the front page should _never_ affect the original content that comes from the CMS. Any changes that happen at this level are purely aimed at perfecting the *presentation* of the story on the front page of one specific platform (the desktop browser), not the content itself.
+
+Also, it would be perfectly feasible to create a read/write API that has support for versioning, content locking and validation. I've actually done this before. The idea should indeed be to push as much of the logic as possible to the API, so the front-end applications can be stupid simple.
+
+If, like TPM, you're hijacking an existing CMS, then, as you say, it becomes an incredible mess with duplicated logic everywhere. However, that's why we should ask the question of what a post-CMS CMS should look like.
+
+If you'd build a API-driven CMS from scratch you'd probably build it as a front-end that can interact with any RESTful data store that follows certain conventions, and would leverage all the features of that API instead of doing validation, locking, versioning etc. itself. Still quite the mission, mind you, but a different one.
+
+You also raise the question of how much bit-twiddling we should do to make the presentation just right for each page on every platform. Well, I'd say that we should do as much twiddling as makes sense economically. It is actually perfectly possible to automate a magazine-style publication, and let a computer layout stories and pictures by just inputting the page you want each story to be on. I'm not kidding, I've done this. It's just that, well, the experience is so much better with human designers behind the wheel, so that's what we collectively stick to.
+
+If it'd pay off and if it'd make sense usability-wise to customize every individual page for every platform, then yes, I think we should do exactly that. You ask: where does it end? I answer: it ends at the point when we say, "okay, I can do more fruitful things with my time than this silliness". For some publications that happens fairly soon (just the facts! content over embellishments!), for others, like the beautifully designed WIRED, that happens rather late. And for TPM, the front page is where it stops. It's the one thing they want absolute control over, and that makes total sense to me.
+
+Lastly, the information professional in me does cry a little bit when you say that CMSes are made for non-technical people to input structured data. They're not, they're made for people to input big blobs of text :-)
