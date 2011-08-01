@@ -1,0 +1,3 @@
+* one language to learn for newbies
+* currently actually one of the most sane and consistent languages out there, actually even more so than Python in some ways (see GMail draft)
+* but the Java-based Rhino is too clunky, and you really don't want to introduce programming newbies to asynchronicity in node.js so early on (even if you can abstract it pretty well and even with things like fibers and bla bla bla)
