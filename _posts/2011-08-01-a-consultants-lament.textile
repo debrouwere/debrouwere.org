@@ -4,7 +4,7 @@ language: en
 categories: 
     - journalism
 title: A consultant's lament
-summary: Journalists, managers and media consultants don't talk enough to each other.
+summary: Journalists, managers and media consultants don't talk to each other often enough.
 ---
 
 TV series The Wire wrapped up a great fifth season a while back. A big part of the story revolves around a fictionalized "Baltimore Sun":http://www.baltimoresun.com/ that has just suffered heavy cutbacks. A scene that stuck with me is the one where the managing editor tells his staff just a tad bit too glibly that they'll simply have to "do more with less". If you've watched the episode, you probably wanted to give that guy a smack in the head just as badly as I did. Here's this guy who doesn't know the first thing about journalism, telling seasoned journalists to do better and "be creative".
