@@ -1,0 +1,41 @@
+---
+layout: post
+language: 
+categories: 
+    - journalism
+    - tech & society
+title: Real names and the golden mean
+summary: There are ways to combine the safety that comes with pseudonyms and the civility that comes with real names, especially on news websites. Here are three.
+---
+
+There's "a lot":http://www.theatlantic.com/technology/archive/2011/08/why-facebook-and-googles-concept-of-real-names-is-revolutionary/243171/ "of buzz":http://www.zephoria.org/thoughts/archives/2011/08/04/real-names.html "going on":https://plus.google.com/u/0/108967323530519754654/posts/WCX2Db36bHz about whether Google Plus should keep its real-names policy or reject it.
+
+Frankly, I care about Google Plus even less than I care about Facebook, but these posts raise some interesting points about why anonymous posting and pseudonyms can make sense: they avoid self-censoring dissenting opinions, they can feel people feel more safe on the Internet, they can allow people to relax instead of feeling like every word they say will be a perennial part of their public history.
+
+There's really not much Google can do: either they allow pseudonyms or they don't.
+
+But Google's quandary is not that of a news website: the interaction we have with readers is so different, mostly centered around the commenting policy and therefore more amenable to smart in-between solutions. We can introduce real name policies that protect us from trolls that are still humane and don't lock out anonymous voices that need to be heard.
+
+h4. Avoiding self-censorship
+
+We don't want to discourage people from submitting sensitive information or sharing personal stories because they have to fill in their real names. These fragile messages are often some of the most valuable your news organization will receive from a user. They need to be encouraged.
+
+Specify an e-mail address underneath each story and mention that private or anonymous comments are welcome there, or provide a special form for anonymous comments both for unregistered and registered users. Only publish those comments if they have a justifiable reason for being published anonymously. Remind your users that publishing anonymously just because they feel like won't fly.
+
+h4. Encouraging contributions
+
+Up until about seven or six years ago, the question most publishers asked was "how the hell do I get people to comment on my stories?" Now, commenting is so engrained in news consumers' behavior, we rarely still wish for _more_ comments, we look for _fewer_ but _better_ comments.
+
+For those few organizations that do have the tragic problem of an under-commented site, not all is lost. You could set up your site to work with "Facebook Connect":http://www.facebook.com/help/?page=730, which allows people to use their existing account on Facebook (good for them) and all comments they make will be with their real name (good for everybody).
+
+Alternatively, you could allow comments without registration, but gently guide users towards the registration process: once they've given you their alias and e-mail address (common requisites when commenting) you could send them a mail asking whether they'd like to verify their name and make an account on your website. Creating an account should be so easy that anybody who is considering it will actually do it, too.
+
+h4. Keeping the conversation local
+
+Users may feel comfortable with giving us their full name and bear no ill intent, but at the same time they might not feel so comfortable about their colleagues or employers being able to google and find everything they've ever said on heated topics like euthanasia.
+
+Some news sites account for this by allowing readers to only publicly display the initial of their given name, together with their full surname. While a particularly curious internet user could still connect the dots in less than five minutes, it's a good-will gesture toward users that can make sense.
+
+A more technical solution would be to include comments in an "iframe":http://en.wikipedia.org/wiki/HTML_element#Frames or to load them in using Javascript, perhaps using the "Disqus":http://disqus.com/ commenting system. That way Google and other search engines won't index comments at all, just stories. At least for now — do note that search engines are getting increasingly smart about finding dynamically loaded content, so it's not clear how long such Javascript tricks will remain effective.
+
+Another option might be to only show comments to other logged-in users. To make sure that the bulk of your traffic still sees the best of those contributions and to tempt lurkers to join in, simply pick some of the best comments for each story and ask their authors for permission to publish those publicly. That's a triple home run: no anonymous bullshitting, it gives the comment space a more intimate feel, and the 90 percent of your users who are just passing by don't get huge comment threads thrown at them.
