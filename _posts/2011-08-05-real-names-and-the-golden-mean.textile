@@ -10,19 +10,19 @@ summary: There are ways to combine the safety that comes with pseudonyms and the
 
 There's "a lot":http://www.theatlantic.com/technology/archive/2011/08/why-facebook-and-googles-concept-of-real-names-is-revolutionary/243171/ "of buzz":http://www.zephoria.org/thoughts/archives/2011/08/04/real-names.html "going on":https://plus.google.com/u/0/108967323530519754654/posts/WCX2Db36bHz about whether Google Plus should keep its real-names policy or reject it.
 
-Frankly, I care about Google Plus even less than I care about Facebook, but these posts raise some interesting points about why anonymous posting and pseudonyms can make sense: they avoid self-censoring dissenting opinions, they can feel people feel more safe on the Internet, they can allow people to relax instead of feeling like every word they say will be a perennial part of their public history.
+Frankly, I care about Google Plus even less than I care about Facebook, but these posts raise some interesting points about why anonymous posting and pseudonyms can make sense: they avoid commenters self-censoring dissenting opinions, they can make people feel more safe on the Internet and they can get people to relax instead of feeling like every word they say will be a perennial part of their public history.
 
 There's really not much Google can do: either they allow pseudonyms or they don't.
 
 But Google's quandary is not that of a news website: the interaction we have with readers is so different, mostly centered around the commenting policy and therefore more amenable to smart in-between solutions. We can introduce real name policies that protect us from trolls that are still humane and don't lock out anonymous voices that need to be heard.
 
-h4. Avoiding self-censorship
+h3. Avoiding self-censorship
 
 We don't want to discourage people from submitting sensitive information or sharing personal stories because they have to fill in their real names. These fragile messages are often some of the most valuable your news organization will receive from a user. They need to be encouraged.
 
 Specify an e-mail address underneath each story and mention that private or anonymous comments are welcome there, or provide a special form for anonymous comments both for unregistered and registered users. Only publish those comments if they have a justifiable reason for being published anonymously. Remind your users that publishing anonymously just because they feel like won't fly.
 
-h4. Encouraging contributions
+h3. Encouraging contributions
 
 Up until about seven or six years ago, the question most publishers asked was "how the hell do I get people to comment on my stories?" Now, commenting is so engrained in news consumers' behavior, we rarely still wish for _more_ comments, we look for _fewer_ but _better_ comments.
 
@@ -30,7 +30,7 @@ For those few organizations that do have the tragic problem of an under-commente
 
 Alternatively, you could allow comments without registration, but gently guide users towards the registration process: once they've given you their alias and e-mail address (common requisites when commenting) you could send them a mail asking whether they'd like to verify their name and make an account on your website. Creating an account should be so easy that anybody who is considering it will actually do it, too.
 
-h4. Keeping the conversation local
+h3. Keeping the conversation local
 
 Users may feel comfortable with giving us their full name and bear no ill intent, but at the same time they might not feel so comfortable about their colleagues or employers being able to google and find everything they've ever said on heated topics like euthanasia.
 
