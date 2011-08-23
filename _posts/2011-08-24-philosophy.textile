@@ -1,0 +1,23 @@
+---
+layout: post
+language: en
+categories: 
+    - tech & society
+    - personal
+title: Philosophy
+equiv: /2011/08/24/filosofie/
+---
+
+I studied philosophy for four years and enjoyed a little more than two of those. I enjoyed the first year because the classes were so varied: literature, world history, psychologie, ethics and epistemology. I enjoyed my last year, my masters, because of the small class sizes, fun electives and professors that actually took their students seriously. I learned a lot from my studies, even if it isn't always easy for me to answer what exactly that might be. An attitude, a way of thinking, a perspective.
+
+Come to think of it, I did get some actual answers to actual questions too. The first thing philosophy students are usually told when starting their education is that it's about the search, not about the answers, and that you shouldn't really expect any profound answers to life's questions. Funnily enough answers to the big questions are exactly the ones I've found, though. I feel like I have a solid understanding of the role art can fill in society, what the nature of knowledge is and how you can decide whether an act is moral, immoral or amoral.
+
+I've also learned that philosophy is sometimes a very narrow-minded discipline. That's something you probably don't understand if you haven't studied it. I've learned that philosophers sometimes willfully forget certain questions. How can we organize knowledge in ways that help people learn? How do you create a culture of learners? What are the best heuristics for determining the veracity of an actual piece of information you see before you? Are there ways we can get more output from scientists without resorting to "publish or perish":http://en.wikipedia.org/wiki/Publish_or_perish tactics?
+
+Those questions are big questions too. They're some of the core questions of modern society. But they're also eminently practical. And the practical realm is one that philosophers, at least since the 20th century, have schlepped off to scientists. Which is silly, but what can you do?
+
+What's interesting though, is that people around the world are working on each of those big issues, even if they're not pure and good enough for philosophers to bother with. Information scientists at universities, in private companies, in the media and at a search company like Google think every day about how to organize and disseminate knowledge. Sociologists sometimes ask poignant questions about the nature of science and the ways we've organized our knowledge gathering operations in universities and labs. Cognitive psychology teaches us many things about knowledge that philosophical epistemology doesn't.
+
+At the end of July, less than a month ago, I started reading "Think Stats: Probability and Statistics for Programmers":http://greenteapress.com/thinkstats/. And now I can add yet another discipline to the list of subjects that answer questions that philosophers have been asking (or should have been asking) for centuries. As a philosopher I've learned to be critical about everything I read and hear, not to see causation in every correlation, to think five minutes before accepting a scientific report at face value. Now, as an amateur statistician, I've learned regression analysis do to the same thing. As a philosopher I've learned that the improbable isn't impossible, and familiarized myself with the problem of induction. Now I'm using simple Monte Carlo simulations and know how to calculate p-values, so I can actually _calculate_ how probable it is that the conclusions I draw from data are the result of reality being the way it is rather than statistical noise.
+
+When are universities going to give us a major like that, one that teaches us about the role information has in our society and that enables us to handle bucketloads of data responsibly, using whatever mix of disciplines that may help us in that quest? Philosophers with those skills are philosophers the world could use. Instead, we're churning out experts in Kantian philosophy and "grue and bleen":http://en.wikipedia.org/wiki/Grue_and_bleen.
