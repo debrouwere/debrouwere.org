@@ -1,0 +1,28 @@
+---
+layout: post
+language: en
+categories:
+    - coding
+title: Macho programming
+summary: Sometimes, programmers like to do things the hard way just to show how good they are. It's silly, and we shouldn't.
+---
+
+Programmers pay an enormous amount of attention to their toolbox. We fight about what we think is the best editor. We're constantly on the lookout for fresh techniques and software that'll help us build other software. Most professionals do: woodworkers buy the best lathe and the best chisels and power tools money can buy, many musicians are afflicted with Gear Acquisition Syndrome, and if you're a chef those newfangled ceramic knives are ever so tempting.
+
+But programmers are a little bit different than other professionals, in that there's no consensus whatsoever as to what the best tools and programming languages are. One favors the elegance of Python, another the power of Ruby, some people swear by PHP for its easy deployment and yet others cherish the huge toolbox that is Perl. Nothing wrong with that either: pick whatever tools you're comfortable with and _go do some work_.
+
+I have to admit, even for a zen-like chap such as me, it's still quite the mental effort to repress knee-jerk reactions about the tools and programming languages other people use. Perl is for dinosaurs, Ruby for hipsters, Haskell is useless outside of academia, C is for masochists, C# for corporate drones. Computer programmers have probably been waging these kinds of petty religious wars since the dawn of computing. It's harmless bickering, and not entirely unexpected since each of us has invested so much time into learning to properly use the tools we've chosen. Nobody likes to be told they've not chosen wisely, but everybody likes to tell everybody else about their _own_ wise choice. It's a silly but harmless social phenomenon.
+
+What intrigues me more is how programmers will sometimes purposefully avoid using an admittedly better tool. "IDEs":http://en.wikipedia.org/wiki/Integrated_development_environment are for sissies. Web frameworks like Django are for script kids. Why use existing APIs when you can write everything yourself? It's the "handicap principle":http://en.wikipedia.org/wiki/Handicap_theory in all its glory: everybody should know that you're simply so amazingly skilled that even with crappy tools, you can still effortlessly best your peers and write better code, faster.
+
+Less than ten years ago, it was C programmers talking down to Java devs. _I mean, seriously, if you can't even manage some pointers and do your own garbage collection, what business do you have calling yourself a coder?_
+
+Five years ago, the big thing in web development was whether to hand-tool a CMS or just tweak an existing one.
+
+Now that Ruby on Rails' adoption of "CoffeeScript":http://jashkenas.github.com/coffee-script/ has put that little language into the spotlight, there's no shortage of coders declaring that, _yeah, it's pretty neat. I mean, if you don't know the quirks of Javascript. Which I do._
+
+It's funny, because in addition to showcasing a healthy self-confidence, it also betrays a fear that every new tool that comes out may finally be the one that gives young pretenders an edge while you can't be bothered to pick it up anymore, the thing that'll finally mark you as an old fart.
+
+Actually, now that I think about it, it's not _that_ specific to programming. My dad is an electrical engineer, and occassionally he'll fuss (in a goodhearted way) about how new graduates can't seem to do anything without their calculators and computers anymore. And journalists who are unfamiliar with technology and social media and web apps — not veterans but aspiring reporters — are prone to say that good storytelling is still all a writer needs, in a fruitless attempt to hide their insecurity around computers.
+
+Healthy scepticism about new stuff is a good personality trait. But take five minutes to think about whether it's helping you, or keeping you handicapped. You're not better because you can do things the hard way. Just stubborn.
