@@ -18,7 +18,7 @@
         <updated>{{ post.date | date_to_xmlschema }}</updated>
         <id>http://stdout.be{{ post.id }}</id>
         <content type="html">
-            {% if post.context %}{{ post.context | xml_escape }}{% endif %}
+            {% if post.context %}<p><em>{{ post.context | xml_escape }}</em></p>{% endif %}
             {{ post.content | xml_escape }}
             {% if post.author %}({{ post.author }}){% endif %}
         </content>
