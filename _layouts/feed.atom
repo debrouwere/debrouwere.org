@@ -10,7 +10,7 @@
     <name>Stijn Debrouwere</name>
     <email>stijn@stdout.be</email>
 </author>
-{% for post in site.posts %}
+{% for post in site.posts limit: 50 %}
     {% if post.language == page.language or page.language == 'all' %}
     <entry>
         <title>{{ post.title | xml_escape }}{% if post.layout != 'post' %} ({{ post.layout }}){% endif %}</title>
