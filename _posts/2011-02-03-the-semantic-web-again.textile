@@ -22,7 +22,7 @@ bq. [The] raw material of this information economy is essentially like oil shale
 
 The oil shale analogy makes it clear how much the semantic web will depend on efficiency, convenience and turning a profit. I wholeheartedly agree. I'd also add, in a journalistic context: it will depend on tapping into people's habits, instead of forcing new ways of doing things on them.
 
-Oil shale. I like how down to earth it sounds. A nice contrast to, for example, Reg Chua's "The Molecules of News":http://structureofnews.wordpress.com/2010/12/26/the-molecules-of-news/ , which seems to assume that not caring about structured information is equal to leaving money on the table plain and simple, and that all we have to do is "sell the sawdust, not just the logs" as the 37signals proverb goes. It's not that simple, I don't think.
+Oil shale. I like how down to earth it sounds. A nice contrast to, for example, Reg Chua's "The Molecules of News":http://structureofnews.wordpress.com/2010/12/26/the-molecules-of-news/, which seems to assume that not caring about structured information is equal to leaving money on the table plain and simple, and that all we have to do is "sell the sawdust, not just the logs" as the 37signals proverb goes. It's not that simple, I don't think.
 
 And that's the thing: as much as it pains me to battle a kindred spirit, I'm afraid Dan doesn't really see the full impact of the oil shale analogy on his own writings: something can be valuable and unreachable at the same time. Like, say, a semantic economy.
 
