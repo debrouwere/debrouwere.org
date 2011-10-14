@@ -1,0 +1,20 @@
+---
+layout: comment
+canonical: http://blog.mattwaite.com/post/11440934055/journalism-students-vs-tech-focused-students
+title: Just a matter of time
+categories: 
+    - journalism
+    - tech & society
+context:
+	Matt Waite remarks on how some students, when faced with a technical challenge, respond by saying "No idea how to do this, but gimme some time and I'll figure it out" whereas other students respond by saying "No idea how to do this", end of line. Is this the self-imposed "journalists can't do math" meme rearing its head all over again?
+---
+
+Isn't it an exposure thing too? Once you've mastered one specific tech, learning another is suddenly that much less daunting, and the perceived challenge becomes ever smaller for each new technology you learn, even if the learning process itself is more difficult each time. But familiarization takes time, and I don't think a teacher can influence it very much.
+
+Or maybe there's a disconnect between the technology and the goals students want to achieve.
+
+The engineer's attitude when faced with a big problem is to cut it up into small chunks that are manageable, so when the problem is "telling great stories" an engineer can see how programming can be one small but important chunk, alongside the more traditional writing and reporting curriculum.
+
+But if you're not used to the engineer's way of thinking, then the idea that you'll have to learn how to code to be a better journalist will sound very foreign, no matter how passionately a teacher tries to explain it. And thus you won't be motivated to persevere when shit gets tough — coding becomes a dreaded obstacle that keeps you from graduating (or keeping your job) instead of a useful skill you must acquire at all costs.
+
+So how do you get journalists and future journalists to yearn for technical knowledge?
