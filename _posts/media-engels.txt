@@ -3,17 +3,28 @@ Als je een tijdje de Anglo-Amerikaanse journalistieke vakpers leest, word je op 
 (vertalingen / connotatie / uitleg van courante Engelse termen)
 
 editor
-senior editor
-editor in chief
-subeditor
+	afhankelijk van de context: hoofdredacteur, chef (desk editor) of heel soms redacteur
 desk editor
+	redactiechef, bv. chef cultuur
+senior editor
+	redacteur (in contrast met "reporter" of "journalist" or "freelancer" — voor meer gevestigde journalisten)
+editor in chief
+	hoofdredacteur, voornamelijk in Groot Brittanië, want in de VS zeg je in de regel "editor"
+subeditor
+	eindredacteur (precieze "rang" opzoeken)
 copy editor
+	eindredacteur
 managing editor
+	redactiesecretaris, redactiecoördinator, producer: de persoon onder de redacteurs die de praktische zaken afhandelt en soms de zakelijke kant behartigt
 copy desk
+	de eindredactie
 fact checking
 stringer
+	een correspondent, maar in de brede zin van het woord (dus niet enkel voor buitenlandreportages): een reporter, vaak niet full-time en soms niet eens een professionele journalist, die regelmatig informatie aanbrengt vanuit één of andere uithoek waar ofwel gewone journalisten niet vaak geraken (bv. de technologiesector)
 correspondent
+	zoals een springer, maar vaker een professioneel journalist
 staff reporter (rarely also called editor)
+	redacteur, minder senior dan senior editor
 headline, subhead
 byline, dateline
 lede / lead
@@ -28,3 +39,4 @@ CAR
 j-school
 paginator
 beat reporting
+story budget (esp. in print)

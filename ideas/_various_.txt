@@ -4,6 +4,10 @@
 
 cf. Apache
 
+* Filter bubble *
+
+blogpost about the two kinds of rec engines and what it means for the filter bubble idea
+
 * Quirky-fun biographies: enough already! *
 
 "As assistant managing editor, Jennifer Guevin tracks every aspect of CNET News, from semicolons to server glitches. As a writer, she is particularly focused on science, but has covered everything from handy new kitchen gadgets to underwater robots to Michael Jackson (her editor made her do that). She believes her homemade apple pie will lead her to world domination."
@@ -37,6 +41,8 @@ Of, andere invalshoek: meer rechtstreekse kritiek op het soort van samenwerking 
 * wow versus dawwww *
 
 Over hoe het wow-effect dat je als een for-profit kan teweegbrengen (mensen hebben jou Žcht graag, Žn je product) eigenlijk een zeer waardige vervanger is van het 'dawww'-effect dat non-profits toelaat om dingen duurder te verkopen dan wat ze eigenlijk waard zijn. Zelfde resultaat, alleen mag je in het eerste geval trotser zijn op jezelf omdat je inspeelt op mensen hun enthousiasme eerder dan hun moreel voelen.
+
+Cf. ook Godin z'n post over boeken en uurwerken.
 
 * Imposter syndrome en being-by-doing *
 

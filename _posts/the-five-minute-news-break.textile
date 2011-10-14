@@ -1,6 +1,8 @@
-A little bit of amateur anthropology here...
-
 When thinking about how to monetize news, or how to create new news products, we don't fully account for the fact that 50-80% of all news consumption happens in short  five-to-ten minute breaks at work. This has really big implications for what sort of products we can make money off and which sorts of products we should be doing.
 
 * You can't directly ask money from somebody who's surfing at work. They're just looking for a diversion, they won't consume just anything, but they're definitely not too picky either. They're often browsing sites their bosses would rather not see them browsing during work time, so actively *investing* money in a kind of activity that is in the gray area of acceptability wouldn't feel right, be a bit embarrassing even. This goes for anything from tip jar systems to paywalls to asking for donations: it should be stupidly self-evident that it doesn't make sense to ask people for money at those moments in time (and for products that caters to those moments of time) when they're least invested in your content.
 * Instead, if you want to create a premium product and monetize that, you need to take advantage of the (smaller) 9-10 P.M. peak instead of the morning and early afternoon peaks, as well as the weekend peaks. Most news sites see a dramatic reduction in visitors over the weekends, in vacation periods and summer months. At these moments, there's less news reading but it's also more relaxed and a bit more discerning — like taking the time to savour the experience of reading a Sunday edition.
+
+
+
+There are a couple of facts about the news industry that have a profound impact on how it works as a business, but that we're surprisingly loathe to acknowledge.
