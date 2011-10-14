@@ -5,8 +5,8 @@ title: Just a matter of time
 categories: 
     - journalism
     - tech & society
-context: |
-	Matt Waite remarks on how some students, when faced with a technical challenge, respond by saying "No idea how to do this, but gimme some time and I'll figure it out" whereas other students respond by saying "No idea how to do this", end of line. Is this the self-imposed "journalists can't do math" meme rearing its head all over again?
+context:
+    Matt Waite remarks on how some students, when faced with a technical challenge, respond by saying "No idea how to do this, but gimme some time and I'll figure it out" whereas other students respond by saying "No idea how to do this", end of line. Is this the self-imposed "journalists can't do math" meme rearing its ugly head all over again?
 ---
 
 Isn't it an exposure thing too? Once you've mastered one specific tech, learning another is suddenly that much less daunting, and the perceived challenge becomes ever smaller for each new technology you learn, even if the learning process itself is more difficult each time. But familiarization takes time, and I don't think a teacher can influence it very much.
