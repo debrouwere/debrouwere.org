@@ -1,6 +1,6 @@
 ---
 layout: comment
-canonical: http://blog.mattwaite.com/post/11440934055/journalism-students-vs-tech-focused-students
+canonical: http://blog.mattwaite.com/post/11440934055/journalism-students-vs-tech-focused-students#comment-334812407
 title: Just a matter of time
 categories: 
     - journalism
