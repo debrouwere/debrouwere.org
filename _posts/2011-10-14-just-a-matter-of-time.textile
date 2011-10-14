@@ -5,7 +5,7 @@ title: Just a matter of time
 categories: 
     - journalism
     - tech & society
-context:
+context: |
 	Matt Waite remarks on how some students, when faced with a technical challenge, respond by saying "No idea how to do this, but gimme some time and I'll figure it out" whereas other students respond by saying "No idea how to do this", end of line. Is this the self-imposed "journalists can't do math" meme rearing its head all over again?
 ---
 
