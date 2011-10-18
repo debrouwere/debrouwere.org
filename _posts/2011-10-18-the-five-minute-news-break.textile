@@ -3,6 +3,7 @@ layout: post
 title: The Five-Minute News Break
 categories:
     - journalism
+    - business & management
 summary: For an industry in trouble, we think surprisingly little about how people actually read what we write.
 ---
 
