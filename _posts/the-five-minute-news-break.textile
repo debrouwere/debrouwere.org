@@ -1,8 +1,27 @@
-When thinking about how to monetize news, or how to create new news products, we don't fully account for the fact that 50-80% of all news consumption happens in short  five-to-ten minute breaks at work. This has really big implications for what sort of products we can make money off and which sorts of products we should be doing.
+---
+layout: post
+title: The Five-Minute News Break
+categories:
+    - journalism
+summary: For an industry in trouble, we think surprisingly little about how people actually read what we write.
+---
 
-* You can't directly ask money from somebody who's surfing at work. They're just looking for a diversion, they won't consume just anything, but they're definitely not too picky either. They're often browsing sites their bosses would rather not see them browsing during work time, so actively *investing* money in a kind of activity that is in the gray area of acceptability wouldn't feel right, be a bit embarrassing even. This goes for anything from tip jar systems to paywalls to asking for donations: it should be stupidly self-evident that it doesn't make sense to ask people for money at those moments in time (and for products that caters to those moments of time) when they're least invested in your content.
-* Instead, if you want to create a premium product and monetize that, you need to take advantage of the (smaller) 9-10 P.M. peak instead of the morning and early afternoon peaks, as well as the weekend peaks. Most news sites see a dramatic reduction in visitors over the weekends, in vacation periods and summer months. At these moments, there's less news reading but it's also more relaxed and a bit more discerning — like taking the time to savour the experience of reading a Sunday edition.
+Facebook is perfectly optimized for a nicely distracting two-minute browsing session during work. We open up a browser to research something for work, but, ah... why not check how our friends' day is going first.
 
+News websites work similarly: a homepage with a smorgasbord of content, all stories a mere click away, and each story can be skimmed in one or two minutes. And then shared through twitter just as quickly.
 
+When we think about how to monetize news, we hardly ever account for the fact that over half of all news consumption happens in short five-minute breaks in between work, studying or waiting for the bus. But these short breaks change everything.
 
-There are a couple of facts about the news industry that have a profound impact on how it works as a business, but that we're surprisingly loathe to acknowledge.
+You will _never ever_ be able to ask money from somebody who's surfing during work time. It's embarassing enough that we're getting distracted while we ought to be productive. Actively investing money into making those sneaky distractions more pleasant wouldn't feel right, would be a bit seedy even.
+
+In "The Story So Far: What We Know About the Business of Digital Journalism":http://www.cjr.org/the_business_of_digital_journalism/the_story_so_far_what_we_know.php, one newspaper after another reports not being able to properly monetize online video even though the advertising rates for "pre-rolls":http://en.wikipedia.org/wiki/Video_advertising are _very_ attractive to publishers. Well duh, I don't even have a headset near my work computer, and I'd rather die than have anyone see me watching what for all they know could be cat videos on YouTube.
+
+But it's not just that paying for more enjoyable work breaks would feel wrong (or that work breaks are wrong!), there's just no need for quality journalism during the daytime. When I'm working, I want to be distracted. Maybe something to clear my mind. Short updates about what's going on in the nation fit the bill. Celebrity news does too. Cat pictures too. And news from friends on Facebook too. An "investigation into how methamphetamine destroys lives":http://www.kickstarter.com/projects/364286449/shadow-people-a-journey-into-meth-driven-crime... eh, not so much. Cheap content is actually the most satisfying when we're just snacking for news.
+
+In fact, we actively save up the really good stuff for when we're not at work, using "Instapaper":http://www.instapaper.com, "Read It Later":http://readitlaterlist.com/, "Klip.me":http://www.klip.me/, "Spool":https://getspool.com/ and the Safari Reading List feature. But we encounter the good stuff when our frame of mind is one of uncritical consumption and aversion to paid content, which is really bad luck for publishers. By the time we get home, our true fans have already saved up their evening reading. By the time we'd be inclined to maybe pay for media, we don't have to because you gave it to us for free earlier. And if you wouldn't have made it free, we'd have just skipped it. Now that's a Catch-22 if I ever saw one.
+
+You can't ask people to pay for your content at the time they're least invested in it. You can't sell engaged users to advertisers, because they're not engaged, they're surfing and hopping.
+
+Despite that Catch-22, can we take advantage of the smaller visitor peak from 9 to 10 P.M. and traffic during the weekends? Most news sites see a big reduction in visitors on Saturday and Sunday, in vacation periods and during the summer months. But while there's less consumption, especially online, it's also more relaxed and people's tastes are a bit more refined. People still take time to savour a Sunday edition. People pay to get more out of their weekends.
+
+Keep our daytime coverage short and sweet, and make kick-ass video, features and enterprise reporting for the evenings and weekends, when advertisers pay more and people may at the very least pay _something_.
