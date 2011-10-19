@@ -52,7 +52,7 @@ Then there's wikitext, which once upon a time had a "Markdown-like":http://darin
 
 Frankly, considering how hard it is for non-techies to write in MediaWiki, I'm surprised that a local city wiki like the "Davis Wiki":http://daviswiki.org/ has ever gotten off the ground. It has certainly survived against all odds. And I'm _not_ surprised they're "looking to get rid of MediaWiki":http://localwiki.org/.
 
-The WikiMedia foundation has been "looking for a Rich Text Editing software dev":http://wikimediafoundation.org/wiki/Job_openings for a long time. They try, but I don't know if they can truly solve much considering MediaWiki is such a deprecit codebase. All improvement is bound to be the electronic equivalent of dodging landmines.
+The WikiMedia foundation has been "looking for a Rich Text Editing software dev":http://wikimediafoundation.org/wiki/Job_openings for a long time. They try, but I don't know if they can truly solve much considering MediaWiki is such a decrepit codebase. All improvement is bound to be the electronic equivalent of dodging landmines.
 
 h3. Blobs and bots
 
