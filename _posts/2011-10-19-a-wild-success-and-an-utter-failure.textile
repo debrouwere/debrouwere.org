@@ -8,7 +8,7 @@ title: A wild success and an utter failure
 summary: Wikipedia's technology is outdated and egotists have infested the contributor ranks. But it works. Here's a look at the two faces of Wikipedia.
 ---
 
-Reading an old post by the wonderful Jason Scott about "The Great Failure of Wikipedia":http://ascii.textfiles.com/archives/808 and then a more recent one by Megan Garber titled "Why did Wikipedia succeed while other encyclopedias failed?":http://www.niemanlab.org/2011/10/the-contribution-conundrum-why-did-wikipedia-succeed-while-other-encyclopedias-failed/ about "research by Benjamin Hill":http://cyber.law.harvard.edu/events/luncheon/2011/10/makohill reminded me of something I've wanted to write for a long time, about how Wikipedia's wild success despite utter failure.
+Reading an old post by the wonderful Jason Scott about "The Great Failure of Wikipedia":http://ascii.textfiles.com/archives/808 and then a more recent one by Megan Garber titled "Why did Wikipedia succeed while other encyclopedias failed?":http://www.niemanlab.org/2011/10/the-contribution-conundrum-why-did-wikipedia-succeed-while-other-encyclopedias-failed/ about "research by Benjamin Hill":http://cyber.law.harvard.edu/events/luncheon/2011/10/makohill and these pieces reminded me of something I've wanted to write for a long time, about how Wikipedia's wild success despite its utter failure.
 
 Hill's big finding is that Wikipedia has become so popular because its founders didn't buy into the _if you build it, they will come_ meme, so they knew they had to write and edit and evangelize to get people on board instead of fetishizing technology.
 
@@ -20,11 +20,11 @@ But Wikipedia works its magic through what is actually a massively inefficient p
 
 Wikipedia works despite its guardians and community standards, not always because of them.
 
-Luckily Wikipedia is such a big place that each subsection has grown its own contributor culture. As a senior during my undergraduate studies, I contributed pretty actively to Wikipedia, doing research about "philosophical pragmatism":http://en.wikipedia.org/wiki/Pragmatism and related articles. It was pleasant. The procedural whackjobs tend to leave literature, philosophy and science alone.
+Luckily Wikipedia is such a big place that each subsection has grown its own contributor culture. As a senior during my undergraduate studies, I contributed pretty actively to Wikipedia, doing research about "philosophical pragmatism":http://en.wikipedia.org/wiki/Pragmatism and related articles. Surprise: I enjoyed it, it was great. The procedural whackjobs tend to leave literature, philosophy and science alone.
 
 h3. Share!
 
-It's more pleasant if you actually understand that Wikipedia has a very specific purpose, and that is to make all kinds of subjects and concepts understandable to a general audience, with a (good!) bias towards perpetuating the common wisdom and mainstream ways of thinking. This is "Jason Scott's old beef with Wikipedia":http://ascii.textfiles.com/archives/808 and it doesn't make sense to me.
+As a contributor, it's more pleasant if you actually understand that Wikipedia has a very specific purpose, and that is to make all kinds of subjects and concepts understandable to a general audience, with a (good!) bias towards perpetuating the common wisdom and mainstream ways of thinking. This is "Jason Scott's old beef with Wikipedia":http://ascii.textfiles.com/archives/808 and it doesn't make sense to me.
 
 If you have uncovered fantastic new information about a certain topic, you should write an essay or a book or a blog post and then maybe _that_ will get incorporated into relevant Wikipedia articles.
 
@@ -50,17 +50,17 @@ h3. Wikitext
 
 Then there's wikitext, which once upon a time had a "Markdown-like":http://daringfireball.net/projects/markdown/ elegance but has now spiraled so out of control that most local or topical wikis fail before they've started: potential contributors take one look at the syntax, decide rocket surgery might be more within their cognitive capacities and run away before contributing even a single word.
 
-Frankly, considering how hard it is for non-techies to write in MediaWiki, I'm surprised that a local city wiki like the Davis Wiki has ever gotten off the ground. It has certainly survived against all odds. And I'm _not_ surprised they're "looking to get rid of MediaWiki":http://localwiki.org/.
+Frankly, considering how hard it is for non-techies to write in MediaWiki, I'm surprised that a local city wiki like the "Davis Wiki":http://daviswiki.org/ has ever gotten off the ground. It has certainly survived against all odds. And I'm _not_ surprised they're "looking to get rid of MediaWiki":http://localwiki.org/.
 
-The WikiMedia foundation has been "looking for a Rich Text Editing software dev":http://wikimediafoundation.org/wiki/Job_openings for a long time. They try, but I don't know if they can truly solve much considering MediaWiki is such a deprecit code base. All improvement is bound to be the electronic equivalent of dodging landmines.
+The WikiMedia foundation has been "looking for a Rich Text Editing software dev":http://wikimediafoundation.org/wiki/Job_openings for a long time. They try, but I don't know if they can truly solve much considering MediaWiki is such a deprecit codebase. All improvement is bound to be the electronic equivalent of dodging landmines.
 
 h3. Blobs and bots
 
 Part of the problem is that Wikipedia and its engineers are introducing ever more (confusing) wiki syntax to cope with semi-structured data. Semi-structured data are things like a person's birth date and current residence, anything that's not a blob of prose. Structure can give content a second life in maps and timelines, and makes it easier to find what you need, like famous people from Rhode Island born after 1972.
 
-Getting any of that good stuff out is really hard, which is why "DBpedia":http://dbpedia.org — _DBpedia is a community effort to extract structured information from Wikipedia and to make this information available on the Web._ — deserves so much kudos. Of course, if Wikipedia's data model were anywhere near reasonable, creating an api.wikipedia.org wouldn't take a separate project like DBpedia, instead it would be a good day's work for a software engineer.
+Getting any of that good stuff out is really hard, which is why "DBpedia":http://dbpedia.org — _DBpedia is a community effort to extract structured information from Wikipedia and to make this information available on the Web._ — deserves so much kudos. Of course, if Wikipedia's data model were anywhere near reasonable, creating an api.wikipedia.org wouldn't take a separate project like DBpedia, instead it would be a good day's work for a software engineer and that'd be that.
 
-"Wikipedia bots":http://en.wikipedia.org/wiki/Wikipedia:Bots alleviate some of the drudge work by gardening and cleaning Wikipedia automatically while crawling through its pages. For example, many American city pages were created and are updated with new census information and maps without human intervention. Thank you, "rambot":http://en.wikipedia.org/wiki/User:Rambot. But those bots themselves are convoluted pieces of technology. Wikipedia's data model means they have fudge raw text without stepping on anything real humans have written, which is not easy.
+"Wikipedia bots":http://en.wikipedia.org/wiki/Wikipedia:Bots alleviate some of the drudge work by gardening and cleaning Wikipedia automatically while crawling through its pages. For example, many American city pages were created and are updated with new census information and maps without human intervention. Thank you, "rambot":http://en.wikipedia.org/wiki/User:Rambot. But these bots themselves are convoluted pieces of technology. Wikipedia's data model means they have fudge raw text without stepping on anything real humans have written, which is not easy.
 
 Bots help, just not enough.
 
@@ -72,6 +72,6 @@ As a reader, you don't really notice that developers have a hard time getting me
 
 (What English readers also don't notice is that local versions of Wikipedia, like the one in Dutch, are even more inconsistent in their quality than the English-language flagship. Wikipedia wins by sheer numbers, and when those numbers aren't present, quality suffers.)
 
-The common wisdom that garbage in means garbage out doesn't actually apply to Wikipedia: you put in lots of raw material that's decidedly less than perfect, but the stuff that comes out is actually damn tasty. In other words: Wikipedia is a sausage factory.
+But here's the thing: the common wisdom that garbage in means garbage out doesn't actually apply to Wikipedia. In the Wikipedia model, you put in lots of raw material that's decidedly less than perfect, but the stuff that comes out is actually damn tasty. In other words: Wikipedia is a sausage factory.
 
 Wikipedia needs to knock out the bullies and improve their tech, because both are making Wikipedia less great than it could be. But while they do so, let's also just take a minute to appreciate the enormous value of this thing that we've created, we, together, people from all over the world.
