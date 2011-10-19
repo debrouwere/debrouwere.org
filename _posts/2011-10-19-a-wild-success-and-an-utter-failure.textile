@@ -8,7 +8,7 @@ title: A wild success and an utter failure
 summary: Wikipedia's technology is outdated and egotists have infested the contributor ranks. But it works. Here's a look at the two faces of Wikipedia.
 ---
 
-Reading an old post by the wonderful Jason Scott about "The Great Failure of Wikipedia":http://ascii.textfiles.com/archives/808 and then a more recent one by Megan Garber titled "Why did Wikipedia succeed while other encyclopedias failed?":http://www.niemanlab.org/2011/10/the-contribution-conundrum-why-did-wikipedia-succeed-while-other-encyclopedias-failed/ about "research by Benjamin Hill":http://cyber.law.harvard.edu/events/luncheon/2011/10/makohill and these pieces reminded me of something I've wanted to write for a long time, about how Wikipedia's wild success despite its utter failure.
+Reading an old post by the wonderful Jason Scott about "The Great Failure of Wikipedia":http://ascii.textfiles.com/archives/808 and then a more recent one by Megan Garber titled "Why did Wikipedia succeed while other encyclopedias failed?":http://www.niemanlab.org/2011/10/the-contribution-conundrum-why-did-wikipedia-succeed-while-other-encyclopedias-failed/ about "research by Benjamin Hill":http://cyber.law.harvard.edu/events/luncheon/2011/10/makohill and these pieces reminded me of something I've wanted to write for a long time, about how Wikipedia is a wild success despite its utter failure.
 
 Hill's big finding is that Wikipedia has become so popular because its founders didn't buy into the _if you build it, they will come_ meme, so they knew they had to write and edit and evangelize to get people on board instead of fetishizing technology.
 
