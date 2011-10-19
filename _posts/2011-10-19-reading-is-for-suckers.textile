@@ -1,0 +1,13 @@
+---
+layout: quote
+title: Reading is for suckers
+author: Andrew Spittle
+categories:
+    - journalism
+    - business & management
+    - information architecture
+context: Lewis DVorkin from Forbes talks obliquely about how single-page stories are not high on the list of priorities for his news site.
+canonical: http://andrewspittle.net/2011/10/18/reading-is-for-suckers/
+---
+
+Translation, reading on any major news site is a terrible experience. We know this but are doing nothing to distinguish ourselves because we’re quite happy with the revenue our ads bring in from artificially inflated pageviews created by a design that places our users’ reading experience somewhere between last and not even on the radar. In the meantime, can you please purchase the print magazine so that we can stay in business?
