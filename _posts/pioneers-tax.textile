@@ -1,0 +1,9 @@
+Bryan Murley
+
+> How do you decide to dedicate time to a new tool/platform/gadget? What is the process you go through mentally? And then later – how do you convince others to go through that process? And, last: How do you ensure that the tools you do adopt are used once the “newness” factor fades?
+
+For the carnival
+
+* finding technologies that make you more able to take on new challenges, rather than painting you into corners (due to keeping your data for themselves, ...)
+* experiment from the very start, but when productizing and monetizing, make sure you won't be the one to pay the pioneer tax. Getting people to try out something new is hard as hell. Getting people to try a new flavor of something they've long loved is much easier. First mover isn't always an advantage.
+* Opportunity costs. I agree with Steve Buttry, for example, that there are lots of opportunities in the mobile sphere. But, at nine out of ten news organizations, particularly ones that have been around for a while and maybe slow to adapt to new technologies and writing, there are usually ten other projects you could be doing that would have more value (both short- and long-term) than being bullish on mobile.
