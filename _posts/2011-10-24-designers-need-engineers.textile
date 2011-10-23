@@ -1,0 +1,23 @@
+---
+layout: post
+categories:
+    - business & management
+    - tech & society
+title: Designers need engineers
+---
+
+Like so many of you, I've been indulging in the amateur analyses all over the web about why Steve Jobs, p.b.o.h., was so great. The recurring message is "pithily summarized":http://gigaom.com/2011/10/21/steve-jobs-and-why-technology-doesnt-matter/ by Mathew Ingram: "Technology is the least important thing about Apple products".
+
+Bullshit. The reason why Apple manages to build such magnificent products is because design and usability _drive_ the engineering, yet the technology behind their products is by no means trivial. Apple cares a lot about engineering, more than Dell and Samsung and RIM.
+
+It takes one designer to decide that touch interfaces are the bees' knees, maybe another one to come up with intuitive finger gestures for such an interface, and then it takes engineers to convert the electrical capacitance of your fingers on a piece of glass into digital information, engineers to make the best damn screen they can, and more engineers to get a computer to interpret your wildly inaccurate finger movements.
+
+Have you ever used a bad touchpad? Like, any touchpad not made by Apple? It's horrible. Designers without engineers to back them up.
+
+It takes one designer to say "we're going to build a small, sleek laptop". It then takes engineers to make sure that laptop doesn't overheat, engineers to assure that its tiny speakers don't sound like crap, and engineers to fit everything into that small package.
+
+Have you ever noticed how none of those beautiful Bose speakers in the hifi store sound all that good? What a disappointment. Designers without engineers to back them up.
+
+Oh, and, do you remember Windows ME? "We're really working toward simplifying the computing experience for home users." "said":http://www.winsupersite.com/article/faqtip/windows-millennium-edition-windows-me-faq Microsoft's Shawn Sanford. Except it crashed all the time.
+
+It might seem like semantics, but there's a big difference between putting design first and saying design is more important than technology. It's "the kind of attitude":http://stdout.be/2011/06/14/the-trouble-with-usability-experts/ that leads companies to hire UX experts and design experts who then push all kinds of recommendations down to IT and engineering, and afterwards complain that nothing ever got implemented. Why? Because these companies don't understand that good design is more than pretty and friendly: good design has meat, good design has substance, good design depends on great engineers.
