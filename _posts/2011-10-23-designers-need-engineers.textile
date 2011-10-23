@@ -10,7 +10,7 @@ Like so many of you, I've been indulging in the amateur analyses all over the we
 
 Bullshit. The reason why Apple manages to build such magnificent products is because design and usability _drive_ the engineering, yet the technology behind their products is by no means trivial. Apple cares a lot about engineering, more than Dell and Samsung and RIM.
 
-It takes one designer to decide that touch interfaces are the bees' knees, maybe another one to come up with intuitive finger gestures for such an interface, and then it takes engineers to convert the electrical capacitance of your fingers on a piece of glass into digital information, engineers to make the best damn screen they can, and more engineers to get a computer to interpret your wildly inaccurate finger movements.
+It takes one designer to decide that touch interfaces are the bee's knees, maybe another one to come up with intuitive finger gestures for such an interface, and then it takes engineers to convert the electrical capacitance of your fingers on a piece of glass into digital information, engineers to make the best damn screen they can, and more engineers to get a computer to interpret your wildly inaccurate finger movements.
 
 Have you ever used a bad touchpad? Like, any touchpad not made by Apple? It's horrible. Designers without engineers to back them up.
 
