@@ -1,5 +1,6 @@
 ---
 layout: quote
+language: en
 categories: 
     - journalism
     - business

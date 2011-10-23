@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Five-Minute News Break
+language: en
 categories:
     - journalism
     - business & management

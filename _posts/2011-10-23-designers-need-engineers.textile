@@ -1,4 +1,5 @@
 ---
+language: en
 layout: post
 categories:
     - business & management
@@ -16,7 +17,7 @@ Have you ever used a bad touchpad? Like, any touchpad not made by Apple? It's ho
 
 It takes one designer to say "we're going to build a small, sleek laptop". It then takes engineers to make sure that laptop doesn't overheat, engineers to assure that its tiny speakers don't sound like crap, and engineers to fit everything into that small package.
 
-Have you ever noticed how none of those beautiful Bose speakers in the hifi store sound all that good? What a disappointment. Designers without engineers to back them up.
+Have you ever noticed how none of those beautiful Bose speakers in the hifi store sound any good? What a disappointment. Designers without engineers to back them up.
 
 Oh, and, do you remember Windows ME? "We're really working toward simplifying the computing experience for home users." "said":http://www.winsupersite.com/article/faqtip/windows-millennium-edition-windows-me-faq Microsoft's Shawn Sanford. Except it crashed all the time.
 

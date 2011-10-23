@@ -1,5 +1,6 @@
 ---
 layout: quote
+language: en
 title: Reading is for suckers
 author: Andrew Spittle
 categories:

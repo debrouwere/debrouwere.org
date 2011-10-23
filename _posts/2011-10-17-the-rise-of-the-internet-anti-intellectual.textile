@@ -1,5 +1,6 @@
 ---
 layout: comment
+language: en
 title: The Rise of the Internet (Anti)-Intellectual?
 canonical: http://thesocietypages.org/cyborgology/2011/10/17/the-rise-of-the-internet-anti-intellectual/#comment-1676
 categories:

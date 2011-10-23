@@ -1,6 +1,6 @@
 ---
 layout: post
-language: 
+language: en
 categories: 
     - journalism
     - tech & society
