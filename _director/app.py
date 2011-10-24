@@ -54,6 +54,7 @@ class Comment(db.Model):
             self.date = date
         self.honeypot = suikerklontje
 
+    @property
     def normalized_website(self):
         if self.website:
             if not self.website.startswith('http://'):
