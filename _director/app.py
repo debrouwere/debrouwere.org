@@ -106,7 +106,7 @@ def posts():
 @app.route("/comments/", methods=['GET'])
 def comments():
     permalink = request.args.get('permalink')
-    matches = Comment.query.filter_by(post=permalink).all()
+    matches = Comment.query.filter_by(post=permalink).order_by(Comment.date).all()
     raw_date = "-".join(permalink.lstrip('/').split('/')[:3])
     date = datetime.strptime(raw_date, '%Y-%m-%d')
     post_is_recent = datetime.now() - date < timedelta(days=10)
