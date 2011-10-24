@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 from flask import Flask, render_template, request, Response, redirect
 from functools import wraps
 from flaskext.sqlalchemy import SQLAlchemy
+import markdown
 import data
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///../../comments.db'
@@ -53,11 +54,18 @@ class Comment(db.Model):
             self.date = date
         self.honeypot = suikerklontje
 
+    def normalized_website(self):
+        if self.website:
+            if not self.website.startswith('http://'):
+                return 'http://' + self.website
+            else:
+                return self.website
+        else:
+            return None
+
     @property
     def content_html(self):
-        parts = self.content.replace("\r", "").split("\n\n")
-        parts = ["<p>" + part + "</p>" for part in parts]
-        return "\n\n".join(parts)
+        return markdown.markdown(self.content)
         
     def gravatar_url(self, size=80):
         url = "http://www.gravatar.com/avatar/" + hashlib.md5(self.email).hexdigest() + "?"
