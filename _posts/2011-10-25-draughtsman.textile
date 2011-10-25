@@ -1,5 +1,8 @@
 ---
 layout: post
+language: en
+categories:
+    - coding
 title: Prototyping with Draughtsman
 summary: Goodbye, Apache. From now on I'm using a proper prototyping server.
 ---
