@@ -21,4 +21,4 @@ I've included *autostart scripts* for Ubuntu and OS X, though I don't know if th
 
 You can use it *together with Apache* too, by having draughtsman forward any requests for formats it doesn't need to or can't compile — say, PHP — to an address of your choosing. For me, though, draughtsman has pretty much obviated the need for a "LAMP":http://en.wikipedia.org/wiki/LAMP_(software_bundle) install.
 
-Full docs and details at https://github.com/stdbrouw/draughtsman. Check it out!
+Full docs and details at "https://github.com/stdbrouw/draughtsman":https://github.com/stdbrouw/draughtsman. Check it out!
