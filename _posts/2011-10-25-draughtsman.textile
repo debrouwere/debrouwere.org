@@ -17,8 +17,8 @@ So you surf to @localhost:3400@, browse through the directory listing (which def
 
 I'm taking requests for handlers (and might even do a PHP handler sometime) and if you need some help building your own, or just getting the app up and running, "holler":https://github.com/stdbrouw.
 
-I've included autostart scripts for Ubuntu and OS X, though I don't know if they'll work for everybody.
+I've included *autostart scripts* for Ubuntu and OS X, though I don't know if they'll work for everybody.
 
-You can use it together with Apache too, by having draughtsman forward any requests for formats it doesn't need to or can't compile — say, PHP — to an address of your choosing. For me, though, draughtsman has pretty much obviated the need for a "LAMP":http://en.wikipedia.org/wiki/LAMP_(software_bundle) install.
+You can use it *together with Apache* too, by having draughtsman forward any requests for formats it doesn't need to or can't compile — say, PHP — to an address of your choosing. For me, though, draughtsman has pretty much obviated the need for a "LAMP":http://en.wikipedia.org/wiki/LAMP_(software_bundle) install.
 
 Full docs and details at https://github.com/stdbrouw/draughtsman. Check it out!
