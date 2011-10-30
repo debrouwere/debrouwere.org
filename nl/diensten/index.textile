@@ -18,6 +18,4 @@ Ik werk als softwareontwikkelaar en informatie-architect. Om over voor te zorgen
     <dd>Workshops: IA, de toekomst van de journalistiek, nieuwsdesign — zowel desktop publishing en online.</dd>
 </dl>
 
-h3. mijn werk
-
 Je kan gastbijdrages van mij lezen op Lost Remote, de Online Journalism Blog en mediakritiek.be. Eén van mijn opiniestukjes verscheen onlangs in het 'Handboek Crossmediale Journalistiek', een handboek voor studenten journalistiek aan de UvA.
