@@ -38,7 +38,7 @@ Yak shaving is doing things only vaguely related to your original problem, in th
 
 Shaving the yak is a continuum. It sure as hell doesn't pay off to spend an entire day tweaking your editor to fix a small annoyance you encounter every once in a while when you're coding. And it's even worse if you're not aware of the path you're starting down.
 
-But it would make a ton of sense to stray from your immediate goal to set up a sensible deployment strategy and spend two days being a "DevOp":http://en.wikipedia.org/wiki/DevOps , while what you really just wanted to do was get your site live.
+But it would make a ton of sense to stray from your immediate goal to set up a sensible deployment strategy and spend two days being a "DevOp":http://en.wikipedia.org/wiki/DevOps, while what you really just wanted to do was get your site live.
 
 The guys at "LiveJournal":http://www.livejournal.com/ thought their stuff should go a little bit faster, and they ended up building an in-memory "caching system":http://memcached.org/.
 
