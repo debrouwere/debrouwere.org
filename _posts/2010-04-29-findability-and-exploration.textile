@@ -22,11 +22,13 @@ summary:
 
 The majority of people visiting a news website don't care about the front page. They might have reached your site from Google while searching for a very specific topic. They might just be wandering around. Or they're visiting your site because they're interested in one specific event that you cover. This is big. It changes the way we should think about news websites.
 
-We need "ambient findability":http://findability.org/ . We need smart ways of guiding people towards the content they'd like to see — with categorization and search playing complementary goals. And we need smart ways to keep readers on our site, especially if they're just following a link from Google or Facebook, by prickling their sense of exploration.
+We need "ambient findability":http://findability.org/. We need smart ways of guiding people towards the content they'd like to see — with categorization and search playing complementary goals. And we need smart ways to keep readers on our site, especially if they're just following a link from Google or Facebook, by prickling their sense of exploration.
 
 Pete Bell recently opined that "search is the enemy of information architecture":http://facets.endeca.com/2010/01/search-is-the-enemy-of-ia/. That's too bad, because we're really going to need great search if we're to beat Wikipedia at its own game: providing readers with timely information about topics they care about.
 
-First, we need to understand a bit more about search. What is search?h2. Full-text search is a last resort
+First, we need to understand a bit more about search. What is search?
+
+h2. Full-text search is a last resort
 
 Rack your brain for a minute. You're searching for a document in a repository. That repository might be the web, it might be an intranet or it might be content from your local news outlet. You're using the search box we're all familiar with. I now ask you if you're looking for results that contain the words that make up your query. You give me a quizzical look and answer: why, that's the point! But you're wrong.
 
@@ -48,7 +50,7 @@ Some of these wishes are a bit too wild for current technology. But provided you
 
 h2. The Sadness of Search
 
-Our readers often "don't know exactly what they're looking for":http://www.guardian.co.uk/technology/2007/apr/10/news.newmedia . Perhaps more importantly, people who land on on our site from Google don't know about all the great similar content they could find if only they'd stick with our site for just a bit longer. Which is why "most news websites still generate no more than a measly 15 pageviews per unique visitor":http://newsonomics.com/happy-birthday-huffpo-hint-give-money/ "per month":http://newsonomics.com/happy-birthday-huffpo-hint-give-money/. We need to get readers to the content they would like to see as fast and as effortlessly as possible, keep them engaged for longer when they've found that content, and point them in the right direction when they ask for either context, related or similar content.
+Our readers often "don't know exactly what they're looking for":http://www.guardian.co.uk/technology/2007/apr/10/news.newmedia. Perhaps more importantly, people who land on on our site from Google don't know about all the great similar content they could find if only they'd stick with our site for just a bit longer. Which is why "most news websites still generate no more than a measly 15 pageviews per unique visitor":http://newsonomics.com/happy-birthday-huffpo-hint-give-money/ "per month":http://newsonomics.com/happy-birthday-huffpo-hint-give-money/. We need to get readers to the content they would like to see as fast and as effortlessly as possible, keep them engaged for longer when they've found that content, and point them in the right direction when they ask for either context, related or similar content.
 
 !/images/content/2010-04-29-joy-of-search.png(© Peter Morville and Jeffery Callender)!
 
@@ -75,9 +77,9 @@ Most news websites don't even provide a quick link to the portfolio of the autho
 * "The Los Angeles Times":http://www.latimes.com/news/custom/topofthetimes/topstories/la-me-california-faults-20100428,0,2888008.story doesn't, and
 * "Le Monde":http://www.lemonde.fr/opinions/article/2010/04/28/l-affaire-de-nantes-et-le-politiquement-correct-par-brice-hortefeux_1343750_3232.html#ens_id=1245449 doesn't either.
 
- "The Texas Tribune":http://www.texastribune.org/stories/2010/apr/28/coming-out-retirement/ does. Seriously, do you really need to be a "Pulitzer-prize winning developer":http://www.hottypeconsulting.com/ or have the genius of the New York Times to realize people might want to check out more stories or opinion pieces by the same author after they've read a story they like? Do you really expect them to copy-paste the name of that author into a search box and pray for the best?
+"The Texas Tribune":http://www.texastribune.org/stories/2010/apr/28/coming-out-retirement/ does. Seriously, do you really need to be a "Pulitzer-prize winning developer":http://www.hottypeconsulting.com/ or have the genius of the New York Times to realize people might want to check out more stories or opinion pieces by the same author after they've read a story they like? Do you really expect them to copy-paste the name of that author into a search box and pray for the best?
 
-We can preempt search in a number of ways. One of the most obvious site-wide improvements we can make is to fashion a good information architecture in the narrower sense of that term, namely IA as a way of structuring content and constructing navigation on top of that. We need "kick-ass navigation":/2010/navigation-headaches/ : superb primary navigation (what we'll present as the basic sections of our site) and complementary secondary ways of navigating the site (browsing by author, by topic and so on).
+We can preempt search in a number of ways. One of the most obvious site-wide improvements we can make is to fashion a good information architecture in the narrower sense of that term, namely IA as a way of structuring content and constructing navigation on top of that. We need "kick-ass navigation":/2010/navigation-headaches/: superb primary navigation (what we'll present as the basic sections of our site) and complementary secondary ways of navigating the site (browsing by author, by topic and so on).
 
 Primary navigation and secondary navigation should go together like toast and butter, and the final scheme should be based on
 
@@ -157,7 +159,7 @@ h3. Broad framing
 
 Topic pages about persons, organizations, locations and events are great ways to answer general inquiries by readers. After all, if you have these kinds of pages, you probably spend hours and hours to get them just right and to keep them up to date, hoping that your readers will get something out of them.
 
-A lot of search behavior stems from an attempt at _learning_ . So another way of cutting search short is by trying to ascertain what a query is about and then, in addition to the full-text search, providing quick links to relevant topic pages. Words like @financial meltdown@ as part of a query are a pretty good predictor that we're looking for information about economics, finance and the "global financial crisis":http://en.wikipedia.org/wiki/Financial_crisis_of_2007–2010. Chances are these pages will be way more valuable to me than a bunch of links to articles that contain the exact words @financial meltdown@.
+A lot of search behavior stems from an attempt at _learning_. So another way of cutting search short is by trying to ascertain what a query is about and then, in addition to the full-text search, providing quick links to relevant topic pages. Words like @financial meltdown@ as part of a query are a pretty good predictor that we're looking for information about economics, finance and the "global financial crisis":http://en.wikipedia.org/wiki/Financial_crisis_of_2007–2010. Chances are these pages will be way more valuable to me than a bunch of links to articles that contain the exact words @financial meltdown@.
 
 Even if plain-Jane full-text search was all a reader came in for, the invitation to learn more about broader topics might be too enticing to pass up. Isn't that exactly the Wikipedia-style exploratory browsing (or "wilfing":http://www.facebook.com/group.php?gid=2360687588) we're "so jealous of?":http://www.newsless.org/2009/12/googles-living-stories-first-thoughts/
 

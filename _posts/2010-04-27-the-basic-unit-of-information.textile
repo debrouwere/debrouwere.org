@@ -60,6 +60,6 @@ Sources, facts and ideas aren't a part of a published story as we conceive of it
 
 More often than not, information architects are tasked with bringing out the best in an existing pile of content. But in the news industry, we can reinvent both how our content should be stored/codified to bring out its potential _and_ what that content should look like in the first place if it is to have any future at all. It reminds me of something Robert Lockwood once said:
 
-bq. In any redesign, if you retain the conventional structure of the newsroom, you will inevitably assume the values of the past.To redesign the newspaper you need to redesign the operation.
+bq. In any redesign, if you retain the conventional structure of the newsroom, you will inevitably assume the values of the past. To redesign the newspaper you need to redesign the operation.
 
 As information architects and software developers, whether we like it or not, we're on the front lines, fighting for the future of journalism.

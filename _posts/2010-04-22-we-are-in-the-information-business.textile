@@ -5,7 +5,6 @@ categories:
     - information architecture
     - journalism
 tags:
-    - en
     - Django
     - Drupal
     - newspapers

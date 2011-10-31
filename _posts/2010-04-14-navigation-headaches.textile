@@ -121,7 +121,7 @@ h4. lawrence.com
 
 h3. We need the hodge-podge
 
-Okay, enough pretty pictures for now. As should be obvious by now, yes, most newspapers and magazines, both off- and online, have sections that are a hodge-podge of different ways of organizing content, all thrown together and used alongside each other. Some are a bit more consistent than the others (lawrence.com is in large part functionally organized, guardian.co.uk on the other hand revolves around themes), but all of them try to serve their purpose as _navigation_ , as tour guides to a website, and taxonomy comes second.
+Okay, enough pretty pictures for now. As should be obvious by now, yes, most newspapers and magazines, both off- and online, have sections that are a hodge-podge of different ways of organizing content, all thrown together and used alongside each other. Some are a bit more consistent than the others (lawrence.com is in large part functionally organized, guardian.co.uk on the other hand revolves around themes), but all of them try to serve their purpose as _navigation_, as tour guides to a website, and taxonomy comes second.
 
 They're not ideal. Readers need to be able to grasp in an instance what your magazine or newspaper site has to offer, but also how to get to the content they like. These are conflicting aims. But most newspapers try their best to find a golden mean.
 

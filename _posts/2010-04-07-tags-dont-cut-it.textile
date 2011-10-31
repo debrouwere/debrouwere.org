@@ -14,7 +14,7 @@ summary:
     If we re-imagine tags as rich connections that relate content to the persons, organizations, locations, events and themes they talk about, hopefully magic will happen.
 ---
 
-*Tagging is a success story.* Ten years ago, who would've thought that any regular Joe could and would be associating metadata with content. Out of their own free will, at that! Collections that would've just stayed a random pile of content in the past, like the bookmarks on "Delicious":http://delicious.com/ or the photos on "Flickr":http://www.flickr.com/ , are now being organized by the magic of folksonomies — a showcase for "the sheer power of the many":http://www.shirky.com/herecomeseverybody/.
+*Tagging is a success story.* Ten years ago, who would've thought that any regular Joe could and would be associating metadata with content. Out of their own free will, at that! Collections that would've just stayed a random pile of content in the past, like the bookmarks on "Delicious":http://delicious.com/ or the photos on "Flickr":http://www.flickr.com/, are now being organized by the magic of folksonomies — a showcase for "the sheer power of the many":http://www.shirky.com/herecomeseverybody/.
 
 Tags dovetail nicely with our almost random way of browsing the internet, for instance by being the engine behind great "topical pages for blogs":http://simonwillison.net/tags/w3c/ that provide a gateway to any and all similar content written in the past. It's metadata for the masses.
 
@@ -157,7 +157,9 @@ h4. Themes
 
 Here's a cool idea: *let's actually treat persons and events and all these other vocabularies like real things instead of like labels*. Tags are a concept that we've inherited from the physical world: a tag is a label that you attach to something. And as "David Weinberger":http://www.everythingismiscellaneous.com/ notes: 
 
-bq. in the physical world a label has to be smaller than the thing that it labels. That's why we call it _meta_ data: data about data. But we don't need the arbitrary distinction between a label and the thing it labels on a website. Let's unlock the full potential of our relationships by making them relationships between things.
+bq. in the physical world a label has to be smaller than the thing that it labels. That's why we call it _meta_data: data about data.
+
+But we don't need the arbitrary distinction between a label and the thing it labels on a website. Let's unlock the full potential of our relationships by making them relationships between things.
 
 That way, the tag page for an event can show a map of where it took place. You could automatically place recent events you've covered on a calender. The tag page for a person can contain a biography, a timeline of significant events that this person was involved in and that you've reported about and so much more. And all this information can be gathered without human intervention, based solely on previously entered relationships, which gives you a good bit of automation without sacrifing quality.
 
