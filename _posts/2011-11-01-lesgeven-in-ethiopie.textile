@@ -6,6 +6,8 @@ categories:
 title: Lesgeven in Ethiopië
 ---
 
+!/images/content/2011-11-01-certification-time.jpg!
+
 De eerste weken van oktober heb ik 12 dagen in Ethiopië doorgebracht, om aan de universiteit van Jimma een cursus webdesign te geven in opdracht van de Vlaamse Interuniversitaire Raad ("VLIR-UOS":http://www.vliruos.be/). De cursisten daar hebben HTML5 geleerd, CSS3, heel wat jQuery, thema's maken in Drupal met het "Zen framework":http://drupal.org/project/zen, en tot slot een piepkleinbeetje GIMP. 
 
 Ethiopië ziet er eigenlijk exact uit hoe je zou denken: brakke hutjes met golfplaten dakken, mensen die overal op straat lopen, winkeliers en werklieden die met muilezels op schok zijn. Om de zoveel honderd meter een bar of samenkomstplaats die er infeite net als alle andere hutten uitziet, behalve dat er achter een glasloos raam cola en sigaretten en alcohol wordt aangeboden. "Zeer fotogeniek":http://www.flickr.com/photos/stdbrouw/sets/72157627765952711/, al zou je er niet willen wonen.
