@@ -23,7 +23,7 @@ Want to know what works in news?
 * *Collaboration* ("California Watch":http://californiawatch.org/dailyreport/california-watch-launches-new-media-network-8330 plus its many partners) and *competition* (any country with more than one national broadsheet)
 * *Non-profit* ("MinnPost":http://www.minnpost.com/) or *for-profit* ("The Batavian":http://thebatavian.com/)
 * *Short* ("Newser":http://www.newser.com/) or *long* ("Slate":http://www.slate.com/) or longer ("ProPublica's Kindle Singles":http://www.propublica.org/kindlesingles)
-* being a *technology company* ("The Texas Tribune":http://www.texastribune.org/), *meticulous about metadata* ("The Guardian":http://www.guardian.co.uk/) or *neither* (any and all bloggers)
+* Being a *technology company* ("The Texas Tribune":http://www.texastribune.org/), *meticulous about metadata* ("The Guardian":http://www.guardian.co.uk/) or *neither* (any and all bloggers)
 * *Opinionated* ("Techdirt":http://www.techdirt.com/) or even *biased* ("FoxNews":http://www.foxnews.com/ or "IndyMedia":http://www.indymedia.org) or *dryly factual* ("BBC News":http://www.bbc.co.uk/news/)
 
 Give me a facet and I'll give you success stories from all over the spectrum. Business successes _and_ editorial ones.
