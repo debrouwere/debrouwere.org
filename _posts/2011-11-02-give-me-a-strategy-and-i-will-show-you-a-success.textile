@@ -10,7 +10,7 @@ summary: There's no point in searching for a killer strategy in media. Think abo
 
 Want to know what works in news?
 
-* *Instantaneous* ("Al Jazeera's liveblogs":http://blogs.aljazeera.net/live/) or *old news *(any newspaper) or even older news ("The Economist":http://www.economist.com/)
+* *Instantaneous* ("Al Jazeera's liveblogs":http://blogs.aljazeera.net/live/) or *old news* (any newspaper) or even older news ("The Economist":http://www.economist.com/)
 * *Print-first* ("most student newspapers":http://www.poynter.org/latest-news/making-sense-of-news/105600/students-prefer-printed-college-newspapers-over-online/) or *digital-first* ("it has saved the Journal Register papers":https://twitter.com/#!/jxpaton/status/51659385189040129) or even *newsletter-first* ("DailyCandy":http://www.dailycandy.com/all-cities/ and tons of B2B)
 * *Quality* ("The New York Times":http://www.nytimes.com/) or *good-enough* ("Gawker":http://gawker.com/, free Metro papers around the world)
 * *News from all over* the place ("HuffPo":http://www.huffingtonpost.com/) or *unique coverage* ("McSweeneys":http://www.mcsweeneys.net/, "The New Republic":http://www.tnr.com/)
