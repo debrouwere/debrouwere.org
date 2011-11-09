@@ -1,0 +1,13 @@
+---
+layout: quote
+author: Bret Victor
+language: en
+categories:
+    - information architecture
+canonical: http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/
+title: Paralysis
+---
+
+Do you know what it's called when you lose all sense of touch? It's called paralysis, and they push you around in a wheelchair while you calculate black hole radiation.
+
+Pictures Under Glass is an interaction paradigm of permanent numbness. It's a Novocaine drip to the wrist. It denies our hands what they do best.
