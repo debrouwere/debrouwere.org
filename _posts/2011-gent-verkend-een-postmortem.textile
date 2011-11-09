@@ -1,0 +1,28 @@
+---
+layout: post
+language: nl
+categories: 
+    - coding
+    - tech & society
+    - business & management
+    - personal
+title: "Gent Verkend: een post-mortem"
+summary: 
+---
+
+Problemen: 
+
+- iets over het probleem van de papieren editie, die geleid heeft tot de keuze voor een website
+- nog nooit een softwareproject geleid waardoor ik sommige dingen onderschat heb (bv. de les van The Mythical Man-Month: elke nieuwe aanwinst is maar 66% zo performant als de eerste -- alsook het idee dat computerwetenschappers wel moèsten productiever zijn dan mij, terwijl het soort programmeerwerk dat we deden nu ook geen raketwetenschap is, en slimmer <> sneller)
+- net de opkomst van GIS op het web, het begon nèt makkelijk te worden... maar soms ook nog heel moeilijk. De immaturiteit van de tools (vooral die om te themen en om tiles te maken, waardoor het voordeel van een custom kaart zich eigenlijk nooit esthetisch getoond heeft) maar ook van onze eigen kennis (we waren zo stom om niet eens GeoDjango te gebruiken, waardoor we heel wat problemen hadden met herprojectie)
+- risico's niet ingekapseld: als project dat door de studentenraad werd gesteund konden we het ons wel veroorloven om wat nieuwe dingen uit te proberen, zonder echt te weten hoe het zou aflopen, maar door héél het project vast te hangen aan die risico-ondernemingen, is het project in zijn geheel nooit ècht fantastisch geweest. Voorbeeld geven van Google maps vs. cartografie, en hoe we dat enkel voor de gedrukte kaart hadden kunnen proberen om te beginnen.
+- Risico's moet je ook erkennen als risico's, zoals bv. voor onze panoramafoto's. Eerst een half werk insteken, kijken hoe dat gaat, en als het te complex blijkt, stopzetten ipv. door te stuwen omdat je aan jezelf nu eenmaal gezegd hebt dat er panorama's zouden komen.
+- Quick wins! We hadden moeten doen alsof we maar een vierde van ons budget hadden, en dan denken, "ok, hoe kunnen we met zo weinig mogelijk geld zoveel mogelijk gedaan krijgen".
+- Los van het feit dat we heel wat nagedacht hadden over wàt voor soort informatie we op de site wilden, en zelfs focus groups gedaan hebben, niet voldoende in ons hart gekeken over wat voor een site écht nuttig zou zijn. De algemene lijn zat niet slecht: een cafégids voor wie eens wat op verkenning wil, een kotmeter zodat je weet in welke buurt je belandt als je een kot kiest en hoe ver dat van je campus ligt, en Gent in beeld, zodat mensen die net in Gent toekomen van op den boerenbuiten vlug kunnen kijken hoe in hemelsnaam het Zuid er uitziet en waar alle grote ankerpunten liggen ten opzichte van elkaar, zodat mensen snel het gevoel hebben dat ze hun weg weten, zelfs al hebben ze geen flauw idee wat al die kleine straatjes zijn.
+Maar onze details zaten fout. Bv. een lijst met alle café's met foto's en tags van wat je mag verwachten is leuk, maar daar bovenop nog besprekingen waarin één persoon zegt wat hij met zijn specifieke smaak denkt over een plek, wie in hemelsnaam is daarin geïnteresseerd? We hebben massaal veel tijd gestoken in besprekingen die neerkwamen op "ik, als hipster, vind dit een marginaal café" en "ik, als bierdrinker, vind de Limonada voor homo's." Totaal zinloos.
+En die panorama's waren veel te arbeidsintensief, er zijn makkelijker manieren om een mentale kaart te maken.
+- Een site die niemand bezoekt is zinloos. Of je dat nu doet door traditionele marketing of andere slimme technieken, je moet ièts doen. Omdat de site na het eerste jaar nog niet op punt stond heb ik niks aan marketing uitgegeven, maar wel 2.000 euro opzij gezet voor mijn opvolger. Die dat dan prompt gebruikt heeft om schrijvers te betalen.
+- Data accuraat houden is essentieel, en moeilijk voor een studentenproject waar maar in twee of drie periodes per jaar aan gewerkt wordt. Ook de schuld van stad Gent, natuurlijk.
+- Sommige dingen kunnen we onszelf ook niet verwijten. De GSR was nooit geïnteresseerd in ons project.
+- Het eerste jaar heb ik teveel tijd verspild aan samenwerkingen op poten zetten met de hogescholen. Voor de Hogeschool Gent is dat uiteindelijk gelukt (zij hebben twee jaar lang onze plannetjes verdeeld en waren daar wreed content mee) maar in alle andere gevallen bleek dat te moeilijk. Klein beginnen, mensen enthousiast krijgen over wat je doet, en dàn zoeken naar samenwerkingen is veel makkelijker.
+- Als je alles aanbiedt denken mensen dat je niks aanbiedt. Op de site kon je de dichtstbijzonde dokter in je buurt vinden alsook bankautomaten, maar niemand wist dat. Nu, met de opkomst van smartphones, zou je daar trouwens veel leukere dingen mee kunnen doen.

@@ -1,5 +1,9 @@
 "I once spent about twenty minutes searching for my copy of Ambient Findability, which I knew was lying around somewhere in my room. The irony does not escape me."
 
+* A few different kinds of information overload
+
+I wonder when was the last time somebody said "we live in a simple, ordered world and nobody's ever confused about anything."  --- a post about different kinds of information overload, anxiety, look for authorities but also for alternative voices... in other words: an overview of precise ways in which modern society is impacting the way we consume information and what that could mean for news products. It's my conceit that saying that your problem solves generic information overload, without specifying what it is exactly you're solving, is naive.
+
 * iets over de verborgen voordelen van transparantie, en de verborgen nadelen van geheimhouding *
 
 cf. Apache
