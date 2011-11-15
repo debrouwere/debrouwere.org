@@ -1,3 +1,13 @@
+---
+layout: post
+language: en
+categories:
+    - journalism
+    - business & management
+title: Frictionless
+summary: What Kickstarter and Amazon Kindle can teach news organizations.
+---
+
 Two different payment models have really impressed me lately: Kickstarter and Kindle.
 
 "*Kickstarter*":http://www.kickstarter.com/ impresses me because it so potently shows the value of "authenticity":http://www.kk.org/thetechnium/archives/2008/01/better_than_fre.php. Artists and writers and journalists talk about the cool stuff they're working on, and their enthusiasm is simply contagious. On some pages, it's _hard_ not to contribute right away. In just the past two or three months I've supported "Zombies, Run!":http://www.kickstarter.com/projects/sixtostart/zombies-run-a-running-game-and-audio-adventure-for?ref=live, "Last Two-Step in Texas":http://www.kickstarter.com/projects/1259019086/last-two-step-in-texas, "Lauren Ipsum":http://www.kickstarter.com/projects/512752850/lauren-ipsum-computer-science-for-kids and "A Thousand Thank Yous":http://www.kickstarter.com/projects/parallel-print-shop/a-thousand-thank-yous, four very cool projects.
