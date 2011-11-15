@@ -30,8 +30,8 @@ Without knowing it, at this point we've constructed a navigation based on seven 
 
 If we focus on websites, we can add in two more:
 
-#  *function, utility or presentation* : news, community calendar, in your neighborhood, search, classifieds (and stuff like "login" and "contact us" that is functional too, but has little to do with the news)
-#  *reader interaction* : most actively shared, most e-mailed, most viewed, most commented on (although this is not entirely exclusive to the web: magazines sometimes have similar "in the news" sections)
+#  *function, utility or presentation*: news, community calendar, in your neighborhood, search, classifieds (and stuff like "login" and "contact us" that is functional too, but has little to do with the news)
+#  *reader interaction*: most actively shared, most e-mailed, most viewed, most commented on (although this is not entirely exclusive to the web: magazines sometimes have similar "in the news" sections)
 
 But surely, my haphazardly cobbled-together scenario (hypothetical, to boot!) a few paragraphs upwards isn't realistic? That's not how you'd really split up a physical newspaper into sections! It's not how you'd furnish the navigation of an online newspaper! It isn't how these things actually look, is it?
 
