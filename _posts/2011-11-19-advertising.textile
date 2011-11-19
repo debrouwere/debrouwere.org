@@ -1,0 +1,13 @@
+---
+layout: quote
+language: en
+title: Advertising
+canonical: http://news.ycombinator.com/item?id=3252971
+author: nupark2
+context: Should Wikipedia have ads?
+---
+
+Ultimately, I think the use of advertising as a proxy mechanism for charging customers is an inefficient historical fall-out of the constraints of magazines, television, and the web. Any use of advertisement to fund modern digital distribution is indicative of one of two things:
+
+# A failure find a less round-about, more efficient, and more profitable mechanism for _directly_ charging consumers for what they consume
+# A lack of respect for the customer and an attempt to maximize profit at the expense of their enjoyment of your product.
