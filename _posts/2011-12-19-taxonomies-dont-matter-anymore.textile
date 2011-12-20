@@ -8,7 +8,7 @@ title: Taxonomies don't matter anymore
 summary: On the web, taxonomies and even just plain tags are becoming ever more of an anachronism. We're replacing them with domain models and with search.
 ---
 
-Taxonomies and tags are a way to "connect people to content they care about". They rise to the surface through faceted search, site navigation and related content widgets. I am no longer convinced they're very good at their job. ("I used to be.":http://stdout.be/2010/04/07/tags-dont-cut-it/) Maybe for libraries but not for news websites, anyway.
+Taxonomies and tags are a way to connect people to content they care about. They rise to the surface through faceted search, site navigation and related content widgets. I am no longer convinced they're very good at their job. ("I used to be.":http://stdout.be/2010/04/07/tags-dont-cut-it/) Maybe for libraries but not for news websites, anyway.
 
 Let me explain, step by step, why categorization is becoming ever less useful, especially the formal, well-defined, crafted-to-stand-the-test-of-time approach to categorization we call taxonomy.
 
