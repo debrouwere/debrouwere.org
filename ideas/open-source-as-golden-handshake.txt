@@ -1,1 +1,5 @@
 Open-source ook als golden handshake voor programmeurs die graag mobiel willen blijven: een manier om te vermijden dat àl het werk dat je bij je vorige werkgever hebt gedaan, daar blijft plakken. Dat geldt dubbel voor mensen die bij een startup werken. Misschien een nogal cynische gedachte, maar: als je 70, 80, 90 uur per week werkt, is het leuk om te weten dat, moest het mislopen, niet al je werk in de vuilbak moet.
+
+Zie ook http://tom.preston-werner.com/2011/11/22/open-source-everything.html
+
+"Let's face it, great developers can take their pick of jobs right now. These same developers know the value of coding in the open and will want to build up a portfolio of projects they can show off to their friends and potential future employers. That's right, a paradox! In order to keep a killer developer happy, you have to help them become more attractive to other employers."

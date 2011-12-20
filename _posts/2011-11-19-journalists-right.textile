@@ -1,0 +1,12 @@
+---
+layout: quote
+language: en
+categories:
+    - business & management
+    - journalism
+title: Journalists' right
+author: Kara Swisher
+context: Kara, Wall Street Journal columnist and All Things Digital co-exec, said this a couple of months ago at a journalism roundtable. This is from memory so may not be verbatim.
+---
+
+Journalists feel like they have a right not to have economic realities (en)forced upon them.
