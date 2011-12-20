@@ -1,0 +1,83 @@
+---
+layout: post
+language: en
+categories:
+    - information architecture
+    - journalism
+title: Taxonomies don't matter anymore
+summary: On the web, taxonomies and even just plain tags are becoming ever more of an anachronism. We're replacing them with domain models and with search.
+---
+
+Taxonomies and tags are a way to "connect people to content they care about". They rise to the surface through faceted search, site navigation and related content widgets. I am no longer convinced they're very good at their job. ("I used to be.":http://stdout.be/2010/04/07/tags-dont-cut-it/) Maybe for libraries but not for news websites, anyway.
+
+Let me explain, step by step, why categorization is becoming ever less useful, especially the formal, well-defined, crafted-to-stand-the-test-of-time approach to categorization we call taxonomy.
+
+(Or you can also scroll down to "What we do need" to read, well, what we _do_ need.)
+
+h3. Taxonomies drive navigation
+
+They can, but they don't need to. It's perfectly possible to have sections be simple buckets that you push stories to, and those buckets can change organically over time as your editorial priorities change. This year you can have a _Presidential Candidates_ bucket and a _Euro-Crisis_ bucket and an _Arab Spring_ bucket and next year you can have different ones to fit whatever you feel is most important. Section pages only house a couple days' worth of content anyway, so your categories don't have to withstand the test of time to be useful.
+
+But then what about our archives, you say? We have search engines for that. Search engines can sometimes fail to find important stories, you say? So can the indexers that categorize your stories. And your readers are just looking for a couple of stories related to topics they care about anyway, they don't care about an exhaustive repository.
+
+h3. Taxonomies improve search
+
+Actually, caring about search improves search. The reason the search engines on our news websites suck isn't because we're not tagging things properly or because we don't have enough metadata to make them work, it's because we're too stupid to devote any time or resources to doing great search.
+
+I outlined a ton of tricks news websites can use to improve their search engine in  my "Findability and Exploration":http://stdout.be/2010/04/29/findability-and-exploration/ blogpost twenty months ago. I still think those tips are really good. It's just that nobody's trying them.
+
+Tags in any form or shape are excellent at driving search and navigation in repositories that contain very little text: photos ("Flickr":http://www.flickr.com/), links ("Delicious":http://delicious.com/), contacts ("Highrise":http://highrisehq.com/), all that stuff. No argument there. Doesn't apply to stories.
+
+h3. Taxonomies drive content recommendations
+
+The best content recommendations on news websites are inside of the body copy: inline links. With recommendations, you never know what you're getting. It's mystery meat. With links, a writer tells you why she's pointing at something the moment she's pointing at it.
+
+Automated recommendation engines are mainly useful as cute but non-essential pageview drivers and if your journalists are too lazy to add links.
+
+h3. Taxonomies make topic pages smarter
+
+Topic pages aren't generally shit because we're not annotating our content with enough _whateveritis_ or because "the world cannot be represented in machine-readable form":http://jonathanstray.com/the-world-cannot-be-represented-in-machine-readable-form (though there's that too), they're shit because we treat them like shit: we never update them, we never care for them, and the only resources they get are computer resources. 
+
+Likewise, our mapping and timelining efforts often suck because we fail to commit the time a dev or a journalist would need to do them right, so everything gets pushed into ugly semi-automated quasi-solutions.
+
+We come to topic pages for an encyclopedia-like overview of events and issues, and to get quick links to the most pertinent content. A way to catch up to big stories when you feel behind. We don't come to topic pages for automatically aggregated sort-of-relevant content with no editorial guidance as to what's important and what's not.
+
+Sometimes, you just have to do things by hand, in prose.
+
+h3. Taxonomies allow users to easily subscribe to particular topics
+
+Taxonomies also allow us to inundate users with text alerts and digests when really what they want is not a firehose but meaningful updates when they make sense. There is really no way to sidestep curation unless we don't care that we're annoying our users.
+
+What is more frustrating to me than a lack of solid content categorization is that there is no single CMS out there that allows you to indicate follow-ups, updates, series, retractions, corrections and responses. Now that would be interesting metadata and it'd really allow us to keep readers in the loop and give them updates to stories they care about. Much more useful than telling me that this story is an education story and that that story is about air travel.
+
+h3. Taxonomies allow for alternative ways of browsing
+
+The best taxonomies come in bunches: one for topics, one for genre, one for organizations, one for people, one for... anything you'd like. Mood, for example: you could collect all sit-down-and-relax longform stories, all whimsical ones and all serious ones, so people could view different stories depending on what mood they're in.
+
+Thing is, we're already enabling alternative ways of browsing, and we've found a way to do it that's much quicker and much more fun than meticulously tagging all our content. It's called curation.
+
+h3. What we do need
+
+*What it boils down to is this:* when you're building a news site or a news application, categorization is not one of those no-brainers that you can just assume will be necessary, but instead is something that you have to figure out as part of your content modeling. (Which is why thinking of a news site as a "confederation of apps":http://www.niemanlab.org/2011/03/matt-waite-to-build-a-digital-future-for-news-developers-have-to-be-able-to-hack-at-the-core-of-the-old-ways/ makes so much sense: you cannot do proper content modeling for massive news sites, but you can for individual beats.) Taxonomies don't get a free pass. They must prove their usefulness to the task at hand, just like every other tool we use to structure, annotate and enrichen content.
+
+The kind of categorization efforts we can sensibly commit to will therefore likely be simple, direct, focused. Not complex, not large, not all-encompassing, not, in other words, taxonomies.
+
+When we do need complex hierarchies of content or unusual ways of bundling stories together, "ontologies and domain models":http://stdout.be/2010/04/22/we-are-in-the-information-business/ embedded in news applications are there to help us out.
+
+h3. Play to your strengths
+
+*But there's an even more important lesson news orgs can learn.* For so long now, technology and journalism have been fighting each other. We've been continually asking journalists to do things they're not comfortable with. Some of that has been and will remain perfectly justified. But one of the quickest, easiest, most fool-proof ways of making a news website that kicks ass is to play to journalists' strengths.
+
+Journalists suck at tagging, but they can usually write awesome "explainers":http://explainer.net/ and background pieces, point to previous coverage everyone should know about and collect bunches of interesting related content for specific audiences. It's not just that they _can_, they love it. You can probably do all of those things with technology, but you can also do them with people and do them better. It made me realize that I've been trying to solve the wrong problem all along.
+
+The question I'll be asking myself in the coming months is: how can I build technology that plays to journalists' strengths and supports them in their weaknesses? Better search, so they can actually find the archive content they want to link to in their latest coverage. Sourcing tools like "Squire":http://squire.io/ or the Nieman Lab's "Fuego":http://www.niemanlab.org/fuego/. Browser extensions. Wiki software that doesn't suck, so reporters don't have to struggle to bring context to the news.
+
+I won't be working on automation and repurposing. It's because of automation, not in spite of it, that news websites suck. It doesn't make economic sense anyway.
+
+h3. No more mediocrity
+
+For the past fifteen years, we've been training our readers to get used to mediocre experiences online. Just look at any news website, any page.
+
+Taxonomies, metadata and structured data can either be used to make those mediocre experiences cheaper to produce, or to make really great experiences. It's up to us to choose which path to go down. The approach is very much different even if the toolkit is the same.
+
+Stepping away from mediocrity, for me, means putting more power back in the hands of the newsroom. To make that happen, I'll be building prosthetics, not machines.
