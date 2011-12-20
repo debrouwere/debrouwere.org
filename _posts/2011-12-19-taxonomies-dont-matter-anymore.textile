@@ -66,11 +66,15 @@ When we do need complex hierarchies of content or unusual ways of bundling stori
 
 h3. Play to your strengths
 
-*But there's an even more important lesson news orgs can learn.* For so long now, technology and journalism have been fighting each other. We've been continually asking journalists to do things they're not comfortable with. Some of that has been and will remain perfectly justified. But one of the quickest, easiest, most fool-proof ways of making a news website that kicks ass is to play to journalists' strengths.
+*But there's an even more important lesson news orgs can learn.* For so long now, technology and journalism have been fighting each other. We've been continually asking journalists to do things they're not comfortable with. Some of that has been and will remain perfectly justified. But one of the quickest, easiest, most fool-proof ways of making a news website that kicks ass is to play to journalists' strengths instead.
 
-Journalists suck at tagging, but they can usually write awesome "explainers":http://explainer.net/ and background pieces, point to previous coverage everyone should know about and collect bunches of interesting related content for specific audiences. It's not just that they _can_, they love it. You can probably do all of those things with technology, but you can also do them with people and do them better. It made me realize that I've been trying to solve the wrong problem all along.
+Journalists suck at tagging, but they can usually write awesome "explainers":http://explainer.net/ and background pieces, point to previous coverage everyone should know about and collect bunches of interesting related content for specific audiences. It's not just that they _can_, they love it.
 
-The question I'll be asking myself in the coming months is: how can I build technology that plays to journalists' strengths and supports them in their weaknesses? Better search, so they can actually find the archive content they want to link to in their latest coverage. Sourcing tools like "Squire":http://squire.io/ or the Nieman Lab's "Fuego":http://www.niemanlab.org/fuego/. Browser extensions. Wiki software that doesn't suck, so reporters don't have to struggle to bring context to the news.
+You can do a lot of "contextualization":http://stdout.be/2011/04/15/context-is-not-a-bolt-on/ with technology, but you can also do it with people and do it better.
+
+I haven't been building software that plays to journalists' strengths. I've been trying to solve the wrong problem.
+
+The question I'll be asking myself in the coming months is: how can I build technology that helps journalists do their job and technology that supports them in areas where they are weak? Better search, so they can actually find the archive content they want to link to in their latest coverage. Sourcing tools like "Squire":http://squire.io/ or the Nieman Lab's "Fuego":http://www.niemanlab.org/fuego/. Browser extensions. Wiki software that doesn't suck, so reporters don't have to struggle to bring context to the news.
 
 I won't be working on automation and repurposing. It's because of automation, not in spite of it, that news websites suck. It doesn't make economic sense anyway.
 
@@ -78,6 +82,6 @@ h3. No more mediocrity
 
 For the past fifteen years, we've been training our readers to get used to mediocre experiences online. Just look at any news website, any page.
 
-Taxonomies, metadata and structured data can either be used to make those mediocre experiences cheaper to produce, or to make really great experiences. It's up to us to choose which path to go down. The approach is very much different even if the toolkit is the same.
+Taxonomies, metadata and structured data can either be used to make those mediocre experiences cheaper to produce, or to make really great experiences. It's up to us to choose which path to take. The approach is very much different even if the toolkit is the same.
 
-Stepping away from mediocrity, for me, means putting more power back in the hands of the newsroom. To make that happen, I'll be building prosthetics, not machines.
+Stepping away from mediocrity, for me, means putting power back in the hands of the newsroom. To make that happen, I'll be building prosthetics, not machines.
