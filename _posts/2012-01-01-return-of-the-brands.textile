@@ -4,7 +4,7 @@ language: en
 categories:
     - journalism
     - business & management
-title: The Return of the Brands
+title: Return of the Brands
 summary: Taking care of your readers is starting to make business sense again.
 ---
 
