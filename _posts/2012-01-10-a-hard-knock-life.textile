@@ -1,5 +1,6 @@
 ---
 layout: post
+language: en
 title: A hard-knock life
 categories:
     - journalism
