@@ -1,3 +1,9 @@
+* Management and workflows are contextual *
+
+MGMT should enhance your natural strengths and make your weaknesses inconsequential. That implies that the best management style depends on what you're trying to do, the people you're working with (both their character and their role) and your strengths as a manager. Despotic management works awesomely in some cases, and is horrible in others. Consensus-driven, ditto. "Programming, motherfucker" or scrums or pair-programming, ditto.
+
+- - - - - -
+
 "I once spent about twenty minutes searching for my copy of Ambient Findability, which I knew was lying around somewhere in my room. The irony does not escape me."
 
 * A few different kinds of information overload
