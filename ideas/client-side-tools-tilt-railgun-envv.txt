@@ -1,0 +1,50 @@
+For various reasons, almost all of the work I've done in the past year has been front-end development: making Backbone.js applications, crafting prototypes, testing out website ideas. And it made me realize how poorly front-end developers are catered for when it comes to tools and helpers. No way to package up and optimize your project. No way to use CSS preprocessors or CoffeeScript without having five different watch scripts running. And you have to refresh your browser all the freaking time.
+
+It seems like everyone assumes you'll create a Rails project and use its asset pipeline, even if you don't need any kind of database or render anything on the server. (Same thing for client-side apps. Backbone.js was built in tandem with a Rails application, remember, and packaged up and distributed together with that Rails app, so why bother having sepate front-end development tools?)
+
+But prototyping depends on getting your ideas in a visible form as fast as possible, so that just doesn't cut it. And a lot of the projects I do are served very well with either a full front-end approach (like when you're programming against an API) or static site generation.
+
+So I've released a bunch of tools for front-end engineering.
+
+1. tilt.js (renamed from `preprocessor`)
+
+Like Tilt for Ruby, tilt.js provides a generic interface to any kind of template language or other preprocessor that outputs to HTML, CSS or JavaScript. That way, your app can support a plethora of preprocessors without any effort from your side. tilt.js only provides a programmatic interface, but it's used extensively in Cdnify, draughtsman and backbone-express, the other three apps I want to talk about.
+
+2. envv
+
+3. Railgun
+
+Railgun...
+
+It has an API (`var cdnify = require('cdnify');`) but most people will want to use it through the command line. It has two neat tricks.
+
+*First neat trick.* Cdnify can act as a local file server and serve popular JavaScript libraries for you. The first time you use a library, it'll fetch the thing from a public CDN, but after that, it will serve the library from a local cache.
+
+*Second neat trick.* Cdnify can also take an html file or a project directory, optimize the heck out of it (concatenating and minifying JavaScript and CSS or pointing references to JavaScript libraries to public CDN equivalents) and write the optimized version to a build directory.
+
+3. draughtsman
+
+Draughtsman builds off of Cdnify and a helper library called `preprocessor` to provide a local web server that beats Apache in almost every way. You can write your HTML in any kind of templating language you want and Draughtsman will serve it like it's HTML. No `watch` processes, and no dev servers that you need to stop and start all the time: just Draughtsman, which starts at boot time.
+
+Draughtsman can also build static websites.
+
+4. backbone-express
+
+Can serve as just a proxy or as a full-blown compatibility layer for running Backbone on the server when you need Googleability.
+
+For most Backbone apps, you really don't even want Google to be able to see your app – it's an app, not a website – but with websites becoming more advanced and app-like and with some publishers moving towards an API-driven approach (e.g. The Guardian), it (sometimes!) starts to make sense to craft a website using a client-side MVC framework even when building websites is really not what it was meant for.
+
+So it's a neat tool to have, if you take care to use it only when it makes sense.
+
+Backbone-express works very nicely together with draughtsman. Instead of writing something like
+
+	<script src="bla.coffee" type="text/coffeescript"></script>
+	<example code for compiling text/coffeescript in dev mode>
+
+you can simply do
+
+	<script src="bla.coffee"></script>
+
+and it will just work. (How? Draughtsman compiles the file and sends it back to your browser with an `application/javascript` filetype, so your browser won't care about the extension not being `.js`.)
+
+Backbone-express also uses Cdnify under the hood to package up your Backbone app. And because Cdnify in turn uses tilt.js, your app can use any kind of template language and preprocessor, and it will be packaged up just as easily as if it were plain JavaScript or CSS or HTML.

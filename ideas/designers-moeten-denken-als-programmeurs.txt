@@ -1,4 +1,0 @@
-Waarom designers een beetje zoals programmeurs moeten beginnen denken
-
-- voorbeeld Korneel (InDesign)
-- voorbeeld CSB (spaghetti-css, gemengd tussen de html en de css zelf)

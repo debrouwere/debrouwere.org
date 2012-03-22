@@ -6,12 +6,39 @@ categories:
     - tech & society
     - business & management
     - personal
-title: "Gent Verkend: een post-mortem"
+title: "Gent Verkend, data en journalistiek"
 summary: 
 ---
 
+Mijn leven tot dusver is een opeenstapeling van fouten. Van nieuw naar oud: een gefaalde internetstartup, een freelancers- en consultantbestaan dat lucratief was maar mij ongelukkig maakte, acht maanden onbetaald werken voor het gedoemde "Apache":http://www.apache.be/, twintigduizend euro overheidsgeld verkwanseld aan de nooit-echt-populaire stadsgids Gent Verkend en daarvoor bij het studentenblad bloed, zweet en tranen gestoken in een ambitieuze studiegids voor humaniorastudenten die door mijn opvolger prompt naar het digitale kerkhof werd verwezen.
+
+Deert mij dat? Van langsom minder. Als je niks probeert, kan je ook niks foutdoen. Dan maak ik liever fouten.
+
+Niettemin, vandaag moest ik terugdenken aan Gent Verkend, en waarom dat project nooit erg goed was. En het loont om er even bij stil te staan, want ik zie andere mensen zo vaak dezelfde fouten maken, opnieuw en opnieuw.
+
+Zodat iedereen mee is, eerst wat geschiedenis. (Die je gerust kan overslaan als je dat niet interesseert.)
+
+Ergens eind vorige eeuw kwamen de Gentse studentenvertegenwoordigers op de proppen met het nobele idee om iets te doen om nieuwe studenten zich wat meer op hun gemak te doen voelen in (voor velen) een nieuwe stad en een nieuwe unief. Iets, iets, iets... _een boeksken, misschien_. Men zocht een paar knappe schrijvers en layouters en zei: "Hier is geld, schrijf een studentenvademecum bij elkaar." Zoals de overlevering het wil, bakte die originele ploeg er niks van en besliste de studentenraad dan maar om aan te kloppen bij "Tim Van der Mensbrugghe":http://mensbrugghe.be/, toen bij het studentenblad "Schamper":http://www.schamper.ugent.be/, om een nieuwe poging te ondernemen, met een nieuw team, liefst in sneltempo.
+
+Aankloppen bij Tim was een riskante affaire, gezien Schamper in die tijd, soyons honnêtes, nogal een vod was. Maar Tim en zijn confraters wisten in recordtempo een boekje bij elkaar te schrijven met allerlei nuttig advies voor studenten en een uitgebreide inleiding tot ons mooie Gent, dat alles in "QuarkXPress":http://en.wikipedia.org/wiki/QuarkXPress te gieten en vervolgens een goeie, goedkope drukker te vinden die dat alles stipt zou bezorgen voor de aanvang van het nieuwe academiejaar. Op een paar vunzige foto's na en een hele reeks aan hilarische maar oneerbiedige omschrijvingen van figuren in de universitaire administratie, op die dingen na een succes. Gent Verkend was geboren.
+
+Een paar jaar later nam Matthias Jacxsens de boel over, wat leidde tot een werkelijk uitstekende editie voor, geloof ik, 2007-2008. Ik deed toen de layout voor Schamper, Matthias vroeg me of ik dat ook voor Gent Verkend wou doen, en ik ben nog steeds trots op de publicatie die we toen, tenslotte maar een bende onnozele studenten, in elkaar gebokst hebben.
+
+In 2010 was het mijn beurt om de touwtjes in handen te nemen. Dat was geen moeilijke beslissing: ik heb het graag voor het zeggen. Moeilijker was wat in hemelsnaam met ons boekje te doen. Het was me de laatste twee jaar immers nogal duidelijk geworden dat ons success eigenlijk steunde op een nogal dubieuze maatstaf.
+
+Onze studiegids werd gratis verdeeld onder studenten, en die namen dat gretig aan. Elk jaar verdeelden we meer dan 5.000 exemplaren. Soms zat onze schatting verkeerd en dan zaten we met overschot, maar al bij al ging het gros van dat papier verbazend makkelijk de deur uit.
+
+Maar wat gebeurde er nadien, eens dat exemplaar op een studentenkot beland was? Bij navraag, niet veel. Gent Verkend was zo één van die dingen die iedereen enorm waardeerde, maar niemand echt las. Je kwam ermee thuis, je doorbladerde dat eens, leerde wat nieuwe dingen maar daarna geraakte je de gids ergens kwijt tussen andere paperassen, en op het moment dat je écht wou weten hoe geïndividualiseerde studietrajecten in elkaar zitten of wat de beste pizzeria is in Gent, dan was Google voor velen de eerste reflex.
+
+Zoals je weet is druk goedkoper bij grote oplages, omdat een drukker maar één keer platen moet maken en die dan kan hergebruiken ongeacht of je nu vijf of twintigduizend exemplaren bestelt. Wij drukten zo'n 12 katernen in quadri, ofte ongeveer 200 pagina's kleurendruk, en zoiets kost je nog altijd bijna een euro per exemplaar. Dat is veel geld voor iets dat studenten _gewoon nen keer doorbladeren_.
+
+De oplossing lag voor de hand. Wanneer dode bomen te veel kosten en mensen steeds vaker naar het web grijpen voor informatie, dan heb je een website nodig. De cijfers zijn magisch: je kan half zoveel geld uitgeven en dubbel zoveel redacteurs betalen.
+
+.....................
+
 Problemen: 
 
+- Het EveryBlock-probleem: geen content strategy
 - iets over het probleem van de papieren editie, die geleid heeft tot de keuze voor een website
 - nog nooit een softwareproject geleid waardoor ik sommige dingen onderschat heb (bv. de les van The Mythical Man-Month: elke nieuwe aanwinst is maar 66% zo performant als de eerste -- alsook het idee dat computerwetenschappers wel moèsten productiever zijn dan mij, terwijl het soort programmeerwerk dat we deden nu ook geen raketwetenschap is, en slimmer <> sneller)
 - net de opkomst van GIS op het web, het begon nèt makkelijk te worden... maar soms ook nog heel moeilijk. De immaturiteit van de tools (vooral die om te themen en om tiles te maken, waardoor het voordeel van een custom kaart zich eigenlijk nooit esthetisch getoond heeft) maar ook van onze eigen kennis (we waren zo stom om niet eens GeoDjango te gebruiken, waardoor we heel wat problemen hadden met herprojectie)
@@ -24,5 +51,5 @@ En die panorama's waren veel te arbeidsintensief, er zijn makkelijker manieren o
 - Een site die niemand bezoekt is zinloos. Of je dat nu doet door traditionele marketing of andere slimme technieken, je moet ièts doen. Omdat de site na het eerste jaar nog niet op punt stond heb ik niks aan marketing uitgegeven, maar wel 2.000 euro opzij gezet voor mijn opvolger. Die dat dan prompt gebruikt heeft om schrijvers te betalen.
 - Data accuraat houden is essentieel, en moeilijk voor een studentenproject waar maar in twee of drie periodes per jaar aan gewerkt wordt. Ook de schuld van stad Gent, natuurlijk.
 - Sommige dingen kunnen we onszelf ook niet verwijten. De GSR was nooit geïnteresseerd in ons project.
-- Het eerste jaar heb ik teveel tijd verspild aan samenwerkingen op poten zetten met de hogescholen. Voor de Hogeschool Gent is dat uiteindelijk gelukt (zij hebben twee jaar lang onze plannetjes verdeeld en waren daar wreed content mee) maar in alle andere gevallen bleek dat te moeilijk. Klein beginnen, mensen enthousiast krijgen over wat je doet, en dàn zoeken naar samenwerkingen is veel makkelijker.
+- Het eerste jaar heb ik teveel tijd verspild aan samenwerkingen op poten zetten met de hogescholen. Voor de Hogeschool Gent is dat uiteindelijk gelukt (zij hebben twee jaar lang onze plannetjes verdeeld en waren daar wreed content mee) maar in alle andere gevallen bleek dat te moeilijk. Klein beginnen, mensen enthousiast krijgen over wat je doet, en dàn zoeken naar samenwerkingen is veel makkelijker. Ik ben megalomaan, denk ik.
 - Als je alles aanbiedt denken mensen dat je niks aanbiedt. Op de site kon je de dichtstbijzonde dokter in je buurt vinden alsook bankautomaten, maar niemand wist dat. Nu, met de opkomst van smartphones, zou je daar trouwens veel leukere dingen mee kunnen doen.

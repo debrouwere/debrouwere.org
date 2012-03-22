@@ -1,0 +1,7 @@
+Iets over hoe het node.js ecosysteem (en het JavaScript ecosysteem in het algemeen) enorm geëvolueerd is in maar een jaar tijd, met een sterke focus on developer happiness met dingen zoals NPM lokale modules (en verschillende modules kunnen verschillende versies van een dependency actief hebben), mocha/should.js, request (één van de beste req libraries in gelijk welke taal), jsdom, ...
+
+Python, en hoe lang bestaat Python al niet, heeft geen testing tools die nog maar in de buurt komen van die in node, een soep van urllib en urllib2 en nog wat libraries voor requests, niet eens één module die file handling doet (verwijzen naar mijn poging), 
+
+In a way it's kind of douchy to complain about this stuff, because open-source is made by _us_, not by _them_, but sometimes it pays to just go with the flow and use what everyone else is using. And currently, that seems to be Ruby and Node. 
+
+Ik denk nog altijd niet dat async programmeren een goede oplossing is voor de meeste apps,  betwijfel of oplossingen als fibers ooit dezelfde DX kunnen geven als synchroon programmeren en ik hoop dat een synchroon node.js equivalent (een bestaand of een nieuw) wat meer mindshare krijgt, maar voor heel wat toepassingen is JavaScript - client-side en server-side - echt een goede oplossing.

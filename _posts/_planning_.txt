@@ -1,0 +1,61 @@
+* The E-Myth: almost done, just needs an edit
+* Disrupting IT and bad CMSes: needs significant editing, but all the content is there
+* Gent Verkend, een postmortem: research done, half of it written
+* SparkFun and community/commercial combos: research done, just have to write it up
+* Extensibility in web apps: could use some more examples, and still lots of converting notes into writing to do
+* Media-Engels: I could probably finish this with half an hour of research and half an hour of editing
+* Big boy syndrome: need to find a better way to phrase it and more examples, but the idea (and a good chunk of the prose) is there
+* Photography: done, I just don't want to use this as my first new post after not having blogged for over two months
+
+LONGER-TERM
+
+* Why working for a company sucks, why working as a consultant sucks: the idea is there, but still have to do all the writing.
+* News apps for small newsrooms: start a projects team. Haven't written down any notes about this yet (save for emails to Zack), but I've sure thought and talked about it a lot.
+* Selling the expertise: needs lots of fleshing out, unless I want to turn it into a small "brain teaser" type post.
+* The inflection point (the future of print): needs a huge edit, but the idea behind the post is not complex to nail down, so shouldn't take a ton of time to finish
+* English as professional: doesn't need any research per se as it's anecdotal, but still needs to be written. Can be a shorter post.
+* Waarover mediamensen babbelen: lots of writing left to do, but this is home field. I should try to devote an entire weekend to this at some point, and then do installments: a single chapter a week.
+* client-side tools: well, I still need to actually build these!
+* nodejs ecosystem: needs more thinking
+* observaties na een half jaar in de VS: not sure if I even want to do this, not right away anyway
+
+IDEAS
+
+* The importance of establishing habits in news consumers: I actually have most of this written, though I need to find a more elegant way to voice it, I think
+* Situational management: there's just the idea, but perhaps this is neat as a three-paragraph post.
+* Different kinds of information overload (and why "information overload" in itself is a pointless description of many different phenomena): needs research and a good angle
+* Harmless and harmful filter bubbles: same thing
+* The opportunity of a lifetime (and why we misjudge those): simple idea, needs an elegant way to write it
+* Shirky's prediction and nameless victims of journalism's transformation (photographers, ad persons etc.): simple idea, but needs a subtle, ponderous, mild writing style
+* Curse of generic software and releasing huge chunks of code / please stop giving back: still relevant, should've probably posted this long ago
+* Different types of news apps and data journalism: I've been struggling with this, but it might make sense to get it out there nonetheless
+* Is there still room for the full-time journalist? What about a world where, say, half of all journalism is done by people otherwise employed? (Not all of it, because there's lots of daily stuff and breaking news, not just features and news reports and longform, which is what freelancers and experts are best at.) I like this idea, but still need to write it up.
+* de waarde van een opleiding journalistiek: heck, I have most of this, might as well write it up
+* low tech is the new high tech, and when you're a hammer, everything looks like a nail: really important topic and something to continually think about as a programmer. I've been struggling with how to express this, but I really should give it another try.
+* on punditry: good for a short blog
+* open source as golden handshake: good for a short blog
+* organizing and the trouble with long-term projects when one-offs are better: cool topic, lots of writing to do
+* why reinventing the wheel sometimes makes sense (and the troubles of cooperation and design by committee, and the trouble of standardization in news orgs): interesting topic, why not
+* sponsored posts and content marketing: merits and demerits. I've been thinking about this a lot, so might as well write about it
+* waarom je moet bloggen: should do this, but is not easy stylistically
+
+SOMEDAY/MAYBE
+
+* waarom kwaliteitspers niet verkoopt / het gebrek aan context: needs a better angle
+* what is premium content: this is a good topic, and I should think about this, but I don't feel like I have anything useful to say about it right now
+* on service journalism: don't really know what to do with this, needs more thought
+* podcasts and broadsheets: the impact of commuting on news consumption. Good topic, but needs research
+* giving people what they want / what they need: I feel very strongly about this but I'd probably write a better post about this if I wait until an actual event prompts me to reconsider this
+* domein-specifieke editors: if I ever continue work on Essayist, do a write-up
+* The anatomy of a story: just a little technical ditty. May do this at some point but doesn't get me very excited.
+* Issues with API-centric apps: maybe need to stash this away due to lack of experience.
+* De nutteloosheid van certificaten en diploma's (in sommige sectoren): krachtig idee, heeft research nodig en een goeie invalshoek
+* Coding is beautiful: fun topic but tough to write about
+* Dewey, Tocqueville: depends on my mood, I suppose
+* about twitter: njeh
+* letting go of library science: I've actually published the best nuggets of this in my "Taxonomies don't work" post.
+* next steps in aggregation: no idea what to do with this
+* ondernemerschap in Vlaanderen: I don't have enough perspective for this (yet)
+* pros and cons of programming languages: meh, this just doesn't get me very excited anymore
+* the economics of conferences: want to do this at some point, but doesn't get me fired up right now
+* why node needs to work synchronously too: I actually don't want to get sucked up into this discussion

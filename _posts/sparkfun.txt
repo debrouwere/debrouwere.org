@@ -1,0 +1,38 @@
+Think of SparkFun as a media company for a minute.
+
+And think about the broader landscape: 
+
+- communities of interest merge with commercial endeavors (O'Reilly radar, MAKE with its faires, SparkFun)
+- communities of interest partner closely with commercial endeavors (mommy networks, the NY block/real estate sector)
+- communities self-form and self-inform (MetaFilter, ...)
+- specialist communities blog and self-aggregate (Leiter Report for philosophers, TalkBass, TDPRI, Hacker News)
+- specialist coverage of certain topics is waning because people can do it themselves, so amateur communities form with some "pro" coverage but a lot of "am": last.fm playlists and YANP, with a little bit of pitchfork and Rolling Stone thrown in (these pro things can still thrive because they cater to a specific audience, you just can't have very many of them anymore because people have found other ways to get informed)
+- companies, educational institutions and non-profits have started reporting themselves, and for a lot of the stuff they write about it doesn't matter that they're biased because it's news about events etc. that people care about but that doesn't require a critical stance and no incentive to lie
+
+Now all of this revolves around some sort of niche, and different ways of monetizing that. That leaves 
+
+- general interest news ---- monetizable because of scale (regional, national, international) which means you need to extract very little value from each individual user; either by charging just a few of them, charging people for subsidiary products (premium, porous paywall, early access, books and amazon singles, events) or charging for expertise (social media expertise, writing classes, marketing classes --- could be a huge boon to society if more people in more places start publishing that have been traditionally reluctant to do so*) or the time-tested charging for eyeballs strategy.
+
+ * in fact, I would argue that in some cases reporting is really a second-best approach
+   to getting information out there, and if you can get it straight from the source that's
+   actually preferable. It's the difference between reporting and journalism, I guess.
+   An interesting question to ask: when do we do journalism because it's the best way to 
+   do X, and when do we do it because potentially-better-way Y to do things has failed?
+   Or when did there used to be no alternative to accomplish X, but now there is?
+
+- local news ---- still not quite clear how this is monetizable, but sponsorships are part of what makes it work (because local businesses want to see their community thrive)
+
+- enterprise ---- (a) through non-profits like Pro Publica and institutions that give grants for enterprise work; this is important for democracy and thus it feels sensible to put some money into this that can't directly come from commercial endeavors (b) it's become very easy for whistle blowers to do their work outside of traditional media: set up a blog and get aggregated --- so the balance has shifted a bit from unearthing to making it easier for ethical people inside of unethical organizations to ring the alarm bell (c) through data, FOI and government transparency; think Sunlight Foundation
+
+What other platforms are replacing / supplementing the old news ecosystem?
+
+* Facebook and twitter for local
+* Facebook and twitter for discoverability (which used to lead newspapers to send out zillions of reporters to a single event, or run tons of AP etc.)
+* EveryBlock, LocalWiki and potentially now Pinwheel for connecting neighbors and sharing knowledge and banding together to get concerns addressed. As you can see on EveryBlock, sometimes politicians will get involved in those discussions without any real need for the megaphone of a newspaper to turn it into a big issue. And if the megaphone role is really what's it about, rather than bringing things to light (at least in this case) then we need to find better / other megaphones or ways of lobbying to get things done. Newspapers are just one way of doing that, and not always a very efficient one.
+* Yelp for restaurant reviews
+* Last.fm to find new music
+* IMDB and Netflix to find good movies (do people still care about movie reviews?)
+* online book clubs --- learning communities
+* Quora
+
+** What do people get out of news? What needs are being filled? **
