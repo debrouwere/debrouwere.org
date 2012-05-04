@@ -1,0 +1,196 @@
+Always take into account that there's two types of forecasting. One tries to figure out what the next five years will be like, and so from that perspective any change will be gradual. Maybe a new device will come out that people will flock to, maybe ad spends go down and maybe they go down by a dramatic 10% a year, but the basic playing field remains the same.
+
+The other type of forecasting tries to unearth long-term trends that are playing out and that may over a long stretch of time (10 to 20 years) lead to a vastly reconfigured landscape, and it tries to figure out where those trends will ultimately lead.
+
+People will be reading newspapers ten years from now. There will be some bankruptcies, but a ton of legacy media companies that are alive and kicking too. For the most well-managed ones, profits may even go up and even print circulations may go up. And outside of the west a lot of crazy shit is going on, industry-wise.
+
+Both industry leaders and the layperson with a mild interest in the industry may look at a vision and be weirded out by it and think it is totally disconnected from reality. It is. All the trends we've been talking about for the past ten years, from crowdsourcing to digital-first to the democratization of publishing... all of those things are just tiny little blips on the radar. Don't mistake someone putting a magnifying glass on those phenomena for a blind man.
+
+---
+
+Knight is one of the only institutions that has focused at least a little bit on information needs instead of doing endless surveys that focus narrowly on just news consumption and whether people are reading enough newspapers, through its Knight Commission On The Information Needs Of Communities In A Democracy and their report: "Informing Communities: sustaining democracy in the digital age" from 2009, addressing such things as broadband penetration, a transparent government, schools that teach digital literacy, healthy sharing on social networks, leading them to say: "journalistic institutions do not need saving so much as they need creating" (xv) and leading them to recommend that higher education, community and nonprofit institutions should make more of an effort to become information-sharing hubs and leading them to talk in terms of "information ecologies" instead of "newspapers", and that we should empower young people to help make their local information ecology healthier.
+
+Cf. also my post about 37% there, where I mention this research and its focus on "community functions". Also see http://www.knightcomm.org/appendix-i/ (checklist for your community)
+
+---
+
+TODO: even though I don't address the first two challenges of the triple challenge in detail in my post, at the very start I should still include links to earlier posts by myself and others pointing to these problems. They're real and all three challenges are equally important.
+
+And another thing that I haven't really addressed but should at least mention is that the problem is that marketers are realizing that (many forms of) advertising are not the best way to get your message out anymore (though they still work for big brands with big budgets, and on the other hand too, for cheap, convenient and fast text ads), and so regardless of how well journalism fares, how good its product is and how efficiently produced, if the ad industry we depend on is shifting, then we're shit out of luck. (Online ad spends are, I think, growing, but there we must point to an issue that I *do* of course already address: the disruptors are often alternatives that help marketers get their message out, or marketers try to become disruptors themselves as in the case of content marketing and social media marketing.)
+
+---
+
+In the "we're doing a shitty job" category, you wouldn't believe how hard most papers make it to, for instance subscribe to the paper online, buy the digital edition or stuff like that.
+
+---
+
+In fact, some savvy folk at news organizations *do* seem to have intuitively picked up on the fact that it's about filling a need, not about writing a story. That's why events have become such a big topic of interest, and why some newspapers' ad departments are transforming into digital agencies. Or as Tom Rosenstiel would say: it's not about the routines you do, but about the functions you provide.
+
+---
+
+We've also analyzed this disruption much better on the commercial side: Craigslist disrupting classified ads, Google and the web itself putting an end to artificial scarcities and so on. That's old hat. And so obvious. And why so many people were quoting Clayton Christensen and Joseph Schumpeter: the fact that these other businesses were stealing revenue from newspapers was (and is) blindingly obvious. But the same disruption is not just affecting the commercial services we provide or used to provide to citizens and businesses. It affects our services to readers and viewers too. And that part of it is less visible (others would say insiduous, I disagree).
+
+(The message emerging here is that many people have analyzed bits and pieces of this phenomenon, but never as part of a broader framework of understanding.)
+
+---
+
+In a lot of ways, this blogpost transports us back to the 2007 gloom about the death of newspapers (though at that time we were very focused on the print product) that we then moved on from the reimagine how the future of (online) news could/would look. But I think it's useful to revisit that old conversation and rethink some of those thoughts about why the industry might well die, not just go through a rough patch while it reinvents itself. The fundamental economic shifts people were talking about back then haven't magically gone away, even if we've grown tired of talking or thinking about them.
+
+---
+
+Now, the attitude most people have seems to be: we're going through a rough patch, but we'll fight through it and come out stronger. A more bleak stance is that journalism institutions will die, but journalism will live on. What I contend, however, is pure Grade A Schumpeterian creative destruction: journalism will wither but the spirit of journalism will flourish.
+
+---
+
+On another occassion I've noticed that journalism will never be very profitable because it attracts so many people who just love storytelling or the cachet that goes with being a journalist. This is, however, a different matter: an industry can be doing very well even if the people in it can't command very high wages. Think about pretty much anything industrial. Or the movie industry, that still makes a ton of money but where many projects fail / get canceled / never get off the ground.
+
+---
+
+QUOTES
+
+"If your local newspaper were to go out of business, would you miss it? What kinds of jobs that current newspapers do would go undone?" Tim O'Reilly - SF Chronicle in Trouble? - http://radar.oreilly.com/archives/2007/03/sf-chronicle-in.html - 2007
+
+---
+
+"Fancypants"
+
+(Something else that I won't really go into at this point but that I want to explore later is that users don't always care for the things we think they care for. You can invest thousands of dollars in a redesigned information architecture, and users may like a reverse-chronological blog better. You can spend tons on staff photographers, but can you recoup that investment? We always aim to give users a better-quality product but among a fixed axis, and maybe the wrong axis at that.)
+
+---
+
+In many cases, newspapers could provide a ton of value by adding information to Wikipedia, doing more on Facebook – e.g. with its notes feature – etc., YouTube, publishing on other established channels (and/or crossposting), but newspapers are avoiding that because you can't monetize that. But it's interesting to think about how journalists would operate if they were subsidized by cities and states in an ombudsman-like capacity, and not necessarily part of a bigger organization -- I say subsidized and not "non-profit" because non-profits need the visibility of a separate website to justify their expenses to individual donors and esp. foundations.
+
+---
+
+Q: how would you verify my thesis? It's okay that large parts of it are either speculative or post-hoc (explaining the facts, but not predicting them), but it's important to at least ask the question of both what corroborates the thesis and what could falsify it.
+
+[This information shouldn't be a separate section but should permeate the blogpost.]
+
+FITS THE MODEL (= corroborates but not strongly because very many things can explain this)
+
+* low engagement (time on site) while disruptors are getting a much bigger share (FB, twitter, Rdio, Amazon, ... --- hard to quantify because the time spent on these sites can be so many different things)
+* people are only willing to fund non-profits that focus explicitly on their watchdog function (in fact, people seem to intuitively grasp this, and you almost never see non-profit journalism outside of this sphere)
+* rising tide lifts all boats, so if we spend more time consuming media then traditional media will profit too (that doesn't falsify the theory) but we would expect ratios to tilt ever more towards these new services
+
+CORROBORATE
+
+* lessened use of mainstream media, esp. in categories outside of hard news, among people who grew up with the internet and other early adopters
+* when asking about what people will do / use to solve an information need (find out good music, find out what happened on 9/11) late adopters will point to newspapers, magazines and television while early adopters will point to wikipedia, amazon, twitter, spotify, ...
+
+FALSIFY
+
+* increased consumption of arts criticism and entertainment/events news and decreased consumption of hard news (though other factors are at play here: the fragmentation of our media consumption means we usually don't "follow" the news which makes hard news hard to understand, which decreases the market for it even though it retains the highest potential value; also the five-minute news break at work has a profound effect on what kind of news is consumed most often during weekdays)
+
+---
+
+
+A lot of people buy local newspapers not for the stories but for the ads. You buy a newspaper for a buck or two, and you get $20 worth of coupons as well as the latest brochure by Target and your local grocer.
+
+
+
+================
+
+--- none of these services replaces journalism or upends it entire value proposition, but in concert they're reducing the appeal of many mainstream newspapers, news websites, news broadcast to something that's a shadow of what it once was. (for both advertisers and readers/viewers/listeners) ---
+
+--- why, although it's not a zero-sum game, in a lot of cases these services can, will or have replaced (part of) traditional media -- average age of a newspaper reader is X, and even the average age of a news site reader is Y; and if reading a newspaper used to be the only way to get certain kinds of information or other value and now it isn't any longer, then the erosion of that monopoly is bound to have profound effects ---
+
+& the wrist-watch analogy, and "survival is success":http://reutersinstitute.politics.ox.ac.uk/publications/risj-challenges/survival-is-success.html
+
+-----
+
+
+
+--- the slow timeframe and the nibbling (fueled by early adopters / young people) makes these siphoning acts nearly invisible, and they almost never factor into analysts' or executives' reports on why the news industry is going south, even though *I* think that it's a large part of why we're failing. More important than the fact that most news organizations have a really crappy website. We're not just stuck with a print mentality, we're stuck with a media mentality that doesn't focus on making news to be used (Stray!) ---
+
+--- the triple challenge: good management, surviving the transition, and providing value -- the first is hard because of our past culture of largesse, the second is hard because digital organizations need entirely different structures to work than print orgs did and so it's not clear that you can accomodate both and still make money, the third is difficult because we unduly constrain the solution space: our starting point is always "let's write about this" instead of proper product development ---
+
+--- what will news look like 50 years from now? People will still be writing news stories. Lots of them. But the ecosystem? It'll be a zillion times bigger and full of sort-of-media. It already is. ---
+
+
+
+And this is why even with a community discussing the future of news on a daily basis and marvelous forward-thinking industry reporters like Poynter and PBS MediaLab and Nieman, we're still myopic about the future of media. As it happens, to a sizable extent, the future of media is not media but something else. It's just that there is something profoundly weird about talking about companies like SparkFun and Spotify under the banner of "future of news", even if after due consideration it makes a ton of sense.
+
+
+-----
+
+---
+
+MONEYMAKERS
+
+* things that replace journalism: tools, apps, services, stores, ... (what's that obits site again?)
+
+WILL WORK
+
+* non-profit investigative reporting: California Watch, Texas Tribune, Pro Publica
+
+- enterprise ---- (a) through non-profits like Pro Publica and institutions that give grants for enterprise work; this is important for democracy and thus it feels sensible to put some money into this that can't directly come from commercial endeavors (b) it's become very easy for whistle blowers to do their work outside of traditional media: set up a blog and get aggregated --- so the balance has shifted a bit from unearthing to making it easier for ethical people inside of unethical organizations to ring the alarm bell (c) through data, FOI and government transparency; think Sunlight Foundation
+
+* long form projects
+* journalism requiring a lot of skill and insight to pull off and an audience that cares about it: Scientific American
+* curation (to help people find all that good stuff that's out there) but only if you manage to become a homepage and a filter people gladly use, not if you're a "snack" in people's news consumption, in which case you become part of the noise rather than the signal
+* serving underserved markets (= why local media will likely sort of keep stumbling along but not die: a lot of the disruptors like Facebook work better in cities where people are making a lot of noise)
+
+CAN WORK IF DONE RIGHT
+
+* niche magazines because if you're passionate about something you'll buy pretty much anything you can about it, and it has targeted advertising built in... but it only works if your magazine is seen as a thought leader or otherwise is of very high quality, because there's a ton of free niche content and bulletin boards and YouTube channels and so on, online, and some of these have even started acting like media
+* national news providers: because of their sheer scale they don't have to extract a ton of value from (or provide a ton of value to) each individual customer to remain profitable, though some of them may have to shrink and it's not because this model can work that it is likely to be a cash cow.
+
+general interest news ---- monetizable because of scale (regional, national, international) which means you need to extract very little value from each individual user; either by charging just a few of them, charging people for subsidiary products (premium, porous paywall, early access, books and amazon singles, events) or charging for expertise (social media expertise, writing classes, marketing classes --- could be a huge boon to society if more people in more places start publishing that have been traditionally reluctant to do so*) or the time-tested charging for eyeballs strategy. But these organizations will still need to scale down or succumb to the first and most straightforward of the triple challenges: competitive suicide by inefficiency.
+
+ * in fact, I would argue that in some cases reporting is really a second-best approach
+   to getting information out there, and if you can get it straight from the source that's
+   actually preferable. It's the difference between reporting and journalism, I guess.
+   An interesting question to ask: when do we do journalism because it's the best way to 
+   do X, and when do we do it because potentially-better-way Y to do things has failed?
+   Or when did there used to be no alternative to accomplish X, but now there is?
+
+Local is a bit trickier (fewest scale effects) -- and indeed many local news markets have *always* been underserved -- but can get by because of lessened competition and symbolic capital (people like to support local business).
+
+WON'T WORK
+
+* anything entertainment-related, again unless it's really top-tier
+* providing a mediocre selection of a little bit of everything, when it's easy to find better stuff elsewhere (= most newspapers today)
+* city zines: there's better, more personalized ways to know what's going on in your city, so even if they're free, they'll only remain profitable for as long as advertisers let them be, which is not likely to be very long anymore
+* general interest news websites
+
+
+
+
+
+
+
+Here's three options.
+
+### Be a part of it
+
+Take a page from "Clayton Christensen":http://www.claytonchristensen.com/ and try to create drastically new products that start from figuring out what people want, why people used to read news media or still do, and then figure out how to meet that need.
+
+Don't assume reports and stories and articles will be the solution. If your first idea to solve people's needs comes down to "let's write about this" then try to prove yourself wrong and try to find other ways that are not journalism. Those ideas are likely to be more useful.
+
+### Complement it
+
+Figure out the types of information needs for which journalism no longer is the best or only solution, find out what other services _are_ best, and craft journalism products in exactly such a way as to make them complementary to your competitors. Make it clear to users that one doesn't replace the other but that you should use both in tandem.
+
+And it's why people see so much potential in niche content: obsessing about something is the same thing as having a bigger appetite for it, which means there's actually room for complementary and competing services to co-exist.
+
+Music and entertainment journalism seem to work that way: there's less of it in newspapers, but more of it in niche publications.
+
+### Take advantage of scale
+
+Big national newspapers have had to lay off good journalists just like the rest of the industry. But they can still produce massive amounts of good journalism for a very simple reason: even if they don't provide the same value they used to, as long as they provide _some_, the sheer amount of people that have at least a modicum of interest in the topics they cover will take care of the rest.
+
+### Do stuff that matters
+
+You can thrive if you figure out the types of information needs for which journalism (whether old-fashioned or 21st-century-reinvented) _is_ still the best possible way to serve readers. Politics, economics and world news come to mind, though I might be wrong. Science. Gradually shift resources to those topics, because they're most likely to retain an audience.
+
+This is why non-profit journalism can work and why people are willing to support hard investigative work, but you really have to prove that you're doing something unique rather than the blah-blah-we-are-an-essential-part-of-modern-democracy racket that newspapers with hardly any enterprise reporting are trying to pull off. Think "ProPublica":http://www.propublica.org/, "California Watch":http://californiawatch.org/, "Texas Tribune":http://www.texastribune.org/.
+
+It's also why local media organizations in the US, including the one where I work, do okay: they're in underserved markets.
+
+### Do stuff that's fun
+
+Many people are getting a good chunk of their information needs met in other ways than through journalism, but a good newspaper or magazine or tv show is more than just a vessel for transmitting information or giving people advice about which music to buy, where to eat and which events to attend. It's about stories. True stories, but stories nonetheless. And it's about personalities, about people whose opinions and ideas we respect and whose ideosyncracies we love.
+
+So amp up the storytelling and personality.
+
+You can't "disrupt" big personalities with a web app, and you can't disrupt stories because we enjoy them for their own sake. The fact that these stories teach us something is merely the cherry on top.

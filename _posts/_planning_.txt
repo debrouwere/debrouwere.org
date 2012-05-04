@@ -1,7 +1,18 @@
-* The E-Myth: almost done, just needs an edit
+MEDIA BIZ
+
+* you have been disrupted
+* the baneful administrator (may merge in "big boy syndrome", because this is the administrator's modus operandi)
+* digital dimes (and why it's hard for news organizations to change)
+* the Makers Ratio
 * Disrupting IT and bad CMSes: needs significant editing, but all the content is there
+* an exhaustive overview of why the news industry is dying (kind of a summary of many of my previous posts)
+* Selling the expertise (and why newspapers have such a hard time taking advantage of this – they don't have the expertise, and journalists feel uncomfortable about it): needs lots of fleshing out, unless I want to turn it into a small "brain teaser" type post.
+* The inflection point (the future of print): needs a huge edit, but the idea behind the post is not complex to nail down, so shouldn't take a ton of time to finish
+
+IN PROGRESS
+
+* The E-Myth: almost done, just needs an edit
 * Gent Verkend, een postmortem: research done, half of it written
-* SparkFun and community/commercial combos: research done, just have to write it up
 * Extensibility in web apps: could use some more examples, and still lots of converting notes into writing to do
 * Media-Engels: I could probably finish this with half an hour of research and half an hour of editing
 * Big boy syndrome: need to find a better way to phrase it and more examples, but the idea (and a good chunk of the prose) is there
@@ -11,8 +22,6 @@ LONGER-TERM
 
 * Why working for a company sucks, why working as a consultant sucks: the idea is there, but still have to do all the writing.
 * News apps for small newsrooms: start a projects team. Haven't written down any notes about this yet (save for emails to Zack), but I've sure thought and talked about it a lot.
-* Selling the expertise: needs lots of fleshing out, unless I want to turn it into a small "brain teaser" type post.
-* The inflection point (the future of print): needs a huge edit, but the idea behind the post is not complex to nail down, so shouldn't take a ton of time to finish
 * English as professional: doesn't need any research per se as it's anecdotal, but still needs to be written. Can be a shorter post.
 * Waarover mediamensen babbelen: lots of writing left to do, but this is home field. I should try to devote an entire weekend to this at some point, and then do installments: a single chapter a week.
 * client-side tools: well, I still need to actually build these!

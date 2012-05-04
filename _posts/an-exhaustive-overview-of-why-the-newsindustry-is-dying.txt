@@ -1,0 +1,38 @@
+The news industry is faced with a triple challenge: 
+
+# bad management, waste and "organizational scar tissue":http://37signals.com/svn/archives2/dont_scar_on_the_first_cut.php
+# the web is not compatible and not easily combined with print-focused organizations due to the different cost structures, values and processes it requires
+# disruption by organizations that don't do journalism but that address the same underlying needs that news organizations do, eats at the value proposition of any kind of journalism whether it's staid or innovative
+
+
+
+Some digital players aren't doing very well because even though the content is really good, they haven't spent enough time exploring new opportunities for monetization (they exist, y'know!) which falls under (1) and which I blogged about earlier (sometimes people just start something without a business plan simply because they like journalism).
+
+But in addition to that (3) explains why some very-well run digital news organizations are barely getting by: they're offering a product that carries enormous symbolic capital (journalism as a pillar of democracy), that is very-well executed, but that simply put less and less people see use for. (Value that is further reduced by the sheer amount of it available, not just the filler, but the really good long-form stuff too. Which in turn explains why Piano Media can establish a country-wide paywall in Slovenia, where there's less content in people's mother tongue which raises the value again, whereas in the US or the UK you wouldn't even want to try that.)
+
+---
+
+There's many reasons news organizations are not doing that well.
+
+One is that news organizations are staffed by administrators: people who are really good at keeping things going, but not that good at figuring out new, cheaper and better ways to do things. (People are usually better at one or the other, so in a stable industry, it actually makes sense to pick administrators over entrepreneurs.) So we're not innovating at the pace that we should be. There's maybe five news websites on the entire face of the earth that don't make me puke, and it's not just the design but the fact that they do nothing to encourage exploration, provide no context, have awful search engines and are infested with low-quality ads.
+
+Another is that older news organizations have staffing structures that made sense twenty or thirty years ago but not now. Clay Shirky was right: you simply can't keep an organization running where maybe 10% of all staff is involved in content creation. You can't. It's incredibly wasteful, yet we're stupid as hell about how to approach restructuring, firing journalists while we're keeping around too many layers of middle management, infrastructure, IT support and paying too much for consultants (which you need when your managers are administrators) and software that doesn't do what we need it to do anyway.
+
+Another is that we simply have not found enough good ways to charge for those parts of our offering that _are_ still valuable. And surely some of what we do is appreciated, because news websites are still easily some of the most visited websites in the world, surpassed only by moguls like Facebook, Google and Wikipedia. (And I specifically say "enough" because we *have* found ways to make money with journalism in the digital age, from paywalls to selling e-books to running events, and our disruptors have _definitely_ found ways to make money with journalism. It's just not enough.)
+
+But maybe the most important reason the news industry is in a pickle is because people aren't getting a ton of value out of what we do (we only occassionally sit down to really enjoy and savour journalism, more often we use it to procrastinate at work -- which the populist in me frankly believes is a much better explanation for the fact that we consume so much crime, celebrity and weird news, as opposed to each and every one of us being retarded, which is the explanation most commonly proffered). Which is actually really sad beyond the mere fact that we're not making tons of money. It's sad because I sit around journalists in a newsroom and those journalists put their heart into writing the best and most kick-ass journalism they can. And it really is pretty good. But maybe great journalism is increasingly becoming like great <sth nobody cares about>. And so while I'm confident that strong digital players like The Guardian and the NYT and JRC will survive, I'm less confident that they'll ever _thrive_.
+
+I mean, we're congratulating The Guardian for losing money online, NYT because it's paywall isn't the crash-and-burn we expected it to be, and because JRC is in the black. Essentially, if you don't go out of business, you're a hero. You're free to decide for yourself, but I think that means we're doing something wrong.
+
+Me, and many people with me, have been focusing on the quality issue: the fact that we're still doing journalism like we used to do it fifty years ago, that there haven't been any big breaks for new journalism formats since PolitiFact, that there's a ridiculous lack of context for news stories online, which together with the fragmentation of readership is a disaster. I intend to keep blogging about that because it's a crying shame.
+
+But if people tell you, as they did Amy Zerba's research assistants, that they hate not being able to multitask when reading a newspaper, does that mean we should try to find ways to make it easier for readers to multitask, or is it simply a symptom of people not caring all that much about the news? And does that in turn mean they just don't care about stuff in general anymore and have become jaded and uninterested in politics and world news (for which there is some evidence), or is there more to it and are people perhaps getting the same needs met in other, more convenient or more exciting ways?
+
+Maybe we've been trying to create the most beautiful wristwatch, when most people seem to be just fine with checking the time on their phone. There's still a market for watches, and we can't continue to make the same watches we used to make because people have different expectations... but at the end of the day we're still making watches, not phones. Maybe that's why this industry is in decline?
+
+
+
+
+Legacy news organizations can do this too, and indeed that's what Robert Pickard urges us to do in his (good but dry) 2010 book _Value Creation And The Future Of News_. But we're always at a disadvantage. Instead of spontaneous "Hey, so, wouldn't it be neat if..." problem-solving, as newspaper folk we always have to suffix those questions with "considering our existing brand, products, cash, workforce and our willingness to change." It's hard because at the end of the day people want to do things really differently while fundamentally keeping things exactly the same. It's not unwillingness per sé, more the fact that all your thoughts are anchored by your starting point, even if that starting point is not a good launchpad for figuring out new useful products at all.
+
+It also leads to bland "more x" or "better y" recipes for innovation: more platforms, faster news delivery, more pages... that, as Robert Pickard argues, actually don't provide a lot of value to either our audience, our advertisers or the company's bottom line at all. (Explain in more detail.)

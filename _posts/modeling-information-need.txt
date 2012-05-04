@@ -1,0 +1,125 @@
+"a consumer might start his or her day by opening an e-mail news headline pack- age, then click on a head- line and move to a story. But then what? What hap- pens later when the story develops? How do critical questions about the back story get answered? Where can the user go for a look ahead, or for spin-offs that are more personally relevant?" (AP, A new model for news, p. 56, 2008)
+
+
+Modeling information need
+
+- short stories and faits divers as a form of light reading (daily routine, same reason comics are one of the first things people check out when waking up, the fact that it's non-fiction is not even very important.)
+- keeping up to date (to be able to participate in watercooler conversation)
+- catching up / the basics (learn more about important issues or issues your friends or peers are talking about)
+- looking for specific information (specific question about something)
+- reading more in-depth material (knowledge)
+- reading stories (enjoyment)
+- minute-by-minute information (for topics you really care about, e.g. macrumors.com)
+
+We need to design better website flows to accomodate these diverse information needs, and make sure people find the type of content that is most appropriate to their needs at the moment intuitively.
+
+We don't know what our users want, and the mistake of chasing "quality" (cf. Robert Pickard)
+
+---
+
+general modes of news consumption
+
+* enjoying
+* learning
+* engaging / talking / socializing / showcasing own expertise
+* producing
+* ?
+
+consumer <---> producer
+leisurely <---> engaged
+knowledge <---> entertainment
+facts <--> opinion: what to think / how to feel
+deep <---> superficial / need-to-know
+individual <---> social
+stuff that affects me <--> a view on another world *
+urgent / need right now <--> general interest
+
+* why people read about politics, I'd wager
+
+---
+
+FOR BUSINESSES
+
+* keep up with trends and see what competitors are up to
+* branding (through ads and sponsoring): tell people you exist
+* advertising (through ads, deals, coupons, ...): entice people to become customers
+
+---
+
+characteristics of the audience based on where they come from
+
+* homepage
+* search
+  - on site
+  - in Google
+* social media
+* another story
+  - related story
+  - "you might like"
+* newsletter
+  - news update
+  - niche
+
+---
+
+Knight information needs
+
+* coordinate (to get anything done, to organize events)
+* solve problems (identify goals and challenges, prioritize, band together)
+* establish systems of public accountability
+* develop a sense of connectedness
+
+Tom Rosenstiel's eight/nine functions of journalism
+
+http://www.nieman.harvard.edu/reports/article/102533/Creating-a-Navigational-Guide-to-New-Media.aspx
+
+* witness bearer (be present when other people are not)
+* authenticator
+* sensemaker
+* investigator/watchdog
+* empowerer (give people a way to do something with the information they get)
+* community builder
+* forum organizer (facilitate conversation across communities)
+* role model (in a world of self-publishers, show people how it's done)
+* aggregator
+
+Steve Yelvington
+
+* Be well-informed on matters of civic importance in my community
+* Reading the news is a pleasant and entertaining activity.
+* It gives me something to talk about at lunch with my coworkers.
+* While reading the paper, I discover what's on sale at my local stores.
+* Sometimes I see stuff about people I know.
+* I want to feel like I'm part of a community.
+
+Max Novendstern
+
+* The J.S. Mill Thesis: We read the news because it’s our duty as citizens. We have the privilege of voting, and of participating in the governance of our country, and we take that task seriously.
+* The Gawker Thesis: We read the news because we think it’s fun. Our relationship to politics is roughly the same as the video gamer’s relationship to video games.
+* The Habermas Thesis: We read the news because it gives us something to talk about. The news is part of our “public discourse,” our set of shared intellectual touchstones that help to affirm our membership in communities like campus and country. We value that.
+* The Ida Tarbell Thesis: We read the news because we have principles and personal projects, and “getting the facts” help us achieve our goals. I care about climate change because I want to stop it. I need to know about ethanol policy because my job depends on it. Etc.
+* The Chomsky Thesis: We read the news because powerful people lie, and it’s our “responsibility as intellectuals” to expose those lies.
+
+Amy Zerba (collated from various academic research; publication in Journalism & Mass Communication Quarterly, 2011)
+
+* reading for the sake of reading, whether for stimulation or respite, or as a ritual in one’s day
+* social prestige (knowing a lot) and social contact (being able to talk to others)
+* security (feeling secure because you know what's happening around you, you're not in the dark)
+
+---
+
+The web gives people access to many services they used to need a newspaper for. Trash pickup schedules on the city's website, new music to know about on Pandora, recipes on allrecipes.com, tutorials on YouTube and you could keep going. Add to that thousands of niche communities, Facebook groups and free publications about everything from gardening to 3d printing. Top that off with easy access to competing local and regional newspapers. [link to previous post about this]
+
+The question is no longer "do our readers and viewers like more business, and what about lifestyle and outdoors?" The question is more fundamentally: what do people still use newspapers for, and why do they visit news websites? Surveys have no answer to that question. Surveys can tell us to do a little bit more of this or that, not whether what we're doing even makes any sense at all.
+
+The web gives people access to many services they used to need a newspaper for. Trash pickup schedules on the city's website, new music to know about on Pandora, recipes on allrecipes.com, tutorials on YouTube and you could keep going. Add to that thousands of niche communities, Facebook groups and free publications about everything from gardening to 3d printing. Top that off with easy access to competing local and regional newspapers.
+
+The question is no longer "do our readers and viewers like more business, and what about lifestyle and outdoors?" The question is more fundamentally: what do people still use newspapers for, and why do they visit news websites? Surveys have no answer to that question, and it’s questionable whether Magid will give us the answers we need. Surveys can tell us to do a little bit more of this or that, not whether what we're doing even makes any sense at all.
+
+---
+
+THOUGHTS
+
+* Never be afraid to go for the low-hanging fruit. There's a shit-ton of issues that people know about but don't understand or don't see the importance of, so taking seriously our civic duties as journalist does not have to mean four-month investigations. Explain what's already known, because mainstream media sure as hell isn't doing it.
+* Another way to put it: the first priority is making sure people are better informed about things that affect their lives, because people's current news consumption patterns lead to an audience that learns very haphazardly. Only once you've got that figured out does it make sense to start thinking about what stories are not being told, what sort of stuff media has been consistently bad at shining a light on... and addressing that problem
+* Question: is news that you can't fit into a broader issue and will likely never come back to... is that kind of news ever really valuable or interesting? (Not talking about features or sports, which are different.)

@@ -1,0 +1,29 @@
+Technology continues to make it easier to do (please don't kill me) more with less, but company structures often don't adapt to / adopt these new technologies because they're used to what they have and maybe because the new stuff might not be as good as the old stuff... and so they grow fat while startups do ridiculous amounts of work with very small staffs. Knowing how well a media company will do in the future might be as easy as looking at the ratio of makers vs. support.
+
+---
+
+Another is that older news organizations have staffing structures that made sense twenty or thirty years ago but not now. Clay Shirky was right: you simply can't keep an organization running where maybe 10% of all staff is involved in content creation. You can't. It's incredibly wasteful, yet we're stupid as hell about how to approach restructuring, firing journalists while we're keeping around too many layers of middle management, infrastructure, IT support and paying too much for consultants (which you need when your managers are administrators) and software that doesn't do what we need it to do anyway.
+
+---
+
+## Making news used to be hard, now it’s easy
+
+You can try to do more with the same staff, but the fact is that there's only so many employees you need to put out a good news product when you take advantage of today’s technology. MinnPost, an online-only news startup whose website nets about a million pageviews a month, makes that happen with 20 full-time staffers to support about 50 freelancers. The Texas Tribune, a darling among the media startups, publishes a weekly magazine and a hugely popular news website with a staff of 34. 
+
+None of the aforementioned startups publishes a newspaper or operates a tv station. We do both. You may, however, find it hard to argue that publishing a daily paper requires ten times the staff of the Texas Tribune, or that it requires a ratio of content creators to support staff that is 1:10 instead of 1:1 or less.
+
+The only way to stay solvent over the next ten or twenty years is to slowly transition into a company that's about half as big as it is now, if that.
+
+We have full-time staff to take care of our classifieds, both customer service and tech, when Craigslist can do it without human intervention. We have six full-timers responsible just for maintaining our facilities. Six people in HR, even though we outsource training and payroll. Ten accountants.
+
+(And it’s not just personnel. We have $90,000-a-year phonebills for Information Content while Skype for Business – with a real phone number! – would cost about one fifth of that.)
+
+Nobody questions that we need our accountants and IT helpdesk or that they do good work, this is not about "trimming the fat". However, the fact that we need them is the very root of the problem: we've grown dependent on a titanic support staff just to keep things running. 
+
+You can either continue to live in the delusion that our organization with its extensive middle management and big support departments (IT, HR, facilities) and big buildings makes sense, and be forced to downsize a little bit year after year after year, or you can think ahead and figure out how to reorganize and reduce our dependency on support staff. (People will unconsciously try to keep alive the problem they provide the solution to.)
+
+## Prosumer technology
+
+Meanwhile, YouTube shows that get millions of views are being filmed on cheap digital reflex cameras and edited with an $80 software license to Adobe Premiere Elements. And meanwhile, we're paying six-figure sums for content management systems when smarter news organizations like Morris Communications have cut costs by adopting Drupal, free open-source software.
+
+The problem is that these disruptive technologies, without exception, are worse than the ones we are currently using: less features, less robust, no support. But they also allow bloggers and journalists to create profitable media products at a cost that can be less than 1% of what it would cost a legacy media organization. Meanwhile, our expenses pile up because, really, how are you going to convince a photo editor to start using the same prosumer gear her dad last used to film grandma's birthday party?
