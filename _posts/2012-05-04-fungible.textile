@@ -16,7 +16,7 @@ I'm not even talking about the fact that everyone is a potential publisher now, 
 
 Beyond even that. I think journalism is being _replaced_.
 
-h3. New habits
+h2. New habits
 
 We used to peruse the entertainment section of our favorite magazine for movie reviews and recommendations. Now most of us use IMDB or the recommendation engines behind Amazon and Netflix.
 
@@ -56,7 +56,7 @@ Immense. The range of sites and services nibbling away at journalism is immense.
 
 _We_ haven't found the right ways to get people to pay for news and media online, but _they_ have. _We_ are crying but _they_ are having a party on the other side of the river with their not-really-reporting and sort-of-journalism and maybe-media.
 
-h3. Death by nibbles
+h2. Death by nibbles
 
 I will repeat this because it's important: YouTube nor Facebook or any of these other companies aim to be an alternative to journalism and much of what they facilitate or do doesn't look like journalism at all. A good chunk of it contains written or spoken words, but sometimes not even that. But you'd be naive if you thought their services aren't often consumed _instead of_ news. It's the same kind of functionality in a different package, after all, and that new package happens to be very attractive a lot of the time.
 
@@ -64,7 +64,7 @@ My dad never reads music reviews, but he uses Spotify to find new music. My brot
 
 Sure, if there's more good media around (and more good sort-of-media) then people are likely to simply read more stories and participate in more communities. But there's a limit to our appetite, and every minute spent on Facebook is one not spent on a news site.
 
-h3. Why young people don't care
+h2. Why young people don't care
 
 There's a whole slew of research trying to figure out why young adults consume so little news, or consume it in such an erratic way. Most of it, like that of the "AP":http://www.knightdigitalmediacenter.org/images/uploads/leadership/A%20New%20Model%20for%20News,%20Studying%20the%20Deep%20Structure%20of%20Young-Adult%20News%20Consumption.pdf (PDF), the "NAA":http://www.naafoundation.org/Research/Foundation/Youth-Content/Teens-Know-What-They-Want-From-Online-News.aspx and "Amy Zerba":http://www.amyzerba.com/, tries to find the culprit in how we write or present the news: too much of it, too little context, overwhelming, presented in a way that does not make sense to a generation who grew up with the internet, not optimized for the devices they use.
 
@@ -72,7 +72,7 @@ Here's my hypothesis. Educated people over forty have come to assume that journa
 
 The younger the person you ask, the less likely it is you'll find that link between wanting to know what's going on and grabbing a paper or opening up a news website. They use Pinterest to figure out what's fashionable and Facebook to see if there's anything fun going on next weekend. They use Facebook just the same to figure out whether there's anything they need to be upset about and need to protest against.
 
-h3. It sneaks up on you
+h2. It sneaks up on you
 
 A movie review on Amazon is not Roger Ebert, and if you'd ask any avid reader, they'd all tell you that the one isn't even comparable to the other and that they'd never even consider getting their entertainment criticism on Amazon or through a cold, anonymous recommmendation engine on Netflix. Yet that's exactly what so many Americans are doing now. Nobody makes any sort of conscious decision to stop reading entertainment journalism and arts criticism. It just turns out that way.
 
@@ -90,7 +90,7 @@ People still value journalism. Sort-of-maybe-not-media companies are _slowly_ ni
 
 People just don't value journalism as much as journalists do.
 
-## How to survive
+h2. How to survive
 
 Once you start looking at news media through the lens of fungibility and with sort-of-media in mind, it's actually quite easy to see where opportunities remain.
 
@@ -103,7 +103,7 @@ Once you start looking at news media through the lens of fungibility and with so
 
 Notice that I didn't mention digital-first or _social data crowdjournalism_ or anything like that? Wonder why? Because the entire point is that journalism is not being disrupted by better journalism but by things that are hardly recognizable as journalism at all. Stepping up your game is always a good idea, but it won't save you.
 
-## Chasing quality
+h2. Chasing quality
 
 The most important reason the news industry is in a pickle is because people aren't getting much value out of what we do. We only occassionally sit down to really enjoy and savour journalism. More often we use it to procrastinate at work – which the populist in me frankly believes is a much better explanation for the fact that we consume so much crime, celebrity and weird news, as opposed to the most commonly proffered explanation: that each and every one of us is retarded.
 
@@ -117,7 +117,7 @@ But if people tell you, as they did assistant professor Amy Zerba's research ass
 
 Are we trying to get better at something that doesn't matter anymore? Why not, instead, take the best traditions of journalism and do something entirely new with it?
 
-## The future
+h2. The future
 
 It's a testament to the enormous value newspapers must have provided to readers before the internet if, even after twenty years of seeing the value proposition of news media sucked away by other media and services, for so many people, even young people, visiting a news site is still the first thing they do every morning. Even the printed newspaper is not disappearing overnight. It's a long way down.
 
