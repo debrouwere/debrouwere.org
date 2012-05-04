@@ -1,6 +1,6 @@
 ---
 title: Fungible
-layout: blogpost
+layout: post
 language: en
 categories:
     - journalism
