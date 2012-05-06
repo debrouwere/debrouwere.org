@@ -40,7 +40,7 @@ Wikipedia has, for pretty much everyone, "replaced news organizations":http://ww
 
 "LocalWiki":http://localwiki.org/ and "Pinwheel":https://pinwheel.com/ are places where people can collect knowledge about their neighborhoods. Follow the right people and organizations on Facebook and Twitter, and you'll find out what's happening close to you, straight from the source. LocalWiki, Pinwheel, Facebook, Twitter and Foursquare clearly do not replace a good local newspaper, but they offer a combo that is increasingly becoming _good enough_.
 
-And Facebook is disrupting the media industry on another front too: it's offering better and cheaper forms of advertising to businesses than newspapers and news websites do. Advertisers don't need us anymore. (This is the part of the disruption we saw coming as far back as 2005, when people were having all these "Craigslist killed journalism" conversations. It is also why editors tend to think the news industry crisis in terms of "the advertising problem.")
+And Facebook is disrupting the media industry on another front too: it's offering better and cheaper forms of advertising to businesses than newspapers and news websites do. Advertisers don't need us anymore. (This is the part of the disruption we saw coming as far back as 2005, when people were having all these "Craigslist killed journalism" conversations. It is also why editors tend to think of the news industry crisis in terms of "the advertising problem.")
 
 Newspapers have long been the only way to get your voice heard and get things fixed in your neighborhood. But now "Open311":http://open311.org/learn/ and "EveryBlock":http://www.everyblock.com/ do that. Why complain to a newspaper when you can "talk to an alderman":http://chicago.everyblock.com/announcements/jul25-neighbor-feeding-wild-cats-4133382/#comment-25481?
 
@@ -48,7 +48,7 @@ There are organizations and websites everywhere that are taking over newspapers'
 
 This is not sharing cat pictures, this is stuff that matters. People can read the health section in their newspaper and get drip-fed badly researched advice about how to live a healthy life, _or_ they can visit the NIH or the Mayo Clinic online, or create an account on one of the many bulletin boards about anything from fitness to dealing with cancer.
 
-And then there's comics, classifieds, job listings and all those other little things that were never the core of our value proposition but nevertheless a part of it, and we've had to give those up too, because other people do them better.
+And then there's comics, classifieds, job listings and all those other little things that were never the core of our value proposition but nevertheless a part of it, and we've had to give those up too, because other companies do them better.
 
 Immense. The range of sites and services nibbling away at journalism is immense.
 
@@ -58,11 +58,11 @@ _We_ haven't found the right ways to get people to pay for news and media online
 
 h2. Death by nibbles
 
-I will repeat this because it's important: YouTube nor Facebook or any of these other companies aim to be an alternative to journalism and much of what they facilitate or do doesn't look like journalism at all. A good chunk of it contains written or spoken words, but sometimes not even that. But you'd be naive if you thought their services aren't often consumed _instead of_ news. It's the same kind of functionality in a different package, after all, and that new package happens to be very attractive a lot of the time.
+I will repeat this because it's important: YouTube nor Facebook or any of these other companies aim to be an alternative to journalism and much of what they facilitate or do doesn't look like journalism at all. A good chunk of it contains written or spoken words, but sometimes not even that. It's not journalism. But you'd be naive if you thought their services aren't often consumed _instead of_ news. It's the same kind of functionality in a different package, after all, and that new package happens to be rather attractive a lot of the time.
 
 My dad never reads music reviews, but he uses Spotify to find new music. My brother doesn't subscribe to DRUM! Magazine but he's seen every drum lesson YouTube has to offer.
 
-Sure, if there's more good media around (and more good sort-of-media) then people are likely to simply read more stories and participate in more communities. But there's a limit to our appetite, and every minute spent on Facebook is one not spent on a news site.
+Sure, if there's more good media around (and more good sort-of-media) then people are likely to simply read more stories and participate in more communities. Win-win for both startups and old media. But there's a limit to our appetite, and every minute spent on Facebook is one not spent on a news site.
 
 h2. Why young people don't care
 
@@ -105,17 +105,17 @@ Notice that I didn't mention digital-first or _social data crowdjournalism_ or a
 
 h2. Chasing quality
 
-The most important reason the news industry is in a pickle is because people aren't getting much value out of what we do. We only occassionally sit down to really enjoy and savour journalism. More often we use it to procrastinate at work – which the populist in me frankly believes is a much better explanation for the fact that we consume so much crime, celebrity and weird news, as opposed to the most commonly proffered explanation: that each and every one of us is retarded.
+The most important reason the news industry is in a pickle is because people aren't getting much value out of our writing, documentaries and newscasts. We only occassionally sit down to really enjoy and savour journalism. More often we use it to procrastinate at work – which the populist in me frankly believes is a much better explanation for the fact that we consume so much crime, celebrity and weird news, viz. because we're just looking for a distraction, not, as the most commonly proffered explanation would have it, because each and every one of us is retarded.
 
-I'm confident that strong digital players like The Guardian and the New York Times and Digital First Media will survive, I'm less confident that they'll ever _thrive_.
+I'm confident that strong digital players like The Guardian and the New York Times and "Digital First Media":http://www.digitalfirstmedia.com/ will survive. I'm less confident that they'll ever _thrive_.
 
 I mean, we're congratulating The Guardian for losing money online, NYT because its paywall isn't the crash-and-burn we expected it to be, and because the Journal Register Company is in the black. If you don't go out of business, you're a hero.
 
-We have all been so focused on the quality issue: the fact that we're still doing journalism like we used to do it fifty years ago, that there haven't been any exciting new news formats since "PolitiFact":http://www.politifact.com/, that there's a "ridiculous lack of context":http://newsless.org/2010/03/the-case-for-context-my-opening-statement-for-sxsw/ for news stories online, which together with the fragmentation of readership is a disaster. I intend to keep writing about that because it's a crying shame.
+We have all been so focused on the quality issue: the fact that we're still doing journalism like we used to do it fifty years ago, that there haven't been any exciting new news formats since "PolitiFact":http://www.politifact.com/, that there's a "ridiculous lack of context":http://newsless.org/2010/03/the-case-for-context-my-opening-statement-for-sxsw/ for news stories online, which together with the fragmentation of readership is a disaster. It's a crying shame, and I intend to keep writing and ranting about all three of those issues.
 
 But if people tell you, as they did assistant professor Amy Zerba's research assistants, that they hate not being able to multitask when reading a newspaper, does that mean we should try to find ways to make it easier for readers to multitask, or is it simply a symptom of people not caring all that much about the news? And does that in turn mean they just don't care about stuff in general anymore and have become jaded and uninterested in politics and world news (for which there is some evidence), or is there more to it and are people perhaps getting their information needs met in other, more convenient or more exciting ways?
 
-Are we trying to get better at something that doesn't matter anymore? Why not, instead, take the best traditions of journalism and do something entirely new with it?
+Are we trying to get better at something that doesn't matter anymore? Perhaps we should take the best traditions of journalism and do something entirely new with it. Whatever we are doing now is not working.
 
 h2. The future
 
@@ -123,8 +123,8 @@ It's a testament to the enormous value newspapers must have provided to readers 
 
 I'm sure "traditionalists are right":http://www.roughtype.com/archives/2009/02/misreading_news.php when they say that media ten years from now will look surprisingly similar to what it is today. Maybe we won't be printing news on paper anymore, at least not daily, but that's a minor detail if anything is.
 
-Things won't stay like that forever, though, and an industry can't survive on symbolic capital alone – grand talk about democracy and the Fourth Estate. If things that are not journalism entertain, inform and "facilitate agency":http://jonathanstray.com/designing-journalism-to-be-used better than things that are, don't bet on (those kinds of) journalism to thrive.
+Things won't stay the same forever, though, and an industry can't survive on symbolic capital alone – grand talk about democracy and the Fourth Estate. If things that are not journalism entertain, inform and "facilitate agency":http://jonathanstray.com/designing-journalism-to-be-used better than things that are, don't bet on journalism to thrive.
 
-I work for a newspaper and I think about how to reinvent newspapers and reassert their relevance _all the time_. And people are consuming more news than ever, so we must be doing something right. My guess, though? Most innovation in media and most of the revenue and most of the _value_ will come not from the incumbents and not even from news startups, but from people who sort of unwittingly stumble into producing media as the solution to another problem.
+I work for a newspaper and I think about how to reinvent newspapers and reassert their relevance _all the time_. And people are consuming more news than ever, so we must be doing something right. My guess, though? Most innovation in media and most of the revenue and most of the _value_ will come not from the incumbents and not even from news startups, but from people who unwittingly stumble into producing media as the solution to another problem.
 
 News will be news. But the ecosystem will explode, and traditional media companies will only be a tiny part of it. If you think about it, that's already sort of true right now.
