@@ -78,11 +78,11 @@ A movie review on Amazon is not Roger Ebert, and if you'd ask any avid reader, t
 
 Small upstarts in unappealing markets end up overtaking the big molochs in an established market with what was initially considered to be an inferior product. "Gee, sounds familiar.":http://en.wikipedia.org/wiki/Disruptive_innovation
 
-But what makes the news industry such a curious case is that many of the disruptors who address the same underlying consumer needs are otherwise not recognizable as journalism at all. ("Some are though.":http://www.youtube.com/user/sxephil) Is Quora journalism? Is Foursquare?
+But what makes the news industry such a curious case is that many of the disruptors who address the same underlying consumer needs nevertheless do something that is not recognizable as journalism at all. ("Though some of it is.":http://www.youtube.com/user/sxephil) Is Quora journalism? Is Foursquare?
 
 We're living through a much more radical shift from narrative and stories and reporting to entirely different and entirely unrelated ways of sharing knowledge.
 
-People used to ask Adrian Holovaty whether "EveryBlock":http://www.everyblock.com/ should be considered journalism. First he said yes. Then he switched to "who cares?":http://www.holovaty.com/writing/data-is-journalism/ I would rephrase: "No it isn't, but who cares?"
+People used to ask Adrian Holovaty whether "EveryBlock":http://www.everyblock.com/ should be considered journalism. First he said yes. Then he switched to "who cares?":http://www.holovaty.com/writing/data-is-journalism/ Allow me to rephrase: "No it isn't, but who cares?"
 
 The news industry hasn't imploded wholesale because it isn't quite useless, not yet. Roughly a quarter of all adults in the US would be upset if their local newspaper disappeared, "according to 2012 research by Pew":http://pewresearch.org/pubs/2238/local-news-enthusiasts-newspaper-television-internet-communities. Down from "more than 40% in 2009":http://pewresearch.org/pubs/1147/newspapers-struggle-public-not-concerned, but still.
 
@@ -111,7 +111,7 @@ I'm confident that strong digital players like The Guardian and the New York Tim
 
 I mean, we're congratulating The Guardian for losing money online, NYT because its paywall isn't the crash-and-burn we expected it to be, and because the Journal Register Company is in the black. If you don't go out of business, you're a hero.
 
-We have all been so focused on the quality issue: the fact that we're still doing journalism like we used to do it fifty years ago, that there haven't been any exciting new news formats since "PolitiFact":http://www.politifact.com/, that there's a "ridiculous lack of context":http://newsless.org/2010/03/the-case-for-context-my-opening-statement-for-sxsw/ for news stories online, which together with the fragmentation of readership is a disaster. It's a crying shame, and I intend to keep writing and ranting about all three of those issues.
+We have all been so focused on the quality issue: the fact that we're still doing journalism like we used to do it fifty years ago, that there haven't been any exciting new news formats since "PolitiFact":http://www.politifact.com/, that there's a "ridiculous lack of context":http://newsless.org/2010/03/the-case-for-context-my-opening-statement-for-sxsw/ for news stories online, which together with the fragmentation of readership is a disaster. It's a disaster, and I intend to keep writing and ranting about all three of those issues.
 
 But if people tell you, as they did assistant professor Amy Zerba's research assistants, that they hate not being able to multitask when reading a newspaper, does that mean we should try to find ways to make it easier for readers to multitask, or is it simply a symptom of people not caring all that much about the news? And does that in turn mean they just don't care about stuff in general anymore and have become jaded and uninterested in politics and world news (for which there is some evidence), or is there more to it and are people perhaps getting their information needs met in other, more convenient or more exciting ways?
 
