@@ -1,5 +1,7 @@
 TODO: once I think I've collected most all meaningful facets / behaviors, match these with media products and non-media products that are geared towards people or simply appeal to people when they're in that particular mood.
 
+TODO: are there meaningful differences between men and women, just like there are between younger and older consumers?
+
 Also make some educated guesses as to what moods / facets / time of consumption often cluster together.
 
 ---
