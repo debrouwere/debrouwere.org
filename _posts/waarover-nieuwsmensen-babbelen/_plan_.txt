@@ -2,35 +2,49 @@
 
 Vlug overzicht van potentiële onderwerpen: 
 
-I. Wat is de rol van een krant?
+I. De malaise in de krantenwereld
 
-* Het verkruimelen van de vierde macht
+* De feiten (surveys etc.) en de impact in de UK/VS (sterke lokale kranten en televisiestations met een bijna-monopolie) versus Europa (kleinere advertentiepot, meer concurrentie)
+* Het verkruimelen van de vierde macht: kan media nog wel kraken en maken
 * De rol van de media in de maatschappij
+* commercialisering en kwaliteit, spruitjesjournalistiek, en fragmentatie / ADHD-journalistiek (en men kan debatteren over welk van de twee het meest relevant is of leidt tot slechte kwaliteit)
 * Verhalen vertellen en informatie overbrengen
+* advertenties, cross-subsidiëring, schaarste, fungibiliteit en glut (Carr)
+* aggregatoren en externe links: sommige apps om bezorgd over te zijn (zoals Flipboard) maar de meeste aggregatoren zijn tegenwoordig sowieso al naar een intelligenter model overgestapt, waarbij ze waarde toevoegen en teruglinken naar de oorspronkelijke bron ipv. te herschrijven
+* imitatie en administrators versus ondernemers; design by committee; zolang je een commoditeit blijft is het een race to the bottom en is de enige rationele optie om verder te besparen en nòg meer persberichten te gebruiken en nog vaker aan bijna-plagiaat te doen met herschreven artikels -- allemaal terechte kritiek op de media -- een dodelijke spiraal.
+* Makers Ratio (ondanks besparingen)
+* The Original Sin en 80/20
+* De opkomst van de Nieman Lab-generatie, een nieuwe hoop (zij het vooral in de VS) -- inleiding in andere delen
 
 II. Wat maakt een journalist?
 
-* wat is een journalist, wat moet hij kunnen, waar maakt 'ie het verschil met een burger?
+* wat is een journalist, wat moet hij kunnen, waar maakt 'ie het verschil met een burger? Program or be programmed? Multimedia?
+* Het probleem met schrijvers, en het gebrek aan reporters
 * Iedereen publisher
 * De rol van burgers in de journalistiek
 * Objectiviteit, news voice, informaliteit
+* werkomgeving: freelancers, onbetaalde stages... en waarom dat waarschijnlijk zo zal blijven
 
 III. Geld verdienen met nieuws
 
-* paywalls en geld verdienen in een nieuwe wereld
-* commercialisering en kwaliteit
-* the age of extremes
-* werkomgeving: freelancers, interns, ...
+* nog eens kort herhalen wat het probleem is (advertenties, einde van schaarste, fungibiliteit)
+* paywalls, gouden zaagsel, dingen verkopen die je niet kan kopiëren (KK) en geld verdienen in een nieuwe wereld
+* disruptieve innovatie en digital dimes: hoe laat je de geldkoe achter?
+* de journalist als zakenman, en waar dat foutloopt (men wil schrijven los van commerciële overwegingen en eigenlijk stiekem ook los van nut)
+* de rol van non-profits: een tax status, geen business model / ben je écht essentieel voor de democratie?
+* the age of extremes: hyperlocals, niches
 
 IV. Een nieuwe manier van nieuwsmaken
 
-* De tyranny of chronology, het read-state problem en context
+* De tyranny of chronology, het read-state problem en context, en hoe versnippering / nieuwsgrazen het probleem enkel nog maar verergert
+* Datajournalistiek en structuur
 * Nieuwssites maken die werken voor elk soort lezer, op elk moment van de dag
 * Is print dood? En wat met mobiele applicaties en de iPad? Multi- en crossmedialiteit.
 * Media als filter, aggregatie en curatie: do what you do best, link to the rest; de externe link-hetze
+* Wat is de essentie van journalistiek? Is de toekomst van de journalistiek misschien... iets anders?
 
+APPENDIX:
 
-Extra info online: 
-
-* Een reader voor elk hoofdstuk (A4 voor hier, US Letter voor UK/VS)
-* Relevante statistieken voor BE, NL, UK, VS (en AU, CA indien mogelijk)
+* Een tip als addendum bij HS 4: verwar België en Nederland niet met de VS, maar één van de nuttigste dingen die je kan doen met je tijd als journalist of manager in de media-industrie is je verdiepen in de Nieman-cultuur. Ze hebben daar een soort van kritische massa bereikt waardoor opeens, zo rond 2008 of 2009, het aantal discussies rond media de hoogte in geschoten is, en ik kan eerlijk zeggen dat mensen er nu dubbel zo intelligente dingen zeggen over de media, niet omdat ze plots slimmer zijn geworden maar door die collectieve zoektocht. En blog!
+* per hoofdstuk een lijst met relevante blogposts
+* een kort vocabularium media-Engels

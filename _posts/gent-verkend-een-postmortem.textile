@@ -20,7 +20,7 @@ Zodat iedereen mee is, eerst wat geschiedenis. (Die je gerust kan overslaan als 
 
 Ergens eind vorige eeuw kwamen de Gentse studentenvertegenwoordigers op de proppen met het nobele idee om iets te doen om nieuwe studenten zich wat meer op hun gemak te doen voelen in (voor velen) een nieuwe stad en een nieuwe unief. Iets, iets, iets... _een boeksken, misschien_. Men zocht een paar knappe schrijvers en layouters en zei: "Hier is geld, schrijf een studentenvademecum bij elkaar." Zoals de overlevering het wil, bakte die originele ploeg er niks van en besliste de studentenraad dan maar om aan te kloppen bij "Tim Van der Mensbrugghe":http://mensbrugghe.be/, toen bij het studentenblad "Schamper":http://www.schamper.ugent.be/, om een nieuwe poging te ondernemen, met een nieuw team, liefst in sneltempo.
 
-Aankloppen bij Tim was een riskante affaire, gezien Schamper in die tijd, soyons honnêtes, nogal een vod was. Maar Tim en zijn confraters wisten in recordtempo een boekje bij elkaar te schrijven met allerlei nuttig advies voor studenten en een uitgebreide inleiding tot ons mooie Gent, dat alles in "QuarkXPress":http://en.wikipedia.org/wiki/QuarkXPress te gieten en vervolgens een goeie, goedkope drukker te vinden die dat alles stipt zou bezorgen voor de aanvang van het nieuwe academiejaar. Op een paar vunzige foto's na en een hele reeks aan hilarische maar oneerbiedige omschrijvingen van figuren in de universitaire administratie, op die dingen na een succes. Gent Verkend was geboren.
+Aankloppen bij Tim was een riskante affaire, gezien Schamper in die tijd, soyons honnêtes, nogal een vod was. Maar Tim en zijn makkers wisten in recordtempo een boekje bij elkaar te schrijven met allerlei nuttig advies voor studenten en een uitgebreide inleiding tot ons mooie Gent, dat alles in "QuarkXPress":http://en.wikipedia.org/wiki/QuarkXPress te gieten en vervolgens een goeie, goedkope drukker te vinden die dat alles stipt zou bezorgen, op tijd voor de aanvang van het nieuwe academiejaar. Op een paar vunzige foto's na en een hele reeks aan hilarische maar oneerbiedige omschrijvingen van figuren in de universitaire administratie, op die dingen na een succes. Gent Verkend was geboren.
 
 Een paar jaar later nam Matthias Jacxsens de boel over, wat leidde tot een werkelijk uitstekende editie voor, geloof ik, 2007-2008. Ik deed toen de layout voor Schamper, Matthias vroeg me of ik dat ook voor Gent Verkend wou doen, en ik ben nog steeds trots op de publicatie die we toen, tenslotte maar een bende onnozele studenten, in elkaar gebokst hebben.
 
@@ -30,11 +30,16 @@ Onze studiegids werd gratis verdeeld onder studenten, en die namen dat gretig aa
 
 Maar wat gebeurde er nadien, eens dat exemplaar op een studentenkot beland was? Bij navraag, niet veel. Gent Verkend was zo één van die dingen die iedereen enorm waardeerde, maar niemand echt las. Je kwam ermee thuis, je doorbladerde dat eens, leerde wat nieuwe dingen maar daarna geraakte je de gids ergens kwijt tussen andere paperassen, en op het moment dat je écht wou weten hoe geïndividualiseerde studietrajecten in elkaar zitten of wat de beste pizzeria is in Gent, dan was Google voor velen de eerste reflex.
 
-Zoals je weet is druk goedkoper bij grote oplages, omdat een drukker maar één keer platen moet maken en die dan kan hergebruiken ongeacht of je nu vijf of twintigduizend exemplaren bestelt. Wij drukten zo'n 12 katernen in quadri, ofte ongeveer 200 pagina's kleurendruk, en zoiets kost je nog altijd bijna een euro per exemplaar. Dat is veel geld voor iets dat studenten _gewoon nen keer doorbladeren_.
+Zoals je weet is druk goedkoper bij grote oplages, omdat een drukker maar één keer platen moet maken en die dan kan hergebruiken ongeacht of je nu vijf of twintigduizend exemplaren bestelt. Wij drukten zo'n 12 katernen in quadri, ofte ongeveer 200 A5-pagina's kleurendruk, en zoiets kost je nog altijd bijna een euro per exemplaar. Dat is veel geld voor iets dat studenten _gewoon nen keer doorbladeren_ en daarna verliezen.
 
-De oplossing lag voor de hand. Wanneer dode bomen te veel kosten en mensen steeds vaker naar het web grijpen voor informatie, dan heb je een website nodig. De cijfers zijn magisch: je kan half zoveel geld uitgeven en dubbel zoveel redacteurs betalen.
+De oplossing lag voor de hand. Wanneer dode bomen te veel kosten en mensen steeds vaker naar het web grijpen voor informatie, dan heb je een website nodig. De cijfers zijn magisch: je kan dan half zoveel geld uitgeven en dubbel zoveel redacteurs betalen.
 
 .....................
+
+-> minder universeel: nog nooit een softwareproject geleid, geen flauw idee over hoe we de site bekendheid zouden geven, te groot willen beginnen (samenwerkingen)...
+-> be useful instead of impressive -- in plaats van een fancy website met alle café's en foto's van elk café had je met een Google Doc kunnen beginnen; als mensen iets echt nuttig vinden dan 
+-> quick wins and quick experiments -- focusgroepen werken niet bij productontwikkeling / experimenten moet je als dusdanig erkennen en moeten zoveel mogelijk geisoleerd zijn zodat ze het hele project niet in gedrang brengen
+-> wees geen ekster, voor jezelf en voor je gebruikers: kies één iets dat je wil doen en doe dat, eerder dan twintigduizend ideeën uit te proberen tegelijkertijd... ook verwarrend voor gebruikers, die een site zien en niet weten wat er mee te doen
 
 Problemen: 
 
