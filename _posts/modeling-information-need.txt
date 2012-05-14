@@ -1,3 +1,30 @@
+Reg Chua: http://structureofnews.wordpress.com/2012/05/11/getting-past-us/
+
+What are people hiring us to do, at least in terms of “journalistic news”?  I suspect the way people access news is still evolving – and it’s not like anyone really knows the answer now anyway – but I might argue that there are a couple of discrete user behaviors/needs: News, search, context and serendipity.  News meaning simply getting people the latest updates on important stuff (who won the French election?); search meaning fulfilling specific information needs when people want it (how many people died when the Titanic went down?); context meaning helping people understand issues, whether about news or broader topics  (so what is climate change and how does it affect me?); and serendipity meaning telling people things they might need to know but don’t know they need to know (end of the world next Tuesday!)
+
+---
+
+Situations / user stories
+
+"I don't understand this particular story."
+"God, I need a break. Let's surf around."
+"There seems to be a lot going on in politics. Need to check the news so I don't look clueless when it comes up with friends or colleagues."
+"Just woke up. Let's see what happened while I was asleep."
+"This weather looks nasty. Wonder whether I can bike to work."
+"That story I read yesterday about that courtcase was really interesting. Wonder whether there's a follow-up."
+"Sunday morning. Coffee and a good magazine. Aah."
+"Wonder whether there's anything to do next weekend."
+"I saw something about new education legislation online, but I couldn't understand half of it. Wonder whether I can find something more in-depth online."
+"Time to get my daily education fix. Wonder what people are talking about."
+"God, I'm bored. Let's check the news."
+"Back from work, went to the gym, had dinner, and now it's time to relax."
+"I need to keep on top of what's happening with the global economy. It's my job, after all."
+"A friend of mine said something about new taxes. What is that all about?"
+"I read a story a while back about the Atkins diet. Let me try and look it up again, because I want to reread it."
+?
+
+---
+
 TODO: once I think I've collected most all meaningful facets / behaviors, match these with media products and non-media products that are geared towards people or simply appeal to people when they're in that particular mood.
 
 TODO: are there meaningful differences between men and women, just like there are between younger and older consumers?
@@ -6,7 +33,7 @@ Also make some educated guesses as to what moods / facets / time of consumption 
 
 ---
 
-"a consumer might start his or her day by opening an e-mail news headline pack- age, then click on a head- line and move to a story. But then what? What hap- pens later when the story develops? How do critical questions about the back story get answered? Where can the user go for a look ahead, or for spin-offs that are more personally relevant?" (AP, A new model for news, p. 56, 2008)
+"a consumer might start his or her day by opening an e-mail news headline package, then click on a head- line and move to a story. But then what? What hap- pens later when the story develops? How do critical questions about the back story get answered? Where can the user go for a look ahead, or for spin-offs that are more personally relevant?" (AP, A new model for news, p. 56, 2008)
 
 
 Modeling information need
@@ -33,14 +60,15 @@ general modes of news consumption
 * producing
 * ?
 
-consumer <---> producer
-leisurely <---> engaged
-knowledge <---> entertainment
+consumer <--> producer
+leisurely <--> engaged
+knowledge <--> entertainment
 facts <--> opinion: what to think / how to feel
-deep <---> superficial / need-to-know
-individual <---> social
+deep <--> superficial / need-to-know
+individual <--> social
 stuff that affects me <--> a view on another world *
-urgent / need right now <--> general interest
+urgent / need right now / recency <--> general interest
+visual <--> textual
 
 * why people read about politics, I'd wager
 
@@ -113,6 +141,14 @@ Amy Zerba (collated from various academic research; publication in Journalism & 
 * reading for the sake of reading, whether for stimulation or respite, or as a ritual in one’s day
 * social prestige (knowing a lot) and social contact (being able to talk to others)
 * security (feeling secure because you know what's happening around you, you're not in the dark)
+
+---
+
+formats
+
+* stories
+* data apps
+* shows (video, podcast)
 
 ---
 
