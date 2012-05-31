@@ -1,46 +1,174 @@
 [Noot aan mezelf: zorgen dat het niet te Anglocentrisch wordt — genoeg voorbeelden uit Europese pers en altijd duidelijk het onderscheid maken tussen onderzoek dat betrekking heeft op hier vs. daar]
 
+[Joris Luyendijk zou de ideale nalezer zijn voor dit werkje, misschien samen met Ides Debruyne, die kan dat misschien via het FPD ruchtbaarheid geven en misschien zelfs voor een papieren equivalent zorgen.]
+
 Vlug overzicht van potentiële onderwerpen: 
 
 I. De malaise in de krantenwereld
 
+() Het einde van een economisch model
+
 * De feiten (surveys etc.) en de impact in de UK/VS (sterke lokale kranten en televisiestations met een bijna-monopolie) versus Europa (kleinere advertentiepot, meer concurrentie)
+* advertenties werken niet meer (branding in print; werkt niet online -- we storen mensen eerder dan ze te helpen)
+* cross-subsidiëring is een gevaarlijk model
+* het einde van schaarste, glut (Carr)
+
+() Het verkruimelen van de vierde macht
+
 * Het verkruimelen van de vierde macht: kan media nog wel kraken en maken
-* De rol van de media in de maatschappij
-* commercialisering en kwaliteit, spruitjesjournalistiek, en fragmentatie / ADHD-journalistiek (en men kan debatteren over welk van de twee het meest relevant is of leidt tot slechte kwaliteit)
-* Verhalen vertellen en informatie overbrengen
-* advertenties, cross-subsidiëring, schaarste, fungibiliteit en glut (Carr)
-* aggregatoren en externe links: sommige apps om bezorgd over te zijn (zoals Flipboard) maar de meeste aggregatoren zijn tegenwoordig sowieso al naar een intelligenter model overgestapt, waarbij ze waarde toevoegen en teruglinken naar de oorspronkelijke bron ipv. te herschrijven
+* Als we de media niet meer kunnen vertrouwen, wat dan?
+
+() Hoge verwachtingen, snel tevreden
+
+* Maar verwachten mensen eigenlijk wel kwaliteitsjournalistiek? Alleszins niet àltijd: op de hoogte blijven is vaak genoeg, en wat faits divers en raar nieuws daarbij is meer dan welkom. Zegt niks over hoe slim of dom mensen zijn, het zegt iets over wat voor dagelijkse routine ze willen, en je kan niet elke dag je kop breken over de economische crisis en daklozen en de louche praktijken van de farma-industrie.
+* Of hebben we mensen stilaan doen wennen aan een lage kwaliteit? Is het onze eigen schuld dat mensen tegenwoordig denken dat alle journalistiek hetzelfde is?
+* commercialisering en kwaliteit
+* maatschappelijk relevant of spruitjesjournalistiek -- er valt iets te zeggen voor beide kanten van het verhaal: niet genoeg diepgang en commerciële invloeden verknoeien de journalistiek... maar langs de andere kant heb je ook journalisten die mensen dingen die zij belangrijk vinden in lezers hun strot willen rammen, en het is onfair om dat een commerciële aanval op de journalistiek te noemen, alsof de zakelijke leiding van een krant niks beters te doen heeft
+
+() De erfzonde
+
+* The Original Sin en 60/40 ads/subs+single (in Europe 50/50 of soms zelfs iets meer uit abos, maar daar moet je wel weer) -- see OECD 2010 - THE EVOLUTION OF NEWS AND THE INTERNET
+* Gratis nieuws online de erfzonde? Er zijn tekenen dat paywalls kunnen werken in kleine landen met niet al te veel spelers, maar het punt is nu eenmaal dat er zoveel spelers zijn, dat consumenten niet altijd even kieskeurig zijn, en dat mensen media niet genoeg apprecieren om bij te betalen tegenover wat gratis beschikbaar is... dat voet bij stuk houden en zeggen "mensen moeten en zullen betalen" eerder koppigheid is dan realiteitszin. Niemand moet iets. De dingen zijn zoals ze zijn, en met quasi-religieuze overtuiging – of een soort van misplaatst boerenverstand – zeggen dat mensen "moeten" betalen is geen businessmodel die naam waardig. Zo werkt de economie niet.
+
+() Overal informatie
+
+* in se goed voor consumenten
+* slecht voor uitgevers: minder loyauteit, meer keuze, lagere winsten
+* slecht voor lezers: redacteurs kunnen niet langer aannemen dat je een zekere achtergrondkennis hebt omdat je elke dag of elke week hun blad leest -- leidt tot frustraties omdat mensen niet begrijpen wat ze lezen
+* Digitaal als instigator, niet als het echte probleem: verhalen vertellen en informatie overbrengen // overal informatie, op tienduizend plaatsen, overal dingen om te lezen, overal mensen om mee te praten -- fungibiliteit (nog net iets anders dan "gewone" schaarste/glut)
+
+() Niet te gek doen
+
 * imitatie en administrators versus ondernemers; design by committee; zolang je een commoditeit blijft is het een race to the bottom en is de enige rationele optie om verder te besparen en nòg meer persberichten te gebruiken en nog vaker aan bijna-plagiaat te doen met herschreven artikels -- allemaal terechte kritiek op de media -- een dodelijke spiraal.
+
+() Oude reuzen
+
 * Makers Ratio (ondanks besparingen)
-* The Original Sin en 80/20
+* elke werknemer die meer opbrengt dan hij kost is een goeie werknemer, zelfs al is die winst een peuleschil... maar dat denken (dat je mensen moet vergeven – de jaren 70 en 80 waren ongelooflijk winstgevend op veel plaatsen) heeft geleid tot tankers die je nu bijna niet kan keren, en veel mensen die net dat beetje extra winst toevoegden zorgen nu elk voor net dat beetje meer verlies.
+* aggregatoren en externe links: sommige apps om bezorgd over te zijn (zoals Flipboard) maar de meeste aggregatoren zijn tegenwoordig sowieso al naar een intelligenter model overgestapt, waarbij ze waarde toevoegen en teruglinken naar de oorspronkelijke bron ipv. te herschrijven
+
 * De opkomst van de Nieman Lab-generatie, een nieuwe hoop (zij het vooral in de VS) -- inleiding in andere delen
 
 II. Wat maakt een journalist?
 
-* wat is een journalist, wat moet hij kunnen, waar maakt 'ie het verschil met een burger? Program or be programmed? Multimedia?
-* Het probleem met schrijvers, en het gebrek aan reporters
-* Iedereen publisher
-* De rol van burgers in de journalistiek
-* Objectiviteit, news voice, informaliteit
-* werkomgeving: freelancers, onbetaalde stages... en waarom dat waarschijnlijk zo zal blijven
+(a) iedereen kan dat
+
+* Iedereen publisher: Antennagate, Ground-Zero mosque, Vdm als eindredacteur bij het ineenstorten van De Morgen, ... maar ook populaire langlopende blogs zoals Gent Blogt en populaire muziekblogs etc.  
+* De rol van burgers in de journalistiek: de experten, de ooggetuigen, ... wat blijft er over voor journalisten?
+* Meer een kwestie van tijd dan van expertise?
+* Wat is een journalist, wat moet hij kunnen, waar maakt 'ie het verschil met een burger? De domste burger wordt vaak tegenover de beste journalist geplaatst, maar de realiteit is dat journalisten net zo goed vaak kort door de bocht gaan, en dat valt niet altijd te wijten aan een hoge werkdruk. Onderzoek dat toont dat journalisten over het algemeen Google niet beter gebruiken dan de gemiddelde persoon, dat weinig journalisten iets afweten van statistiek (en nonchalant hun gebrek aan wiskundige kennis afwimpelen.) Het gaat om meer dan goed kunnen schrijven.
+
+(b) Schrijvers en reporters
+
+* Fundamenteler probleem: het probleem met schrijvers, en het gebrek aan reporters (maakt het makkelijker om burgerjournalistiek gelijk te stellen aan de professionele variant)
+* Hebben we echt nog journalisten nodig om concerten te bespreken en op restaurant te gaan? Wezenlijk?
+
+() Speurneuzen
+
+Journalisten moeten terug speurneuzen worden. Betere speurneuzen dan hun voorgangers.
+
+* meer dan je adresboekje
+* data-journalistiek: documentanalyse enz.
+* statistiek
+* trends en verhaalideeën bijhouden via twitter, RSS
+* minder general assignment, meer specialisten
+
+() Computerjezus
+
+* Er is niet enkel het probleem van burgerjournalistiek, maar ook de vereisten van de nieuwe digitale journalistiek. Program or be programmed? Multimedia? Wat moeten scholen leren aan journalisten - twitter?
+* Wat over programmeren?
+* Digitale skills niet omdat twitter belangrijker is dan leren schrijven en leren onderzoeken... maar omdat al die dingen zo eenvoudig zijn geworden dat het eenvoudigweg als minimumvereiste geldt, een beetje zoals email kunnen sturen: hoe bedoel je, je kan dat niet? Nu zie je kranten nog het onderscheid maken als ze iemand inhuren tussen een journalist en een multimediajournalist en een hacker/journalist. Reken er niet op dat dat zal blijven duren.
+* Simon Rogers van The Guardian over punk rock: hier zijn drie akkoorden, hup, vertrek! Zo moeilijk is het nu ook niet. Het is waar, de lat ligt hoger, veel skills die vroeger enkel journalisten hadden (dingen opzoeken in een muf archief, bellen met twintig experts) kan nu elke jan (het is echt niet moeilijk om het emailadres te vinden van de eerste minister online) en dus hebben journalisten een hoop nieuwe skills nodig om een trap hoger te staan. Maar schrik niet teveel. Zo moeilijk is het nu ook weer niet.
+
+() De producer
+
+* Journalist als producer / eindredacteur: kiezen hoe efficient een verhaal te vertellen in één van 20 formaten. Nadenken over wat je wil bereiken met je stuk, voorbij nieuwswaardigheid of "misschien leuk voor lezers"
+
+() Een nieuwe stem
+
+(stukken uit vorige secties samenbinden, en iets over hoe mensen de media bekijken, en zeggen waarom die nopen tot een nieuwe stem)
+
+* Mensen vertrouwen de media steeds minder, niet enkel omdat we soms fouten maken, maar ook gewoon omdat we in een omgeving leven waarbij je altijd op je hoede moet zijn en nooit informatie zomaar mag aannemen (een willekeurige Google-search, de gevaren van Wikipedia, ...)
+* Net daarom moeten journalisten ook op een andere manier beginnen schrijven. Objectiviteit, news voice, informaliteit
+* Je moet je stem kunnen aanpassen aan je publiek. Steeds vaker betekent dat dat je méér moet kunnen dan alleen schrijven. En steeds vaker moet je je ding op twintig verschillende manieren kunnen zeggen, afhankelijk van het verhaal.
 
 III. Geld verdienen met nieuws
 
-* nog eens kort herhalen wat het probleem is (advertenties, einde van schaarste, fungibiliteit)
-* paywalls, gouden zaagsel, dingen verkopen die je niet kan kopiëren (KK) en geld verdienen in een nieuwe wereld
-* disruptieve innovatie en digital dimes: hoe laat je de geldkoe achter?
-* de journalist als zakenman, en waar dat foutloopt (men wil schrijven los van commerciële overwegingen en eigenlijk stiekem ook los van nut)
+* nog eens kort herhalen wat het probleem is (advertenties, einde van schaarste, fungibiliteit -- en voorbeelden daarvan)
+
+() Paywalls
+
+* paywalls
+* zandzakstrategie: keep the tide at bay
+* of misschien lukt het ooit? Carr over marktcorrectie (maar dit is fragiel)
+
+() Non-profits
+
 * de rol van non-profits: een tax status, geen business model / ben je écht essentieel voor de democratie?
-* the age of extremes: hyperlocals, niches
+* maar het kàn werken en het is een belangrijk onderdeel van het nieuwe ecosysteem
+* het zou me niet verbazen als onderzoeksjournalistiek dichter gaat aanleunen bij open-government initiatieven dan bij de alledaagse "hier is wat er gisteren en vandaag gebeurd is"-journalistiek. Hack De Overheid in Nederland bood daar al de eerste tekenen van.
+
+() Scharrelen
+
+* gouden zaagsel, dingen verkopen die je niet kan kopiëren (KK) en geld verdienen in een nieuwe wereld; twintig inkomstenbronnen zoeken in plaats van twee (ads + subs)
+
+() Een tijd van extremen
+
+* hyperlocals, niches, professionele diensten (GigaOM, Baekdal, Politico, WSJ)
+* hervaluatie van long-form journalism, maar langs de andere kant ook vlugge tweets en korte samenvattingen van lange artikels -- het web heeft een gigantische hoop informatie vrij beschikbaar gemaakt, dus als je wil overleven moet je opvallen, en als je wil opvallen dan moet je een beetje overdrijven.
+
+() Van A naar B
+
+* disruptieve innovatie en digital dimes: hoe laat je de geldkoe achter?
+
+() Inkt aan de vingers, vuur in de ogen
+
+* Journalisten kunnen zichzelf waardevoller maken voor media-organisaties, maar het is betwijfelbaar of journalisten ooit grote verdieners zullen zijn
+* werkomgeving: freelancers, onbetaalde stages... en waarom dat waarschijnlijk zo zal blijven
+* de journalist als zakenman, en waar dat foutloopt (men wil schrijven los van commerciële overwegingen en eigenlijk stiekem ook los van nut)
 
 IV. Een nieuwe manier van nieuwsmaken
 
-* De tyranny of chronology, het read-state problem en context, en hoe versnippering / nieuwsgrazen het probleem enkel nog maar verergert
+[Needs work. Ik denk dat het belangrijk is om nieuwsapplicaties, de kracht van mobile en dergelijke te behandelen – te meer gezien ik voor een lezer schrijf die daar helemaal niks over afweet – maar de grote boodschap van dit hoofdstuk moet zijn: denk na over informatie en hoe je gemeenschappen kan helpen, of dat nu journalistiek is of niet doet er niet toe. Misschien eerder dan al die trends hun eigen apart stukje te geven, ze in een lange boog beschrijven om aan mensen duidelijk te maken hoe veel er eigenlijk wel aan het veranderen is en dat mensen voortdurend met nieuwe dingen experimenteren, dus dat het een goeie periode is om met media bezig te zijn.]
+
+() Nieuwe vormen van journalistiek
+
 * Datajournalistiek en structuur
+* Zie ook open gov, wikis, Open311, ...
+
+() Nieuwe platformen
+
 * Nieuwssites maken die werken voor elk soort lezer, op elk moment van de dag
-* Is print dood? En wat met mobiele applicaties en de iPad? Multi- en crossmedialiteit.
+* Is print dood? En wat met mobiele applicaties en de iPad?
+* Interessant vanwege context, bv. je telefoon bovenhalen omdat je in de buurt iets wil vinden om te eten
+* Multi- en crossmedialiteit.
+* Print is eenvoudigweg onhandig (zeker kranten, minder het geval voor magazines) en meer dan één studie spreekt over mensen die zich ongemakkelijk voelen als ze zoveel (vaak ongelezen) papier zien opstapelen. Maar daarom nog niet dood: het inflectiepunt: print waarvoor het echt dient
+
+() Media als filter: dringend vertrouwen terugwinnen
+
 * Media als filter, aggregatie en curatie: do what you do best, link to the rest; de externe link-hetze
+* soorten aggregatoren: manueel, algoritmisch, sociaal (elk met hun eigen smaak en merites / mindere puntjes)
+* Maar: filter forward <> filter out
+
+() Waarom lezen wij? En andere problemen.
+
+[Het probleem zit misschien dieper dan nieuwe vormen vinden. Misschien moeten we nog een stapje verder durven denken.]
+
+* korte pauzes, eventjes op de hoogte willen blijven, maar een paar minuutjes op de site, meeste mensen gebruiken zelfs niet eens de navigatie (om door te klikken naar secties) -- nieuwssites worden druk bezocht en worden zeer geapprecieerd, maar geen diepe consumptie. Zelfde fenomeen bij eye-tracking studies van mensen die kranten lezen: een stukje hier, een stukje daar, paar bladzijden overslaan, nog een stukje, en gedaan.
+* Mensen willen wel diepgang, maar niet als onderdeel van hun routine. Nieuwsorganisaties beseffen dat nog te weinig
+
+* Onderzoek bij jong-volwassenen
+* Luyendijk: het is niet altijd makkelijk om in te zien waarom het belangrijk is om op de hoogte te blijven van het nieuws
+
+* Begrijpen de meeste mensen eigenlijk wel wat ze zien? (Voorbeeldje van 5 headlines van NRC en vijf van De Morgen.) Kranten vereisen sowieso al een redelijke kennis van de actualiteit – je kan niet àlles àltijd herhalen – maar sinds het web is dat alleen maar erger geworden, wegens versnippering / nieuwsgrazen.
+* het read-state problem en context (-- wordt te vaak gezien als achtergrond terwijl het, in tegendeel, hetgeen is dat je nodig hebt om te kunnen beginnen lezen)
+* Breder probleem: de tyranny of chronology: alles in stukjes, update na update, en geen enkele manier om een overzicht te krijgen
+
+() Vervangbaar
+
+* Designing news to be used
+* Community's information needs, bv. EveryBlock
+  - Tom Rosenstiel z'n negen -- wel, denk aan die rollen en aan de vijf noden van gemeenschappen, en denk eens eventjes niet aan journalistiek maar aan hoe je die rol kan spelen, of die dingen kan vervullen
 * Wat is de essentie van journalistiek? Is de toekomst van de journalistiek misschien... iets anders?
 
 APPENDIX:

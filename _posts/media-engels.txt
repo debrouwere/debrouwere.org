@@ -3,7 +3,7 @@ Als je een tijdje de Anglo-Amerikaanse journalistieke vakpers leest, word je op 
 (vertalingen / connotatie / uitleg van courante Engelse termen)
 
 editor
-	afhankelijk van de context: hoofdredacteur, chef (desk editor) of heel soms redacteur
+	afhankelijk van de context: hoofdredacteur of chef (desk editor); sommige weekbladen en studentenbladen volgen de Europese traditie en noemen elke vaste redactiemedewerker een editor.
 desk editor
 	redactiechef, bv. chef cultuur
 senior editor
@@ -15,10 +15,16 @@ subeditor
 copy editor
 	eindredacteur
 managing editor
-	redactiesecretaris, redactiecoördinator, producer: de persoon onder de redacteurs die de praktische zaken afhandelt en soms de zakelijke kant behartigt
+	redactiesecretaris, redactiecoördinator, producer: de persoon onder de redacteurs die de praktische zaken afhandelt en af en toe ook de zakelijke kant behartigt, hoewel dat vaker aan de publisher toekomt
+publisher
+	de uitgever, in veel gevallen een figuur die aanzienlijk meer in de pap te brokken heeft dan de hoofdredacteur, zeker in de VS
+engineer
+	in de VS (en in mindere mate de UK) noemen ze alles ingenieurs: de mensen achter de knoppen bij een televisiestation zijn broadcast engineers, de mensen die websites bouwen zijn software engineers 
 copy desk
 	de eindredactie
 fact checking
+news librarian
+	synoniem voor news researcher: meestal de mensen van de onderzoeksdienst, soms als assistent van één specifieke journalist, in onderzoeksjournalistieke projecten
 stringer
 	een correspondent, maar in de brede zin van het woord (dus niet enkel voor buitenlandreportages): een reporter, vaak niet full-time en soms niet eens een professionele journalist, die regelmatig informatie aanbrengt vanuit één of andere uithoek waar ofwel gewone journalisten niet vaak geraken (bv. de technologiesector)
 correspondent
@@ -34,13 +40,17 @@ feature
 wire copy
 broadcast
 print
+	gedrukt product (kranten en magazines)
 CAR
 	older term that is what it sounds like: any kind of reporting where a computer helps you unearth facts or produce (e.g. the visuals of) a story; mostly replaced by 'data journalism'
 j-school
 paginator
 beat reporting
+	beats komen overeen met secties in de krant: onderwijs, de zakenwereld, politiek enzoverder; de metafoor van de "beat" is ontstaan omdat je als beat reporter je eigen wereldje hebt: een hoop bedrijven, mensen, plaatsen, bepaalde nieuwsbronnen en zoverder die je in de gaten moet houden, bijna zoals een agent op patrouille.
 story budget (esp. in print)
-
+	artikellijst / planning
+story
+	artikel, kan zowel een korte nieuwsupdate zijn als een lange reportage, al wordt het soms ook specifieker gebruikt om te verwijzen naar artikels waar meer verhaal in zit; story kan ook verwijzen naar een gebeurtenis, je schrijft dan vijf of tien artikels over een groot nieuwsfeit. ("a 25-inch piece about the riot story")
 
 En een paar buzzwords:
 

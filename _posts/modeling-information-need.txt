@@ -1,3 +1,21 @@
+What kind of journalism are there?
+
+* news updates (this happened)
+* advice (reviews, how-tos, recipes, ...)
+* information about environment: calendars, classifieds, ...
+* stories (the writing is the value)
+* explainers (in the abstract sense of the term: stories that explain a bigger phenomenon or bring it to light)
+* exposing corruption (important for bringing things to light; but gains in importance if people get upset about it or if it actually embarrasses / harms the perps, not if it gets lost amongst the news stream)
+* ?
+
+What kinds of news serve what kinds of information needs? Which kinds of news are still useful? Which can be catered to in other ways?
+
+---
+
+“We’re giving a lot of thought to three different kinds of consumption: Active consumption being at the desktop, on-the-go consumption being on your mobile phone, and passive consumption being in your bed, on your tablet, something like that,” Callie Schweitzer (TPM) said.
+
+---
+
 Reg Chua: http://structureofnews.wordpress.com/2012/05/11/getting-past-us/
 
 What are people hiring us to do, at least in terms of “journalistic news”?  I suspect the way people access news is still evolving – and it’s not like anyone really knows the answer now anyway – but I might argue that there are a couple of discrete user behaviors/needs: News, search, context and serendipity.  News meaning simply getting people the latest updates on important stuff (who won the French election?); search meaning fulfilling specific information needs when people want it (how many people died when the Titanic went down?); context meaning helping people understand issues, whether about news or broader topics  (so what is climate change and how does it affect me?); and serendipity meaning telling people things they might need to know but don’t know they need to know (end of the world next Tuesday!)
@@ -25,6 +43,24 @@ Situations / user stories
 
 ---
 
+push		pull
+consumer	producer
+leisurely	actively
+knowledge	entertainment
+knowledge	inspiration
+facts		opinion & advice
+deep		need-to-know
+individual	social
+affects me	big planet
+visual		textual
+browsing	intentional consumption
+curious		worried
+lean-back	lean-forward
+urgent		important	recent		of interest
+need		want		like
+
+---
+
 TODO: once I think I've collected most all meaningful facets / behaviors, match these with media products and non-media products that are geared towards people or simply appeal to people when they're in that particular mood.
 
 TODO: are there meaningful differences between men and women, just like there are between younger and older consumers?
@@ -39,7 +75,10 @@ Also make some educated guesses as to what moods / facets / time of consumption 
 Modeling information need
 
 - short stories and faits divers as a form of light reading (daily routine, same reason comics are one of the first things people check out when waking up, the fact that it's non-fiction is not even very important.)
-- keeping up to date (to be able to participate in watercooler conversation)
+- keeping up to date
+  - for its own sake
+  - to be able to participate in watercooler conversation
+  - as social currency
 - catching up / the basics (learn more about important issues or issues your friends or peers are talking about)
 - looking for specific information (specific question about something)
 - reading more in-depth material (knowledge)
@@ -56,21 +95,45 @@ general modes of news consumption
 
 * enjoying
 * learning
+  - about the world
+  - about my world
+  - research (in-depth, not just "find out a little more")
 * engaging / talking / socializing / showcasing own expertise
+  - with author/expert
+  - with a community
 * producing
-* ?
+  - expression
+  - sharing
+  - self-assertion
+  - advocacy
 
 consumer <--> producer
 leisurely <--> engaged
 knowledge <--> entertainment
 facts <--> opinion: what to think / how to feel
 deep <--> superficial / need-to-know
+accurate <--> diligent when possible **
 individual <--> social
 stuff that affects me <--> a view on another world *
 urgent / need right now / recency <--> general interest
 visual <--> textual
 
 * why people read about politics, I'd wager
+** subtly different from wanting depth: in some cases it's very important that you have very accurate, precise information whereas in other cases you might want to get very in-depth information about a topic but you're not going to care if a name is spelled wrong.
+
+For some things, like finding good music, a recipe, something to do this weekend but also figuring out what happened today or last week... for all those things we usually just want a general sort of overview and it's easy for services (journalism or no) to be "good enough." An interesting avenue for journalism might be to figure out what kinds of knowledge we care about beyond just "good enough", or what audience cares about more than good enough, and try to build products around that. I don't mean investigative journalism, though certainly some kinds of investigative journalism might fit the bill.
+
+This is important for new news organizations: figure out what sort of news (or other information need) people consider to be fungible and which types of information they don't look at in that way. When people value quality you can compete on quality. When they don't, it's pointless, and instead you have to compete on efficiency or secondary characteristics (e.g. social element to turn it into something that's not fungible anymore).
+
+Why do you think there are so many mediocre websites with business listings in small towns? Because people want to find a phone number for that Thai place or a gas station or the nearest flower shop, and they honestly don't care where they find it and how good or crappy the site they find it on looks. Which means it's the ideal project for entrepreneurs who want to make a quick buck and care nothing about improving local communities. Just put some databases on the web and slap huge ads on top of them, and you're done. People don't care. It's good enough.
+
+It's not that you can't compete with these sites (e.g. Yelp does, successfully), but you have to realize exactly how you'll add value, and realize that it's not about doing a better job or creating a sleek website or wonderful user experience, but about providing value, providing something people actually miss.
+
+(Note that it's not impossible to create new habits in users, and maybe get them to care about something they don't care about right now and to act differently than they do now to certain types of journalism products... but if that's your goal, you need to be a 100% aware of it, because that's an entirely different challenge from the "write it and they will come" you can expect when playing to people's existing desires and catering to what they are "hiring you to do.")
+
+I suspect that we may see a hollowing-out of the news genre spectrum, but in a good way: the latest news in short bits on the one hand (and made more sensible to irregular readers) and proper long-form plus focused apps plus campaigns against specific wrongs on the other hand... but none of the "we called three people, looked at a data set and we'll call that investigative reporting" or "here's an article about a big issue that we will from now on never talk about again." So you'd cater to the people that want to know what's going on today (short), the people that want to know what's going on in the/their world (long) and the people that want to be entertained or sit back and relax (video shows).
+
+(Long is not necessarily always investigative, or even most of the time -- it can be about showing people inspiring stuff, telling stories, doing interviews with people your audience deeply cares about... and in all of those cases there's less of a reason to do follow-ups, because the impact that sort of content has on your life is more cumulative, more about giving you stuff to think about and shaping how you look at the world. But if you *do* do investigative or expose corruption or address a problem in society, you need to go all-in, not just write about it once and tell yourself you've done everything you could.)
 
 ---
 
