@@ -1,0 +1,12 @@
+---
+layout: quote
+language: en
+author: Richard Huntingdon
+title: Crimes against social
+context: About how badly companies understand social media, and how bad social media strategist are at advising those companies
+canonical: http://www.adliterate.com/archives/2012/01/crimes_against_1.html#more
+---
+
+"we love lemon cupcakes, what’s your favourite cupcake?"
+
+If this were the conversational style of a real friend we would punch them repeatedly in the face.
