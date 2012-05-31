@@ -1,0 +1,17 @@
+---
+layout: comment
+language: en
+title: Baseline of knowledge
+canonical: http://danielbachhuber.com/2012/05/08/related-posts-via-a-quiz/#comment-2314
+context: Daniel Bachhuber suggested that maybe news website should quiz users on their knowledge about complex topics, so they can (automatically) tailor stories and related content for each individual user.
+---
+
+The trouble is that people who don't know anything about a topic might not even get as far as clicking on the link that takes them to the story. And then if they do, going through a quiz might be frustrating if they have absolutely no knowledge on the topic.
+
+I think we need to start with something more basic, just to get going: an "in a nutshell" link at the start of every complex story that lays out what came before in a couple of clear bullet points, and links to background information if you want it.
+
+And then once we've tackled that, track read state so you know when people are jumping into the middle of a story and automatically show/hide those nutshells / refreshers depending on what the user read earlier (and how long ago that was.)
+
+Also really a fan of the Voice of San Diego and California Watch's "why you should care" and "what's next" boxes alongside stories. Context is about more than just what came before, after all.
+
+Just some thoughts.
