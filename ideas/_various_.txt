@@ -94,7 +94,7 @@ Bv. een zeer goede klant erbij nemen als je agenda al vol zit omdat zo'n klant o
 - multimedia
 - link journalism
 
-"Call it the Miracle On 34th Street approach to news. For those unfamiliar with the classic film, the MacyÕs department store Santa Claus (who is actually the real Santa) sends shoppers who canÕt find what they want to Gimbles, MacyÕs archrival. While at first MacyÕs management is horrified, theyÕre won over as a customer declares her loyalty to MacyÕs for putting the customer first." (http://searchengineland.com/googles-news-experiments-and-read-state-issue-30242)
+"Call it the Miracle On 34th Street approach to news. For those unfamiliar with the classic film, the Macy's department store Santa Claus (who is actually the real Santa) sends shoppers who can't find what they want to Gimbles, Macy's archrival. While at first Macy's management is horrified, they're won over as a customer declares her loyalty to Macy's for putting the customer first." (http://searchengineland.com/googles-news-experiments-and-read-state-issue-30242)
 
 "De grootste concurrent van sites van traditionele mediabedrijven is niet Google, het is Wikipedia. Omdat de internet-encyclopedie een betere gebruikerservaring biedt; meer context en minder losse eindjes." (Nijst http://www.nijst.org/2009/12/14/googles-living-stories/)
 
@@ -128,3 +128,37 @@ Samenwerken met andere freelancers is ook niet zo gemakkelijk als het lijkt. Je 
 "When itÕs just you and your thoughts it becomes too easy to pick the first thing that pops into your head." (http://tom.preston-werner.com/2008/11/03/how-to-meet-your-next-cofounder.html)
 
 Een andere les is dat developen voor grote budgetten een andere frame of mind vraagt dan developen voor kleine budgetten. Daarmee bedoel ik niet dat, als er veel geld is, je dat als dev moet verbrodden terwijl het ook goedkoper kan, maar dat de manier van de site te bespreken en op te bouwen zal verschillen. In het eerste geval probeer je de noden van de klant zoveel mogelijk te reduceren tot wat een bestaand pakket out of the box kan, zodat je je tijd kan steken in afwerking en tweaking. Dat vraagt een zeer sterke communicatie met de klant, met wie je eigenlijk voortdurend kosten-baten analyses moet maken. Je verschuift ook sneller opdrachten naar de klant (migratie -> handmatig zelf c&p'en; acceptance testing -> gewoon wachten tot je hoort van de klant dat er iets niet werkt; ...) Als er een ruim budget is kan je nadenken over "how can we make this kick-ass". Ook hier moet je zoeken naar kostenreducties en streven voor de best mogelijke ROI, bv. door allerlei bestaande pakketten te gebruiken, en ook hier moet je de klant er op kunnen wijzen als hij zotte kosten doet, maar verder kan je je focussen op het bouwen. Het voelt anders aan. Meer geld betekent quasi altijd een betere site, dus je moet ergens wel respect hebben voor freelancers die bewust hun hele carrire in het low-budget segment blijven, en die er in slagen om al die moeilijke afwegingen te maken.
+
+---
+
+I've long been suspicious of nonprofit journalism, and even more suspicious of government-sponsored journalism. Like Kevin Davis of the Investigative News Network said a while back, "Being nonprofit is not a business model, it's a tax status." Proponents defend non-profits by saying it allows one to do a better, purer kind of journalism that a commercial enterprise simply would not support. In reality, the lure of the nonprofit is that it promises an environment where you can just focus on the journalism without having to worry about money, or in fact about having anyone at all to read whatever you write. It seems lazy to me.
+
+But just as we've moved from talking about why paywalls can never work to discussing the specific circumstances in which they can thrive, and from talking about whether social media has a place in journalism to talking about how to integrate and how not to integrate social media in our reporting, I feel it's time to kick it up a notch in our discussion of non-profit journalism as well, and talk about when it works, when it's stupid and when it's really needed. When does it better communities, not just grizzled journalists' bank accounts?
+
+I believe there's a place for noncommercial professional journalism in society, in three varieties: philantropic, subsidized and civil.
+
+
+When it comes to state-sponsored media, I think there's a place for it but I also think it should operate like ProPublica does: put creative commons on everything. The purpose of being a non-profit is to provide a good to society, and you can only do that if your information is spread as widely as possible.
+
+
+
+
+
+
+From the perspective of creating a healthy information society, I wonder if it would make sense for the government to invest in social media training for these local business owners, as well as highlighting some of these messages by acting as an aggregator and promotor itself. And finding ways for individuals to spread their message too, without having to commit to publishing a blog of even a full-blown blogpost. It's not that newspapers and news websites can't do that sort of stuff, but they're too often a useless middle man, there's better ways to spend their time. Same thing for community calendars. And in communities where city, county or state is not forthcoming, business owners can band together. Some already do, e.g. for shopping streets / districts, but it needs to be (1) broader than that because people won't subscribe to a zillion different Facebook pages for things they're only mildly interested in and (2) it needs to make more use of communication channels that already exist, meaning: stop creating websites nobody knows about, use Facebook instead. And not just local businesses. You could have city aggregators for adult education (evening school opportunities, workshops etc.), music and such. And they could publish on a website too because more platforms is always a good thing, but it's not clear why you'd need all that stuff on a newspaper website, what the advantage is to all that. News organizations could play a big role in this, but not by being the aggregator (certainly not in the haphazard way that local newspapers "curate" this kind of news right now), instead by providing the media training, and in a world where everyone is a publisher, we need a *lot* of media training. Noncommercial and commercial professional journalism should support noncommercial layman journalism.
+
+* Stories sometimes point to certain sources of information for everything from municipal affairs to evening classes. But if you didn't see the story (or if you forget about it) you won't know about it. A better way to handle this sort of thing is with a portal. Ideally, this is something governments provide, and actually a lot of them do a reasonable job (except they sometimes limit their information to stuff that's strictly gov-related) but the main problem is that those information portals are often not as widely known as they should be, and you don't make the unfamiliar known by promoting it on yet another unfamiliar website. (This is actually a big problem in Belgium, which has a bigger government than the US, and e.g. finding what sort of subsidies you can get for what sort of things is truly hard.)
+
+
+
+
+
+* Obituaries and milestones are another: these have traditionally been part of the newspaper (like public notices, classifieds, coupons, advertising) because the newspaper was the only high-frequency high-circulation medium we had with a high-enough information density (contrast with TV) to allow for it. With the internet, all that has changed. People still pay their local newspaper to put in an obit or milestone, but there's no reason why a small community-run website couldn't do that (and for a more urban crowd, why Facebook couldn't do that). Doesn't mean a news organization shouldn't, but there's no intrinsic reason why it's part of the package, and indeed news organizations' need to profit can make these services more expensive than they need to be and thus ripe for disruption.
+
+-----
+
+* Why working for companies sucks *
+
+If everything that's even slightly important (like a paper's redesign, a company reorg, product strategy, whatever) gets outsourced to a consultancy because a company doesn't trust its own employees, then consultancies, freelance shops and design shops are where people will want to work, and the quality of your in-house staff goes down.
+
+(OTOH: why working as a consultant sucks)
