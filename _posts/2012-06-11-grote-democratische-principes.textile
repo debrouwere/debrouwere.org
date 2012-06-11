@@ -1,0 +1,11 @@
+---
+layout: quote
+language: nl
+title: Journalistiek en grote democratische principes
+author: Tom Naegels
+categories:
+    - journalism
+canonical: http://tomnaegels.be/articles.php?id=1522
+---
+
+Ik heb het al gezegd: ik hou daar niet van, hoe journalisten ieder aspect van hun werk, tot de praktische organisatie ervan toe - is er genoeg plaats in de rechtszaal, kunnen we voldoende beelden schieten? - verbonden achten met de grote democratische principes. Mij doet het denken aan een automobilist die op wegwerkzaamheden stuit, moet omrijden en uitzinnig tegen een agent begint te tieren over het vrij verkeer van personen in de Schengenzone.

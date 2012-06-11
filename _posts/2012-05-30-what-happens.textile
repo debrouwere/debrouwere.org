@@ -1,0 +1,15 @@
+---
+title: What happens?
+layout: post
+language: en
+canonical: http://beta.branch.com/what-happens-if-you-treat-journalism-as-an-engineering-problem
+categories:
+    - journalism
+context: Andrew Phelps did a story recently about a bunch of MIT students rethinking the news. In response, Libby Brittain asked the question "What happens if you treat journalism as an engineering problem?"
+---
+
+What happens if you treat journalism as an engineering problem? I think lots of cool ideas would surface, but I don't know if anything would _happen_ per se.
+
+This must be ironic coming from me, but I feel like there's an absolute glut of ideas out there of how to improve the news experience and even on how to radically change what it means, but nothing ever happens, and then we move on to the next nice little idea, ad infinitum. It happened with the big "future of context" discussion, it happened with the post-CMS discussion last summer, it happened in the biz models discussion, it happened when we were talking about designing news to be used, and you'll see exactly the same scenario play out in Jarvis's recent thoughts about the story as assets and paths. We toy around with it, try to sell it to the organizations we work for, it doesn't fly, we move on.
+
+The Future of News crowd urgently needs to find better ways to turn our collective smarts and creativity into something good.
