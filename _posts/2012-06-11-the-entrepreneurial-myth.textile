@@ -15,17 +15,17 @@ The E-Myth is a book about running your own venture, and in one pithy sentence, 
 
 Franchises have procedures that decide how everything gets done, and in the process of learning more about your business, you can tweak those procedures until they're just right. When that's done, your business will be _just right_ too, regardless of whether you want to open up new stores or offices or not.
 
-Working in your business is only worth as much as the time you put in. Working on your business pays for itself ten times over. Nobody survives years and years of 80-hour workweeks so many small business owners feel they ought to put in, and the solution is less labor and more thought. Build a better business, don't build everything that leaves your shop. Embrace your inner manager, so to speak.
+Working in your business is only worth as much as the time you put in. Working on your business pays for itself ten times over. Nobody survives years and years of the 80-hour workweeks so many small business owners feel they ought to put in, and the solution is less labor and more thought. Build a better business, don't build everything that leaves your shop. Embrace your inner manager, so to speak.
 
 The E-Myth is a book for small-business entrepreneurs, but I like to think it is just as poignant for those of us who don't have our own business and don't want to start one either, because the essence of the book is really about _what modern businesses are like_. 
 
 The 20th century was one big effort to turn work from something that just happened into something predictable and organized. Hierarchies keep the boss from having to keep an eye on every stupid little thing, and structure and procedures are the very things that allow a manager to _manage_.
 
-We've all gotten used to disparaging the corporation and its endless layers of middle management, the pointless meetings, the meddling human resources department. What Michael Gerber does is explain it to us like "Frederick Taylor" would've done it a hundred years ago: with boundless excitement and convinced that it will make everyone's life much, much easier.
+We've all gotten used to disparaging the corporation and its endless layers of middle management, the pointless meetings, the meddling human resources department. What Michael Gerber does is explain it to us like "Frederick Taylor" would've done it a hundred years ago: with boundless excitement and a conviction that it will make everyone's life much, much easier.
 
 Gerber may not be wrong. A process-driven culture _can_ bring out the best in people. If employees never have to worry about the little things like what they should start on first thing in the morning, where documents should be stored away, how to talk to customers, when to take care of a problem yourself and when to bother someone else... so much mental energy that would have been spent on trifles can instead be directed at stuff that's actually useful. That's as true for white collar jobs as it is for blue collar ones.
 
-Heck, that's a wonderful nugget of inspiration even on a personal level: well-chosen routines and rituals allow you to glide through the boring parts of life on autopilot, leaving all your energy for the fun stuff.
+Heck, that's a wonderful nugget of inspiration even on a personal level: well-chosen routines and rituals allow you to fly through the boring parts of life on autopilot, leaving all your energy for the fun stuff.
 
 So before you get ready to piss on Frederick Taylor's grave, think about it from that angle instead: don't make people think about the stupid stuff.
 
@@ -33,7 +33,7 @@ The trouble with a rule-driven culture, of course, is that often it patently _do
 
 When do processes start killing creativity instead of enabling it? When is the trade-off not worth it anymore?
 
-Moreover, there is something deeply unsatisfactory about building your business so that it reliably produces okayish results from okayish employees. Corporations, throughout the twentieth century, have thrived by cutting out risk and uncertainty. In the process, they've made it impossible for stupid employees to sink the company, but they've also made it impossible for bright people to make great stuff. Or for people to have much fun.
+To me, there is something deeply unsatisfactory about building your business so that it reliably produces okayish results from okayish employees. Corporations, throughout the twentieth century, have thrived by cutting out risk and uncertainty. In the process, they've made it impossible for stupid employees to sink the company, but they've also made it impossible for bright people to make great stuff. Or for people to have much fun.
 
 Aren't the businesses we appreciate most, like "37signals":http://37signals.com/ and "GitHub":https://github.com/ in the software industry, or the Anchor Brewing microbrewery described with much love in Bo Burlington's book "Small Giants":http://www.smallgiantsbook.com/ exactly those that are very picky about hiring but afterwards let people free, inspiring them to produce great work not through a big book of rules but by instilling employees with a sense of shared purpose?
 
