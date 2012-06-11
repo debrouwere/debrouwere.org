@@ -1,6 +1,6 @@
 ---
 title: What happens?
-layout: post
+layout: comment
 language: en
 canonical: http://beta.branch.com/what-happens-if-you-treat-journalism-as-an-engineering-problem
 categories:
