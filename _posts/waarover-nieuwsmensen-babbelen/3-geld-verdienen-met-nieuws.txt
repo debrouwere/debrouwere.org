@@ -1,0 +1,59 @@
+## Paywalls ##
+
+Dus je hebt een overstroming aan informatie (zie HS 1), in sommige landen meer dan andere, en een gebrek aan waardering voor goeie journalistiek, gezien onze online leesgedrag behoorlijk casual is. Voeg daar nog eens het praktische bezwaar aan toe dat kranten het in de regel behoorlijk onhandig maken om effectief te registreren en te betalen, en je begrijpt waarom betaalmuren geen grote kans maken op succes.
+
+Niettemin, successen zijn er. Financieel en zakelijk nieuws is altijd een speciaal beestje geweest, met haar gegoed publiek dat direct voordeel kan halen uit de verkregen informatie (eerder dan leesgenot of de voldoening van verworven kennis) en bovendien zo'n abonnement kan aftrekken van de belastingen of kan doorschuiven aan de werkgever. De Financial Times in het Verenigd Koninkrijk en de Wall Street Journal hebben beide betaalmuren die weliswaar geen gigantische geldkoeien zijn, maar waar je je neus niet moet bij ophalen: <cijfers>.
+
+In de VS, met haar grote politieke elite, uitgebreide lobbies en denktanken probeert men iets gelijkaardig met zeer diepgravende politieke analyse, met publicaties als Politico Pro (en heeft de WaPo ook niet zoiets?)
+
+Voor regionale kranten die het cachet van de Grijze Dame ontberen, wijzen alle cijfers er op dat betaalmuren een vergissing zijn. Ergens tussen een honderdste en een duizendste van alle lezers beslissen om te betalen, en al de rest zoekt hun informatie elders of stelt zich te vreden met vijf of tien gratis artikels per maand. Het aantal bekeken pagina's zakt soms tot de helft terug, en alle inkomsten van een betaalmuur (nog los van de kost om die te implementeren en onderhouden, waar Press+ een nogal duur monopolie op lijkt te hebben waarbij ze 20% van de inkomsten stelen) zijn amper genoeg om verloren advertentie-inkomsten te recupereren. Het leidde Clay Shirky, een belangrijke mediadenker, ertoe om de logica van de paywall als volgt samen te vatten: "If you won’t give us any money, we won’t show you any ads!"
+
+Hoe kan het ook anders. X publiek voor <Amerikaanse stad/regio> en 1% betalende lezers, dat zijn Y lezers, aan pakweg Z dollar per maand. A dollar. Wie is daar mee geholpen?
+
+Het moet weliswaar gezegd: het is crisis. Niet alleen economische crisis maar we beleven nog altijd de schok van die plotse glut. Mensen publiceren o-zo-graag dat het niet waarschijnlijk is dat we ons laten doen en stoppen met publiceren omdat het moeilijker is om centen te verdienen, in tegendeel, zowel bloggers als professioneel gerunde publicaties schieten uit de grond als paddestoelen... maar wie weet, misschien zien mensen eindelijk het licht en die enorme hoop slecht gerunde kranten en magazines zwarte sneeuw?
+
+Nicholas (?) Carr is er van overtuigd dat de nieuwsindustrie zich zal schikken zoals elke vrije markt dat doet bij overaanbod: de boel stuikt in elkaar, de markt corrigeert zichzelf, en nieuws wordt terug een schaars en waardevol goed. 't Is een twijfelachtige theorie, maar zeg nooit nooit. We hebben reeds faillisementen en ontelbare ontslagrondes achter de rug, en meer in het vooruitzicht. Hoe die de markt voor nieuws zullen beïnvloeden, Jan mag het weten.
+
+### Non-profits ###
+
+* de rol van non-profits: een tax status, geen business model / ben je écht essentieel voor de democratie?
+* recipes for success: http://sustainablejournalism.org/future-of-journalism/successful-nonprofit-news-organizations-must-go-beyond-great-journalism
+* maar het kàn werken en het is een belangrijk onderdeel van het nieuwe ecosysteem: filantropisch, gesubsidieerd, community-driven, reader-owned...
+* ook hier mag je Amerika niet verwarren met België of Nederland. De VS is altijd wat wantrouwig geweest tegenover _big government_ en mensen betalen er weinig belastingen, maar tegelijkertijd is er een lange traditie van filantropie, en bijna iedereen die een cent kan sparen geeft geld aan een goed doel. Ditto onder de miljonairs en miljardairs, behalve dat die foundations oprichten: MacArthur, Ford, Knight, ... Met andere woorden heel wat geld en een bereidheid vanwege die fondsen om een stukje daarvan naar journalistiek te laten stromen. In België heb je weliswaar het Fonds Pascal Decroos waar je projectbeurzen kan krijgen (maar geen "product"-beurzen) en tientallen plaatsen waar je kan aankloppen voor subsidies, maar de overheid lijkt bang om de gevestigde media tegen zich in het harnas te jagen, getuige ook het Media Innovatie Centrum dat net als het IBBT zeer sterk naar de pijpen danst van de grote spelers, de Goliath en niet David. Dat is niet geheel onfair, gezien die nog steeds een ontelbaar veel groter publiek hebben. In de VS lost ProPublica dat op door haar inhoud vrij weg te geven – steel onze stukken! – zodat zo'n non-profit nieuwsorganisatie ten dienste zou staan van de gevestigde media. Maar dan mag die gevestigde media niet te trots zijn en zich niet te veel blindstaren op scoops. Het is nu soms al moeilijk om pakweg De Standaard te overtuigen om onderaan een stuk van het Fonds Pascal Decroos een korte vermelding van dat fonds haar steun in te lassen. [Check situatie in Nederland, Wallonië en andere landen in Europa.]
+* het zou me niet verbazen als onderzoeksjournalistiek dichter gaat aanleunen bij open-government initiatieven dan bij de alledaagse "hier is wat er gisteren en vandaag gebeurd is"-journalistiek. Hack De Overheid in Nederland bood daar al de eerste tekenen van.
+
+Hoe het ook zij, journalisten en zakenlui die willen werken voor het publieke goed moeten de zaak ter harte nemen. In binnen- en buitenland zijn genoeg voorbeelden van lieden die een non-profit vooral zien als een manier om moeilijke vragen te ontwijken over hoe je een zaak runt en hoe je geld verdient met journalistiek. Vroeger of later moet elke organisatie zich die vraag stellen, met of zonder winstoogmerk.
+
+In de VS had je bijvoorbeeld de Chicago News Cooperative. ----
+
+In België moet ik terugdenken aan de vroege dagen van Apache, toen nog De Werktitel, waarvan ik mede-oprichter was. We wilden betere journalistiek brengen, het soort werk waarvoor grote kranten geen geld meer hadden, en om dat publieke goed te verwezenlijken zochten we naar lezersbijdragen voor De Werktitel vzw. Maar dat werk moest wel op onze website verschijnen, toen met amper een duizend bezoekers per dag, niet in De Standaard of De Morgen of Knack, waar onze diepgravende reportages over de farmaindustrie en het Vlaams Belang een echt publiek hadden kunnen vinden.
+
+Je kan niet tegelijk de democratie dienen en de media die de grootste megafoon kunnen bieden aan dat werk de rug toewijzen of vragen om geld op te hoesten zoals ze dat zouden doen voor elk ander freelancewerk.
+
+Je kan ook niet om geld vragen voor reportages aan het Fonds Pascal Decroos en dan serieus overwegen om die reportages achter een betaalmuur te stoppen.
+
+De non-profits die het best werken zijn die met een sterk zakelijk team én journalisten die het verschil willen maken en kunnen nadenken over hoe de grootste impact te verzekeren voor belangrijke stukken.
+
+## Scharrelen ##
+
+Ongeacht je businessmodel, er moet geld binnenkomen. Als lezers er niet mee over de boeg komen en advertenties geen eindeloze bron van inkomsten meer blijken, dan moeten we verderzoeken. En heel wat organisaties hebben nieuwe inkomstenbronnen aangeboord. Met nadruk op _bronnen_, meervoud. Heel wat mediaspelers hopen nog altijd op een gouden ei, dat ene nieuwe model dat alles weer goedmaakt. De iPad, werd even gedacht, maar zo eenvoudig bleek het niet. In plaats daarvan kunnen uitgevers inkomsten halen uit ------
+
+In de VS en de VK hebben Amazon en Barnes en Noble, twee e-commerce reuzen, de e-reader van een curiosum omgevormd in een toestelletje dat X miljoen Amerikaanse families bezitten en heel wat Britten ook. Beide laten schrijvers toe om tot 70% van de inkomsten bij te houden, een som die tot tien keer hoger kan liggen dan de royalty-inkomsten die je bij een gewone uitgever zou krijgen. Tot dusver voor geen enkele krant of nieuwssite een grote inkomstenstroom, maar alle beetjes helpen, en het geeft journalisten bovendien een uitlaatklep voor langere stukken die niet thuishoren op het web.
+
+[zie http://www.niemanlab.org/2011/12/from-nieman-reports-for-french-news-site-owni-ebooks-arent-just-a-side-project/]
+
+Het grote probleem met scharrelen is dat het werkt voor vederlichte kippen: strak gerunde outfits als de Texas Tribune en <?>. Maar niet voor de oude reuzen. Die zijn doorheen de jaren zo groot geworden, omdat kranten nu eenmaal zo'n grote infrastructuur vereisen voor productie, distributie en advertentiewerving, dat voor elke journalist vijf tot tien andere werknemers ook een loon moeten krijgen. Vergis je niet, scharrelen kan serieuze centen opleveren, maar je bent er niks mee in een organisatie waar de salescoordinator zijn neus nog niet ophaalt bij een contract van 20.000 euro.
+
+Het probleem, waarbij kleine upstarts overleven in een wereld waar sterkere bedrijven die honderd keer meer kapitaal tegen een probleem kunnen gooien, toch ten onder gaan, heeft een naam: disruptieve innovatie. -----------
+
+[Evalueren hoeveel van het stuk 'grote reuzen' hier thuishoort dan wel in het eerste hoofdstuk dan wel in beide, herhaald in andere woorden]
+
+----
+
+"Like USA Today selling its data, POLITICO making a bookstore, my local public radio station selling membership or TechCrunch launching Disrupt. Publishers that successfully turn their content into brand building and marketing for a product are the ones that are surviving.
+
+It’s the real reason Patch is having so much trouble: they’re selling nothing but pageviews and sunshine." http://seanblanda.com/blog/feature/the-inevitable-collision-of-journalism-and-everything-else/
+
+---
+
+[Hier praten over fungibiliteit, of hoort dat thuis op het einde van deel 4 (is de toekomst van journalistiek "iets anders") of een beetje op beide plaatsen? Fungibiliteit is één van de factoren die glut nog erger maakt dan ze al is, dus er is een reden om het in 1 te vermelden (het probleem), 3 (geld verdienen door journalistiek niet zo nauw in te denken, en in plaats daarvan te denken over solving information needs) en 4 (nieuwe vormen van journalistiek, en wat kan journalistiek aanvullen of zelfs vervangen). Zal die drie secties goed op elkaar moeten afstemmen.]

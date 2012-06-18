@@ -7,7 +7,7 @@ categories:
 summary: We look past low-hanging fruit so often it's ridiculous. But why?
 ---
 
-So, you're interested in real-time analytics. Turning big data into big insights. Eager to start using "machine learning":http://stdout.be/2011/07/18/machine-learning-fairy-dust/ to predict user behavior. Hold on now. Have you tried creating a custom report in Google Analytics yet. Ever done a simple funnel analysis in Google Analytics?
+So, you're interested in real-time analytics. Turning "big data":http://seekingalpha.com/article/441171-beware-the-hype-over-big-data-analytics into big insights. Eager to start using "machine learning":http://stdout.be/2011/07/18/machine-learning-fairy-dust/ to predict user behavior. Hold on now. Have you tried creating a custom report in Google Analytics yet. Ever done a simple funnel analysis in Google Analytics?
 
 Your website is running slowly. Time for load balancers and 8-core dedicated machines, you say. You've thought about hiring a computer scientist to optimize your algorithms. Have you ever tried running YSlow!, perchance? Tried some basic caching instead?
 

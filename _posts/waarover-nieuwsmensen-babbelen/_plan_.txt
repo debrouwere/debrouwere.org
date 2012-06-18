@@ -9,6 +9,7 @@ I. De malaise in de krantenwereld
 () Het einde van een economisch model
 
 * De feiten (surveys etc.) en de impact in de UK/VS (sterke lokale kranten en televisiestations met een bijna-monopolie) versus Europa (kleinere advertentiepot, meer concurrentie)
+* komen jonge lezers terug? http://newsosaur.blogspot.com/2011/09/how-newspapers-are-losing-next-gen.html
 * advertenties werken niet meer (branding in print; werkt niet online -- we storen mensen eerder dan ze te helpen)
 * cross-subsidiëring is een gevaarlijk model
 * het einde van schaarste, glut (Carr)
@@ -17,6 +18,7 @@ I. De malaise in de krantenwereld
 
 * Het verkruimelen van de vierde macht: kan media nog wel kraken en maken
 * Als we de media niet meer kunnen vertrouwen, wat dan?
+* Is de media wel de beste manier om democratie te ondersteunen, als dat ons doel is? http://www.slate.com/articles/news_and_politics/press_box/2009/08/ink_hole.single.html
 
 () Hoge verwachtingen, snel tevreden
 
@@ -33,6 +35,7 @@ I. De malaise in de krantenwereld
 () Overal informatie
 
 * in se goed voor consumenten
+* meer noise (van adverteerders) maar ook van zeer betrouwbare bronnen (experten, non-profits, ...)
 * slecht voor uitgevers: minder loyauteit, meer keuze, lagere winsten
 * slecht voor lezers: redacteurs kunnen niet langer aannemen dat je een zekere achtergrondkennis hebt omdat je elke dag of elke week hun blad leest -- leidt tot frustraties omdat mensen niet begrijpen wat ze lezen
 * Digitaal als instigator, niet als het echte probleem: verhalen vertellen en informatie overbrengen // overal informatie, op tienduizend plaatsen, overal dingen om te lezen, overal mensen om mee te praten -- fungibiliteit (nog net iets anders dan "gewone" schaarste/glut)
@@ -92,12 +95,20 @@ Journalisten moeten terug speurneuzen worden. Betere speurneuzen dan hun voorgan
 * Net daarom moeten journalisten ook op een andere manier beginnen schrijven. Objectiviteit, news voice, informaliteit
 * Je moet je stem kunnen aanpassen aan je publiek. Steeds vaker betekent dat dat je méér moet kunnen dan alleen schrijven. En steeds vaker moet je je ding op twintig verschillende manieren kunnen zeggen, afhankelijk van het verhaal.
 
+() J-school
+
+* hebben we J-school nodig (eats your brain)
+* worden programmeurs wel serieus genomen als reporters? (waite)
+* twitter of media-ethiek; back to basics of help redefine the future
+* hoe moet het veranderen (Eric Newton; educating for unemployment)
+
 III. Geld verdienen met nieuws
 
 * nog eens kort herhalen wat het probleem is (advertenties, einde van schaarste, fungibiliteit -- en voorbeelden daarvan)
 
 () Paywalls
 
+* snake-oil salesmen, original sin, ... http://buzzmachine.com/2012/02/08/sin-or-sense/
 * paywalls
 * zandzakstrategie: keep the tide at bay
 * of misschien lukt het ooit? Carr over marktcorrectie (maar dit is fragiel)
@@ -105,21 +116,25 @@ III. Geld verdienen met nieuws
 () Non-profits
 
 * de rol van non-profits: een tax status, geen business model / ben je écht essentieel voor de democratie?
-* maar het kàn werken en het is een belangrijk onderdeel van het nieuwe ecosysteem
+* maar het kàn werken en het is een belangrijk onderdeel van het nieuwe ecosysteem: filantropisch, gesubsidieerd, community-driven, ...
+* ook hier mag je Amerika niet verwarren met België of Nederland
 * het zou me niet verbazen als onderzoeksjournalistiek dichter gaat aanleunen bij open-government initiatieven dan bij de alledaagse "hier is wat er gisteren en vandaag gebeurd is"-journalistiek. Hack De Overheid in Nederland bood daar al de eerste tekenen van.
+* Save newspapers or save journalism? Belangrijk als je nadenkt over subsidies en het potentieel van non-profits. http://www.shirky.com/weblog/2009/10/rescuing-the-reporters/
+* Philanthro-journalism (http://www.guardian.co.uk/theguardian/2012/mar/30/philanthropy-capitalism-skoll-world-forum?newsfeed=true) en de problemen daarvan (voortdurend smeken om bijdragen; fondsen werken graag als kickstarters, niet als permanente ondersteunend)
+* co-ops: Tom Stites - Might the new web journalism model be neither for-profit nor nonprofit? - http://www.niemanlab.org/2011/12/tom-stites-might-the-new-web-journalism-model-be-neither-for-profit-nor-nonprofit/ "there are nowhere near enough philanthropic dollars to support enough sites, at least not for long" but the co-op model may work. + stuk op mediakritiek.be (via Apache?)
 
 () Scharrelen
 
 * gouden zaagsel, dingen verkopen die je niet kan kopiëren (KK) en geld verdienen in een nieuwe wereld; twintig inkomstenbronnen zoeken in plaats van twee (ads + subs)
 
-() Een tijd van extremen
-
-* hyperlocals, niches, professionele diensten (GigaOM, Baekdal, Politico, WSJ)
-* hervaluatie van long-form journalism, maar langs de andere kant ook vlugge tweets en korte samenvattingen van lange artikels -- het web heeft een gigantische hoop informatie vrij beschikbaar gemaakt, dus als je wil overleven moet je opvallen, en als je wil opvallen dan moet je een beetje overdrijven.
-
 () Van A naar B
 
 * disruptieve innovatie en digital dimes: hoe laat je de geldkoe achter?
+
+() Een tijd van extremen
+
+* hyperlocals, niches, professionele diensten (GigaOM, Baekdal, Politico Pro, WSJ)
+* hervaluatie van long-form journalism, maar langs de andere kant ook vlugge tweets en korte samenvattingen van lange artikels -- het web heeft een gigantische hoop informatie vrij beschikbaar gemaakt, dus als je wil overleven moet je opvallen, en als je wil opvallen dan moet je een beetje overdrijven.
 
 () Inkt aan de vingers, vuur in de ogen
 
@@ -135,6 +150,8 @@ IV. Een nieuwe manier van nieuwsmaken
 
 * Datajournalistiek en structuur
 * Zie ook open gov, wikis, Open311, ...
+* Ubiquitous apps: http://www.niemanlab.org/2011/03/matt-waite-to-build-a-digital-future-for-news-developers-have-to-be-able-to-hack-at-the-core-of-the-old-ways/
+* Is print voor lang of voor kort? Long-form.
 
 () Nieuwe platformen
 
@@ -144,11 +161,19 @@ IV. Een nieuwe manier van nieuwsmaken
 * Multi- en crossmedialiteit.
 * Print is eenvoudigweg onhandig (zeker kranten, minder het geval voor magazines) en meer dan één studie spreekt over mensen die zich ongemakkelijk voelen als ze zoveel (vaak ongelezen) papier zien opstapelen. Maar daarom nog niet dood: het inflectiepunt: print waarvoor het echt dient
 
+() Nieuws-startups en hun problemen
+
+* Europa is de VS niet http://blogs.reuters.com/mediafile/2012/05/01/the-irrational-imitation-of-the-online-news-industry/
+* advertenties is een doodgaand model, zij die de contacten hebben behouden die, maar voor nieuwe media is dat moeilijk
+* News startups (not aggregators) are hard. No impact w/o an audience + need sizable team (not true for tech startups) + oversaturated market (and much of it is crap, and while we'd like journalism to contribute to democracy rather than subtracting for it, maybe people think the existing stuff is "good enough" --- high-quality journalism is a high-brow product)
+* hoe kan je beweren democratie te dienen als niemand je leest?
+
 () Media als filter: dringend vertrouwen terugwinnen
 
 * Media als filter, aggregatie en curatie: do what you do best, link to the rest; de externe link-hetze
 * soorten aggregatoren: manueel, algoritmisch, sociaal (elk met hun eigen smaak en merites / mindere puntjes)
 * Maar: filter forward <> filter out
+* Moraal: niet te veel maken van "de wereld is complex en de media lost dat op" – ik ben zeker dat je ergens een citaat kan vinden van een ouwe Romein over hoe verwarrend het moderne leven wel niet is en hoe moeilijk om nog aan de dingen uit te geraken. Complexiteit is een categorie problemen (teveel keuze, wie te vertrouwen, snel bediend raken, betekenis halen uit een voortdurende stroom aan nieuws, filters en serendipiteit), en je moet nadenken over welk probleem je wil oplossen.
 
 () Waarom lezen wij? En andere problemen.
 
@@ -166,10 +191,21 @@ IV. Een nieuwe manier van nieuwsmaken
 
 () Vervangbaar
 
+* bedrijven en media overlappen steeds meer: http://seanblanda.com/blog/feature/the-inevitable-collision-of-journalism-and-everything-else/ Zoveel bijna-media.
 * Designing news to be used
 * Community's information needs, bv. EveryBlock
   - Tom Rosenstiel z'n negen -- wel, denk aan die rollen en aan de vijf noden van gemeenschappen, en denk eens eventjes niet aan journalistiek maar aan hoe je die rol kan spelen, of die dingen kan vervullen
 * Wat is de essentie van journalistiek? Is de toekomst van de journalistiek misschien... iets anders?
+
+NAWOORD
+
+Over toekomstdenken en de dubbele dreiging van snake oil salesmen en "boerenverstand", die ervoor zorgt dat veel mensen al dat gebabbel over de toekomst van de journalistiek afdoen als zwans, en anderzijds voortdurende verwijten richting journalisten en meer conservatieve denkers dat ze te dom zijn om de werkelijkheid voor ogen te zien.
+
+Er zijn extremen van beide partijen (bv. http://buzzmachine.com/2011/12/19/why-not-a-reverse-meter/)
+
+Maar je moet dat denken in context zien: mensen schrijven boude woorden maar iedereen is met ideeën aan het spelen en iedereen probeert de toekomst te voorspellen door te kijken naar het heden (daarbij soms vergetende dat de boel in realiteit al eens trager durft bewegen). Het mooie is dat we niet meer moeten wachten tot een academicus een groot en welonderbouwd boek uitgeeft vooraleer we menen iets te mogen of durven zeggen over de media. We zijn het samen aan het uitzoeken. Probeer wat van dat enthousiasme op te snuiven, en geef kritiek waar kritiek nodig is, maar probeer ook eens in die 
+
+Zie ook http://www.theatlantic.com/magazine/archive/2011/10/meme-weaver/8625/
 
 APPENDIX:
 

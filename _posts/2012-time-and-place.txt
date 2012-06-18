@@ -1,3 +1,5 @@
+[The crux here, it seems to me, is that writing is at once at the core of journalism and an inconsequential "implementation detail." This duality makes it hard for journalists to decide whether to stick to their guns or whether to change the way they do things. Phrasing of this piece needs work, but it's an interesting point.]
+
 Time and place
 
 A while back, I was thinking about the best way to get a group of likeminded people together, to talk or think about something, or to create a community where before there was none. There's actually a surprising amount of options. Create a meetup group. Organize a conference. Start a mailing list. Start a newsletter. Or a site. Organize regular twitter chats. Open an IRC channel. Establish a blogging carnival, or a more fast-paced advent calendar.
@@ -6,7 +8,7 @@ There are many ways to get and keep people together and to further common goals 
 
 Journalists are discovering the same is true for what they do. You can liveblog, do a quick news update, write a long-form article, do a series, go for a more interactive or data-driven approach or instead focus on anecdotes, on the story. Video, text, audio, database.
 
-Increasingly, the question is becoming: well, why a story, why not something entirely different? I had this conversion a while back with Scott Klein, and I remarked that
+Increasingly, the question is becoming: well, why a story, why not something entirely different? I mean, the point is keeping the powerful to account and creating healthy communities, right? I had this conversion a while back with Scott Klein, and I remarked that
 
 > That said, I worry that even the very best digital journos still unduly take for granted that the best way to achieve whichever goal it is you want a piece of journalism to achieve, is through a feature that will run as a part of the regular news cycle. I don't think that's good enough anymore. (Though to clarify I will add that I don't believe news updates as they exist now will ever go away either. They're a very efficient form of transmitting knowledge. Ditto for narrative in general. Good but not enough. We need more.)
 
