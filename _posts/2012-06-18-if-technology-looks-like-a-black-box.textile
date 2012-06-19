@@ -1,5 +1,6 @@
 ---
 layout: quote
+language: en
 title: If technology looks like a black box
 categories:
     - business & management
