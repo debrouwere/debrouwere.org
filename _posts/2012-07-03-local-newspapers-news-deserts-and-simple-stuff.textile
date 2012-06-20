@@ -1,5 +1,11 @@
 ---
+layout: post
 title: Local newspapers, news deserts and simple stuff
+language: en
+categories:
+    - journalism
+    - business & management
+summary: Do we really read newspapers for the investigative reporting?
 ---
 
 Local newspapers are not very likely to disappear anytime soon. Quasi-monopolies and all that. If they do, we will miss their watchful eye, but I contend we will miss the "simple stuff":http://blogs.reuters.com/felix-salmon/2010/09/17/teaching-journalists-to-read/ more.

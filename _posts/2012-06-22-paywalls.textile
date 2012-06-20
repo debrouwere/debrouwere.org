@@ -1,0 +1,33 @@
+---
+layout: post
+language: en
+title: Paywalls
+categories:
+    - journalism
+    - business & management
+---
+
+
+It's been a ton of fun, these past two weeks, seeing Howard Owens, David Simon and Ryan Chittum arguing about paywalls and generally just acting like a bunch of small children. I've said it before and I'll say it again: journos are the worst comment trolls.
+
+(Don't expect me to add anything new. It's all been said before. Just musing a bit.)
+
+The discussion of whether readers ought to pay for journalism has always been a heated one. It has a moral undertone: readers who don't pay are freeriders, and papers who charge are abandoning their service to the community to turn a quick buck.
+
+But the paywall discussion has been an insightful one too. Steve Yelvington from Morris Communications has written about "how porous paywalls manage to monetize your true fans and heavy users":http://www.yelvington.com/content/thinking-about-paywall-read-first without chasing away everyone else. Clay Shirky "has detailed":http://www.shirky.com/weblog/2009/03/newspapers-and-thinking-the-unthinkable/ some of the nuances that make it easier for some business to charge than others, like why micropayments work for iTunes but not necessarily for us. Ken Doctor "has studied":http://www.niemanlab.org/2011/10/the-newsonomics-of-piano-media/ what Piano Media is doing in Slovakia and other small, non-English speaking countries. Steve Outing wrote about how similar metered paywalls are to "the freemium model":http://steveouting.com/2012/06/08/its-not-a-paywall/.
+
+If you can look past the "quasi-religious zeal":http://www.cjr.org/the_audit/owenss_straw_man_army.php?page=all, you will find all sorts of people trying to make sense of when paywalls can work and when they can't. You can't keep talking in absolutes forever. Plus, even if you don't much like paywalls, for whatever reason, we should all be trying to learn more about the economics of news publishing. We know much too little and our industry suffers for it.
+
+Anyway. Ryan Chittum argues that the question is settled and that paywalls have unequivocally been shown to work. I'm inclined to say he's right. After all, with a metered paywall, there's bound to be at least one way of tweaking the dials and setting up the pricing that, at the very least, doesn't _lose_ money.
+
+Wait a minute. _Doesn't lose money?_
+
+Paywall proponents _used to say_ (they don't anymore) that paywalls would save the industry, that they'd be a solution to the crisis. Paywall opponents _used to say_ (they don't anymore) that paywalls would be the death of any newspaper company that implemented them.
+
+Instead, we've all come to realize that charging for access online has many facets. One side has softened its visions of doom, the other has lowered its expectations.
+
+You may think Ryan Chittum is disingenuous for saying that paywalls "work" when what he really means is that they can bring in some pocket money, maybe keep print alive for a year or two longer, and at the very, very least won't lose money. After all, an industry in decline shouldn't snuff at any kind of revenue, we need to take what we can get. But I don't think that's disingenuous at all. What's really happened is that Ryan has adjusted his expectations, most of us have, and you can't blame someone for that.
+
+But Ryan must allow that his opponents have changed too, and he has a hard time doing so. Howard Owens and other paywall-sceptics argue that paywalls are not a good _model_ for the news industry. That's actually a pretty subtle, nuanced statement even if it doesn't sound that way. The argument is that only under very specific circumstances can paywalls actually bring in the sort of money we'll need to sustain our newsrooms long-term: 50% of current revenues, say, not 5%. And when paywall opponents say that readers have never paid for journalism, what they really mean is that readers have never footed the majority of the bill. Nobody's trying to talk newspaper subscriptions out of existence.
+
+But I suppose there's nothing as fun as using people's old opinions as ammunition to attack their new ones.
