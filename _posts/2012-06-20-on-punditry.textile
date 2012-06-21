@@ -3,7 +3,7 @@ layout: post
 language: en
 categories:
     - tech & society
-title: On pundity
+title: On punditry
 summary: Self-help and big idea books get a lot of shit. Gurus even more. Not all of it deserved.
 ---
 
