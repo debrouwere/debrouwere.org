@@ -57,6 +57,7 @@ II. Wat maakt een journalist?
 (a) iedereen kan dat
 
 * Iedereen publisher: Antennagate, Ground-Zero mosque, Vdm als eindredacteur bij het ineenstorten van De Morgen, ... maar ook populaire langlopende blogs zoals Gent Blogt en populaire muziekblogs etc.  
+* "Sources going direct"
 * De rol van burgers in de journalistiek: de experten, de ooggetuigen, ... wat blijft er over voor journalisten?
 * Meer een kwestie van tijd dan van expertise?
 * Wat is een journalist, wat moet hij kunnen, waar maakt 'ie het verschil met een burger? De domste burger wordt vaak tegenover de beste journalist geplaatst, maar de realiteit is dat journalisten net zo goed vaak kort door de bocht gaan, en dat valt niet altijd te wijten aan een hoge werkdruk. Onderzoek dat toont dat journalisten over het algemeen Google niet beter gebruiken dan de gemiddelde persoon, dat weinig journalisten iets afweten van statistiek (en nonchalant hun gebrek aan wiskundige kennis afwimpelen.) Het gaat om meer dan goed kunnen schrijven.
@@ -75,6 +76,12 @@ Journalisten moeten terug speurneuzen worden. Betere speurneuzen dan hun voorgan
 * statistiek
 * trends en verhaalideeën bijhouden via twitter, RSS
 * minder general assignment, meer specialisten
+
+() De aanval van PR
+
+* off the record / on background... en hoe pr folk dat gebruiken om journalisten te misleiden
+* pr-boodschappen geschreven zoals artikels, zodat er zo weinig mogelijk moet aangepast worden (inclusief quotes etc.)
+* ...
 
 () Computerjezus
 

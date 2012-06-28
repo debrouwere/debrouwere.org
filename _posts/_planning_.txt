@@ -51,7 +51,6 @@ IDEAS
 * Is there still room for the full-time journalist? What about a world where, say, half of all journalism is done by people otherwise employed? (Not all of it, because there's lots of daily stuff and breaking news, not just features and news reports and longform, which is what freelancers and experts are best at.) I like this idea, but still need to write it up.
 * de waarde van een opleiding journalistiek: heck, I have most of this, might as well write it up
 * low tech is the new high tech, and when you're a hammer, everything looks like a nail: really important topic and something to continually think about as a programmer. I've been struggling with how to express this, but I really should give it another try.
-* on punditry: good for a short blog, also about why "big idea books" (and blogs) can be valuable if you look at them more from a conversational / spitballing point of view, not as timeless research (which books used to be for, hence the discomfort with punditry)
 * open source as golden handshake: good for a short blog
 * organizing and the trouble with long-term projects when one-offs are better: cool topic, lots of writing to do
 * why reinventing the wheel sometimes makes sense (and the troubles of cooperation and design by committee, and the trouble of standardization in news orgs): interesting topic, why not
