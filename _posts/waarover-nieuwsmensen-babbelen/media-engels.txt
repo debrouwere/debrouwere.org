@@ -53,6 +53,10 @@ story
 	artikel, kan zowel een korte nieuwsupdate zijn als een lange reportage, al wordt het soms ook specifieker gebruikt om te verwijzen naar artikels waar meer verhaal in zit; story kan ook verwijzen naar een gebeurtenis, je schrijft dan vijf of tien artikels over een groot nieuwsfeit. ("a 25-inch piece about the riot story")
 metro paper
 	Sommige mensen denken meteen aan "krant van een grote stad", maar metro staat eigenlijk voor metropolitan area, en dus voor een krant die een hele regio covert. Dit zijn gewoonlijk kleinere kranten: de reden dat het metro's zijn is omdat geen enkele stad in de omgeving op zichzelf groot genoeg is om een krant te ondersteunen. Een krant die een grote stad covert, pakweg de Baltimore Sun, zal gewoonlijk ook aan de brede omtrek voldoende aandacht besteden, maar in dat geval spreek je veeleer van een metro edition or local edition van een city paper.
+flack
+	PR-persoon
+hack
+	reporter
 
 En een paar buzzwords:
 

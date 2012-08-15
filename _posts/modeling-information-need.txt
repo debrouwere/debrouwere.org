@@ -1,11 +1,15 @@
+Note that this is really about much more than journalism. It's about what kinds of information there are, what functions each type fills, and when we're likely to seek them out.
+
+---
+
 What kind of journalism are there?
 
 * news updates (this happened)
 * advice (reviews, how-tos, recipes, ...)
 * information about environment: calendars, classifieds, ...
 * stories (the writing is the value)
-* explainers (in the abstract sense of the term: stories that explain a bigger phenomenon or bring it to light)
-* exposing corruption (important for bringing things to light; but gains in importance if people get upset about it or if it actually embarrasses / harms the perps, not if it gets lost amongst the news stream)
+* trend stories, explanations, analysis (in the abstract sense of the term: stories that explain a bigger phenomenon or bring it to light)
+* exposing corruption (important for bringing things to light; but gains in importance if people get upset about it or if it actually embarrasses / harms the perps, not if it gets lost amongst the news stream) [this *can* be an information need, but sometimes it's more of a social need, where we only want to be reassured that someone is keeping the powerful to account, not necessarily hear about individual cases of that happening except sometimes as "proof."]
 * ?
 
 What kinds of news serve what kinds of information needs? Which kinds of news are still useful? Which can be catered to in other ways?
@@ -29,10 +33,11 @@ Situations / user stories
 "There seems to be a lot going on in politics. Need to check the news so I don't look clueless when it comes up with friends or colleagues."
 "Just woke up. Let's see what happened while I was asleep."
 "This weather looks nasty. Wonder whether I can bike to work."
-"That story I read yesterday about that courtcase was really interesting. Wonder whether there's a follow-up."
+"That story I read yesterday about that court case was really interesting. Wonder whether there's a follow-up."
 "Sunday morning. Coffee and a good magazine. Aah."
 "Wonder whether there's anything to do next weekend."
 "I saw something about new education legislation online, but I couldn't understand half of it. Wonder whether I can find something more in-depth online."
+"I saw something about new education legislation online, and I'm worried about how it impacts me, but I don't know."
 "Time to get my daily education fix. Wonder what people are talking about."
 "God, I'm bored. Let's check the news."
 "Back from work, went to the gym, had dinner, and now it's time to relax."
@@ -69,7 +74,7 @@ Also make some educated guesses as to what moods / facets / time of consumption 
 
 ---
 
-"a consumer might start his or her day by opening an e-mail news headline package, then click on a head- line and move to a story. But then what? What hap- pens later when the story develops? How do critical questions about the back story get answered? Where can the user go for a look ahead, or for spin-offs that are more personally relevant?" (AP, A new model for news, p. 56, 2008)
+"a consumer might start his or her day by opening an e-mail news headline package, then click on a head- line and move to a story. But then what? What happens later when the story develops? How do critical questions about the back story get answered? Where can the user go for a look ahead, or for spin-offs that are more personally relevant?" (AP, A new model for news, p. 56, 2008)
 
 
 Modeling information need
@@ -77,6 +82,7 @@ Modeling information need
 - short stories and faits divers as a form of light reading (daily routine, same reason comics are one of the first things people check out when waking up, the fact that it's non-fiction is not even very important.)
 - keeping up to date
   - for its own sake
+  - as a framework to life ("what's happening around me?")
   - to be able to participate in watercooler conversation
   - as social currency
 - catching up / the basics (learn more about important issues or issues your friends or peers are talking about)
@@ -114,7 +120,9 @@ facts <--> opinion: what to think / how to feel
 deep <--> superficial / need-to-know
 accurate <--> diligent when possible **
 individual <--> social
+new perspectives <--> strengthen beliefs
 stuff that affects me <--> a view on another world *
+exploration <--> depth
 urgent / need right now / recency <--> general interest
 visual <--> textual
 
