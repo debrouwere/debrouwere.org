@@ -2,8 +2,8 @@
 layout: comment
 language: en
 title: The death of online advertising
-context: | 
-	Neil Perkin disagrees with the growing chorus of people saying that online advertising is doomed to fail: on a sufficiently large scale, and with good targeting, it will continue to work, even with click-throughs way under 1% and banner blindness through the roof. I agree, but the flip side of that argument is that news publishers increasingly find they no longer have the scale to play that game and profit. Even millions of pageviews don't cut it anymore.
+context: |
+    Neil Perkin disagrees with the growing chorus of people saying that online advertising is doomed to fail: on a sufficiently large scale, and with good targeting, it will continue to work, even with click-throughs way under 1% and banner blindness through the roof. I agree, but the flip side of that argument is that news publishers increasingly find they no longer have the scale to play that game and profit. Even millions of pageviews don't cut it anymore.
 canonical: http://neilperkin.typepad.com/only_dead_fish/2012/07/on-the-death-of-online-advertising.html?cid=6a00d8341d4dc653ef0167688cedc9970b#comment-6a00d8341d4dc653ef0167688cedc9970b
 categories:
     - business & management
