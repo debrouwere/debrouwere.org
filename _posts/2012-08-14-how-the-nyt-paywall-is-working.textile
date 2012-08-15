@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: quote
 language: en
 title: How the NYT paywall is working
 author: Felix Salmon
