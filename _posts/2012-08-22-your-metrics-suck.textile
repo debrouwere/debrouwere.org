@@ -1,0 +1,22 @@
+---
+title: Your metrics suck
+language: en
+categories:
+    - journalism
+    - business & management
+summary: News organizations are not tracking the right things.
+---
+
+There's a story floating around about early Twitter, back when they only had a couple of hundred users. Possibly apocryphal. "The way Eric Ries tells it":http://techcrunch.com/2011/09/24/founder-stories-eric-ries-vanity-metrics/, their tiny user base was so embarrassing to them that they decided to offer a bunch of investors their money back, or what was left of it. "This isn't working," they must have thought.
+
+More than one investor decided to cut their losses and took their investment off the table.
+
+Thing is: if anybody would have bothered to look at Twitter's per-user numbers it would have been immediately obvious that Twitter was destined to be a success. Sure, they only had a couple of hundred users, but those users were using the service obsessively. Obsession is a good indicator for a product that works. Twitter just needed to find a way to grow the product. And they did find a way to grow it, and those early investors who backed out are probably still kicking themselves in the head.
+
+(If intrigue is your thing, another account says Twitter knew full well that they had something special in their hands, and used poor initial adoption as a way to trick investors to back out, leaving more stock in the founders' hands.)
+
+Early Facebook was different. Zuck didn't care about pageviews, he cared about how many people with a Facebook account were active on a daily basis. He cared about _likes_, not pageviews, if you will. If you have active, loyal users, your customer lifetime value is going to be huge, meaning you can mess up in hundreds of different ways and still turn a profit. You can spend tons of cash on acquiring new users and still come out ahead. You can worry about monetization later, which is what Facebook did: if your users stick around, there's no rush. Optimizing for retention is what allowed Facebook to become what it is today.
+
+The news industry is like early Twitter when we should be like early Facebook.
+
+_To be continued._

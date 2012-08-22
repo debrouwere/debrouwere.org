@@ -1,0 +1,62 @@
+---
+title: Your metrics suck, and here's how to fix them
+language: en
+categories:
+    - journalism
+    - business & management
+summary: Silicon Valley startups have gotten incredibly savvy about making data-driven decisions and using metrics to track the health of their business. The news industry has not. This is an attempt at translating the Valley's wisdom into something that makes sense for journalism.
+---
+
+Q: are there any SEO-related metrics that could be important? Obviously, bounces are important (and overlooked) there, but in terms of how much search traffic you get for topics for which you're an authority? Possibilities there?
+
+* project-based analytics
+  - global metrics are useful to see the general health of your organization and to make sure that optimizing for X doesn't bomb Y, but...
+  - figure out relevant metrics, then solve a problem; not try to solve a (supposed) problem and see if the metrics change, that's backwards
+  - use analytics to find out particular problems (e.g. is there a strong inverse correlation between page load times and the amount of pages a user visits?)
+  - suggest hypotheses, ask questions and do statistical research, e.g. are there any commonalities among stories that do really well, or really badly?
+  - ... and then use those same metrics to track your progress and to see if your changes are having an effect (if not, either there were confounding variables or you're just not addressing the issue very well)
+  - this works on a global level too: your business model decides what metrics are important to you. If viral is important to making your business work, then you want to track shareability. If sticky users are important to your growth, like they are for most of journalism, how shareable your content is, is less important than the user retention you get when people do share.
+* keep your eyes on the revenue
+  - e-commerce: funnels etc.
+  - pageviews *are* an important metric because they translate almost directly into money (and actually it makes sense to go that one step further and show advertising revenue next to pageviews)
+* get rid of noise
+  - make sure metrics reflect your performance, not luck or unexpected spikes
+  (those aren't actionable and they don't reflect how well you're doing, so you
+  want to avoid them influencing the stats as much as possible)
+  - per-customer data (time on site, time on page, visits/month, churn rate) are better than aggregate data because they tell you how well your product is working in a way that ignores growth -- which is a good thing. (Marketing guys and growth hackers should care about growth, product dev guys should care about engagement and churn.) For example, if you make changes to your product and couple that with a big marketing push, you might double your amount of visitors, but maybe they just visit once or twice and then leave, and meanwhile the changes to your product are alienating your core audience. If you look at your total amount of visitors for that month, it'll be a huge success. In reality, it's an utter failure. And when you track the success of that marketing campaign, you should look at the amount of new but returning visitors it got you (and paying visitors if you have a paywall) and whether your customer acquisition cost was acceptable. How many hits it got you is worse than meaningless, it's misleading. --- Eric Ries: "even a big rush of new customers shouldn’t change how many pages they each view on average, unless you’re getting a new kind of customer." http://www.fourhourworkweek.com/blog/2009/05/19/vanity-metrics-vs-actionable-metrics/
+  - slower metrics (monthly)
+  - don't forget about distributions (Do you have really loyal people among your visitors, or is everyone sort of half-interested? An average won't tell you that, but the revenue potential for those two groups and the marketing techniques you'd use to reach them and product priorities are very different depending on the makeup of your audience.)
+  - find data that is least open to misinterpretation (daily actives is what it is; low time on site could be a huge problem or it could be no problem at all – it sure isn't one for Google, and why? Because people keep coming back.)
+  - filtered or very specific metrics (e.g. only in-state traffic; not bounce rate but bounce rate from social media visits... and only if you're reorganizing your story pages)
+  - potential garbage visits or pageviews to get rid of: those from out of state or out of country, those that last less than 15 seconds, ...
+* use live metrics only for things you want to act on right now (e.g. do more reporting on a story that's attracting lots of traffic or that a lot of people are searching for) -- everything else is infoporn
+* try to find cause and effect
+  - follow the grain of your organization (how is our sports team doing? how is this individual author doing? What happens when she changes her twitter strategy?)
+  - be fine-grained
+  - do A/B experiments
+  - sometimes you need cohorts to see how changes impact *new* users rather than your total user base
+  - avoid doing multiple experiments / projects at the same time if they'll influence each other
+* Track what you really want to track
+  - we use "returning visitors" when what we really want to track is DAU (daily active users), the DAU/MAU ratio (daily active users / monthly active users) and churn (users that visit once and never come back), because that's what we really care about: how can we convert more one-time-users and sometime-users into all-the-time users. Because usually, not always but usually, that's more efficient than continually finding entirely new users. Reducing your churn rate from 50% to 40% could double your visitors in no time. The vast majority of people that go to news sites go to them daily, so if they don't visit your site daily (or, if you're a niche site, maybe weekly) then that may be untapped potential.
+* Track what you really want to track (or pick smart proxies)
+  - Try to connect everything to revenue and things close to revenue: (lifetime value, loyalty, conversions), performance (pageviews/reporters) or expenses (how many loyal customers did your latest marketing push deliver.)
+  - Well, you never can, completely. Even pageviews are only a proxy measure for revenue. But try to get as close to the things you really care about as possible.
+  - proxy measures can also be useful if they're predictive; e.g. sentiment about your brand on social media is a really poor proxy for business performance (e.g. #nbcfail), but it might affect the long-term health of your business in a way that pageviews or revenue trends can't; 
+  - concept of "pageview shortfall" (amount of pageviews you'd be able to sell minus actual pageviews)
+  - example of followers vs. tweets vs. clicks on tweets vs. stickiness after clicks on tweets + funnel analysis
+  - see the difference between proxy measures that are an acceptable substitute and those that measure something that's so indirectly related to what we really care about that we might as well not measure it at all. Sometimes nothing is better than something. Time on page might be a good example, unless within the context of a specific experiment (ideal story length for a run-of-the-mill news update.)
+  - Time on site is a proxy for pageviews/visit which in turn is a proxy for pageviews/user/month. (If you want to make money, who cares about pages/visit? It's about totals, not the average per visit. The exception would be if,  after thorough testing, you've found focusing on pages/visit to be the only reliable way to boost pageviews/user/month.) Only in limited cases does it make sense to look at pageviews/visit, e.g. together with bounce rate they can be good measures when you're implementing changes to your related content widgets and need to know if they improve stickiness or not.
+* Actionability of metrics is not always a given, it's something you can work on
+  - If your users log in, you can send them lifecycle emails that can improve how long they stick around; if you don't have that information, metrics for identifying the users most likely to drop off the radar is not actionable
+* Each story is an individual product, each reporter her own team
+  - Each story takes a different amount of time to research and write, and so pageviews/story is a naive measurement, pageviews/word is a little bit better and pageviews / hour invested is better still. (This requires you to tie CMS metadata into your analytics)
+  - Reporters should have access to the analytics for their stories (as well as popular search terms etc.), so they know what's working and what isn't, and so they can see the direct effect of what they do (e.g. what happens when I spend more time on twitter?) instead of flying blind or relying on business-wide metrics
+* It's okay to have professional standards in addition to business standards, but be aware of when you're optimizing for a professional standard without a strong business rationale
+  - e.g. a business metric might be to track the amount of errors divided by the time it took to write a story, and then optimize the amount of errors to where you can avoid most of them while still working fast; professional honor might then lead you to go the extra mile and push down the amount of errors you produce even when you're not sure it makes economic sense
+* Don't try to quantify what isn't quantifiable (but you can still measure and find appropriate heuristics!) e.g. for a crowdsourcing project you can make it a habit to always evaluate how well it went and try to distill lessons out of that experience. The fact that you're doing a debrief at all is much more valuable than having hard numbers that can tell you your effort was an 82 on the crowdsourcing scale.
+
+--
+
+Also, it's important to note that there's two kinds of metrics: business metrics and professional metrics **. The latter are sort of broadly about impact, but also about things which we as journalists have come to value regardless of whether they're really important to selling papers, from good spelling to accuracy. What I'm more interested in here are business metrics. People often seem to think that the only business metric that could matter is pageviews, and therefore, that business metrics are evil, but that's misguided. Business metrics is any actionable metric you can use to see how healthy your business is, to find opportunities for improving that business and to figure out where the problems are. Do you think Walmart tracks only the number of customers they have, or that that's even the metric they look at most often? Think again. Do pageviews help us find opportunities and alert us to problems? They don't. Ultimately, the reason to go beyond pageviews does not need to be justified in terms of journalism's higher purpose, but because it makes business sense.
+
+** professional as in C.W. Anderson http://www.niemanlab.org/2011/11/the-jekyll-and-hyde-problem-what-are-journalists-and-their-institutions-for/: professions "create non-material cultures that insulate workers from the ravages of the free market" -- not that they're anti-market, but they ask us to more thoroughly consider the indirect effects of our actions, prompt us to take the long-term view and to act ethically.

@@ -1,0 +1,5 @@
+I think there's three blogposts here. One introducing the topic. A second is "how to measure" (with lots of individual examples of do's and don'ts). A third is "what to measure", a proposal for how SV's lessons apply to the news industry (with mockups for the kind of analytics software we need)
+
+Your metrics suck
+Actionable metrics for the news industry
+Someone please build this: better metrics in the real world
