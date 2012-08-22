@@ -1,6 +1,7 @@
 ---
 title: Your metrics suck
 language: en
+layout: post
 categories:
     - journalism
     - business & management
