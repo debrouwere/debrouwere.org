@@ -22,12 +22,12 @@ Should we have 25 or 50 stories on the front page? That's easy: try 50 and see h
 
 But the thing is, too many people in the news industry when they open their Google Analytics dashboard aren't looking for opportunities, they wouldn't see problems if they were right in front of them and they sure won't let a bunch of stupid numbers decide what to prioritize.
 
-The news industry needs to grow up when it comes to how we do analytics. Either we obsess about pageviews or we pick another metric we like more – time on site, say – and we decide that, from now on, that's really what it's all about. Or we get all fancy and "gather a whole basket of numbers":http://www.niemanlab.org/2010/10/getting-beyond-just-pageviews-philly-coms-seven-part-equation-for-measuring-online-engagement/ to gape at. Metrics don't work like that.
+Either we obsess about pageviews or we pick another metric we like more – time on site, say – and we decide that, from now on, that's what it's all about. Or we get all fancy and "gather a whole basket of numbers":http://www.niemanlab.org/2010/10/getting-beyond-just-pageviews-philly-coms-seven-part-equation-for-measuring-online-engagement/ to gape at. Metrics don't work like that.
 
 Instead of thinking about metrics, *think about projects and goals.* What do you want to achieve? Maybe you need more visitors to kick your ad revenue up a notch. Maybe you have a redesign project going and you want to know whether your new navigation encourages people to explore or whether it's off-putting. Maybe you're frustrated by how few people subscribe to your newsletter, and so you'd like to improve that conversion rate.
 
-Or maybe you have no clue what to work on and what you really should do is line up ten different hypotheses for how you can do better for your readers, and figure out the metrics or experiments that will tell you whether or not any of those hypotheses make sense. Why did you decide to do that redesign in the first place?
+Or maybe you have no clue what to work on and what you really should do is line up ten different hypotheses for how you can do better for your readers, and figure out the metrics or experiments that will tell you whether or not any of your hunches made sense. Why did you decide to do that redesign in the first place?
 
-Use data to help you decide on your goals and use goals to decide what data you need. Never measure just because you can. Measure to learn. Measure to fix.
+We need to grow up and use data to help us decide on our goals and use goals to decide what data we need. Never measure just because you can. Measure to learn. Measure to fix.
 
 _Silicon Valley startups have gotten incredibly savvy about making data-driven decisions and using metrics to track the health of their business. The news industry has not. This post is "part of an attempt":http://stdout.be/2012/08/22/your-metrics-suck/ at translating the Valley's wisdom into something that makes sense for journalism._
