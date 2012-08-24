@@ -1,0 +1,10 @@
+The big thing to realize is that actionable metrics are different for media than they are for startups, and Google Analytics stats make more sense for us than they do for a Silicon Valley start-up. But that doesn't mean we should just accept the stats we get. I've been breaking my head about what it means to apply Eric Ries's lessons about actionable vs. vanity metrics to the media industry. It's not always obvious how they do (even though I believe that they do!)
+
+
+
+* Getting users to log in is nice not necessarily because it gives you better analytics (almost nobody wipes their cookies so you can track anonymous users pretty reliably, albeit not across different devices) but chiefly because it gives you more opportunities to *act* on that information, e.g. by sending lifecycle emails or by following up with people who have stopped coming back
+
+
+* Web app metrics often contain something like score cards for users, based on how a user interacts with the website. Do they use feature X, do they use the app multiple times a week, have they invited other users to use the application, how long did it take them to convert from a trial into a paid plan and so on.
+
+(Philly.com tries to do something like that, -- http://www.niemanlab.org/2010/10/getting-beyond-just-pageviews-philly-coms-seven-part-equation-for-measuring-online-engagement/ -- but unfortunately, making a sum of aggregated engagement metrics is the wrong way to do this: if 50% of your users post comments and 30% share your content on Twitter, you don't have 40% engagement but anywhere between 30% and 80% depending on the overlap between those two groups and what your treshold for engagement is (satisfying just one criterion is too weak, but satisfying all of them an unreasonable expectation). So that's not how the math works. You need to make the sum of each engagement metric for each individual user and then graph those scores as a cumulative distribution function. That's the only thing that will give you an accurate view of how many truly engaged users you have as well as what the distribution is from a tiny bit engaged to a lot.)

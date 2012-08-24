@@ -1,0 +1,11 @@
+h3. Summing up
+
+* Measure to find and solve problems. Pick metrics because they answer questions. Don't track just because you can.
+* Metrics are useful only insofar as they help you make money or do better journalism.
+* Avoid ambiguous metrics. Pick metrics where cause and effect is really clear, and metrics that don't produce too much statistical noise. Be precise.
+* Measure at the right granularity, don't just throw all your data together in a bunch of meaningless aggregates.
+
+The best tool should combine business metrics + live insight + audience response (MediaBugs, reader complaints but also social media signals) + self-evaluation (questionnaires)
+
+
+==> The importance of, on the one hand, having a sensible dashboard that tracks metrics that are likely to be important in a variety of circumstances and for most media organizations, but OTOH a system where it's very easy to ask questions of your data, either as one-time reports (something you bring to a meeting) or as project dashboards.

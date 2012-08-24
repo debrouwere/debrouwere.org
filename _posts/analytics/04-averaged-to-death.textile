@@ -1,0 +1,25 @@
+h3. 6. Have you thought about the right level of detail?
+
+You can vastly increase how actionable a certain metric is by aggregating or splitting up data in the right way.
+
+  - averages can be misleading; don't forget about distributions (Do you have really loyal people among your visitors, or is everyone sort of half-interested? An average won't tell you that, but the revenue potential for those two groups and the marketing techniques you'd use to reach them and product priorities are very different depending on the makeup of your audience. Also: if a lot of your readers obsess about sports and another half obsesses about politics, if you'd use just averages your reader persona would be someone who reads a 50/50 mix between sports and politics. That's worse than misleading.)
+  - sometimes you need cohorts to see how changes impact *new* users rather than your total user base
+  - knowing your churn rate is interesting, but it's much less interesting than being able to find common patterns in users that will likely not become return visitors, or subscribers that are likely to not renew their subscription, and then to act on that information
+
+Some analytics software allows you to download raw metrics data. Sometimes running a statistical analysis on a big dataset is the only way to find the answers you're looking for.
+
+h3. 7. Each story is an individual product, each reporter her own team
+
+You need the right level of detail, and one part of that is the right level of granularity.
+
+One thing to remember is that, unlike Silicon Valley software startups, news organizations don't have one product. Your newspaper and your website are a product, but so is every individual section, every blog, every story. Every desk is a team, and every reporter her own production unit. Bunch all of those metrics together, and it becomes very hard to untangle cause and effect. It also becomes very hard to figure out how good we are at writing things that people like to read and that keeps them coming back.
+
+  - Each story takes a different amount of time to research and write, and so pageviews/story is a naive measurement, pageviews/word is a little bit better and pageviews / hour invested is better still. (This requires you to tie CMS metadata into your analytics) You don't need to be mercenary about this, and in fact, there are so many unknowns and indirect effects that it's probably not a good idea to tie these numbers to performance reviews. But why not just give reporters access to their own numbers? When people get direct feedback on how well they're doing, they improve. No need for intervention.
+  - Reporters should have access to the analytics for their stories (as well as popular search terms etc.), so they know what's working and what isn't, and so they can see the direct effect of what they do (e.g. what happens when I spend more time on twitter?) instead of flying blind or relying on business-wide metrics
+
+---
+* more fine-grained means it's easier to see cause and effect (e.g. of a new social media strategy). So per-section and per-author. There's a saying that you shouldn't translate your organizational structure to your website ("show your drawers") but for analytics, you explicitly should. If health and science is a single desk, then that's a group you want to track. Pieces written by freelancers should get a group too, to see how they compare.
+* I wonder if you can get proxy measures for story effectiveness. Pageviews and tweets, obviously, but maybe also completion rate (how many people read to the end)? Something else?
+* It might be interesting to track professional metrics (Did I feel I had enough time to write this? How much time was that? How good do I think this story is?) and then compare that with business metrics (pageviews, shareability) and look at the overlap (how well does an author's confidence in their piece translate into success, and if not, can we take a guess at what's holding them back?)
+
+

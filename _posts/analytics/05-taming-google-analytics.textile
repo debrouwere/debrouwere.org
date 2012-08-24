@@ -1,3 +1,9 @@
+* explain the different levels of metrics (page, session, visitor) and the limitations they impose on the sort of queries you can do
+* show how to add custom variables and events
+* show how to build a couple of actionable metrics using custom reports
+* show how the API works (examples + a 'getting started' skeleton in a gist or open-source project or something) and warn people about how clunky it is to work with
+
+
 CAN DO
 
 - track custom variables
@@ -24,6 +30,6 @@ For example, the percentage of first-time visitors that become loyal readers wit
 
 You can get somewhere... [untested]
 
-metrics		ga:visitors
-dimensions	ga:pageTitle, ga:landingPagePath
-filters		ga:visitCount==1
+metrics     ga:visitors
+dimensions  ga:pageTitle, ga:landingPagePath
+filters     ga:visitCount==1

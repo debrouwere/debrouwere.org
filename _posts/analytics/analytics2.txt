@@ -1,8 +1,0 @@
-        // for all of these numbers: rounded absolute numbers first, percentages second
-        // show trends, but only if significant (5% or more)
-        // include popovers with explanations for all stats, explaining how they're
-        // calculated and why they're relevant
-        // also note that 'in-state' and 'regulars' tabs work as a makeshift method to cut
-        // out the outliers, the 5% on either end that can skew the analysis
-
-        p This is a rolling 30-day analysis. It includes a performance comparison against the three months previous. It can be used to help with continuous improvement. It is, however,  set up in such a way as to ignore daily trends or spot the effect of big news events on our visitor numbers. For that kind of information, consult Google Analytics.

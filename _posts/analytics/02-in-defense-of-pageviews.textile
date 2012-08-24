@@ -1,0 +1,51 @@
+---
+title: In defense of pageviews
+language: en
+layout: post
+categories:
+    - journalism
+    - business & management
+summary: What are analytics for if not to be a better business?
+---
+
+Pageviews have something of a bad reputation. They have given us stories like "Baby Donkey In Casts", "The Entire State Of The Global Economy Explained By Swiss Watches" and "Look At These Bizarre Meat Portraits Of Obama And Romney" not to speak of the endless deluge of listicles and pageview-boosting photo slideshows. What pageview mania hasn't given us is a lot of great journalism. ("Maybe a little.":http://www.niemanlab.org/2010/07/smart-editorial-smart-readers-and-smart-ad-solutions-slate-makes-a-case-for-long-form-on-the-web/)
+
+Fair enough.
+
+But the problem is not that we're using the wrong metric, and the problem isn't that we focus too much on making money, it's that our entire approach to metrics is wrong.
+
+Let me explain. Say you stop caring about pageviews and instead focus on softer, engagement-centric metrics like time on site or how often your stories are shared on Facebook and Twitter. First: why? Second: it's the advent of just as many perverse incentives as we got because of our obsession with pageviews.
+
+This time around companies are gaming the system by buying fake Twitter followers, begging their readers for retweets and we're drawn into an endless search for what makes stories go viral. And, by the way, the best tactic to increase time on site is to make your navigation such a kludge that people have to keep on clicking and clicking and clicking to get where they want to be.
+
+The problem is not that we're putting our business before our journalism. It's that our metrics aren't helping us build better businesses. That's the one question we need to figure out: what makes a news organization a healthier business?
+
+Some random examples, not gospel: 
+
+* We should care about stickiness because finding new readers is hard, and we lose money if we lose our audience.
+* We should care about addictiveness: most people look for news multiple times every day. Every return visitor who visits less than that is untapped potential.
+* We should care about evangelism: not how many followers we have on Twitter and Facebook because that doesn't make you money, but how often the average follower points to your stories.
+* We should care about allure. Most visits from social media bounce: a first-time visitor reads one thing and then she's gone. If we can convince more readers to take a look around or come back later, that's a very cheap way to grow our audience.
+* We should care about our brand and how our readers are talking about us on social media. People will buy ebooks, go to events and maybe even buy a subscription to a brand they trust and respect. That's decidedly not what will happen after caving in to the irresistible urge to click through on a piece of linkbait.
+
+And you know what? We should care about pageviews too, because pageviews lead to ad impressions and ad impressions are still the biggest moneymaker for most news organizations.
+
+Things I'd like to know about pageviews but don't right now: 
+
+* How to increase pageviews in a way that does not strain staff or readers.
+* How many pageviews I need to satisfy advertiser demand and how many I've had to peddle to ad networks that pay hardly anything.
+* How many pageviews a reporter needs to net to break even on his pay.
+* Whether there's a sweet spot for how long a plain ol' news report should be, keeping in mind that bigger stories take longer to write.
+* If there are any diminishing returns when publishing more and more stories each day.
+
+Because ultimately, those are the sorts of detailed questions about pageviews we need to answer to learn about our business.
+
+Now let me ask you something else.
+
+* How many news organizations have never done A/B-tests to figure out how to design their story pages and the homepage?
+* How many have funnel analyses set up?
+* How many track cohorts of users to figure out whether we're getting better or worse at converting first-time users into fans?
+
+So you see, the problem isn't that profit-making motives have distorted good journalism, it's that the industry's obsession with pageviews (and whatever fad will come next) shows a naive focus on the short term and it shows that we know very little about optimization in the first place.
+
+I'm sure places like NPR and the New York Times have figured some of this stuff out. Maybe your organization, too. But the rest of us? We're cavemen.

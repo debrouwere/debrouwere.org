@@ -1,0 +1,1 @@
+Working with raw data: show examples of how to cull reports from raw datasets with summa (JavaScript) and some examples in SciPy and R. Also show how people can collect stats themselves (statsd, other options?) in a scalable way

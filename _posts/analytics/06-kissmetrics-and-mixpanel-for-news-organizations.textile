@@ -1,0 +1,6 @@
+KISSmetrics and Mixpanel for news organizations
+
+* just test out these tools and do stuff like cohort analyses and try to get audience insight
+* compare them
+* figure out how onerous their event-based limits are considering news site analytics are very pageview based and so there's lots of events, potentially, to track per user.
+* figure out how to cross-reference data from GA / import it into these tools so they can each do what they are best at
