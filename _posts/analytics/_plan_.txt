@@ -35,7 +35,7 @@ THEORY
 3. Your metrics don't tell you what you think they tell you
 4. Averaged to death
 
-TOOLS
+TOOLS (I think I have to wait for this until I've had a couple of months of experience under my belt, without that, it's like the blind leading the blind)
 
 5. Taming Google Analytics
 6. KISSmetrics and Mixpanel for news organizations

@@ -90,3 +90,18 @@ When using proxies,
 ---
 
 * playing devil's advocate can be very powerful when you want to draw conclusions from data. Try to explain it any other way.
+
+
+---
+
+h3. 6. Have you thought about the right level of detail?
+
+Not cutting up data in the right way can hide important information or even give false impressions
+
+You can vastly increase how actionable a certain metric is by aggregating or splitting up data in the right way.
+
+  - averages can be misleading; don't forget about distributions (Do you have really loyal people among your visitors, or is everyone sort of half-interested? An average won't tell you that, but the revenue potential for those two groups and the marketing techniques you'd use to reach them and product priorities are very different depending on the makeup of your audience. Also: if a lot of your readers obsess about sports and another half obsesses about politics, if you'd use just averages your reader persona would be someone who reads a 50/50 mix between sports and politics. That's worse than misleading.)
+  - sometimes you need cohorts to see how changes impact *new* users rather than your total user base
+  - knowing your churn rate is interesting, but it's much less interesting than being able to find common patterns in users that will likely not become return visitors, or subscribers that are likely to not renew their subscription, and then to act on that information
+
+Some analytics software allows you to download raw metrics data. Sometimes running a statistical analysis on a big dataset is the only way to find the answers you're looking for.
