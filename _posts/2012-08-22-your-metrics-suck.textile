@@ -20,4 +20,4 @@ Early Facebook was different. Zuck didn't care about pageviews, he cared about h
 
 The news industry is like early Twitter when we should be like early Facebook.
 
-_Silicon Valley startups have gotten incredibly savvy about making data-driven decisions and using metrics to track the health of their business. The news industry has not. This post is the first in a series that hopes to translate the Valley's wisdom into something that makes sense for journalism. Post "number two is already up":http://stdout.be/2012/08/22/metrics-are-for-doing-not-for-staring/._
+_Silicon Valley startups have gotten incredibly savvy about making data-driven decisions. The news industry has not. This post is the first in a series that hopes to translate the Valley's wisdom into something that makes sense for journalism. Posts "number two":http://stdout.be/2012/08/24/metrics-are-for-doing-not-for-staring/ and "number three":http://stdout.be/2012/08/27/in-defense-of-pageviews/ are already up._

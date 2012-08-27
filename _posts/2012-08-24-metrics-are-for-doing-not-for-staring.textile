@@ -30,4 +30,4 @@ Or maybe you have no clue what to work on and what you really should do is line 
 
 We need to grow up and use data to help us decide on our goals and use goals to decide what data we need. Never measure just because you can. Measure to learn. Measure to fix.
 
-_Silicon Valley startups have gotten incredibly savvy about making data-driven decisions and using metrics to track the health of their business. The news industry has not. This post is "part of an attempt":http://stdout.be/2012/08/22/your-metrics-suck/ at translating the Valley's wisdom into something that makes sense for journalism._
+_Silicon Valley startups have gotten incredibly savvy about making data-driven decisions. The news industry has not. This post is "part of an attempt":http://stdout.be/2012/08/22/your-metrics-suck/ at translating the Valley's wisdom into something that makes sense for journalism._

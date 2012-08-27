@@ -55,3 +55,5 @@ What's worse? Vendors try very hard not to be smarter than the industries they s
 (Good analytics software does exist, like "KISSmetrics":http://www.kissmetrics.com, but it's not tailored to products with huge amounts of anonymous, non-paying users, like news websites.)
 
 I'm sure places like NPR and the New York Times have figured some of this stuff out. Maybe your organization, too. But the rest of us are just stumbling along. Time to get our act together.
+
+_Silicon Valley startups have gotten incredibly savvy about making data-driven decisions. The news industry has not. This post is "part of an attempt":http://stdout.be/2012/08/22/your-metrics-suck/ at translating the Valley's wisdom into something that makes sense for journalism._
