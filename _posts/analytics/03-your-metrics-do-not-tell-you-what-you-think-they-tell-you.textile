@@ -1,14 +1,18 @@
 ---
-title: Your metrics don't tell you what you think they tell you
+title: Think like a statistician
 language: en
 layout: post
 categories:
     - journalism
     - business & management
-summary: We've gotten used to winging it when it comes to metrics. Some tips for how to do better.
+summary: Think like a statistician, or, your metrics don't tell you what you think they tell you.
 ---
 
-h3. 4. Can you separate signal from noise?
+This poll is bullshit. That longitudinal study doesn't make any sense. I bet you've never thought about these confounding variables, but they make your precious theory void. When we hear about a statistician, it's usually because they've just told someone that _they're wrong_. And I kind of like that. In fact, I think we could all use a little bit more of that skepsis.
+
+Here's three questions I figure a statistician would ask of his data, and some ways to do better.
+
+h3. Can you separate signal from noise?
 
 The best metrics go up and down together with your performance. Unfortunately, most metrics aren't like that: they're full of noise and unexpected spikes that tell you nothing about whether you're doing a good job.
 
@@ -17,6 +21,7 @@ The best metrics go up and down together with your performance. Unfortunately, m
   want to avoid them influencing the stats as much as possible)
   - per-customer data (time on site, time on page, visits/month, churn rate) are better than aggregate data because they tell you how well your product is working in a way that ignores growth -- which is a good thing. (Marketing guys and growth hackers should care about growth, product dev guys should care about engagement and churn.) For example, if you make changes to your product and couple that with a big marketing push, you might double your amount of visitors, but maybe they just visit once or twice and then leave, and meanwhile the changes to your product are alienating your core audience. If you look at your total amount of visitors for that month, it'll be a huge success. In reality, it's an utter failure. And when you track the success of that marketing campaign, you should look at the amount of new but returning visitors it got you (and paying visitors if you have a paywall) and whether your customer acquisition cost was acceptable. How many hits it got you is worse than meaningless, it's misleading. --- Eric Ries: "even a big rush of new customers shouldn’t change how many pages they each view on average, unless you’re getting a new kind of customer." http://www.fourhourworkweek.com/blog/2009/05/19/vanity-metrics-vs-actionable-metrics/
   - slower metrics (monthly)
+  - embrace the fact that even with monthly metrics, changes that are less than 5-10% and are not sustained over a period of many months, you might well be looking at statistical noise. A metric like unique visitors can drop or increase ten or even twenty percent through a confluence of different factors rather than whatever changes you made to the site. This is why AB-tests are so valuable: they cut out a lot of noise.
 
 * per month smooths out differences that are outside of our control and hence unmerited (you'll have stories that really resonate every once in a while, maybe even go viral; if you publish enough, that sort of thing will happen roughly every month so it should stop producing big spikes in your stats -- meaningless spikes that you don't benefit from seeing anyway) Avoid per week, per day and live analytics like the plague (*unless* you will actually use it to act on right now: e.g. see what people are looking at and searching for, and expand on that topic; having live metrics for eye candy is preposterous)
 
@@ -28,7 +33,7 @@ The best metrics go up and down together with your performance. Unfortunately, m
 
 * in general, remove noise. And "noise" actually consists of things you wouldn't expect to be noise even though they are. Traffic spikes because of an unexpected viral story: noise. Traffic spike because it just keeps on snowing and people want to know whether they'll be able to get to work: noise. Fewer visitors in the summer because people are on vacation: noise. Any swing in a metric that is not a reflection of *your* performance is noise.
 
-h3. 5. Did you really find cause and effect?
+h3. How do you know you have cause and effect figured out?
 
 Dirty, noise metrics make it hard to figure out cause and effect. But even clean metrics, like time on page, can be excruciatingly hard to interpret. Google has a rather low time on site. After all, people keep clicking away as soon as they've found what they want. Is that a problem? Of course not! They keep coming back, and that's all that matters. Daily actives, searches per user per day, those are unequivocally good things, not open to ten different interpretations.
 
@@ -38,26 +43,33 @@ Dirty, noise metrics make it hard to figure out cause and effect. But even clean
   - avoid doing multiple experiments / projects at the same time if they'll influence each other
 
 
-h3. 8. Are you tracking what you think you're tracking?
+h3. Are you tracking what you think you're tracking?
 
-Let's do some exercises.
+Any piece of analytics software does some things well, some things badly and some things not at all. It's deceptively easy to get into the habit of picking metrics because they're available, and then pretend they're really the kind of numbers we need after all.
 
-* Time on site, pages per visit are really ambiguous. For example, Google has a very low time on site and pages per visit, because people usually find what they need to fairly quickly. Analogously, maybe people's visits to thegazette.com are fairly short because that's simply how people like to consume the news: two, three times a day, in short bursts. Time on page is similarly ambiguous: are people reading deeper into stories or did a redesign increase time on page because we've made it clunkier, or are we simply writing longer stories?
+Say you've decided that it's really important to have a loyal audience, to have true fans. Okay, so how do you identify those?
 
-For everything we track, we want to look at how it relates to revenue, but we do want to track things beyond _revenue itself_, namely whatever is predictive of future revenue, directly or indirectly.
+If you're like most people, you're probably thinking time on site and pages per visit are pretty darn good indicators of a true fan: people who just can't stop browsing. Maybe. Maybe not. Google's happiest users are those who stick around for the least amount of time: they always find what they need in a heartbeat. Similarly, maybe a true fan doesn't spend any more time on our site than anyone else, they just visit more often, and what you were really measuring were people who are just really, really bored at work.
 
---- note: I'm already using some of this content in post 02. It's okay to reuse this but I should refer back to that post and say that I'm expanding on an example I used previously. ---
+Lots of metrics are ambiguous like that. Notoriously, slideshows are a great way to increase pageviews, but if you think that's a _good_ thing, you might want to guess again.
 
-When you're tracking return visitors, what are you getting at? How many loyal users you have? If so, what we really want to track is DAU (daily active users). And _how_ loyal they are? Calculate churn as the percentage of users that haven't returned to your site in the last month. How addictive your product is? The DAU/MAU ratio (daily active users / monthly active users). How alluring to new users? Whether you're able to lure in new users? Bounce rate for first-time visitors from social media or do a cohort analysis.
+Let's expand on an example from a previous post. You want to know how addictive your website is, so you track return visitors. Well, think again. Return visitors can mean anything. The DAU/MAU ratio, that is, the ratio of daily active users and monthly active users, will tell you much more. But that might still tell you nothing about how alluring your site is to new users. Maybe DAU/MAU just shows you that you're stuck with a bunch of regulars glued to their bar stools. So adding bounce rate for first-time visitors to the metric mix might give you a clearer picture.
 
-Why those four metrics instead? Because looking at return visitors tells you nothing in itself. But the amount of loyal users you have can help you predict your customer base for premium offerings or events. How loyal they are can help you decide what your marketing and social media budget should be. And if your website doesn't manage to keep new users coming back, then you're throwing marketing dollars away. The stickiness of your website tells you how good your news site and its writing is at keeping people around, which is essential to customer lifetime value, and it's usually easier and cheaper to keep your existing users happy than it is to find new ones.
+When you go ahead make changes that might upset the regulars, you're going to want to do a cohort analysis so you can see the effect of your actions on newbies and ancients separately.
 
-The vast majority of people that go to news sites go to them daily, so if they don't visit your site daily (or, if you're a niche site, maybe weekly) then that may be untapped potential.
+If you don't want to read things into your metrics that aren't there, it pays to be very precise.
 
-Let's do another exercise. Followers vs. tweets vs. clicks on tweets vs. stickiness after clicks on tweets + funnel analysis
+If you want to get a vague estimate of how many of your visitors would maybe buy a ticket to an event, pageviews are not what you want. The amount of in-state visitors that visit every day is still rough, but maybe closer to your real addressable audience.
 
+Another exercise. You care about your presence on social media. First question: why? Is it making you any money? Well, it can if your followers on Twitter return to your site more often. (But think of cause and effect, though! Do your most loyal visitors follow you on Twitter because they love you so much, or have they become your most loyal visitors through your exceptional tweets?)
+
+Still, let's dig a little bit deeper. Ultimately, we want more visitors and visitors that stick around for longer. Does that equate to followers? Nope. Maybe retweets? Nope. Maybe clicks on tweets and retweets? Closer. How long it takes the average first-time visitor from social media to become the kind of guy who actually bookmarks our site or types in the URL in his browser? Bingo, now that's something we can work with.
+
+One last exercise.
 
 Another exercise. Time on site is a proxy for pageviews/visit which in turn is a proxy for pageviews/user/month. (If you want to make money, who cares about pages/visit? It's about totals, not the average per visit. The exception would be if,  after thorough testing, you've found focusing on pages/visit to be the only reliable way to boost pageviews/user/month.) Only in limited cases does it make sense to look at pageviews/visit, e.g. together with bounce rate they can be good measures when you're implementing changes to your related content widgets and need to know if they improve stickiness or not.
+
+Ultimately, all metrics are proxies for revenue. More _x_ helps your business or it doesn't. But revenue itself is a black box, it can swing for reasons that have nothing to do with how much ass you're kicking and it's hard to figure out cause and effect. That's why we have to take apart the strands, think about everything that could cause us to do better or worse. Things that are early predictors and warning signs. That's what makes a proxy worth tracking. But that means your proxies can't be black boxes themselves. They're attractive only insofar as they are stable (not noisy), predictive and insofar as they make it easy for you to tell _what_ is working and what isn't. (Ultimately, that's why AB-testing is so important: it's like magic in how it can turn noisy metrics into clean ones and show you clearly how _one_ factor and one factor only is affecting people's behavior.)
 
 
 When using proxies, 
@@ -73,3 +85,8 @@ When using proxies,
 * You can actually do cohort analysis on anonymous users, as long as they don't wipe their cookies. Meaning: you can check to see how many first-time visitors turn into loyal visitors (and whether that's improving or going down over time), how many never come back, and how many come back but only occassionally. And then look at how they use the site, and see if there's any patterns. E.g. social media visits make people more loyal or less loyal visitors (and thus social media is more or less valuable as a marketing mechanism)
 * Avoid doing experiments that will influence each other at the same time. You can improve time on site by making your site a maze to navigate, and you can improve time on site by creating better content that's really engaging. Doing a full site redesign won't allow you to figure out what happens. Changing the navigation first, and the story page some other time *will* tell you what's having an impact.
 * Another way to get more clarity about cause and effect is through AB-tests: does time on page improve when you add widget X to the story page, or when it's absent. What's the effect of having many links in a story or no links at all. Google Analytics doesn't give you this, but software like KISSMetrics can.
+
+
+---
+
+* playing devil's advocate can be very powerful when you want to draw conclusions from data. Try to explain it any other way.

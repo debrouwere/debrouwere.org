@@ -12,40 +12,46 @@ Pageviews have something of a bad reputation. They have given us stories like "B
 
 Fair enough.
 
-But the problem is not that we're using the wrong metric, and the problem isn't that we focus too much on making money, it's that our entire approach to metrics is wrong.
+But the problem is not that we're using the wrong metric and the problem isn't that we focus too much on making money, it's that the news industry's entire approach to metrics is wrong.
 
-Let me explain. Say you stop caring about pageviews and instead focus on softer, engagement-centric metrics like time on site or how often your stories are shared on Facebook and Twitter. First: why? Second: it's the advent of just as many perverse incentives as we got because of our obsession with pageviews.
+It's not about the metric. Say you stop caring about pageviews and instead focus on softer, engagement-centric metrics like time on site or how often your stories are shared on Facebook and Twitter. First: why? Second: be prepared to counteract a ton of perverse incentives, just as many as we have to deal with because of our obsession with pageviews.
 
-This time around companies are gaming the system by buying fake Twitter followers, begging their readers for retweets and we're drawn into an endless search for what makes stories go viral. And, by the way, the best tactic to increase time on site is to make your navigation such a kludge that people have to keep on clicking and clicking and clicking to get where they want to be.
+This time around companies are gaming the system by buying fake Twitter followers and begging their readers for retweets. We're drawn into an endless search for what makes stories go viral. And, by the way, the best tactic to increase time on site is to make your navigation such a kludge that people have to keep on clicking and clicking and clicking to get where they want to be.
 
-The problem is not that we're putting our business before our journalism. It's that our metrics aren't helping us build better businesses. That's the one question we need to figure out: what makes a news organization a healthier business?
+Pageviews, engagement, mindshare, hell, use "impact":http://www.greglinch.com/2012/01/quantifying-impact-a-better-metric-for-measuring-journalism.html as your metric and I'm pretty sure we'll find a way to fuck that one up too.
 
-Some random examples, not gospel: 
+The problem is not that we're putting business before journalism. It's that our metrics aren't helping us build better businesses. That's what we need to figure out.
 
-* We should care about stickiness because finding new readers is hard, and we lose money if we lose our audience.
+Some random thoughts (not gospel): 
+
+* We should care about stickiness because finding new readers is harder than keeping existing ones around, and we lose money if we lose our audience.
 * We should care about addictiveness: most people look for news multiple times every day. Every return visitor who visits less than that is untapped potential.
-* We should care about evangelism: not how many followers we have on Twitter and Facebook because that doesn't make you money, but how often the average follower points to your stories.
-* We should care about allure. Most visits from social media bounce: a first-time visitor reads one thing and then she's gone. If we can convince more readers to take a look around or come back later, that's a very cheap way to grow our audience.
+* We should care about evangelism: not how many followers we have on Twitter and Facebook because that doesn't make you money, but how often the average follower points to your stories and how often people actually click through.
+* We should care about allure. Most visits from social media bounce: a first-time visitor reads one thing and then she's gone. If we can convince more readers to take a look around or come back later, not bounce, that's a cheap way to grow our audience.
 * We should care about our brand and how our readers are talking about us on social media. People will buy ebooks, go to events and maybe even buy a subscription to a brand they trust and respect. That's decidedly not what will happen after caving in to the irresistible urge to click through on a piece of linkbait.
 
 And you know what? We should care about pageviews too, because pageviews lead to ad impressions and ad impressions are still the biggest moneymaker for most news organizations.
 
 Things I'd like to know about pageviews but don't right now: 
 
-* How to increase pageviews in a way that does not strain staff or readers.
-* How many pageviews I need to satisfy advertiser demand and how many I've had to peddle to ad networks that pay hardly anything.
-* How many pageviews a reporter needs to net to break even on his pay.
-* Whether there's a sweet spot for how long a plain ol' news report should be, keeping in mind that bigger stories take longer to write.
-* If there are any diminishing returns when publishing more and more stories each day.
+* How to increase pageviews in a way that does not strain staff or readers. (If you have to do more to get more, that's revenue but not profit.)
+* How many pageviews I need to satisfy advertiser demand and how many I've had to peddle to ad networks that pay hardly anything. No point in pushing for pageviews if you can't sell them.
+* How many pageviews a reporter needs to net to break even on his pay and how many they usually get. I want to know when it makes sense to hire new staff.
+* Whether there's a sweet spot for how long a plain ol' news report should be, keeping in mind that bigger stories need more pageviews to pay off. (They take longer to write.)
+* If there are any diminishing returns when publishing more and more stories each day, or whether it's pretty much a straight curve and more is better.
 
 Because ultimately, those are the sorts of detailed questions about pageviews we need to answer to learn about our business.
 
 Now let me ask you something else.
 
-* How many news organizations have never done A/B-tests to figure out how to design their story pages and the homepage?
-* How many have funnel analyses set up?
-* How many track cohorts of users to figure out whether we're getting better or worse at converting first-time users into fans?
+* How many news organizations have never done "A/B tests":http://en.wikipedia.org/wiki/A/B_testing to figure out how to design their story pages and the homepage?
+* How many have "funnel analyses":http://blog.mixpanel.com/2009/06/10/introduction-to-analytics-funnel-analysis/ set up?
+* How many track "cohorts":http://en.wikipedia.org/wiki/Cohort_study of users to figure out whether, over time, we're getting better or worse at converting first-time users into fans?
 
-So you see, the problem isn't that profit-making motives have distorted good journalism, it's that the industry's obsession with pageviews (and whatever fad will come next) shows a naive focus on the short term and it shows that we know very little about optimization in the first place.
+So you see, the problem isn't that profit-making motives have distorted good journalism. The problem isn't pageviews. It's that our industry has not been able to figure out how to use data to build better businesses. And realize this: that exact same methodology is what would help us figure out how to do better journalism.
 
-I'm sure places like NPR and the New York Times have figured some of this stuff out. Maybe your organization, too. But the rest of us? We're cavemen.
+What's worse? Vendors try very hard not to be smarter than the industries they serve, so we're stuck with shitty analytics software. Even if we _were_ asking the right questions, we wouldn't get the right answers.
+
+(Good analytics software does exist, like "KISSmetrics":http://www.kissmetrics.com, but it's not tailored to products with huge amounts of anonymous, non-paying users, like news websites.)
+
+I'm sure places like NPR and the New York Times have figured some of this stuff out. Maybe your organization, too. But the rest of us are just stumbling along. Time to get our act together.
