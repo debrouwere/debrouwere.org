@@ -79,7 +79,7 @@ When using proxies,
 
 * Don't pick a random metric and convince yourself you're tracking engagement (or whatever.) Be specific and make sure you're really measuring what you think you're measuring.
 
-
+* Also think about "action at a distance": most analytics software thinks about a referrer as the page you were on that led you to our site. But what if someone visited your site by clicking on an ad, then google some information about your product, go back to your site and buy it. The ad is what led to that purchase, but if you track direct referrers instead of first referrers, you wouldn't know that.
 
 * Avoid proxy metrics unless you can't avoid them, or unless direct tracking is an inordinate amount of effort. Amount of followers on twitter is a proxy measure for how often your content will get shared, which in itself is a proxy measure for how many pageviews and potential new visitors you can get out of social media. So the important thing to track is (1) the amount of visitors you get from social media and (2) the funnel from followers on Twitter and fans on Facebook to visitors. You'll want to know what your tweets/retweets per follower per month rate is, and the amount of visits  per tweet, so you can see if there's room for improvement there (e.g. lots of people follow you but they hardly ever retweet -- maybe you should tweet more/less/at a different time?)
 * You can actually do cohort analysis on anonymous users, as long as they don't wipe their cookies. Meaning: you can check to see how many first-time visitors turn into loyal visitors (and whether that's improving or going down over time), how many never come back, and how many come back but only occassionally. And then look at how they use the site, and see if there's any patterns. E.g. social media visits make people more loyal or less loyal visitors (and thus social media is more or less valuable as a marketing mechanism)
@@ -105,3 +105,7 @@ You can vastly increase how actionable a certain metric is by aggregating or spl
   - knowing your churn rate is interesting, but it's much less interesting than being able to find common patterns in users that will likely not become return visitors, or subscribers that are likely to not renew their subscription, and then to act on that information
 
 Some analytics software allows you to download raw metrics data. Sometimes running a statistical analysis on a big dataset is the only way to find the answers you're looking for.
+
+----
+
+Think about presentation as well: do you care about the raw number, do you care about increase/decrease, do you care about a number as a percentage of another number? (How many loyal visitors you have is important, but one that's prone to go up and down because of factors outside of your influence -- a more stable and actionable metric is what percentage of your visitors you'd consider as loyal, and then separately, how many visitors you have. Otherwise you're conflating two different measures into one, and that may sound like a good idea -- one less number to track -- but it's not)
