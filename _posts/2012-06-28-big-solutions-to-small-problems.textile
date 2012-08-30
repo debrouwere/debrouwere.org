@@ -15,13 +15,13 @@ Your new social network is not seeing the kind of user retention you'd like. You
 
 Design is the new code, and your app is not as user-friendly as it could be. Time to free up the budget to "hire a top-tier UX strategist":http://stdout.be/2011/06/14/the-trouble-with-usability-experts/. Okay, but have you ever read Steve Krug's Don't Make Me Think, have you ever tried to do something with the simple tips in that $14 book?
 
-I see it at the company I work for right now and every place I've worked before. I see it in blogpost after blogpost, conference after conference. Most unnervingly, it's a personal struggle, too. A universal virus.
+I've seen it at every place I've ever worked before. I see it in blogpost after blogpost, conference after conference. Most unnervingly, it's a personal struggle, too. A universal virus.
 
 Entire cottage industries have cropped op to exploit our infatuation with big solutions to small problems, and many a consultant cashes in on our collective credulity.
 
 You could say that people have trouble seeing simple strategies, and that simple solutions are not easy to find. I'd agree, but my point is more subtle than that.
 
-You could instead say that every company houses its fair share of dullards, and that the problem is stupidity. Well, yes, but there's more to it. (Also, did you just call me stupid?)
+You could say that every company houses its fair share of dullards, and that the problem is stupidity. Well, yes, but there's more to it. (Also, did you just call me stupid?)
 
 Part of it is simply a tendency to get excited about anything new and shiny. Or to just want to do something because it looks fun. Why do you think analytics dashboards scattered around the office on big TV screens are so popular? Be honest, have you ever seen anything more badass?
 
