@@ -1,0 +1,34 @@
+(Betere titels zoeken.)
+(Noot: het is belangrijk om in gedachte te houden dat dit *niet* alleen gaat over de malaise, en *niet* alleen over de economische problemen. De opkomst van sociale media e.d. is net zo belangrijk.)
+
+I. Malaise in de krantenwereld
+
+* Overal informatie; het einde van een economisch model (en het gevaar van modellen waarbij X consumeert en Y betaalt; ook een woordje over televisie en radio)
+* Het verkruimelen van de vierde macht (allemaal tegen een tragische achtergrond van journalisten die dat eenvoudig feit negeren: bimodel theory of news; spruitjesjournalistiek; K Swisher: entitled to ignore economic realities)
+* Bandwerk (churnalism, de zondvloed aan PR, de aanval op de waarheid en information diet, flat earth news, parachutejournalistiek, gebrek aan een goed correctieproces, the plural of anecdota is not data & nobody is representative, content farms, patchwriting)
+* Niet te gek doen (imitatie, administrators vs. ondernemers... allemaal tegen een achtergrond van disruptieve innovatie die het sowieso al moeilijk maakt voor de oude garde om bij te houden)
+
+II. Wat maakt een journalist?
+
+* Iedereen journalist
+* Wat ben ik dan? De rol van journalisten in een wereld waar iedereen publiceert. (de mutualisatie van het nieuws + soc med + newsroom cafes + community outreach + het einde van antagonisme en de nalezing-hetze + APIs en hackathons + crowdsourcing + wikileaks --- een evolutie die nog moeilijker gemaakt wordt door de lange nadruk op de journalist als schrijver en generalist, niet reporter of expert, waardoor diens waarde nu nog verder blijft zakken)
+* Het einde van de objectiviteit (transparantie, he-said-she-said, expertise is belangrijker dan onafhankelijkheid; de wereld is -- zeker sinds het web -- gewend geraakt aan onbetrouwbare informatie en niet-zo-neutrale informatie)
+* Computerjezussen, datawetenschappers, entrepreneurs en producers. Wat maakt een goeie journalist en hoe leid je die op? (Program or be programmed. Journalisten moeten leren lezen. Stop met kopiëren. Manus-van-alles én specialist. En de transitie van journalistiek als gewone job naar journalistiek als creatieve carrière cf. ShanMcF. Personal brands.)
+
+III. Geld verdienen met nieuws
+
+* Betaalmuren en de erfzonde
+* Non-profit journalistiek
+* De post-advertising age (en het begin van content marketing bv. BuzzFeed enz.)
+* Red de journalistiek, niet de kranten (Makers ratio; Alan Mutter over melken; Shirky over de moeilijkheid van A naar B te gaan voor legacy operaties -- en accepteren dat het misschien gedaan is; en accepteer dat nieuwsorganisaties kleiner zullen zijn; als je de democratie wil ondersteunen, ondersteun dan de democratie en niet kranten)
+
+IV. Een nieuwe manier van nieuwsmaken
+
+* Van long-form tot mini-edities en alles daartussen (en e.g. Homicide Watch: "cover everything"; niche en wereldwijde automatisch gegenereerde of user-driven producten, TD;DR...)
+* Open data, journalistiek als informatie (applicaties en niet big blobs) en de toekomst van de onderzoeksjournalistiek
+* Media als filter en gids: curatie, aggregatie, sociale selectie en algoritmen; context (en information overload of filter failure; serendipiteit en filterbubbels en confirmation bias; do what you do best & link to the rest; trend watching vs. finding the obscure)
+* Is print dood? Web-first en is web voor kort of net voor lang? Is mobiel de toekomst? Tablets en e-readers? SMS in de derde wereld? Responsive? Social? Second screens? Het inflectiepunt voor print. Het wanende belang van de homepage. The age of platforms en hoe daarmee omgaan
+
+V. De toekomst
+
+* Waarom lezen wij? (The Idiot Theory of news, Luyendijk over internationaal nieuws, nieuws/democratie/entertainment) Waar blijft de toekomst? (We zien ze niet want 't is meer dan louter artikels.) En andere problemen. (Over waarom het zo moeilijk is om de toekomst van de journalistiek voor ons te zien.) [Als we vragen waar de toekomst blijft moeten we eerst een stap terugnemen en ons afvragen wat journalistiek is en waarom we lezen. Heel wat motieven en dus heel wat 'toekomsten' waarvan sommige helemaal niet meer op journalistiek lijken -- inwisselbaarheid/fungibiliteit. Zo zo ik het stuk structureren.]

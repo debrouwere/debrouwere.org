@@ -8,6 +8,8 @@ I. De malaise in de krantenwereld
 
 () Het einde van een economisch model
 
+(glut voor lezers, glut voor adverteerders, glut voor consumenten [zoekertjes] en de fungibiliteit van bronnen van informatie en entertainment)
+
 * De feiten (surveys etc.) en de impact in de UK/VS (sterke lokale kranten en televisiestations met een bijna-monopolie) versus Europa (kleinere advertentiepot, meer concurrentie)
 * komen jonge lezers terug? http://newsosaur.blogspot.com/2011/09/how-newspapers-are-losing-next-gen.html
 * advertenties werken niet meer (branding in print; werkt niet online -- we storen mensen eerder dan ze te helpen)
@@ -20,36 +22,39 @@ I. De malaise in de krantenwereld
 * Als we de media niet meer kunnen vertrouwen, wat dan?
 * Is de media wel de beste manier om democratie te ondersteunen, als dat ons doel is? http://www.slate.com/articles/news_and_politics/press_box/2009/08/ink_hole.single.html
 
-() Hoge verwachtingen, snel tevreden
+() Bandwerk / de aanval van PR / ...
 
 * Maar verwachten mensen eigenlijk wel kwaliteitsjournalistiek? Alleszins niet àltijd: op de hoogte blijven is vaak genoeg, en wat faits divers en raar nieuws daarbij is meer dan welkom. Zegt niks over hoe slim of dom mensen zijn, het zegt iets over wat voor dagelijkse routine ze willen, en je kan niet elke dag je kop breken over de economische crisis en daklozen en de louche praktijken van de farma-industrie.
 * Of hebben we mensen stilaan doen wennen aan een lage kwaliteit? Is het onze eigen schuld dat mensen tegenwoordig denken dat alle journalistiek hetzelfde is?
 * commercialisering en kwaliteit
 * maatschappelijk relevant of spruitjesjournalistiek -- er valt iets te zeggen voor beide kanten van het verhaal: niet genoeg diepgang en commerciële invloeden verknoeien de journalistiek... maar langs de andere kant heb je ook journalisten die mensen dingen die zij belangrijk vinden in lezers hun strot willen rammen, en het is onfair om dat een commerciële aanval op de journalistiek te noemen, alsof de zakelijke leiding van een krant niks beters te doen heeft
+* leer mensen hun prioriteiten kennen: als je een huis zoekt dan is een immowebsite veel belangrijker dan te weten komen dat een paar politici hun visakaart al eens misbruiken
 
-() De erfzonde
+PR en politici zijn de strijd tegen de journalistiek aan het winnen: 
+* off the record / on background... en hoe pr folk dat gebruiken om journalisten te misleiden
+* pr-boodschappen geschreven zoals artikels, zodat er zo weinig mogelijk moet aangepast worden (inclusief quotes etc.)
+* horse race reporting in de politiek
+* ...
+
+() De erfzonde [zeer belangrijk topic, maar misschien kort vermelden in eerste stuk en dan uitgebreider in III?]
 
 * The Original Sin en 60/40 ads/subs+single (in Europe 50/50 of soms zelfs iets meer uit abos, maar daar moet je wel weer) -- see OECD 2010 - THE EVOLUTION OF NEWS AND THE INTERNET
 * Gratis nieuws online de erfzonde? Er zijn tekenen dat paywalls kunnen werken in kleine landen met niet al te veel spelers, maar het punt is nu eenmaal dat er zoveel spelers zijn, dat consumenten niet altijd even kieskeurig zijn, en dat mensen media niet genoeg apprecieren om bij te betalen tegenover wat gratis beschikbaar is... dat voet bij stuk houden en zeggen "mensen moeten en zullen betalen" eerder koppigheid is dan realiteitszin. Niemand moet iets. De dingen zijn zoals ze zijn, en met quasi-religieuze overtuiging – of een soort van misplaatst boerenverstand – zeggen dat mensen "moeten" betalen is geen businessmodel die naam waardig. Zo werkt de economie niet.
 
-() Overal informatie
+() Overal informatie [is infeite het centrale punt van "het einde van een economisch model": de impact van glut op allerlei ooit sterke pilaren]
 
 * mensen vinden nieuws belangrijk (anders zouden ze er niet zoveel over zeuren, en zich niet zo druk maken over vermeende fouten in artikels) maar mensen vonden het nieuwsproduct nog belangrijker ("een beetje vanalles") en dat nieuwsproduct is uit elkaar aan het vallen, e.g. http://newsosaur.blogspot.com/2012/07/digital-publishing-model-that-works.html
 * in se goed voor consumenten
 * meer noise (van adverteerders) maar ook van zeer betrouwbare bronnen (experten, non-profits, ...)
 * slecht voor uitgevers: minder loyauteit, meer keuze, lagere winsten
 * slecht voor lezers: redacteurs kunnen niet langer aannemen dat je een zekere achtergrondkennis hebt omdat je elke dag of elke week hun blad leest -- leidt tot frustraties omdat mensen niet begrijpen wat ze lezen
-* Digitaal als instigator, niet als het echte probleem: verhalen vertellen en informatie overbrengen // overal informatie, op tienduizend plaatsen, overal dingen om te lezen, overal mensen om mee te praten -- fungibiliteit (nog net iets anders dan "gewone" schaarste/glut)
+* diefstal: aggregatoren en externe links: sommige apps om bezorgd over te zijn (zoals Flipboard) maar de meeste aggregatoren zijn tegenwoordig sowieso al naar een intelligenter model overgestapt, waarbij ze waarde toevoegen en teruglinken naar de oorspronkelijke bron ipv. te herschrijven
+* Digitaal als instigator, niet als het echte probleem: verhalen vertellen en informatie overbrengen // overal informatie, op tienduizend plaatsen, overal dingen om te lezen, overal mensen om mee te praten -- fungibiliteit (nog net iets anders dan "gewone" schaarste/glut) als verklaring waarom het slecht gaat zelfs in plaatsen waar lokale media een monopolie heeft of landen met kleine taalgemeenschappen (= er zijn altijd andere bronnen)
 
-() Niet te gek doen
+() Niet te gek doen / Oude reuzen
 
 * imitatie en administrators versus ondernemers; design by committee; zolang je een commoditeit blijft is het een race to the bottom en is de enige rationele optie om verder te besparen en nòg meer persberichten te gebruiken en nog vaker aan bijna-plagiaat te doen met herschreven artikels -- allemaal terechte kritiek op de media -- een dodelijke spiraal.
-
-() Oude reuzen
-
-* Makers Ratio (ondanks besparingen)
-* elke werknemer die meer opbrengt dan hij kost is een goeie werknemer, zelfs al is die winst een peuleschil... maar dat denken (dat je mensen moet vergeven – de jaren 70 en 80 waren ongelooflijk winstgevend op veel plaatsen) heeft geleid tot tankers die je nu bijna niet kan keren, en veel mensen die net dat beetje extra winst toevoegden zorgen nu elk voor net dat beetje meer verlies.
-* aggregatoren en externe links: sommige apps om bezorgd over te zijn (zoals Flipboard) maar de meeste aggregatoren zijn tegenwoordig sowieso al naar een intelligenter model overgestapt, waarbij ze waarde toevoegen en teruglinken naar de oorspronkelijke bron ipv. te herschrijven
+* disruptieve innovatie en digital dimes: hoe laat je de geldkoe achter?
 
 * De opkomst van de Nieman Lab-generatie, een nieuwe hoop (zij het vooral in de VS) -- inleiding in andere delen
 
@@ -78,13 +83,9 @@ Journalisten moeten terug speurneuzen worden. Betere speurneuzen dan hun voorgan
 * trends en verhaalideeën bijhouden via twitter, RSS
 * minder general assignment, meer specialisten
 
-() De aanval van PR
-
-* off the record / on background... en hoe pr folk dat gebruiken om journalisten te misleiden
-* pr-boodschappen geschreven zoals artikels, zodat er zo weinig mogelijk moet aangepast worden (inclusief quotes etc.)
-* ...
-
 () Computerjezus
+
+Misschien is journalistiek aan het evolueren van het soort job waar iedereen met een vlotte pen die niet te bang is om mensen te telefoneren dat kan worden, maar stilaan naar een situatie waar een serieuze journalist een behoorlijk knappe kop moet zijn. Dokters hoefden vroeger geen tien jaar te studeren want er was geen tien jaar waard aan medische kennis in de 19de eeuw. Anderzijds, koetsiers en de chauffeurs van de eerste auto's hadden een prestige dat een taxichauffeur op dit moment niet echt draagt. Sommige beroepen zijn moeilijker geworden, andere makkelijker, andere... anders. Zo gaat het. En dat geldt net zo goed voor de media: vroeger kon elk middelmatig blad overleven, nu moet je al een beetje speciaal zijn of een gevestigde naam om te overleven.
 
 * Er is niet enkel het probleem van burgerjournalistiek, maar ook de vereisten van de nieuwe digitale journalistiek. Program or be programmed? Multimedia? Wat moeten scholen leren aan journalisten - twitter?
 * Wat over programmeren?
@@ -95,11 +96,12 @@ Journalisten moeten terug speurneuzen worden. Betere speurneuzen dan hun voorgan
 
 * Journalist als producer / eindredacteur: kiezen hoe efficient een verhaal te vertellen in één van 20 formaten. Nadenken over wat je wil bereiken met je stuk, voorbij nieuwswaardigheid of "misschien leuk voor lezers"
 
-() Een nieuwe stem
+() Het einde van de expert, of, een nieuwe stem
 
 (stukken uit vorige secties samenbinden, en iets over hoe mensen de media bekijken, en zeggen waarom die nopen tot een nieuwe stem)
 
-* Mensen vertrouwen de media steeds minder, niet enkel omdat we soms fouten maken, maar ook gewoon omdat we in een omgeving leven waarbij je altijd op je hoede moet zijn en nooit informatie zomaar mag aannemen (een willekeurige Google-search, de gevaren van Wikipedia, ...)
+* Mensen vertrouwen de media steeds minder, niet enkel omdat we soms fouten maken, maar ook gewoon omdat we in een omgeving leven waarbij je altijd op je hoede moet zijn en nooit informatie zomaar mag aannemen (een willekeurige Google-search, de gevaren van Wikipedia, ...) – de keerzijde van de informatie-explosie en iets waar journalisten vaak over grommen maar dat al bij al een gigantische vooruitgang betekent
+* Tenslotte zijn journalisten helemaal de expert niet. En stilaan beseffen we dat. Case: veranderende moraal over inzage pre-publicatie door bronnen.
 * Net daarom moeten journalisten ook op een andere manier beginnen schrijven. Objectiviteit, news voice, informaliteit
 * Je moet je stem kunnen aanpassen aan je publiek. Steeds vaker betekent dat dat je méér moet kunnen dan alleen schrijven. En steeds vaker moet je je ding op twintig verschillende manieren kunnen zeggen, afhankelijk van het verhaal.
 
@@ -131,18 +133,17 @@ III. Geld verdienen met nieuws
 * Philanthro-journalism (http://www.guardian.co.uk/theguardian/2012/mar/30/philanthropy-capitalism-skoll-world-forum?newsfeed=true) en de problemen daarvan (voortdurend smeken om bijdragen; fondsen werken graag als kickstarters, niet als permanente ondersteunend)
 * co-ops: Tom Stites - Might the new web journalism model be neither for-profit nor nonprofit? - http://www.niemanlab.org/2011/12/tom-stites-might-the-new-web-journalism-model-be-neither-for-profit-nor-nonprofit/ "there are nowhere near enough philanthropic dollars to support enough sites, at least not for long" but the co-op model may work. + stuk op mediakritiek.be (via Apache?)
 
+() Red de journalistiek, niet de kranten
+
+* Makers Ratio (ondanks besparingen)
+* elke werknemer die meer opbrengt dan hij kost is een goeie werknemer, zelfs al is die winst een peuleschil... maar dat denken (dat je mensen moet vergeven – de jaren 70 en 80 waren ongelooflijk winstgevend op veel plaatsen) heeft geleid tot tankers die je nu bijna niet kan keren, en veel mensen die net dat beetje extra winst toevoegden zorgen nu elk voor net dat beetje meer verlies.
+* Reddingsstrategieën van kranten: zie Newsosaur z'n blogpost
+* disruptieve innovatie en digital dimes: hoe laat je de geldkoe achter? [kort herhalen, reeds vermeld in I.]
+* Het probleem ligt misschien niet bij het feit dat je met media plots geen geld meer kan maken, maar dat de operaties een pak kleiner moeten zijn, zich heel sterk moeten focusen, moeten scharrelen naar verschillende inkomstenbronnen en iets bijdragen in plaats van veredelde vanity publishers te zijn --- be a painkiller, not a vitamin zeggen ze in Silicon Valley, en in de media zijn veel uitgevers zelfs niet eens een vitamientje maar eerder wèèral iets nieuws dat om mijn aandacht smeekt
+
 () Scharrelen
 
 * gouden zaagsel, dingen verkopen die je niet kan kopiëren (KK) en geld verdienen in een nieuwe wereld; twintig inkomstenbronnen zoeken in plaats van twee (ads + subs)
-
-() Van A naar B
-
-* disruptieve innovatie en digital dimes: hoe laat je de geldkoe achter?
-
-() Een tijd van extremen
-
-* hyperlocals, niches, professionele diensten (GigaOM, Baekdal, Politico Pro, WSJ)
-* hervaluatie van long-form journalism, maar langs de andere kant ook vlugge tweets en korte samenvattingen van lange artikels -- het web heeft een gigantische hoop informatie vrij beschikbaar gemaakt, dus als je wil overleven moet je opvallen, en als je wil opvallen dan moet je een beetje overdrijven.
 
 () Inkt aan de vingers, vuur in de ogen
 
@@ -153,6 +154,11 @@ III. Geld verdienen met nieuws
 IV. Een nieuwe manier van nieuwsmaken
 
 [Needs work. Ik denk dat het belangrijk is om nieuwsapplicaties, de kracht van mobile en dergelijke te behandelen – te meer gezien ik voor een lezer schrijf die daar helemaal niks over afweet – maar de grote boodschap van dit hoofdstuk moet zijn: denk na over informatie en hoe je gemeenschappen kan helpen, of dat nu journalistiek is of niet doet er niet toe. Misschien eerder dan al die trends hun eigen apart stukje te geven, ze in een lange boog beschrijven om aan mensen duidelijk te maken hoe veel er eigenlijk wel aan het veranderen is en dat mensen voortdurend met nieuwe dingen experimenteren, dus dat het een goeie periode is om met media bezig te zijn.]
+
+() Een tijd van extremen
+
+* hyperlocals, niches, professionele diensten (GigaOM, Baekdal, Politico Pro, WSJ), mini-edities (evening-edition.com, sendmeastory.com)
+* hervaluatie van long-form journalism, maar langs de andere kant ook vlugge tweets en korte samenvattingen van lange artikels -- het web heeft een gigantische hoop informatie vrij beschikbaar gemaakt, dus als je wil overleven moet je opvallen, en als je wil opvallen dan moet je een beetje overdrijven.
 
 () Nieuwe vormen van journalistiek
 
@@ -168,6 +174,7 @@ IV. Een nieuwe manier van nieuwsmaken
 * Interessant vanwege context, bv. je telefoon bovenhalen omdat je in de buurt iets wil vinden om te eten
 * Multi- en crossmedialiteit.
 * Print is eenvoudigweg onhandig (zeker kranten, minder het geval voor magazines) en meer dan één studie spreekt over mensen die zich ongemakkelijk voelen als ze zoveel (vaak ongelezen) papier zien opstapelen. Maar daarom nog niet dood: het inflectiepunt: print waarvoor het echt dient
+* Second screen
 
 () Nieuws-startups en hun problemen
 

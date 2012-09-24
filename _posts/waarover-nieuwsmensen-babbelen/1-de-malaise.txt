@@ -1,12 +1,22 @@
 ### Het einde van een economisch model ###
 
-* De feiten (surveys etc.) en de impact in de UK/VS (sterke lokale kranten en televisiestations met een bijna-monopolie) versus Europa (kleinere advertentiepot, meer concurrentie)
-* advertenties werken niet meer (branding in print; werkt niet online -- we storen mensen eerder dan ze te helpen)
-* het einde van schaarste, glut (Carr)
-
 Maar het einde van schaarste is niet de enige uitdaging voor uitgevers. Zelfs voor het web was de enige manier waarop kranten konden overleven door het samenbundelen van een hele hoop informatie – afhankelijk van de publicatie, een selectie uit: cartoons, het weer, de tv-gids, annonces, een evenementenkalender – en een hele hoop verschillende secties zoals sport en buitenlandberichtgeving, en je moest je vooral niet te veel vragen stellen bij welke pagina's het meest gelezen werden en welke het minst. Cross-subsidiëring heet dat: de winsten van één product (of deel van een bundel) gebruiken om iets anders in leven te houden.
 
-Het web is moeilijk voor nieuwsmakers omdat ten eerste die cartoons en dat weer en die tv-gids nu elders te vinden zijn, maar ten tweede ook omdat elk artikel nu een eigen klein product is, en mensen helemaal niet langer geïnteresseerd zijn om voor zo'n grote bundel te betalen.
+Het web is moeilijk voor nieuwsmakers omdat ten eerste die cartoons en dat weer en die tv-gids nu elders te vinden zijn, maar ten tweede ook omdat elk artikel nu een eigen klein product is, en mensen helemaal niet langer geïnteresseerd zijn om voor zo'n grote bundel te betalen. http://pandodaily.com/2012/08/13/magazines-dont-have-a-digital-problem-they-have-a-bundling-problem/
+
+Ook adverteerders zijn langsom minder geboeid door traditionele media, al duurt het even om uit te leggen waarom precies.
+
+Kranten en magazines waren vroeger zo goed als de enige plaatsen waar je een boodschap de wereld in kon sturen. Advertenties, zoekertjes, overlijdensberichten en ook berichten van de overheid: openbare kennisgeving en boodschappen van algemeen nut. Het hoeft dan ook niet te verbazen dat veel uitgevers midden de eeuw, met de inburgering van de televisie en het tv-journaal en reclamespots, een serieuze dip in hun omzet te verwerken kregen. Gelukkig eentje waarvan de industrie zich heeft kunnen herstellen. Dit keer ligt dat iets moeilijker.
+
+Adverteerders zoeken naar plaatsen waar ze zeer eenvoudig een boodschap kunnen sturen naar (a) een groot publiek of (b) hun doelpubliek. Welnu, het publiek van de gemiddelde krant – gedrukt en online – wordt er alleen maar kleiner op, en online zijn Google en Facebook, niet de traditionele media, de makkelijkste en meest geavanceerde manieren om advertenties te tonen enkel aan je doelpubliek.
+
+Eén van de grootste thema's van 2012 onder marketeers was de dood van de advertentie. Niet nu meteen, natuurlijk, en niet _mors_dood, maar marketeers merken dat advertenties steeds minder effectief zijn en dat er betere manieren zijn om mensen te bereiken: content marketing bijvoorbeeld.
+
+Al deze feiten spelen lichtjes anders uit van land tot land. In Slovenië bijvoorbeeld heb je goed en al X grote spelers en toen die gezamelijk besloten om alles achter een betaalmuur te steken, wel, dan moet je wel betalen als je nieuws wil. In de VS en de UK is dat moeilijker. Voor international nieuws heb je BBC en (in mindere mate) PBS en die zullen altijd gratis blijven, nu de New York Times online betalend is geworden, nou, lees dan wat meer uit de LA Times of de Washington Post, en als je lokale krant betalend wordt, de Charleston Post and Courier in South Carolina, bijvoorbeeld, wel, dan bezoeken we maar de nieuwswebsite die het lokale televisiestation onderhoudt.
+
+Het is al langer duidelijk dat de Amerikaanse markt helemaal anders is dan die van de lage landen – kijk maar naar hoe successvol de Amazon's Kindle e-reader daar is, en hoe gefragmenteerd die markt hier – maar maak jezelf niks wijs: uiteindelijk worden we hier geconfronteerd met net dezelfde problemen. Er zijn weinig Vlamingen die internationaal nieuws lezen uit Nederlandse publicaties, en weinig Nederlanders die deredactie.be bezoeken, maar als je favoriete publicatie plots verdwijnt of je vraagt om een abonnement te nemen, tja, wie kan zeggen hoe gewoontes plots zullen veranderen?
+
+Het lijkt onvermijdelijk dat de media zal krimpen. Mediabedrijven zijn te groot geworden, en er zijn er te veel. Dat is hoe de economie werkt: te hoog aanbod, te lage prijzen, de zwakste spelers gaan kopje onder en op den duur zijn vraag en aanbod weer in evenwicht. (Nicholas Carr)
 
 ### De erfzonde ###
 
@@ -24,7 +34,11 @@ Zoals men al eens placht te zeggen: de krant verkoopt jou geen journalistiek, ze
 
 In 1912 mokte een socioloog reeds over hoe weinig geld mensen wel niet overhadden voor een goeie krant: --- stuk in economist ---- Dat is nooit echt anders geweest.
 
-Nu heeft de Verenigde Staten altijd al een zeer grote advertentiemarkt gehad. In het Verenigd Koninkrijk halen kranten wat meer geld uit abonnees, en in continentaal Europa is het niet abnormaal dat een krant fifty-fifty draait: de helft inkomsten uit abonnees en verkoop, de helft uit advertenties. Vandaar ook dat de mediacrisis waarover je af en toe eens iets hoort passeren in het nieuws een pak harder is aangekomen in de VS. Reeds sinds de jaren 50 is het aantal krantenlezers gestaag aan het dalen, een paar individuele successen daargelaten, dus daar hebben mediabedrijven zich al lang op kunnen voorbereiden. Nee, de echte mediacrisis is in grote mate een advertentiecrisis: bedrijven in de recessie hebben minder geld om te adverteren, en bovendien hebben ze meer mogelijkheden dan ooit om aan marketing te doen buiten kranten om. Wie bijna geen geld vraagt van lezers zit serieus in de penarie als de advertentiemarkt slinkt. Wie die inkomsten mooi gediversifieerd heeft kan al wat meer tegen een stootje. Maar ook niet tot het einde der tijden. De krantencrisis is geen globale crisis en niet overal hetzelfde, maar Europa blijft niet gespaard.
+Nu heeft de Verenigde Staten altijd al een zeer grote advertentiemarkt gehad, en een zeer diverse: advertenties, annonces en een obscene hoeveelheid preprint (losse flyers en folders in de zondagskrant).
+
+In het Verenigd Koninkrijk halen kranten wat meer geld uit abonnees, en in continentaal Europa is het niet abnormaal dat een krant fifty-fifty draait: de helft inkomsten uit abonnees en verkoop, de helft uit advertenties. Vandaar ook dat de mediacrisis waarover je af en toe eens iets hoort passeren in het nieuws een pak harder is aangekomen in de VS. 
+
+Reeds sinds de jaren 50 is het aantal krantenlezers gestaag aan het dalen, een paar individuele successen daargelaten, dus daar hebben mediabedrijven zich al lang op kunnen voorbereiden. Nee, de echte mediacrisis is in grote mate een advertentiecrisis: bedrijven in de recessie hebben minder geld om te adverteren, en bovendien hebben ze meer mogelijkheden dan ooit om aan marketing te doen buiten kranten om. Wie bijna geen geld vraagt van lezers zit serieus in de penarie als de advertentiemarkt slinkt. Wie die inkomsten mooi gediversifieerd heeft kan al wat meer tegen een stootje. Maar ook niet tot het einde der tijden. De krantencrisis is geen globale crisis en niet overal hetzelfde, maar Europa blijft niet gespaard.
 
 In ieder geval, het is verleidelijk om meer te vragen van lezers als adverteerders tekortschieten, maar wie overtuigd is dat lezers eenvoudigweg maar meer _moeten_ betalen omdat journalistiek meer waard is dan haar huidige kostprijs, wel, die mensen zouden wel eens met hun neus tegen de deur kunnen lopen. Voet bij stuk houden en zeggen "mensen moeten en zullen betalen" is eerder koppigheid dan realiteitszin. Niemand moet iets. De dingen zijn zoals ze zijn, en met quasi-religieuze overtuiging – of een soort van misplaatst boerenverstand – zeggen dat mensen "moeten" betalen is geen businessmodel die naam waardig. Zo werkt de economie niet.
 
@@ -44,6 +58,14 @@ Maar het maakt het er niet makkelijker op voor journalisten: de verwachtingen zi
 
 ### Niet te gek doen ###
 
+In een stabiele industrie heb je klerken nodig: mensen die mooi het speelboek volgen, die vooral geen originele gedachte hebben maar die wel een goede neus hebben voor welke nieuw ideetjes – een nieuwe sectie in de krant, een slimme manier om meer abonnementen aan de man te brengen – ze kunnen stelen van de concurrentie. (Liefst uit het buitenland zodat er niet teveel gedoe is over plagiaat, maar stelen van je buur als het moet.) In een stabiele manier is imitatie en trage, doordachte procedures om te beslissen of je iets nieuws wil doen, in zo'n industrie is dat wat leidt tot success. Mensen met leuke ideetjes kan je missen als kiespijn, want er zijn meer manieren om de krant de dieperik in te sturen dan om effectief de winsten te verhogen.
+
+Maar nu zitten we plots in een industrie die, om het zacht te zeggen, nogal tumultueus is. En heel het kader is jarenlang geïndoctrineerd geweest met het mantra: niet te gek doen. Behalve dat innovatie en experimenten het enige zijn dat de nieuwsindustrie kan redden. Voor sommige managers en _chief executives_ zijn de laatste vijf jaar de beste geweest van hun carrière (e.g. mensen bij The Atlantic): eindelijk wat actie, eindelijk echte problemen om op te lossen.
+
+Niet iedereen is enthousiast: sommige mensen toen al tien-twintig jaar goed hun job, hebben een mooie reputatie opgebouwd, en wat blijkt: 't zijn goeie gasten, maar in deze nieuwe omgeving lijkt het alsof ze net van de schoolbanken komen. Een aanzienlijk aantal van die mensen doen alsof er niks aan de hand is: binnen een paar jaar zijn de op pensioen, en dan moet de nieuwe garde het maar uitdokteren. Natuurlijk, met zo'n mensen aan de top hoeft het niet te verbazen dat de industrie zich maar zo traag aanpast aan de crisis.
+
+De eerste reactie van veel kranten is dan ook exact de verkeerde geweest: op een moment waarbij een gigantische hoeveelheid informatie beschikbaar wordt op het web (van kranten maar ook van duizend andere bronnen) is de sleutel om jezelf te onderscheiden van de rest, online en in je krant. Iets nieuws te doen, iets fris, iets met kwaliteit. In plaats daarvan hebben de meeste kranten nogal kortzichtig gereageerd zoals ze op elk economisch dipje zouden reageren: minder inkomsten betekent besparen en hopen dat niemand dat merkt. Maar lezers merken dat wél. En dus geraak je verzeild in een trieste race to the bottom waarbij de enige rationele optie is om verder te besparen en nòg meer persberichten te gebruiken en nog vaker aan bijna-plagiaat te doen met herschreven artikels -- allemaal terechte kritiek op de media -- een dodelijke spiraal.
+
 ### Oude reuzen ###
 
 Bedrijven hebben de neiging om te groeien. Winstgevende bedrijven nog meer. Elke werknemer die meer opbrengt dan hij kost is tenslotte een goeie werknemer, zelfs al is die winst maar een peuleschil. Dus de advertentiewerving gaat van vijf naar twintig. Om die nieuwe bijlagen te produceren komen er meteen tien journalisten bij. Met zoveel mensen kan je bijna niet anders dan een Human Resources departement op te richten, en misschien best ook iemand inhuren om computerproblemen op te lossen. Misschien wat managers om al dat nieuw volk goed te begeleiden. Bedrijven groeien om meer winst te maken, maar bedrijven groeien soms ook gewoon omdat ze kunnen.
@@ -54,8 +76,12 @@ Nu het wat minder gaat en mediabedrijven minder winst maken of zelfs verlieslate
 
 Komt daar nog eens bij dat de digitale revolutie ons niet alleen het web heeft gegeven maar ook allerlei andere applicaties die ons toelaten om diezelfde krant uit te brengen met minder ontwerpers, minder technici, minder verkopers, kortom met minder hulpjes allerhande. Maar de eerste baas die gewillig zijn departement kortwiekt om efficiënter te werken moet nog geboren worden. Het resultaat? Bij de meeste kranten maken journalisten ergens tussen de vijf en de vijftien percent uit van de werknemers. Al de rest zijn hulpjes, zoals ook de schrijver van dit stuk. Verbaast het je dat bedrijven die voor elke productieve kracht vijf ondersteunende krachten nodig hebben, dat zo'n bedrijven niet haalbaar meer zijn?
 
-* Makers Ratio (ondanks besparingen)
+Zelfs ondanks besparingen blijft de _makers ratio_, de mensen die aan journalistiek doen als percentage van iedereen die nodig is om een krant of televisiestation of radiostation te runnen, akelig laag. En de vrijemarkteconomie is niet vergevingsgezind ten opzichte van inefficiëntie.
+
+Het probleem, zegt Robert Pickard, is niet dat er iets mis is met het betalen voor digitale journalistiek, dat is perfect mogelijk, niet eens de markt stabiliseert maar op dit eigenste moment. Het probleem is dat bestaande bedrijven die transitie niet kunnen maken omdat het soort inkomsten dat _zij_ nodig hebben om te overleven eenvoudigweg niet in overeenstemming zijn met de efficiënties die de digitale markt vraagt. http://themediabusiness.blogspot.com/2012/07/digital-journalism-reaches.html
 
 * aggregatoren en externe links: sommige apps om bezorgd over te zijn (zoals Flipboard) maar de meeste aggregatoren zijn tegenwoordig sowieso al naar een intelligenter model overgestapt, waarbij ze waarde toevoegen en teruglinken naar de oorspronkelijke bron ipv. te herschrijven
+
+## De nieuwe generatie ##
 
 * De opkomst van de Nieman Lab-generatie, een nieuwe hoop (zij het vooral in de VS) -- inleiding in andere delen

@@ -1,3 +1,5 @@
+[needs more context to compare this with what e.g. AOL and HuffPo are doing in terms of profit-driven metrics and maybe even structure the post as a rehabilitation of the idea of per-story metrics, or alternatively, as a plea for soft metrics -- maybe two smaller posts]
+
 h3. 7. Each story is an individual product, each reporter her own team
 
 You need the right level of detail, and one part of that is the right level of granularity.

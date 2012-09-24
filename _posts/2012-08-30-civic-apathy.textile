@@ -1,9 +1,0 @@
----
-layout: quote
-language: en
-title: Civic apathy
-canonical: http://www.yelvington.com/content/where-does-local-media-site-traffic-come-anyway
-author: Steve Yelvington
----
-
-The No. 1 challenge for local media is civic apathy.
