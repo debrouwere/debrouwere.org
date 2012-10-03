@@ -1,0 +1,31 @@
+---
+layout: post
+language: en
+title: Simple, good things
+categories: 
+    - tech & society
+summary: | 
+    Creative industries are not bound by the tastes of the masses, not entirely. They create their own standards. Those standards have the power to elevate professions, but at the risk of cutting us off from the one feedback loop that matters: what people like.
+---
+
+John Cage's 4'33" is a composition in three movements, for any instrument or ensemble and it consists of four minutes and thirty three seconds of silence. Cage considers it to be his most important work.
+
+People think 4'33" is a joke. Some love it because composing four minutes of silence _is_, you have to admit, a ballsy, whimsical, out-there thing to do. A musical joke. Equally as many think it's preposterous and doesn't qualify as music or as art, a joke in that sense. But there are listeners who consider it to be much more than that. Usually those who know its history and philosophy, often musicians or composers. For those admirers, 4'33" is a keystone composition of the 20th century.
+
+Art is meant to be consumed but for that to happen, first it needs to be created. Those who consume it pay a moment of attention and then move on with their lives, but those who create it obsess about their art night and day. Same thing with critics.
+
+*Asymmetry in consumption* inevitably leads artists' and critics' tastes to move beyond those of their audience: the artists get bored and try new things and the critics, whose tastes have become jaded through overstimulation, are glad that they can finally sink their teeth into something fresh, something new. The audience, observers from afar, might be less enthralled at artists' experimental urges. Right or wrong, this is why "so many people hate modern art":http://www.vice.com/read/i-dont-get-art but dote on renaissance works crafted under the watchful eye of a patron-dilettante. ("Create art I enjoy or starve.")
+
+This rift in the tastes of creators and the tastes of consumers can happen in every creative endeavor, growing and shrinking over time. Sometimes sheer market forces heal the rift: you may want to publish a book containing nothing but the first ten-thousand prime numbers, and you certainly can, but nobody will buy it. Sometimes consumers catch up, if you give them time. It took almost twenty years for microwave ovens to catch on. Sometimes reality prohibits a rift from ever forming: when building a bridge, you don't get to use your own kind of physics. But *most creative industries allow for a certain amount of play*, professional standards that your users or clients might not care about but that don't upset them either.
+
+Journalism is a good example.
+
+Every journalist and every newspaper vows to uphold professional ethics mandating accuracy and fairness even though a good chunk of readers wouldn't mind reading more gossip and seeing more sleazy celeb photos. Newspapers tend to spend more pages on politics and international news than the average reader cares to see, because it's important. They stubbornly keep reporting on wars and disasters even if readers and viewers are ready to move on. Because it matters.
+
+Journalism also illustrates why *professional standards are not always a boon*. News websites, the vast majority of them, look like ransom notes. Three columns and five layers of information stacked on top of each other when "all we want is a friggin' list of what's happening":http://dashes.com/anil/2012/08/stop-publishing-web-pages.html. Mobile is even worse. Someone somewhere decided news websites should look pretty, when really they don't, they should load fast and be easy to use.
+
+Philosophy's professionalization during the 20th century is another example: academic philosophers spend lots of time talking about "grue and bleen":http://en.wikipedia.org/wiki/Grue_and_bleen and neo-post-Kantian _whateveritis_, but precious little time on the kinds of basic questions Aristotle used to ask, like what it means to be a good person. Philosophers don't write for the masses anymore, unlike, for example, the utilitarians in Victorian England or John Dewey at the dawn of 20th century America.
+
+Directors get to pick unhappy endings, politicians can ignore the "tyranny of the masses":http://en.wikipedia.org/wiki/Tyranny_of_the_majority, a good chef may refuse to cook a steak well done and a poet may write for you and me or they may write for the world's vast legion of English professors.
+
+Capitalism is a harsh master but contrary to popular opinion she does not often cut throats. There's wiggle room. Consumers – users, readers, music lovers, foodies – can be conservative or unsophisticated or wrong and when they are we have the power to overrule them and as professionals decide for ourselves what good music, food and journalism is like. Hoi polloi be damned. But we must recognize that power as the mixed blessing it is. Maybe it's not the unsophisticates, maybe it's you and me who need (re)education. You and me who "can no longer recognize":http://en.wikipedia.org/wiki/Shoshin a simple, good thing when we see it.
