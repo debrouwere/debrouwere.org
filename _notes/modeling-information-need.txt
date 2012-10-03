@@ -241,3 +241,29 @@ THOUGHTS
 * Never be afraid to go for the low-hanging fruit. There's a shit-ton of issues that people know about but don't understand or don't see the importance of, so taking seriously our civic duties as journalist does not have to mean four-month investigations. Explain what's already known, because mainstream media sure as hell isn't doing it.
 * Another way to put it: the first priority is making sure people are better informed about things that affect their lives, because people's current news consumption patterns lead to an audience that learns very haphazardly. Only once you've got that figured out does it make sense to start thinking about what stories are not being told, what sort of stuff media has been consistently bad at shining a light on... and addressing that problem
 * Question: is news that you can't fit into a broader issue and will likely never come back to... is that kind of news ever really valuable or interesting? (Not talking about features or sports, which are different.)
+
+
+
+
+----
+
+AXES OF ENGAGEMENT
+
+EFFICIENT			RELAXED
+summaries	soundbites	analysis
+headlines	overviews	contributing
+
+INFORMED					NEW
+
+efficient coverage	reminders		"background"
+depth			Q&A			timelines
+discuss						up-to-speed
+share expertise
+
+REGULARS					PASSER-BYS
+
+debate			personalization		just the news
+social identity		keep track		efficiency (summaries & Q&A)
+
+
+It's tempting to conflate all this to "into it" and "not into this", but that's not accurate and each group requires its own strategies. You can be an uninformed regular, and a passer-by in a relaxed reading state, and all the other permutations.

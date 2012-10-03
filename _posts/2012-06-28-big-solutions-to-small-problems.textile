@@ -21,7 +21,7 @@ Entire cottage industries have cropped op to exploit our infatuation with big so
 
 You could say that people have trouble seeing simple strategies, and that simple solutions are not easy to find. I'd agree, but my point is more subtle than that.
 
-You could say that every company houses its fair share of dullards, and that the problem is stupidity. Well, yes, but there's more to it. (Also, did you just call me stupid?)
+You could say that every company houses its fair share of dullards, and that the problem is stupidity. Unfortunately yes, but there's more to it.
 
 Part of it is simply a tendency to get excited about anything new and shiny. Or to just want to do something because it looks fun. Why do you think analytics dashboards scattered around the office on big TV screens are so popular? Be honest, have you ever seen anything more badass?
 
@@ -35,6 +35,6 @@ I sometimes fear that we turn simple problems into complex ones, just to be able
 
 Or maybe I'm looking for an intricate explanation where an easy one will do. Maybe it's a widespread but mild form of cargo culting, of imitation without purpose. If Facebook is doing it, so should we. "Anticipatory socialization":http://en.wikipedia.org/wiki/Anticipatory_socialization of sorts.
 
-We find magnificent solutions to minor problems. To our surprise, they never really work. But nevermind, there's always a next problem on the horizon, and another complex, expensive, big cheese solution waiting to be tried out.
+Whatever it is, it's silly.
 
 Here's to boring solutions, low-hanging fruit, duct tape fixes and the "beginner's mind":http://en.wikipedia.org/wiki/Shoshin.

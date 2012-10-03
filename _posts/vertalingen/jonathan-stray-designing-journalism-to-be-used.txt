@@ -1,0 +1,28 @@
+---
+author: Jonathan Stray
+title: Journalistiek voor doeners
+---
+
+Redenen genoeg waarom mensen het nieuws zouden willen volgen, maar voor mij is de belangrijkste missie van de journalistiek mensen helpen om dingen gedaan te krijgen. Huidige nieuwsproducten zijn daar niet heel goed in, vind ik.
+
+Journalistiek met grote J wordt verondersteld te draaien rond grote idealen zoals "democratie" en "het publiek belang." Het is waarschijnlijk belangrijk om geinformeerd het kieshokje binnen te stappen, maar dit is een zeer oppervlakkige theorie als je wil weten waarom journalistiek zo wenselijk is. Kijk rond je heen: bijna niks dat je ziet draait rond stemmen. Het draait rond mensen die denken dat een stukje van de wereld zus moet zijn, niet zo, en dan alles doen om die droom werkelijkheid te maken. Democratie is ok, maar een echte burgercultuur draait een stuk meer rond participatie en empowerment dan louter verkiezingen. En het vereist niet enkel informatie, maar een gereedschapskit.
+
+Krantenartikels op internet en streaming video op een tabletcomputer – dat is niet de gereedschapskit waar ik op doel. Dat zijn kopieën van wat al lang mogelijk was op papier en op televisie. We kunnen veel meer bereiken nu, en ik ga proberen schetsen hoe een nieuwsproduct er ruwweg moet uitzien om de mensen te ondersteunen die de wereld aan het veranderen zijn.
+
+# Wat is een journalistiek "product"?
+
+Dit is een essay over productontwikkeling, dus ik wil heel duidelijk zijn over wat ik precies bedoel met een journalistiek "product". Gezien journalist geen tastbare voorwerp maken, wordt dat product gedefineerd door de ervaring van de gebruiker. Het product is wat de interactie van de gebruiker met het nieuws ook moge zijn. Het is de krant vastnemen tijdens je ontbijt, of CNN kijken in bed, of even wachten tot je mobiele app de koppen ververst terwijl je op de bus zit. En ja, het product bevat ook alle artikels die je leest of ziet via dat medium, maar die artikels alleen zijn het product niet; dat waren ze nooit. Artikels werden altijd al verpakt in een krant of een televisieshow, en dat was het product. Of preciezer, de krant en de televisieshow _zoals de gebruiker besliste die dingen te gebruiken_ was het product.
+
+Heel wat van de courante discussies over de toekomst van de journalistiek focust op hoe de berichtgeving moet veranderen, en terecht. Maar die analyse zegt ons niks over de gebruiker en hoe journalistiek eigenlijk gebruikt wordt – of zou kunnen gebruikt worden.
+
+Digitaal productontwerp in de mediaindustrie bestaat tot dusver vooral uit emulatie van oudere media. Krantenwebsites en apps zien er uit zoals een krant. "Multimedia-journalistiek" bestaat vooral op doorklikken naar slideshows en video. Dit is een beetje zoals de vroege dagen van het televisienieuws , toen ankers niks anders deden dan berichten van een persagentschap luidop voorlezen. Digitale media geeft ons een explosie aan nieuwe mogelijkheden qua productontwerp, maar hetgeen we tot nu toe bij elkaar hebben gedroomd is meer van hetzelfde gebleven.
+
+Ik ga niet beweren dat hetgeen we schrijven zelf niet moet veranderen. Ik geloof van wel. Maar de vraag die we ons stellen kan niet zijn "hoe kunnen we betere reportages maken?" Het moet zijn "wie gebruikt ons product, waarmee willen we hen helpen en hoe kunnen we een systeem bouwen dat hen daarmee helpt?"
+
+Misschien zal je advertenties terugvinden in dat product, en misschien worden de kosten voor het echte werk betaald door celebritynieuws en de tv-gids. Er zijn zakelijke overwegingen die een rol spelen in het definiëren van een journalistiek product, en dat is geen probleem, maar ik wil me even focussen op de gebruikservaring. Heel wat "andere mensen" praten reeds over hoe je geld kan verdienen met journalistiek. Ik probeer iets te maken dat kijkt naar wat mensen willen en nodig hebben en ze daarvan voorziet. Als je dat kan doen dan heb je een publiek, en je kan dat publiek dan advertenties tonen of een abonnement verkopen of je product syndiceren, of weet ik veel.
+
+Het eerste dat ik vraag van een beter product is dit: ik wil dat mensen het gebruiken. Of liever: ik wil dat mensen het _willen_ gebruiken.
+
+# Is het nieuws saai?
+
+Met saai bedoel ik 

@@ -1,10 +1,14 @@
+[Do separate posts about planning death spiral; enterprise CMSes; learning to be happy with 90% --- and keep down the ranting]
+
+[Hmm, there's a lot of good thoughts in here but I don't know if there's anything that would make a good blog post on its own. Maybe something like "the trouble with enterprise software" could work, that talks about perverse incentives, planning death spiral (Liz Keogh), buyers not being users -- either IT or managers (Chris Dixon), never being happy with 90% / the same psychology of rationalizing purchases etc. that apply to a $5 coffee apply to a $500k piece of software, people self-selecting their price-range (Patrick McKenzie)]
+
 Another thing is that the sixties, seventies and eighties set the expectations for what software development and integration is like: it will cost you a ridiculous amount of money, only do half of what you want and it'll take six to twelve months to install it and integrate it with the tools you already have. Software development has gotten much easier since then, but enterprise software vendors have somehow been able to convince their clients that that's still how software works.
 
 People are also very convinced that there are certain things you just kind of need. Things like telephones. OF COURSE YOU NEED PHONES! For about $15 a month, you can set someone up on Skype with unlimited minutes, a real phone number, voicemail, forwarding, the whole shebang.
 
 Now, I work at a local media company in Iowa, and just a month ago we had to fire two journalists because advertising is not what it used to be. (I'm not giving away any company secrets here: advertising is not what it used to be _everywhere_.) I had a chance to look at our 2011 phone bills, and you could hire those two journalists right back if the entire newsroom (not the entire organization, just the newsroom!) stopped using their regular phones and switched to Skype. Just sayin'.
 
-It's very easy to get into this kind of bipolar thing where on the one hand buying a cake to celebrate someone who won an award is considered lavish, but on the other hand spending 
+It's very easy to get into this kind of bipolar thing where on the one hand buying a cake to celebrate someone who won an award is considered lavish, but on the other hand spending millions on a CMS is not. 
 
 ---
 
