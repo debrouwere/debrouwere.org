@@ -1,3 +1,20 @@
+(tilt.js)   (espy)     (stockpile)     (envv)
+  CODE     FIXTURES     LIBRARIES   ENVIRONMENTS
+   |           |            |            |
+   |___________|____________|____________|
+                     |
+              (draughtsman)
+                PROTOTYPE
+            _________|_________
+           |                   |
+      (railgun)            (hector)
+        BUILD                 BAKE
+
+TOOLS: draughtsman, railgun, hector
+BUILDING BLOCKS: espy, envv, tilt.js, stockpile
+
+---
+
 For various reasons, almost all of the work I've done in the past year has been front-end development: making Backbone.js applications, crafting prototypes, testing out website ideas. And it made me realize how poorly front-end developers are catered for when it comes to tools and helpers. No way to package up and optimize your project. No way to use CSS preprocessors or CoffeeScript without having five different watch scripts running. And you have to refresh your browser all the freaking time.
 
 It seems like everyone assumes you'll create a Rails project and use its asset pipeline, even if you don't need any kind of database or render anything on the server. (Same thing for client-side apps. Backbone.js was built in tandem with a Rails application, remember, and packaged up and distributed together with that Rails app, so why bother having sepate front-end development tools?)

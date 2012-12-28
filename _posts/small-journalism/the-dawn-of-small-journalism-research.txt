@@ -1,0 +1,15 @@
+* the dawn of small journalism
+
+==> we're judging new outlets by the criteria of old ones, and in fact sometimes even founders do, and expect to hit it big when really they have a sweet thing going but the way journalism works in this day and age, you're never going to be in charge of twenty reporters or have a budget that's over a million a year. So, for example, when I look to most hyperlocal sites, I'm sad some of them are making only very low wages for the people who run them, or die down when those people decide to move, but if a hyperlocal can pay three full-time reporters/editors/coordinators a good middle-class wage then I think that considering the market, the business opportunities and so forth, that's a big success. One going doing it as a side gig in addition to a full-time gig, but enjoying it and earning enough pocket money and making enough friends to make it worthwhile? That's a success too. I'm not saying there won't be any more media companies that will make it big. The Huffington Post and BuzzFeed and Gawker put the lie to that idea. But I don't think those kinds of organizations will be the median / the norm for much longer.
+
+==> maybe in the future, journalism will (mostly) support small outlets. A single guy maintaining a forum, two people running a hyperlocal blog, a band of people that run a groupblog about their industry part-time, after work. Or a husband and wive reporting on every single death in Washington DC because they felt it was important. The increasing unprofitability of newspapers and big news organizations in general is a sign of decay if you're a reporter and need a job, but from society's point of view, it might just be a necessary readjustment. Just like how tech startups in the dotcom era needed a small army of systems administrators, needed to build their own servers and all that... whereas now you can get together with a friend and learn a popular framework one weekend, build an app the next, upload it somewhere and be done with it.
+
+People have been told for so long that, as technology marches onwards, jobs aren't lost, they're created. But the way that works on a micro-level is like this: people lose lots of jobs, in due course new jobs are created and maybe, just maybe, if you're lucky, you'll find something new.
+
+One of my great-uncles was a tailor who, after WWII when the apparel industry moved from Europe and the States to sweatshops in third-world countries with lower labor costs, became a grocery boy and then a sweeper. It sucks, it absolutely wholeheartedly sucks, but sometimes that's what progress looks like. It looks like industries shrinking and people losing jobs.
+
+cf. full-time-journalist.txt
+cf. 2011-?-those-other-victims.textile
+cf. _posts/makers-ratio.txt
+
+(All that content belongs in one post, though preferably a compact one. Only has to introduce the ideas [of the makers ratio, of small journalism, of not identifying an industry's worth by how many people it employs, of the part-time journalist], not blabber on about them.)

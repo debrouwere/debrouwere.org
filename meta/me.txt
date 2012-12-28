@@ -1,0 +1,9 @@
+[In defense of pageviews t.co/12345 by @stdbrouw] (copypastable tweet)
+
+Short description: I'm a creative technologist at The Guardian. I blog about programming, business and journalism and I help people make news websites. You can reach me at stijn@stdout.be. Why not follow me, I'm @stdbrouw on Twitter.
+
+Longer description: I'm a creative technologist and work as an OpenNews fellow at The Guardian in London. I work with information. I think about how information gets created, stored, how it travels around, is categorized, found, managed and how to meaningfully display _all_ that information to users. I blog about programming, business and journalism and I help people make news websites.
+
+You can reach me at stijn@stdout.be. Why not follow me, I'm @stdbrouw on Twitter. If you’re wondering how to pronounce my name, it’s probably because you can’t. That’s okay, I don’t mind. Most people call me Stan.
+
+Bio: I frankly don't think I need one. It might be fun do a blogpost about all of the things I've done in the past five years, but there's no need for it to be a "thing" on my website.

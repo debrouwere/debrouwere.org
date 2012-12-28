@@ -267,3 +267,13 @@ social identity		keep track		efficiency (summaries & Q&A)
 
 
 It's tempting to conflate all this to "into it" and "not into this", but that's not accurate and each group requires its own strategies. You can be an uninformed regular, and a passer-by in a relaxed reading state, and all the other permutations.
+
+---
+
+What does a story try to achieve?
+
+* inform people (metric: pageviews, understanding)
+* change something (metric: progress towards change)
+* make something a topic of public debate (metric: participation in and quality of debate)
+* improve quality of discourse (metric: extent of improvement and reach)
+* reassure people (metric: amount of drama or concerned citizens calling in)
