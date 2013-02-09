@@ -1,4 +1,8 @@
 ---
+language: nl
+layout: post
+categories:
+    - journalism
 author: Jeff Jarvis
 title: Doe waar je goed in bent en link naar de rest
 ---

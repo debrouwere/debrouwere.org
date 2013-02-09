@@ -1,4 +1,8 @@
 ---
+language: nl
+layout: post
+categories:
+    - journalism
 title: Waarom volgen we het nieuws?
 author: Max Novendstern
 ---

@@ -1,4 +1,8 @@
 ---
+language: nl
+layout: post
+categories:
+    - journalism
 title: Waarom hebben journalisten het zo moeilijk met kritiek?
 author: Scott Rosenberg
 canonical: http://www.pbs.org/idealab/2010/06/why-cant-journalists-handle-public-criticism167.html

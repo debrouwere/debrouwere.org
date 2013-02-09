@@ -1,4 +1,8 @@
 ---
+language: nl
+layout: post
+categories:
+    - journalism
 author: Robert Pickard
 title: Zoektocht naar een nieuw businessmodel gefnuikt door tunnelvisie
 ---

@@ -1,4 +1,8 @@
 ---
+language: nl
+layout: post
+categories:
+    - journalism
 author: Jonathan Stray
 title: Journalistiek voor doeners
 ---

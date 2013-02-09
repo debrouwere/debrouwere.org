@@ -1,4 +1,8 @@
 ---
+language: nl
+layout: post
+categories:
+    - journalism
 title: Een nieuwe navigatiegids voor nieuwe media
 author: Bill Kovach and Tom Rosenstiel
 ---

@@ -1,4 +1,8 @@
 ---
+language: nl
+layout: post
+categories:
+    - journalism
 title: Post-medium publiceren
 author: Paul Graham
 ---

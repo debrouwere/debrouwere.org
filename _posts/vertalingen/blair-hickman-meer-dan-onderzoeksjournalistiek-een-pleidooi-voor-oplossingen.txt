@@ -1,4 +1,8 @@
 ---
+language: nl
+layout: post
+categories:
+    - journalism
 title: Meer dan onderzoeksjournalistiek: een pleidooi voor oplossingen
 author: Blair Hickman
 canonical: http://dowser.org/case-for-solution-journalism/

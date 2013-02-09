@@ -1,5 +1,9 @@
 ---
-author: Lise Williams
+language: nl
+layout: post
+categories:
+    - journalism
+author: Lisa Williams
 title: Lof voor lichtvoetigheid
 canonical: http://lifeandcode.tumblr.com/post/6931421393/in-praise-of-fluff
 ---
