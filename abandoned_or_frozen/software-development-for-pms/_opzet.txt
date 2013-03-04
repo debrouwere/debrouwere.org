@@ -1,9 +1,0 @@
-Een reeksje voor projectmanagers en andere mensen die vaak in contact komen met informatici maar eigenlijk clueless zijn over wat die mensen doèn en hoe ze werken. Veel te simplistisch voor een programmeur, maar geschreven zodat managers er mee weg kunnen.
-
-Eerste post ("wat doet een programmeur") ook in het Nederlands, met dan een verwijzing "de rest van de reeks kan je lezen in het Engels"
-
-* wat doet een programmeer, hoe werkt hij, hoe leert hij bij, hoe kan je ze aanmoedigen en zorgen dat ze goede software produceren
-* hoe je een project kan organiseren (requirements krijgen, tijdslijn opstellen, de juiste mensen vinden, in welke mate product folks in contact moeten staan met de informatici en hoeveel de informatici zelf bijdragen aan dat proces)
-* wat de specifieke omgeving is om kwaliteitsvolle software te garanderen met het minste koppijn: automatische testing (unit testing, acceptance testing, manuele testing), one-step deployment, version control, local/dev/staging/production, afspraken maken over codingstijl (& uitleggen hoe stijl kan verschillen en waarom dat belangrijk is -- remember, het publiek zijn non-techies) en andere 'softe' onderwerpen (zoals versioning met semver)
-* wat breder eigenschappen zijn van elke succesvolle IT-strategie: automatische backups (on+offsite), performance & uptime monitoring (+ bv. Kong), achieving a high bus-factor (documentation, pair programming)
-* een aantal traditionele problemen om te vermijden (throw less at it, not more; avoid salespeople at all costs, because they'll draw you in and sell you crappy software every single time (en ook voorbeeld geven van private clouds & security); involve the developers in the decisionmaking & the financials; use consultants as resources, not because you lack in-house expertise, because if you do, you're at their mercy and don't have the skills to evaluate their performance; avoid the sunk costs trap http://cdixon.org/2010/06/14/pivoting/)

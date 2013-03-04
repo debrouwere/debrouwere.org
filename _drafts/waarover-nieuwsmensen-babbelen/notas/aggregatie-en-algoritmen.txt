@@ -1,9 +1,0 @@
-<--- verhaal van Sullivan brengen, of misschien zelfs mee beginnen. Ook algoritmen rond een verhaal oriënteren --->
-
-Er stelt zich een luxeprobleem aan de internetgebruiker: nu je kan kiezen uit honderden nieuwswebsites en duizenden blogs voor je dagelijkse nieuwsfix, wordt het moeilijk om door het bos de bomen te zijn. Zodat velen onder ons vervolgens toch maar beslissen om te surfen naar Het Laatste Nieuws en het daarbij te houden. Die hunkering naar één grote eindbestemming waar je alles kan lezen wat je wil, gekoppeld aan de hoop om toch een beetje te profiteren van al het moois dat het web te bieden heeft, heeft geleid tot het ontstaan van allerlei aggregators: websites die nieuws van overal verzamelen. Eerst was die taak louter bijeengrabbelen, maar de laatste jaren zijn we daar wat serieuzer in geworden. Daarom spreken we van curatie: net zoals een curator in een museum beslist hoe precies alles tentoongesteld moet worden, wat waar hoort, en wat in een achterkamertje vliegt... net zo heb je journalisten die duizenden maar dan ook duizenden websites per dag afschuimen met behulp van tools als Google Reader, en er voor ons, de lezer, het mooiste en het opvallendste uitpikken.
-
-----
-
-Media als filter, aggregatie en curatie: do what you do best, link to the rest; de externe link-hetze
-
-Deels ook om van AP, Belga, Reuters, AFP, en in Nederland ANP en GDP (+ alternatieven zoals IPS) af te geraken. Nieuwe content-deelnetwerken. (Niet hetzelfde brengen als iedereen...)
