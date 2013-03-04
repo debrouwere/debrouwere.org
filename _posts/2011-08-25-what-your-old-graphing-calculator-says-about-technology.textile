@@ -1,0 +1,11 @@
+---
+layout: quote
+language: en
+categories: 
+    - tech & society
+title: What Your Old Graphing Calculator Says About Technology
+author: Alexis Madrigal
+canonical: http://www.theatlantic.com/technology/archive/2011/08/what-your-old-graphing-calculator-says-about-technology/244028/
+---
+
+Here's the thing. Some technologies don't change all that quickly because we don't need them to. Much as we like to tell the story of The World Changing So Fast, most of it doesn't. Look at cars or power plants or watches or power strips or paper clips. The changes are in the details, and they come slowly. But that's ok. More change isn't necessarily better.

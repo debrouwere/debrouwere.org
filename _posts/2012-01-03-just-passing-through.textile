@@ -1,0 +1,11 @@
+---
+layout: quote
+language: en
+categories:
+    - journalism
+author: Jay Rosen
+canonical: http://johnlrobinson.com/2012/01/a-death-in-the-family-how-our-newspaper-became-the-newspaper/#comment-188
+title: Just passing through
+---
+
+[What] is the style of reporting you want to be doing if you are just passing through on your way to some place more cosmopolitan? If you see your performance in Anytown, USA as an extended audition for the Philadelphia Inquirer, the Los Angeles Times, the Chicago Tribune or the Washington Post, then you will try to do Inquirer journalism in Greensboro. But maybe that’s not what Greensboro needs.

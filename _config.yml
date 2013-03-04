@@ -1,0 +1,16 @@
+safe:        false
+auto:        false
+server:      false
+server_port: 4000
+
+source:      .
+exclude:     ./README, ./LICENSE, ./_director, ./nginx.conf, ./redirects.conf
+destination: ./public
+plugins:     ./_plugins
+
+permalink:   /:year/:month/:day/:title
+
+future:      true
+lsi:         false
+pygments:    true
+markdown:    maruku

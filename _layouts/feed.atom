@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+<title>{{ page.title }}</title>
+<link href="http://stdout.be/{{ page.language }}.atom" rel="self" />
+<link href="http://stdout.be/" />
+<updated>{{ site.time | date_to_xmlschema }}</updated>
+<id>http://stdout.be/</id>
+<author>
+    <name>Stijn Debrouwere</name>
+    <email>stijn@stdout.be</email>
+</author>
+{% for post in site.posts limit: 50 %}
+    {% if post.language == page.language or page.language == 'all' %}
+    <entry>
+        <title>{{ post.title | xml_escape }}{% if post.layout != 'post' %} ({{ post.layout }}){% endif %}</title>
+        <link href="http://stdout.be{{ post.url }}" />
+        <updated>{{ post.date | date_to_xmlschema }}</updated>
+        <id>http://stdout.be{{ post.id }}</id>
+        <content type="html">
+            {% if post.context %}<p><em>{{ post.context | xml_escape }}</em></p>{% endif %}
+            {{ post.content | xml_escape }}
+            {% if post.author %}({{ post.author }}){% endif %}
+        </content>
+    </entry>
+    {% endif %}
+{% endfor %} 
+</feed>

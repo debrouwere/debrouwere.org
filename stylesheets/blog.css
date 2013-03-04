@@ -1,0 +1,170 @@
+body.post h1, body.quote h1, body.comment h1 {
+  color: #ca2c6f; }
+
+summary, summary.inset {
+  display: block;
+  background: #eeeeee;
+  padding: 25px 0; }
+  summary p, summary.inset p {
+    margin-bottom: 0; }
+  summary strong, summary.inset strong {
+    font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+    font-size: 10pt;
+    line-height: 1;
+    margin: 0.35em 0;
+    border-left: 16px solid #999999;
+    padding-left: 16px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #999999;
+    margin-right: 10px; }
+
+article#post div.quote, article#post div.quote p {
+  font-size: 1.15em;
+  font-style: italic; }
+
+article#post p.source {
+  font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+  font-size: 12pt;
+  line-height: 1;
+  margin: 0.35em 0;
+  line-height: 1.3; }
+article#post p.context {
+  color: #999999;
+  font-style: italic; }
+article#post p.author {
+  font-weight: bold; }
+
+div#prevnext {
+  position: relative;
+  width: 960px;
+  margin: 0 auto; }
+  div#prevnext div.content {
+    margin-left: 90px;
+    width: 780px;
+    display: inline-block; }
+  div#prevnext div.prev, div#prevnext div.next {
+    font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+    font-size: 40pt;
+    line-height: 1;
+    margin: 0.35em 0;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    height: 64px;
+    margin-top: -32px;
+    color: #aaaaaa;
+    display: inline-block;
+    width: 90px; }
+  div#prevnext div.next {
+    left: 895px; }
+  div#prevnext div.prev a, div#prevnext div.next a {
+    padding: 5px;
+    text-decoration: none; }
+  div#prevnext div.prev a:hover, div#prevnext div.next a:hover {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background: white; }
+
+article.comment {
+  margin-bottom: 20px; }
+  article.comment p:last-child {
+    margin-bottom: 0; }
+  article.comment .comment-about {
+    font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+    font-size: auto;
+    line-height: 1;
+    margin: 0.35em 0; }
+  article.comment .comment-meta {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 30px; }
+  article.comment .comment-content p {
+    font-size: 17px;
+    line-height: 1.7; }
+  article.comment .comment-about {
+    text-align: right;
+    width: 100px;
+    display: inline-block;
+    vertical-align: top; }
+  article.comment .comment-content {
+    padding-left: 20px;
+    margin-left: 20px;
+    border-left: 1px solid #dddddd;
+    width: 480px;
+    display: inline-block; }
+  article.comment .comment-author {
+    font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+    font-size: 16pt;
+    line-height: 1;
+    margin: 0.35em 0; }
+
+div#comments {
+  margin-bottom: 20px; }
+  div#comments .by-author div.comment-content {
+    border-left: 1px dotted #ca2c6f; }
+  div#comments .by-author div.comment-author {
+    color: #ca2c6f; }
+  div#comments form em {
+    padding-left: 5px;
+    color: #aaaaaa; }
+  div#comments form input[name='suikerklontje'] {
+    display: none; }
+  div#comments form input[type='submit'] {
+    margin-left: 125px; }
+  div#comments form label {
+    font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+    font-size: 12pt;
+    line-height: 1;
+    margin: 0.35em 0;
+    display: inline-block;
+    text-align: right;
+    width: 110px;
+    padding: 4px 10px 4px 0;
+    vertical-align: top; }
+    div#comments form label span {
+      border-bottom: 1px solid #eeeeee; }
+  div#comments form textarea {
+    height: 210px; }
+  div#comments form input[type='text'], div#comments form textarea {
+    color: #222222;
+    border: 2px solid #dddddd;
+    padding: 4px;
+    font-size: 1em;
+    font-family: Monaco, fixed;
+    width: 445px;
+    margin: 2px 0 4px 0; }
+    div#comments form input[type='text']:focus, div#comments form textarea:focus {
+      border-color: #a0b0c0;
+      background: #fcfcfd;
+      outline: none; }
+  div#comments form.invalid input[type='text'], div#comments form.invalid textarea {
+    border: 2px solid #cc3333; }
+    div#comments form.invalid input[type='text']:focus, div#comments form.invalid textarea:focus {
+      border: 2px solid #cc3333; }
+
+article#post div {
+  width: 550px;
+  padding-right: 30px;
+  border-right: 1px solid #d4d4d4; }
+article#post p, article#post li {
+  font-size: 17px;
+  line-height: 1.7; }
+
+ul#categories {
+  padding: 0; }
+  ul#categories li {
+    font-family: "ff-netto-web-1", "ff-netto-web-2", sans-serif;
+    font-size: auto;
+    line-height: 1;
+    margin: 0.35em 0;
+    display: inline-block;
+    list-style-type: none;
+    margin-bottom: 0; }
+    ul#categories li a {
+      background: white; }
+
+a.permalink {
+  text-decoration: none;
+  padding: 0 25px 0 5px; }

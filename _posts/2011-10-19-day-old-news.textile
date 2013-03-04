@@ -1,0 +1,13 @@
+---
+layout: comment
+language: en
+title: Day-old news
+categories:
+    - journalism
+context: We've worn out the idea that yesterday's news doesn't cut it anymore in this fast-paced uber-connected world. There's good journalism at every time scale.
+canonical: http://paulbalcerak.com/2011/10/18/is-day-old-news-fresh-enough/#comment-339308023
+---
+
+I'm not going to complain about the New Yorker for being print-first and not very interested in audience interaction. I don't think that's the right approach for most media outlets but it works for them and they have some kick-ass journalism going on. WIRED has an amazing online presence but I really only read the monthly magazine, which by the way always arrives two weeks too late here in Belgium, so depending on their editorial calendar the reporting I'm reading is 4-6 weeks old. I don't mind. And when I'm reading a day-old newspaper on the train, I don't mind either. So in that sense, I do agree with Godin when he says that "the value of breaking news is overrated":http://sethgodin.typepad.com/seths_blog/2011/07/day-old-news-is-fresh-enough.html: there's room all over the spectrum, for live reporting, for enterprise stories that take months to produce, and yes, for day-old news.
+
+Now, the more interesting question is: when you stop hunting for breaking news, is there anything you can do with the time you've gained? Can you provide a service that is perhaps more valuable than breaking news to your audience if only they'll humor you while you're slow-cooking? Answer that, and you know what to do.

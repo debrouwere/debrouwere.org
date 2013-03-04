@@ -1,0 +1,16 @@
+---
+layout: blogbase
+type: post
+---
+
+{{ content }}
+        
+{% if page.canonical %}
+    {% if page.language == 'nl' %}
+    <p class="notice">Dit is een gastbijdrage.
+Ik schreef ze oorspronkelijk voor <a href="{{ page.canonical }}">{{ page.canonical | truncate 40 }}</a></p>            
+    {% else %}
+    <p class="notice">This is a crosspost.
+It originally appeared at <a href="{{ page.canonical }}">{{ page.canonical | truncate 40 }}</a></p>
+    {% endif %}
+{% endif %}

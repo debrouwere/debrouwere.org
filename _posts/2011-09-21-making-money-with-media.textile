@@ -1,0 +1,54 @@
+---
+layout: post
+language: en
+categories:
+    - journalism
+    - business & management
+title: Making money with media
+---
+
+"“I think the economic challenge is too high”.":http://www.poynter.org/latest-news/top-stories/105581/paidcontents-rafat-ali-describes-grim-view-of-online-news-prospects/
+
+It's ridiculously hard to make good money with news. It truly is. I've been working in this industry for three years now. I feel like I've become pretty good at what I do _thank you very much_. Just don't ask me how to make money with news.
+
+Some newspapers and blogs are still in that happy zone where they can rely solely on *advertising*. But advertising budgets keep shrinking, and anyway, there's something deeply unsettling about making money by annoying the hell out of your readers and viewers. ("Oliver Reichenstein would disagree, however.":http://www.informationarchitects.jp/en/business-class-news/)
+
+Yes, there is good advertising too.
+
+I actually enjoy leafing through a magazine with beautiful full-page ads.
+
+I like *sponsorship* schemes too. A sponsor's logo next to an act of journalism feels like a company telling us that, hey, they like this stuff just as much as we do, and they want to support good reporting. (Yes, I know it's actually rather less altruistic.)
+
+And while advertising that works on the principle of *intent generation* — _buy this, buy this!_ — is annoying, that's not the only kind of ads there are. Google's AdWords or featured listings in a classifieds section can actually be pretty helpful. That's because they rely on "*intent harvesting*":http://cdixon.org/2009/09/27/online-advertising-is-all-about-purchasing-intent/#comment-17638191 instead: trying to sway users towards certain options when they've already decided they want to buy something much like what you're offering.
+
+As we switch more and more from interruption marketing to "*permission marketing*":http://en.wikipedia.org/wiki/Permission_marketing, advertising will in all likelihood become more helpful and less intrusive, but there will be less of it too. How much money can we get out of just sponsorships and contextual ads?
+
+The cold hard fact is that if I were a local business owner today, I would not for the life of me pay for a *banner ad* on a news website. You get so much more out of a simple Facebook page it's ridiculous.
+
+We'd need less money in the first place if we *cut down on spending* and organized newspapers a little more like "startups":http://www.mediabistro.com/10000words/what-newsrooms-can-learn-from-tech-startups_b2585. But lean hyperlocals are struggling too. And that new flagship in Texas, the tightly-run well-oiled "Tribune":http://www.texastribune.org/, is a *non-profit*. John Thornton simply does not believe the Texas Tribune and its kind of journalism could work as a commercial enterprise.
+
+The jury is still out on the workability of *paywalls*. I agree with Steve Yelvington that "a _porous_ wall can make business sense":http://www.yelvington.com/content/thinking-about-paywall-read-first. But part of what makes online journalism so much more engaging than its print counterpart is all the conversation around stories and news reports. No matter how soft your wall is, it's still a wall, and you can't talk about something you can't see. Making money by destroying part of our value proposition is better than having no money at all, but you'll forgive me for not being all psyched about it.
+
+*Cross-subsidization* has long been _the_ way media companies made money. News itself never made much money, but the classifieds did, so all was good. Thing is, when you sell a bundle of only tangentially related things where one part subsidizes the other, eventually somebody is going to take the profitable part of your business and copy it —  _without_ the news part.
+
+A couple of years back, the Chicago Tribune toyed with the idea of offering general web design services. "Rue89":http://www.rue89.com/ actually does. But a web design company doesn't need a news website to provide its services, so you're at a competitive disadvantage against the vast majority of web design firms that _aren't_ media organizations. I've heard people say that it's embarassing that it wasn't a newspaper that invented Craigslist. I disagree. If we had, Craig Newmark _still_ would have kicked our ass and _still_ would have stolen our classifieds. Again: if you bundle things, prepare to get *unbundled*.
+
+Cross-subsidization and "*loss leaders*":http://en.wikipedia.org/wiki/Loss-leading in journalism aren't entirely dead though. Solid reporting leads to strong, well-respected brands. You can *leverage that cultural capital* to help sell social media courses or a styleguide or an event. There's money there, but again, less than there used to be.
+
+Perhaps it's just that the web sucks for making money. Who knows. But *iPad apps and interactive magazines* are turning out to be far from the huge revenue makers they were hyped up to be. Don't expect a solution there. Print won't die, but circulations are declining and the average subscriber keeps getting older.
+
+*Micropayments*, then? Something like iTunes, say? Long-form journalism on the Kindle (where you pay a couple of bucks for a single story) "seems to be working out for ProPublica":http://www.niemanlab.org/2011/02/1900-copies-how-a-top-selling-kindle-single-is-generating-new-audiences-for-propublica/. But honestly, there's so much news out there, so much of it interchangeable. Why pay for stories when Google can point you to the same story on a different website for free? And even when it's great, unique journalism we're talking about, it doesn't take a genius to see why a news experience that consists of having consumers ask themselves "Okay, should I pay for this article? Maybe? Maybe not? Maybe? Maybe not?" over and over and over again is unpalatable.
+
+Among the many *tip jar* systems, I like "Readability":http://www.readability.com/ most, but I don't see it going mainstream.
+
+*Premium content* was a fad some years back, but it turned out "premium" really just meant jazzed-up mediocrity. Yes, you can charge (or charge more) for superb content, but really great content is also really expensive to make, so while increasing revenue with premium content is easy, actually getting profits out of it isn't.
+
+Some media execs still want to make money with *user-generated content*, but, um, 2005 wants its business model back. Among *community-driven sites*, "MetaFilter":http://www.metafilter.com/ and "Reddit":http://www.reddit.com/ and "Davis Wiki":http://daviswiki.org/ are doing well, but it's not like their model is easily replicated.
+
+Steve Buttry wants local media companies to become *community service* companies, and I like that line of thinking, but "the Internet hates middlemen":http://stdout.be/2010/06/08/c3/ so getting your cut on ticket sales and daily deals as a facilitator might be harder than you imagine.
+
+I refuse to believe that media is a hard business to be in, but evidence is against me.
+
+It seems the best we can do is *mix-and-match* ten different sources of income, none of them sufficient on their own but not too shabby if you add 'em up. Thing is: that's what news gurus say, but I've never actually seen one of them pull off said diversification.
+
+This is driving me nuts.

@@ -1,0 +1,24 @@
+---
+layout: post
+language: en
+categories:
+    - journalism
+title: Getting it
+summary: There are not enough reporters in the news industry, and too many writers.
+---
+
+As much as I love new stuff, I'm your archetypical late adopter. I don't have a smartphone and I don't think I'll ever get a tablet. I started using twitter just a couple of months ago. My MP3 player is seven years old and it's not an iPod. I started using the Delicious bookmarking tool at precisely the moment everybody decided social bookmarking was _passé_. I write all my blogposts in TextEdit.
+
+All in all, I sympathize with the old farts in the newsroom. A liveblog here and a Google map there isn't suddenly going to turn you into a better reporter.
+
+What _does_ worry me, though, is that many journalists seem to define their jobs in an oddly circular way: journalism is what journalists do. Hence, to be a good journalist, you should emulate what good journalists did before you, or more specifically, _how they wrote_. And because the best journalists ten and twenty years ago didn't know the first thing about statistics, never used an RSS reader to keep track of their beat and surely didn't care about engaging with their readers, why should we?
+
+But by imitating the best journalism of yesterday without a full understanding of _why_ that journalism was great and _what_ made it so powerful, our industry is slowly amassing an unsettling amount of cargo cult behaviors: we're imitating a 20th-century writing style and ethical code without the first idea about how these contribute to journalism that is informative, engaging and fair.
+
+If accountability journalism is your thing, why do you not know how to use Excel and Google Fusion Tables? If awareness is what it's about, then why are you so afraid of using twitter to reach out to people? If it's important for your job to keep up with the latest happenings in the music industry, how can you not realize how much easier RSS will make things for you?
+
+I don't believe there's a great digital divide between journalists and techies. I believe there's a great divide between those who merely _do_ journalism, and those who _get_ it. Between people who want to write and people who want to be reporters. If you get journalism, you won't allow a little uneasiness around computers or a lack of mathematical aptitude to faze you and keep you from being a better journalist. If there's an obstacle preventing you from giving your readers the kind of reporting you feel they deserve, you'll pick up whatever tool will help you to do a better job and you're not going to rest until you get it. And if you don't find the right tool, then you try your best with the tools you've got, like liveblogging by constantly updating that same post, cajoling a tech friend into helping you out with that Google map or keeping in touch with readers over email if your boss won't let you use social media.
+
+Conversely, we can do without the gadgeteers and the fakers. A lot of the journalists that use twitter nowadays stupidly use it as a cheap way to get quotes from readers without having to leave the comfort of their chair. Or they ask the graphics department for a flashy infographic because interactive visuals look so pretty. That's technology too. It's just not very interesting.
+
+It's that old cliché, courtesy of "Antoine de Saint-Exupéry":http://en.wikipedia.org/wiki/Antoine_de_Saint-Exupéry: "If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea." Get people excited about being better journalists, show them how technology helps them reach that goal, and the luddites will be luddites no more.

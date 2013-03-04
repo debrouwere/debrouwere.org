@@ -1,0 +1,186 @@
+@import "constants"
+
+body.post, body.quote, body.comment
+  h1
+    color: $cerise
+
+summary, summary.inset
+  display: block
+  background: $silver
+  padding: 25px 0
+  
+  p
+    margin-bottom: 0
+    
+  strong
+    @include netto(10pt)
+    border-left: 16px solid $gray
+    padding-left: 16px
+    letter-spacing: 1px
+    text-transform: uppercase
+    color: $gray
+    margin-right: 10px
+
+article#post
+  div.quote, div.quote p
+    font-size: 1.15em
+    font-style: italic
+
+article#post
+  p.source
+    @include netto(12pt)
+    line-height: 1.3
+
+  p.context
+    color: #999
+    font-style: italic
+    
+  p.author
+    font-weight: bold
+
+div#prevnext
+  position: relative
+  width: 960px
+  margin: 0 auto
+  
+  div.content
+    margin-left: 90px
+    width: 780px
+    display: inline-block
+      
+  div.prev, div.next
+    @include netto(40pt)
+    position: absolute
+    left: 0
+    top: 50%
+    height: 64px
+    margin-top: -32px
+    color: #aaa
+    display: inline-block
+    width: 90px
+  
+  div.next
+    left: 895px
+    
+  div.prev, div.next
+    a
+      padding: 5px
+      text-decoration: none
+    a:hover
+      @include radius(5px)
+      background: white
+
+article.comment
+  margin-bottom: 20px
+  
+  p:last-child
+    margin-bottom: 0
+      
+  .comment-about
+    @include netto
+    
+  .comment-meta
+    display: block
+    font-weight: bold
+    margin-bottom: 30px
+    
+  .comment-content p
+    font-size: 17px
+    line-height: 1.7
+    
+  .comment-about
+    text-align: right
+    width: 100px
+    display: inline-block
+    vertical-align: top
+    
+  .comment-content
+    padding-left: 20px
+    margin-left: 20px
+    border-left: 1px solid #ddd
+    width: 480px
+    display: inline-block
+    
+  .comment-author
+    @include netto(16pt)
+
+div#comments
+  margin-bottom: 20px
+    
+  .by-author div
+    &.comment-content
+      border-left: 1px dotted $cerise
+      
+    &.comment-author
+      color: $cerise
+
+  form
+    em
+      padding-left: 5px
+      color: #aaa  
+
+    input[name='suikerklontje']
+      display: none
+    
+    input[type='submit']
+      margin-left: 125px
+    
+    label
+      @include netto(12pt)
+      display: inline-block
+      text-align: right
+      width: 110px
+      padding: 4px 10px 4px 0
+      vertical-align: top
+
+      span
+        border-bottom: 1px solid $silver
+
+    textarea
+      height: 210px
+
+    input[type='text'], textarea
+      color: #222
+      border: 2px solid #ddd
+      padding: 4px
+      font-size: 1em
+      font-family: Monaco, fixed
+      width: 445px
+      margin: 2px 0 4px 0
+
+      &:focus
+        border-color: $slate
+        background: lighten($slate, 30%)
+        outline: none
+
+    &.invalid
+      input[type='text'], textarea
+        border: 2px solid #c33
+        
+        &:focus
+          border: 2px solid #c33
+
+article#post
+  div
+    width: 550px
+    padding-right: 30px
+    border-right: 1px solid darken($silver, 10%)
+    
+  p, li
+    font-size: 17px
+    line-height: 1.7
+
+ul#categories
+  padding: 0
+  li
+    @include netto
+    display: inline-block
+    list-style-type: none
+    margin-bottom: 0
+    
+    a
+      background: white
+
+a.permalink
+  text-decoration: none
+  padding: 0 25px 0 5px

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	<head>
+		<title>stdout.be | {% if page.title %}{{ page.title }}{% else %}about information architecture and the media industry{% endif %}</title>
+        {% if language == 'en' %}
+        <meta http-equiv="Content-Language" content="en-US" />
+        <meta name="dc:language" content="en-US" />
+        {% else %}
+        <meta http-equiv="Content-Language" content="nl-BE" />
+        <meta name="dc:language" content="nl-BE" />
+        {% endif %}
+        <meta charset="utf-8" />
+        <meta name="author" content="Stijn Debrouwere" />
+        <meta name="dc:creator" content="Stijn Debrouwere" />
+        <meta name="dc:publisher" content="Stijn Debrouwere" />
+        <meta name="og:site_name" content="stdout.be" />
+        <meta name="og:url" content="http://stdout.be{{ page.url }}" />
+        <meta name="dc:title" content="{{ page.title }}" />
+        <meta name="og:title" content="{{ page.title }}" />
+        <meta name="dc:date" content="" />
+        <meta name="dc:type" content="text" />
+        <meta name="og:type" content="blog"/>
+        <meta name="keywords" content="{{ page.categories }}" />
+        <meta name="readability-verification"  content="y98eFTJZmZCNKjT2HY2PB45X4u6xmnxCxHxbNHVc" />
+        <link rel="foaf:primaryTopic foaf:maker" href="/en/about-me/" />
+        <link rel="alternate" type="application/atom+xml" title="English blogposts on stdout.be" href="/en/feed/" />
+        <link rel="alternate" type="application/atom+xml" title="Nederlandstalige blogposts op stdout.be" href="/nl/feed/" />
+        <link rel="alternate" type="application/atom+xml" title="Alle blogposts van stdout.be" href="/feed/" />
+        <link rel="icon" href="/favicon.ico" type="image/png">
+        {% if page.type == 'post' and page.canonical %}
+        <link rel="canonical" href="{{ page.canonical }}" />
+        {% endif %}
+        <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-12933299-1']);
+            _gaq.push(['_trackPageview']);
+            _gaq.push(['_setDomainName', 'stdout.be']);
+            
+            (function() {
+            var ga = document.createElement('script');
+            ga.src = ('https:' == document.location.protocol ?
+                'https://ssl' : 'http://www') +
+                '.google-analytics.com/ga.js';
+            ga.setAttribute('async', 'async');
+            document.documentElement.firstChild.appendChild(ga);
+            })();
+        </script>
+        <script type="text/javascript" src="http://use.typekit.com/uwo6abd.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+        <link rel="stylesheet" type="text/css" href="/stylesheets/base.css" />
+        <link rel="stylesheet" type="text/css" href="/stylesheets/homepage.css" />
+        <link rel="stylesheet" type="text/css" href="/stylesheets/blog.css" />
+        <link rel="stylesheet" type="text/css" href="/stylesheets/reviews.css" />
+	</head>
+	<body class="{{ page.language }} {{ page.type }}">
+        <div id="main">
+            <header class="centered">
+                <a href="/{{ page.language }}/" class="avatar"><img src="/images/me.jpg" /></a>
+                <nav>
+                    <ul id="language" class="inline">
+                        {% if page.equiv %}
+                            {% if page.language == 'en' %}
+                            <li><a href="{{ page.equiv }}" class="nl">NL</a></li>
+                            <li><a href="{{ page.url }}" class="en">EN</a></li>
+                            {% else %}
+                            <li><a href="{{ page.url }}" class="nl">NL</a></li>
+                            <li><a href="{{ page.equiv }}" class="en">EN</a></li>                            
+                            {% endif %}                        
+                        {% else %}
+                        <li><a href="/nl/" class="nl">NL</a></li>
+                        <li><a href="/en/" class="en">EN</a></li>                        
+                        {% endif %}
+                    </ul>
+                    {% include nav.html %}
+                </nav>
+                <p class="title"><a href="/">stdout.be</a></p>
+                {% if page.description %}
+                    {% if page.language == 'en' %}
+                    <p id="about-this">{{ page.description.en }}</p>
+                    {% else %}
+                    <p id="about-this">{{ page.description.nl }}</p>                    
+                    {% endif %}
+                {% endif %}
+        </div>
+        {{ content }}
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+        <script type="text/javascript" src="/scripts/jquery.inview.min.js"></script>
+        <script type="text/javascript" src="/scripts/jquery.url.packed.js"></script>
+        <script type="text/javascript" src="/scripts/scripts.js"></script>
+	</body>
+</html>

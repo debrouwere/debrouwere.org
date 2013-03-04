@@ -1,0 +1,24 @@
+---
+layout: comment
+language: en
+title: The Rise of the Internet (Anti)-Intellectual?
+canonical: http://thesocietypages.org/cyborgology/2011/10/17/the-rise-of-the-internet-anti-intellectual/#comment-1676
+categories:
+    - tech & society
+context:
+    Some academics are complaining about how vapid popular literature about internet culture is, insisting that more people should listen to *them* instead. I disagree.
+---
+
+I'd have to disagree that academic works are by definition or even de facto more rigorous or closer to the truth than popular works à la Jarvis.
+
+While sociology and psychology are empirical sciences, the closer you get to theoretical sociology and communication studies, the more philosophical these investigations become and thus the more dependent on the persuasiveness of the argumentation and, let's be honest, on being able to string together a bunch of pithy quotes by important precursors that through a process akin to magic end up supporting your argument. I have a master's in philosophy and plenty of buddies with doctorates, so I know full well how this works and how dishonest some academics are in this regard — whether the intellectual fraud is pursued wittingly or not, I don't know.
+
+In my own field of expertise, epistemology, it was at times plain dazzling to see how childish philosophers can act when confronted with their opponents' arguments, with how much nonchalance opposing views get brushed off. Or how simplistic some of the proposed theories and arguments were in the first place. A PhD does not a scholar make.
+
+(As an aside, the slightly immature running joke among my fellow philosophy students was always that critical theory and communication studies was just crappy philosophy, and that we felt sorry for people in those fields, heh.)
+
+There is amazingly great work going on in academe (though not all of it as well-written as it could be), but for every good paper there are ten bullshit ones. Which is about the same ratio that you can expect to see in the literature "business folks" write. Yet the message you seem to convey is one of blanket rejection — maybe at most this stuff is "enjoyable", but it's not written by someone in my professional sphere, so it can't be any good. Is that really what you're saying? Is that opinion based on broad and substantive evidence, viz. have you read a lot of these books, and have you tried to read them without too many preconceptions, without begrudging the non-professionals for entering your territory even before you start to read?
+
+Come to grips with the fact that universities are not the only place where wisdom originates nowadays, and take responsibility for academia's utter failure in disseminating its findings and theories. Solve that problem before you complain about jaded publishers, a public that does not listen and before you start calling anyone an anti-intellectual.
+
+(And, yes, you hit a nerve here.)

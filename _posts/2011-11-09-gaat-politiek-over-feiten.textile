@@ -1,0 +1,17 @@
+---
+layout: comment
+language: nl
+categories:
+    - journalism
+title: Gaat politiek over feiten?
+canonical: http://www.facebook.com/permalink.php?story_fbid=171960889565052&id=158035147600441
+context: Tom Naegels, ombudsman voor De Standaard, vraagt zich af of journalisten uitspraken van journalisten eerst moeten fact-checken voor te te publiceren.
+---
+
+Goed stuk. Twee opmerkingen.
+
+Eén: ik betwijfel of het niet-checken van politieke uitspraken altijd een kwestie is van haast. Evenvaak is het de wens van een krant om neutraal te blijven. En dus worden dingen gepubliceerd waarvan journalisten best weten dat ze kort door de bocht zijn, zonder veel duiding, omdat "het oordeel aan de lezer is".
+
+Je kan fair en evenwichtig schrijven zonder te moeten vervallen in iedereen-heeft-evenveel-gelijk. Ik zie niet in waarom een journalist lezers er niet op zou mogen wijzen dat een uitspraak zwans is. Als je dat aandurft, vermijd je doorgeefluik te worden voor halve waarheden. Publiceren / niet publiceren vind ik dan ook een verkeerde dichotomie; er zijn betere manieren om om te gaan met uitspraken als die van Francken. "Zie ook Jay Rosen over dit onderwerp.":http://pressthink.org/2011/08/why-political-coverage-is-broken/#p29
+
+Twéé: zou De Standaard niet eens zijn eigen "PolitiFact":http://www.politifact.com/ oprichten?

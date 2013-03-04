@@ -1,0 +1,12 @@
+---
+layout: quote
+language: en
+title: Anti-patterns
+categories:
+    - coding
+canonical: http://news.ycombinator.com/item?id=3007615
+author: rickmb
+context: With a thick dose of irony, rickmb pithily shows the childishness of arguments against common abstractions in programming, like web frameworks and object-relational mappers.
+---
+
+Trains are an anti-pattern because you almost always eventually have to go somewhere where there are no tracks or stations.

@@ -1,0 +1,38 @@
+<h2>
+    {% if comments|length == 0 %}
+        {% if allows_comments %}
+        be the first to comment 
+        {% endif %}   
+    {% elif comments|length == 1 %}
+        1 comment
+    {% else %}
+        {{ comments|length }} comments
+    {% endif %}
+</h2>
+
+<div class="list">
+    {% for comment in comments %}
+    {% include "comment.html" %}
+    {% endfor %}
+</div>
+
+{% if allows_comments %}
+<form method="POST" action="/director/comments/">
+    <input type="hidden" name="post" value="{{ permalink }}" />
+    <input type="text" name="suikerklontje" />
+    
+    <label for="author"><span>name</span></label>
+    <input type="text" name="author" />
+    <br />
+    <label for="email"><span>e-mail</span></label>
+    <input type="text" name="email" /> <em>(won't be published)</em>
+    <br />
+    <label for="website"><span>website</span></label>
+    <input type="text" name="website" />
+    <br />
+    <label for="content"><span>your thoughts</span></label>
+    <textarea name="content"></textarea>
+    <br />        
+    <input type="submit" name="submit" value="Submit comment" />
+</form>
+{% endif %}

@@ -1,0 +1,35 @@
+---
+layout: post
+language: en
+categories:
+    - journalism
+    - business & management
+title: Battling banner blindness
+summary: Banner ads don't work, but there are other ways to do advertising.
+---
+
+Banner blindness is at "close to 50% for internet ads":http://www.prnewswire.com/news-releases/are-advertisers-wasting-their-money-111254549.html. I wonder how long it's going to take most newspapers to realize that we need to reinvent how businesses connect with our users, because banner ads are just "not working out":http://stdout.be/2011/11/19/advertising/#summary. At all.
+
+I simply cannot believe that there isn't a way to tell people about new products and services and special deals without pissing them off. After all, at the right times and in the right quantities, we want to know about the new furniture store that opened up just outside downtown, next month's concerts at the arena and the new flavor of Doritos. The problem is not that we hate advertising, the problem is that we hate the kind of advertising we get.
+
+People are generally okay with commercial information, but they don't want to be bombarded with it and they don't want to learn about your Friday special through a screaming, distracting graphic. Why don't we do things like this instead: 
+
+!/images/content/2011-11-22-useful-advertising.png(Today's featured event, hey, that's useful. An easy way to remind myself and my friends about it so we can meet up, even more useful.)!
+
+One promising alternative to banner ads, it seems to me, is a revival of *the good old-fashioned sponsorship* and the copywriting behind it.
+
+If readers and viewers are ignoring visually intensive advertisements, the last thing we should do is to try and make our ads stand out. Instead, we should incorporate them in the content in a way that doesn't violate our journalistic integrity. Which is a pretty good description of how sponsorships worked in the early days of radio and how they sometimes still work: the host thanks the sponsor, either the host or the sponsor describes what they're selling in one or two sentences, add a jingle, and that's that.
+
+Sponsorships — as an ad format — have three advantages over banners.
+
+* The announcement of the sponsor is either part of the lede (for text) or the intro for broadcast radio or video — that is, it's *integrated* in the content, not something you have to sit through in order to get to the content. That means consumers can't easily skip the advertisements, but the short "length of these messages":http://www.thepomoblog.com/index.php/weve-got-to-do-something-about-pre-rolls/ also means they're not so annoying that you'd actually _want_ to skip them.
+* Sponsorship messages *put the onus on businesses* to think really hard about how to make themselves interesting to your audience; if the business owner or the presenter can't make your company or product sound interesting in two honest sentences, without the help of whiz-bang advertising, then that says a lot. Conversely, a non-existent creative budget won't lead to the ghoulishly ugly ads that local news websites currently have to cope with. "The Deck":http://decknetwork.net/ also works this way: "Sell us something relevant to our audience and we’ll sell you an ad."
+* The *relationship* between the money that comes in and the realization of the program is also much clearer, whereas for an ad you usually don't make the connection between advertiser and "the guys that make this thing possible".
+
+I've also been really enamored by the ironic take on product placement on Stephen Colbert's show in the past few years: his purported love for Doritos and Ben & Jerry's has been so over-the-top that the advertising is immediately obvious, turning it from subliminal trickery into something more like "hey, Doritos is my sponsor, they deserve some advertising, and let's be honest, these chips aren't so bad are they?"
+
+!/images/content/2011-11-22-colbert-jesus-doritos.jpg(Deliciously over-the-top product placement on the Colbert Report)!
+
+Colbert's sell is respectful to both the advertiser and the audience; he's not trying to kid you into thinking that these are the best tortilla chips on earth, he's just asking you to consider buying a packet, as a courtesy to the sponsor that's making this show possible. Not every news organization can get away with ironic product placement, but most of us _can_ start emulating that balanced, honest tone.
+
+Sponsorship messages on radio shows, especially the way they used to be done in the thirties and forties, have an aesthetic value and an authenticity to them a precision-engineered banner ad simply does not have. It doesn't say "BUY MORE DIET PEPSI." It says "Hey guys, we make this product which we think you may like, feel free to check us out and enjoy the show (or enjoy this great story), like we will."

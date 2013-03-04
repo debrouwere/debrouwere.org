@@ -1,0 +1,59 @@
+---
+layout: base
+type: review
+description:
+  en: Reviews of every IA book under the sun
+  nl: Besprekingen van boeken over informatie-architectuur
+---
+
+{% comment %}
+hReview
+
+summary
+type product
+item amazon.url
+reviewer Stijn Debrouwere (hCard)
+dtreviewed page.date
+rating bad => 1.5	okay => 3	great = 4.5
+permalink post.url
+license rel-license
+{% endcomment %}
+
+<div class="centered">
+    <div class="content">
+        {% if page.previous %}
+        <p class="prev small"><a href="{{ page.previous.url }}" title="Previous page: {{ page.previous.title }}">←</a></p>
+        {% endif %}
+        <p class="section">Book review</p>
+        <h1>{{ page.author }}<br />{{ page.title }}</h1>
+        <div id="review">
+            {{ content }}
+        </div>
+    </div>
+    <div id="infocard">
+        {% if page.next %}
+        <p class="next small"><a href="{{ page.next.url }}" title="Next page: {{ page.next.title }}">→</a></p>
+        {% endif %}
+        <p class="section">Summary</p>
+        <p id="score" class="{{ page.rating }}">
+        {% case page.rating %}
+            {% when "great" %}
+            warmly recommended
+            {% when "okay" %}
+            it's okay
+            {% else %}
+            quite dull
+        {% endcase %}
+        </p>
+        <p id="lowdown">{{ page.summary }}</p>
+        {% if page.amazon %}
+        <p id="purchase">Purchase on amazon <a href="http://www.amazon.com/{{ page.amazon }}">com</a> <a href="http://www.amazon.fr/{{ page.amazon }}">fr</a> <a href="http://www.amazon.de/{{ page.amazon }}">de</a> <a href="http://www.amazon.uk/{{ page.amazon }}">uk</a></p>
+        {% endif %}
+    </div>
+</div>
+<div class="centered">
+    <nav>
+        <hr class="divider" />
+        {% include nav.html %}
+    </nav>
+</div>

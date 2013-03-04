@@ -1,0 +1,40 @@
+---
+layout: post
+language: en
+categories:
+    - tech & society
+title: On punditry
+summary: Self-help and big idea books get a lot of shit. Gurus even more. Not all of it deserved.
+---
+
+In a speech to budding researchers about to embark on a four-year journey towards their PhD, my old dean said this: tease a bit. Don't cover every angle, give your fellow scholars something to disagree with, something to chew on and something to build upon. That's the sort of research that'll get your peers excited. More substantially, it's the kind of research you'll learn from.
+
+The human brain works in funny ways. We learn more from examples and anecdotes than from theory. We see patterns where they're not. We can think in very smart and nuanced ways, but act on rules of thumb.
+
+The human brain works in funny ways, and that's why I'm so conflicted when I see people jeer at _big idea people_ like "Jonah Lehrer":http://www.jonahlehrer.com/ and "Malcolm Gladwell":http://www.gladwell.com/, or make snide remarks about the latest self-help fad.
+
+See, on the one hand, ever since I took a neurobiology class in college I've wanted to punch people in the face for "reading all sorts of crazy things into fMRI scans":http://www.guardian.co.uk/science/2012/may/27/brain-scans-flaws-vaughan-bell. Lehrer "sure deserves a punch or two":http://www.tnr.com/print/article/books-and-arts/magazine/103912/bob-dylan-jonah-lehrer-creativity. As a student of analytical philosophy, I've learned to worship exactitude and clarity.
+
+But the knowledge we'd like to possess is not always the knowledge we have. Knowledge doesn't change how we act. So it settles for second-best: it chips away at our worldview, molds our perception, patches heuristics, adds a little perspective.
+
+In the translation process from knowledge to "ways of thinking" and from ways of thinking to action, things get lost.
+
+I have lost count of the amount of times I've made the exact mistakes I'd been told to avoid in a blogpost or a book that I'd read a couple of weeks or months earlier. I also cannot count the amount of times I've seen entrepreneurs talk about _minimum viable products_ while they keep hammering away at a perfect V1, or news industry executives praising _digital first publishing_ while not moving towards anything of the sort.
+
+Gary Vaynerchuk, in "The Thank You Economy":http://thankyoueconomybook.com/ (his latest book), prefaces his work with a warning to readers: you're going to add qualifications, provisions, but's and maybe's to everything I say _anyway_, so I will speak in extremes. I'm the same way when I write blogposts. I don't want my words to get watered down twice, once by me and then once more by you. Whenever I see "most" and "maybe" and "perhaps" and "often" in one of my drafts, I edit 'em out.
+
+Now, for "big idea books":http://www.theatlantic.com/magazine/archive/2011/10/meme-weaver/8625/ like those Malcolm Gladwell writes and big idea speeches like those that fill "TED":http://www.ted.com/, that's a bit of a different situation. They're not just written the way they are to be forceful. More fundamentally, you don't write a big idea book because you wish to transmit knowledge. Information is, for Gladwell and Lehrer, a necessary virus to get you to consider a new perspective and to help you grow fresh ways of thinking about old issues. And a dose of entertainment on top because why not.
+
+Scientists don't much care about these cutesy pop science narratives. By Pete I'm glad they don't. That's not the point.
+
+Conversely, entrepreneurs and executives are prime targets for big ideas. They don't care about the knowledge so much. They care about the perspective.
+
+Where things go wrong is when scientists and professors _do_ choose to evaluate big idea books by the standards of academia, as timeless arguments supported by the strictest logic and the most diligent empiricism. By those standards, a work like Jeff Jarvis's "Public Parts":http://www.amazon.com/Public-Parts-Sharing-Digital-Improves/dp/1451636008 "is pretty shitty":http://www.tnr.com/print/article/books/magazine/96116/the-internet-intellectual, as Evgeny Morozov found out. I'm pretty sure Morozov hates Clay Shirky too, and David Weinberger. And he'd absolutely hate the essays that dominate "Hacker News":http://news.ycombinator.com/.
+
+Books have long been the preferred container for timeless wisdom. So, you pick up a piece of non-fiction and you think, "ah, timeless wisdom." (Sort of.) It's a cultural expectation. But paper is a flexible medium and Jarvis is entitled to use it however he likes. The result is something more like the transcript of a long and fascinating conversation at a dive bar with a friend who has been obsessing for ages about this one topic.
+
+It's not bullshit, mind you, that conversation with your friend (or Public Parts, for that matter.) Not anything goes and true is true and false is false. But in between the facts and the research, there's a fair amount of spitballing and brainstorming going on. That colloquialism is the achilles heel of big ideas, but their strength as well. It's what makes these books such exhilarating reads. They invite us to think along, to figure out how it applies to our lives and where we disagree.
+
+When you judge big idea books by the standards of intelligent conversation, these conversations are _awesome_. A little bit wacky and not particularly full of the Popperian spirit of confutation. And you may have to wade through plenty of "snake oil, overstated claims and bad science":http://www.joelonsoftware.com/items/2010/03/14.html to get to the good parts. Hey, that's fine. Nothing is perfect.
+
+(And yes, I fully get the joke in defending pop science, big ideas and anecdotes with the help of yet more pop science, big ideas and anecdotes. Please forgive me.)
