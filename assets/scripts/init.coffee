@@ -13,7 +13,7 @@ GOOGLE =
     account: 'UA-12933299-1'
     domain: 'stdout.be'
 
-_gaq ?= []
+_gaq = _gaq or []
 _gaq.push ['_setAccount', GOOGLE_ANALYTICS.account]
 _gaq.push ['_trackPageview']
 _gaq.push ['_setDomainName', GOOGLE_ANALYTICS.domain]
