@@ -1,0 +1,29 @@
+extends posts.detail
+
+block header
+  header
+    // todo: split up titles with colons into h1 and h2
+    time(pubdate, datetime=meta.date.calendar, title=meta.date.human)= meta.date.human
+    h1.quote-title= meta.title
+    address.author
+      - if (meta.language == 'en')
+        | quoted from 
+      - else
+        | citaat van 
+      - if (meta.author)
+        - if (meta.author.name) { var author = meta.author.name; } else { var author = meta.author; }
+        a(rel='author', href=meta.author.homepage, title=author)= author
+
+
+block article
+  - if (meta.context)
+    .quote-explanation.hide
+      hr
+      h6.article-more In context
+      p.article-more= meta.context
+      hr
+
+  - if (content.length < 200)
+    blockquote.punchline!= content
+  - else
+    blockquote!= content

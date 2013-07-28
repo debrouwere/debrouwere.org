@@ -1,0 +1,76 @@
+extends base
+block content
+  block header
+    header
+      // todo: split up titles with colons into h1 and h2
+      time(pubdate, datetime=meta.date.calendar, title=meta.date.human)= meta.date.human
+      h1= meta.title
+      //h1.quote-title If technology is a black box
+      //h1.quote-title Here is a vision for you
+      //blockquote Incremental innovation is not enough for the news industry. Videogames evolved from coin operated machines to cd-roms where you buy the game to subscription services and now virtual items online. And the reason the gaming industry has been able to change their model with the medium, time and time again, is because the people making the content are the same people writing the software. If technology looks like a black box, innovation becomes incremental. You’re stuck with proposals and consultants and powerpoints and all that bullshit. You don’t just need to put technology people and content people in the same room, they need to be the same person.
+      //blockquote.punchline.hide We're basically squabbling over which wreckage is the best wreckage
+      address.author
+        - if (meta.language == 'en')
+          | written by 
+        - else
+          | door 
+        - if (meta.author)
+          - if (meta.author.name) { var author = meta.author.name; } else { var author = meta.author; }
+          a(rel='author', href=meta.author.homepage, title=author)= author
+          - if (meta.layout == 'posts')
+            |  and translated by 
+            a(rel='translator', href='http://stdout.be/en/about-me/', title='Stijn Debrouwere') Stijn Debrouwere
+        - else
+          a(rel='author', href='http://stdout.be/en/about-me/', title='Stijn Debrouwere') Stijn Debrouwere
+
+  - if (meta.translation)
+    div#article-translation.article-more
+      hr
+      p
+        - if (meta.language == 'en')
+          | Vertaald in het Nederlands: 
+        - else
+          | Translated into English: 
+        a(href=meta.translation.link)= meta.translation.title 
+      hr
+
+  article
+    block article
+      - if (meta.summary)
+        summary#summary= meta.summary
+      != content
+
+    block share
+      .article-more
+        - if (meta.language == 'en')      
+          h6 share on twitter
+          - var tweet = meta.tweet || meta.title
+          p.article-copy-paste #{tweet} !{stdout.shortlink.human} by !{stdout.me.twitter}
+          hr
+          p
+            | <a href="/en/about-me/">Stijn Debrouwere</a> works at The Guardian in London. This blog is about computer code and the future of journalism. Stijn is !{stdout.me.twitter} on Twitter.
+            - if (meta.related)
+              | If you liked this, read 
+              a(href=meta.related.link)= meta.related.title
+              |  next.
+        - else
+          h6 delen op twitter
+          - var tweet = meta.tweet || meta.title
+          - var me = 
+          p.article-copy-paste #{tweet} !{stdout.shortlink.human} door !{stdout.me.twitter}
+          hr
+          p
+            | <a href="/nl/wie-ben-ik/">Stijn Debrouwere</a> werkt bij de Guardian in Londen. Deze blog handelt over programmeren en de toekomst van de journalistiek. Stijn is !{stdout.me.twitter} op Twitter.
+            - if (meta.related)
+              | Als je dit leuk vond, lees dan ook 
+              a(href=meta.related.link)= meta.related.title
+
+    block conversations
+      #conversations.hide
+        h4 Related conversations
+        ul
+          - each i in [1,2,3]
+            li
+              img(src='author-icon.jpg')
+              img(src='author-icon.jpg')
+              span Something of an unusual thing

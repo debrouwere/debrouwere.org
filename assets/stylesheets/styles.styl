@@ -1,0 +1,220 @@
+//@import "mixins"
+
+domus = 'jaf-domus-titling-web-1', 'jaf-domus-titling-web-2'
+acta = 'acta-display-1', 'acta-display-2'
+
+silver = #eee
+gray = #999
+blue = #1d53c2
+babyblue = #3e79f1
+cornflower = #7aa3f7
+slate = #a0b0c0
+blond = #ffd
+lemon = #ffa
+yellow = #ff3
+cerise = #ca2c6f
+
+html
+    margin: 0
+    padding: 0
+
+body
+    font-size: 112.5%
+    font-family: georgia, serif
+    padding: 6%
+    margin: 0 auto
+    min-width: 280px
+
+.hide
+    display: none
+
+body.post
+    max-width: 650px
+
+body.home
+    max-width: 650px
+
+body.home
+    #avatar
+        margin: 20px 0
+        padding: 10px
+        background: #eee
+        height: 325px
+        overflow: hidden
+
+        #img
+            background-image: url('/assets/images/avatar13w.jpg')
+            background-size: 650px
+            background-position: 6% 0%
+            height: 100%
+
+        img
+            width: 650px
+            padding-left: 20%
+            margin: 0 -20% 0 -20%
+
+    article
+        //float: left
+        //width: 50%
+
+a.here:after
+    content: '@stdout.be'
+
+div.nav
+    text-align: center
+
+.inline
+    display: inline-block
+
+nav.inline
+    font-family: domus
+
+    ul
+        padding: 0
+        margin-right: 20px
+
+        li
+            display: inline-block
+
+            a
+                padding: 2px 4px
+
+h4.inline
+    margin-right: 20px
+
+nav#language
+    a
+        border-radius: 4px
+
+    a.active
+        background: blue
+        color: white
+
+nav#pages
+    li
+        margin-right: 8px
+
+    a.activex
+        border-bottom: 2px solid blue
+
+header
+    margin-bottom: 20px
+
+h1, h2, h3, h4, h5, h6
+    font-family: domus, sans-serif
+    font-weight: 600
+    line-height: 105%
+    margin: 0
+
+h1
+    font-family: acta, sans-serif
+    font-weight: 500
+    margin: 0.3em 0 0.3em 0
+    font-size: 3.4em
+
+    &.quote-title
+        margin: 0.8em 0 0.6em 0
+        font-size: 1.8em
+
+h2
+    margin: 0 0 0.3em 0
+
+h3
+    margin: 1em 0
+
+div#article-translation
+    text-align: left
+
+    hr
+        margin-left: 0
+        text-align: left
+
+blockquote
+    margin: 0 0 0.3em 0
+    font-size: 1em
+    line-height: 145%
+    text-align: left
+
+blockquote.punchline
+    font-size: 1.3em
+
+time, address
+    font-size: 1em
+    color: #222
+
+    a
+        font-family: domus, sans-serif
+        font-weight: 600
+        font-style: normal
+
+a
+    text-decoration: none
+    color: #1e41c0
+
+    &:hover
+        color: #3a65ff
+
+summary
+    font-size: 1.3em
+    line-height: 145%
+
+p, li
+    line-height: 145%
+
+hr
+    border-bottom: 1px solid #ccc
+    width: 20%
+
+.article-more
+    margin: 2em 0
+    text-align: center
+
+    p
+        font-style: italic
+        font-size: 0.9em
+        color: #222
+        margin: 0.15em
+
+#conversations
+    text-align: left
+    background: -webkit-linear-gradient(top, #eee, #fff 50%)
+    margin-top: 6%
+    padding: 12px 20px
+    //border-top: 1px solid #ccc
+
+    h3
+        margin: 0 0 0.6em 0
+
+    h4
+        margin: 0 0 1em 0
+
+    ul
+        margin: 0
+        padding: 0
+
+        img
+            border-radius: 3px
+            margin-right: 6px
+            margin-bottom: -10px
+
+        span
+            margin-left: 6px
+
+    li
+        list-style-type: none
+        margin-bottom: 10px
+
+@media (max-width: 500px)
+    h1
+        font-size: 2.6em
+    summary
+        font-size: 1.15em
+
+
+@media (max-width: 375px)
+    body.home
+        #avatar
+            height: 260px
+
+            #img
+                background-size: 520px

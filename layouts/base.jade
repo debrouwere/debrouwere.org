@@ -1,0 +1,22 @@
+!!!
+html(xmlns:dc='http://purl.org/dc/elements/1.1/', xmlns:og='http://ogp.me/ns#', xmlns:foaf='http://xmlns.com/foaf/0.1/')
+  head
+    title= meta.title
+    link(rel='icon', href='/images/favicon.ico', type='image/png')
+    link(rel='stylesheet', href='/assets/stylesheets/styles.css')
+    link(title='English blogposts on stdout.be'
+      rel='alternate', type='application/atom+xml', href='/en/feed/')
+    link(title='Nederlandstalige blogposts op stdout.be', 
+      rel='alternate', type='application/atom+xml', href='/nl/feed/')
+    link(title='Alle blogposts van stdout.be'
+      rel='alternate', type='application/atom+xml', href='/feed/')
+    script(type='text/javascript', src='//use.typekit.net/uwo6abd.js')
+    script(type='text/javascript', src='/assets/scripts/init.js')
+    //if lt IE 8
+      script(src='http://html5shiv.googlecode.com/svn/trunk/html5.js')
+  body.home.post
+    block content
+
+    script(src='/vendor/jquery/1.9.1/jquery.min.js', data-cdn)
+    script(src='/vendor/underscore.js/1.4.4/underscore-min.js', data-cdn)
+    script(type='text/javascript', src='/assets/scripts.coffee')

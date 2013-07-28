@@ -1,0 +1,22 @@
+// TODO: add schema.org stuff, and make sure my OpenGraph stuff is up to date
+mixin metadata(title, date, language, keywords, url, canonical)
+  if language == 'en'
+    meta(http-equiv='Content-Language', content='en-US')
+    meta(name='dc:language', content='en-US')
+    link(rel='foaf:primaryTopic foaf:maker', href='/en/about-me/')
+  else
+    meta(http-equiv='Content-Language', content='nl-BE')
+    meta(name='dc:language', content='nl-BE')
+    link(rel='foaf:primaryTopic foaf:maker', href='/nl/over-mij/')
+  meta(charset='utf-8')
+  meta(name='author', content='Stijn Debrouwere')
+  meta(name='dc:creator', content='Stijn Debrouwere')
+  meta(name='dc:publisher', content='Stijn Debrouwere')
+  meta(name='og:site_name', content='stdout.be')
+  meta(name='og:url', content='http://stdout.be#{url}')
+  meta(name='dc:title', content=title)
+  meta(name='og:title', content=title)
+  meta(name='dc:date', content='')
+  meta(name='dc:type', content='text')
+  meta(name='og:type', content='blog')
+  meta(name='keywords', content=keywords)
