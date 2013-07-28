@@ -32,10 +32,9 @@ routes:
     posts:
         route: '{year}/{month}/{day}/{permalink}/'
         layout: '{layout}.detail'
-        context: '2011/{layout}/{month}-{day}-{permalink}' # {year:d}
+        context: '{year:d}/{layout}/{month}-{day}-{permalink}'
         defaults:
             layout: 'posts.detail'
-            year: '2011'
         pipes:
             - gather-context
             - ./pipes/add-metadata
