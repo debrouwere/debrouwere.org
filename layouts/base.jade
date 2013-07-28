@@ -1,7 +1,30 @@
 !!!
 html(xmlns:dc='http://purl.org/dc/elements/1.1/', xmlns:og='http://ogp.me/ns#', xmlns:foaf='http://xmlns.com/foaf/0.1/')
   head
+    meta(charset="utf-8")
     title= meta.title
+    - if (meta.language == 'en')
+      meta(http-equiv="Content-Language", content="en-US")
+      meta(name="dc:language", content="en-US")
+    - else
+      meta(http-equiv="Content-Language", content="nl-BE")
+      meta(name="dc:language", content="nl-BE")
+    - if (meta.author) { var author = meta.author; } else { var author = 'Stijn Debrouwere'; }
+    meta(name="author", content=author)
+    meta(name="dc:creator", content=author)
+    meta(name="dc:publisher", content=author)
+    meta(name="og:site_name", content="stdout.be")
+    - if (meta.permalink)
+      meta(name="og:url", content="http://stdout.be{{ meta.permalink }}")
+    - if (meta.title)
+      meta(name="dc:title", content=meta.title)
+      meta(name="og:title", content=meta.title)
+    - if (meta.date)
+      meta(name="dc:date", content=meta.date.iso)
+    meta(name="dc:type", content="text")
+    meta(name="og:type", content="blog")
+    
+    link(rel="foaf:primaryTopic foaf:maker", href="/en/about-me/")
     link(rel='icon', href='/images/favicon.ico', type='image/png')
     link(rel='stylesheet', href='/assets/stylesheets/styles.css')
     link(title='English blogposts on stdout.be'
