@@ -10,10 +10,10 @@ block content
       //blockquote Incremental innovation is not enough for the news industry. Videogames evolved from coin operated machines to cd-roms where you buy the game to subscription services and now virtual items online. And the reason the gaming industry has been able to change their model with the medium, time and time again, is because the people making the content are the same people writing the software. If technology looks like a black box, innovation becomes incremental. You’re stuck with proposals and consultants and powerpoints and all that bullshit. You don’t just need to put technology people and content people in the same room, they need to be the same person.
       //blockquote.punchline.hide We're basically squabbling over which wreckage is the best wreckage
       address.author
-        - if (meta.language == 'en')
-          | written by 
-        - else
+        - if (meta.language == 'nl')
           | door 
+        - else
+          | written by 
         - if (meta.author)
           - if (meta.author.name) { var author = meta.author.name; } else { var author = meta.author; }
           a(rel='author', href=meta.author.homepage, title=author)= author
