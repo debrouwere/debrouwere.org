@@ -11,14 +11,14 @@ block content
       //blockquote.punchline.hide We're basically squabbling over which wreckage is the best wreckage
       address.author
         - if (meta.language == 'nl')
-          | door 
+          | geschreven door 
         - else
           | written by 
         - if (meta.author)
           - if (meta.author.name) { var author = meta.author.name; } else { var author = meta.author; }
           a(rel='author', href=meta.author.homepage, title=author)= author
-          - if (meta.layout == 'posts')
-            |  and translated by 
+          - if (meta.layout == 'translations')
+            |  en vertaald door 
             a(rel='translator', href='http://stdout.be/en/about-me/', title='Stijn Debrouwere') Stijn Debrouwere
         - else
           a(rel='author', href='http://stdout.be/en/about-me/', title='Stijn Debrouwere') Stijn Debrouwere
@@ -34,7 +34,7 @@ block content
         a(href=meta.translation.link)= meta.translation.title 
       hr
 
-  article
+  article(class=meta.layout)
     block article
       - if (meta.summary)
         summary#summary= meta.summary
