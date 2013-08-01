@@ -13,10 +13,10 @@ html(xmlns:dc='http://purl.org/dc/elements/1.1/', xmlns:og='http://ogp.me/ns#', 
     - if (meta.author) { var author = meta.author; } else { var author = 'Stijn Debrouwere'; }
     meta(name="author", content=author)
     meta(name="dc:creator", content=author)
-    meta(name="dc:publisher", content=author)
+    meta(name="dc:publisher", content="Stijn Debrouwere")
     meta(name="og:site_name", content="stdout.be")
     - if (meta.permalink)
-      meta(name="og:url", content="http://stdout.be{{ meta.permalink }}")
+      meta(name="og:url", content="http://stdout.be#{meta.permalink}")
     - if (meta.title)
       meta(name="dc:title", content=meta.title)
       meta(name="og:title", content=meta.title)
