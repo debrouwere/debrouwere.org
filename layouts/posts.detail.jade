@@ -38,6 +38,8 @@ block content
     block article
       - if (meta.summary)
         summary#summary= meta.summary
+      - if (meta.context)
+        p: em= meta.context
       != content
 
     block share
