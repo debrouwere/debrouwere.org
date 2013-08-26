@@ -2,13 +2,9 @@ extends base
 block content
   block header
     header
-      // todo: split up titles with colons into h1 and h2
+      //- todo: split up titles with colons into h1 and h2
       time(pubdate, datetime=meta.date.calendar, title=meta.date.human)= meta.date.human
       h1= meta.title
-      //h1.quote-title If technology is a black box
-      //h1.quote-title Here is a vision for you
-      //blockquote Incremental innovation is not enough for the news industry. Videogames evolved from coin operated machines to cd-roms where you buy the game to subscription services and now virtual items online. And the reason the gaming industry has been able to change their model with the medium, time and time again, is because the people making the content are the same people writing the software. If technology looks like a black box, innovation becomes incremental. You’re stuck with proposals and consultants and powerpoints and all that bullshit. You don’t just need to put technology people and content people in the same room, they need to be the same person.
-      //blockquote.punchline.hide We're basically squabbling over which wreckage is the best wreckage
       address.author
         - if (meta.language == 'nl')
           | geschreven door 
