@@ -32,7 +32,7 @@ createShortLinks = (files) ->
         if isPost and not hasShortlink
             counter++
             hexatri = counter.toString 36
-            rewrite = "rewrite ^/#{hexatri}$ #{permalink} permanent;\n"
+            rewrite = "rewrite ^/#{hexatri}$ http://stdout.be#{permalink} permanent;\n"
             # it might seem odd to put this in a hash instead of in an array, but 
             # this data is usually queried by permalink, not by counter, making a
             # hash faster and more natural.
