@@ -46,7 +46,7 @@ block content
           p.article-copy-paste #{tweet} !{stdout.shortlink.human} by !{stdout.me.twitter}
           hr
           p
-            | <a href="/en/about-me/">Stijn Debrouwere</a> works at The Guardian in London. This blog is about computer code and the future of journalism. Stijn is !{stdout.me.twitter} on Twitter.
+            | <a href="/en/about-me/">Stijn Debrouwere</a> wrotes about computer code and the future of journalism. He used to work at the Guardian and until recently at the Tow Center for Digital Journalism. Stijn is !{stdout.me.twitter} on Twitter.
             - if (meta.related)
               | If you liked this, read 
               a(href=meta.related.link)= meta.related.title
@@ -58,17 +58,7 @@ block content
           p.article-copy-paste #{tweet} !{stdout.shortlink.human} door !{stdout.me.twitter}
           hr
           p
-            | <a href="/nl/wie-ben-ik/">Stijn Debrouwere</a> werkt bij de Guardian in Londen. Deze blog handelt over programmeren en de toekomst van de journalistiek. Stijn is !{stdout.me.twitter} op Twitter.
+            | <a href="/nl/wie-ben-ik/">Stijn Debrouwere</a> werkte vroeger voor de Guardian en tot voor kort bij het Tow Center for Digital Journalism. Deze blog handelt over programmeren en de toekomst van de journalistiek. Stijn is !{stdout.me.twitter} op Twitter.
             - if (meta.related)
               | Als je dit leuk vond, lees dan ook 
               a(href=meta.related.link)= meta.related.title
-
-    block conversations
-      #conversations.hide
-        h4 Related conversations
-        ul
-          - each i in [1,2,3]
-            li
-              img(src='author-icon.jpg')
-              img(src='author-icon.jpg')
-              span Something of an unusual thing
