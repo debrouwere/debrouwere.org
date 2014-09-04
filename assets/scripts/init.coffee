@@ -1,14 +1,3 @@
-###
-Typekit
-###
-
-try
-    Typekit.load()
-
-###
-Google Analytics
-###
-
 GOOGLE_ANALYTICS =
     account: 'UA-12933299-1'
     domain: 'stdout.be'
