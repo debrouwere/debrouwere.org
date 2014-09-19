@@ -1,64 +1,86 @@
 extends base
+
+mixin twitter
+  |  
+  a(href='https://twitter.com/#{me.handle}') @#{me.handle}
+  |  
+
+mixin link-to-bio(role, name)
+  - if (!name) var name = 'Stijn Debrouwere';
+  - if (name == 'Stijn Debrouwere') var bio = me.bio[language];
+  a(rel=role, href=bio, title=name)= name
+
 block content
   block header
     header
       //- todo: split up titles with colons into h1 and h2
-      time(pubdate, datetime=meta.date.calendar, title=meta.date.human)= meta.date.human
-      h1= meta.title
+      time(pubdate, datetime=date.iso, title=date.human)= date.human
+      h1= title
       address.author
-        - if (meta.language == 'nl')
+        - if (language == 'nl')
           | geschreven door 
         - else
           | written by 
-        - if (meta.author)
-          - if (meta.author.name) { var author = meta.author.name; } else { var author = meta.author; }
-          a(rel='author', href=meta.author.homepage, title=author)= author
-          - if (meta.layout == 'translations')
-            |  en vertaald door 
-            a(rel='translator', href='http://stdout.be/en/about-me/', title='Stijn Debrouwere') Stijn Debrouwere
-        - else
-          a(rel='author', href='http://stdout.be/en/about-me/', title='Stijn Debrouwere') Stijn Debrouwere
+        +link-to-bio('author', author)
+        - if (category == 'translations')
+          |  en vertaald door 
+          +link-to-bio('translator')
 
-  - if (meta.translation)
+  - if (translation)
     div#article-translation.article-more
       hr
       p
-        - if (meta.language == 'en')
+        - if (language == 'en')
           | Vertaald in het Nederlands: 
         - else
           | Translated into English: 
-        a(href=meta.translation.link)= meta.translation.title 
+        a(href=translation.link)= translation.title 
       hr
 
-  article(class=meta.layout)
+  article(class=category)
     block article
-      - if (meta.summary)
-        summary#summary!= meta.summary
-      - if (meta.context)
-        p: em!= meta.context
-      != content
+      - if (summary)
+        summary#summary!= summary
+      - if (context)
+        p: em!= context
+      != html
 
     block share
       .article-more
-        - if (meta.language == 'en')      
-          h6 share on twitter
-          - var tweet = meta.tweet || meta.title
-          p.article-copy-paste #{tweet} !{stdout.shortlink.human} by !{stdout.me.twitter}
+          - if (language == 'en')
+            h6 share on twitter
+          - else
+            h6 delen op twitter
+          - var tweet = tweet || title
+          p.article-copy-paste
+            = tweet
+            |  
+            a(href='http://debrouwere.org#{shortlink}') debrouwere.org#{shortlink}
+            - if (language == 'en')
+              |  by 
+            - else
+              |  door 
+            +twitter
           hr
           p
-            | <a href="/en/about-me/">Stijn Debrouwere</a> writes about computer code and the future of journalism. He used to work at the Guardian and until recently at the Tow Center for Digital Journalism. Stijn is !{stdout.me.twitter} on Twitter.
-            - if (meta.related)
-              | If you liked this, read 
-              a(href=meta.related.link)= meta.related.title
-              |  next.
-        - else
-          h6 delen op twitter
-          - var tweet = meta.tweet || meta.title
-          - var me = 
-          p.article-copy-paste #{tweet} !{stdout.shortlink.human} door !{stdout.me.twitter}
-          hr
-          p
-            | <a href="/nl/wie-ben-ik/">Stijn Debrouwere</a> werkte vroeger voor de Guardian en tot voor kort bij het Tow Center for Digital Journalism. Deze blog handelt over programmeren en de toekomst van de journalistiek. Stijn is !{stdout.me.twitter} op Twitter.
-            - if (meta.related)
-              | Als je dit leuk vond, lees dan ook 
-              a(href=meta.related.link)= meta.related.title
+            +link-to-bio('author')
+            |  
+            - if (language == 'en')
+              | writes about computer code and the future of journalism.
+              | He used to work at the Guardian and until recently at the Tow Center for Digital Journalism.
+              | Stijn is 
+              +twitter
+              | on Twitter.
+            - else
+              | werkte vroeger voor de Guardian en tot voor kort bij het Tow Center for Digital Journalism.
+              | Deze blog handelt over programmeren en de toekomst van de journalistiek.
+              | Stijn is
+              +twitter
+              | op Twitter.
+
+            - if (related)
+              - if (language == 'en')
+                | If you liked this, read 
+              - else
+                | Als je dit leuk vond, lees dan ook 
+              a(href=related.link)= related.title

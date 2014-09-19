@@ -1,28 +1,32 @@
 doctype xml
 feed(xmlns='http://www.w3.org/2005/Atom')
-  title= meta.title
-  link(href='http://stdout.be/feeds/#{meta.type}.atom', rel='self')
-  link(href='http://stdout.be/')
-  updated= site.time
-  id http://stdout.be/feeds/#{meta.type}.atom
+  title
+    | Stijn Debrouwere's blog
+    if language
+      |  (#{language})
+  link(href='http://debrouwere.org/feeds/#{language}.atom', rel='self')
+  link(href='http://debrouwere.org/')
+  updated= site.date.iso
+  id debrouwere.org/feeds/#{language}.atom
   author
     name Stijn Debrouwere
-    email stijn@stdout.be
-  - each post in stdout.latest[meta.type]
+    email stijn@debrouwere.org
+  - each post in posts.slice(-10).reverse()
     entry
-      title= post.meta.title
-      link(href='http://stdout.be/#{post.hector.permalink}')
-      updated= post.meta.date.iso
-      id= post.hector.permalink
-      - if (post.meta.summary)
-        summary= post.meta.summary
+      title= post.title
+      link(href='http://debrouwere.org#{post.permalink}')
+      updated= post.date.iso
+      id= post.permalink
+      - if (post.summary)
+        summary= post.summary
       content(type='html')
-        - if (post.meta.layout != 'posts' || post.meta.author)
+        - if (post.category != 'posts' || post.author)
           p
-            - if (post.meta.layout != 'posts')
-              em Posted in #{post.meta.layout}. 
-            - if (post.meta.author)
-              em Written by #{post.meta.author}. 
-        - if (post.meta.context)
-          p: em= post.meta.context
-        != post.content
+            - if (post.category != 'posts')
+              em Posted in #{post.category}. 
+            - if (post.author)
+              em Written by #{post.author}. 
+        - if (post.context)
+          p
+            em= post.context
+        != post.html

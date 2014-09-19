@@ -1,46 +1,45 @@
-!!!
+doctype html
 html(xmlns:dc='http://purl.org/dc/elements/1.1/', xmlns:og='http://ogp.me/ns#', xmlns:foaf='http://xmlns.com/foaf/0.1/')
   head
     meta(charset="utf-8")
     meta(name="viewport", content="width=device-width")
-    title= meta.title
-    - if (meta.language == 'en')
+    title= title
+    - if (language == 'en')
       meta(http-equiv="Content-Language", content="en-US")
       meta(name="dc:language", content="en-US")
     - else
       meta(http-equiv="Content-Language", content="nl-BE")
       meta(name="dc:language", content="nl-BE")
-    - if (meta.author) { var author = meta.author; } else { var author = 'Stijn Debrouwere'; }
     meta(name="author", content=author)
     meta(name="dc:creator", content=author)
     meta(name="dc:publisher", content="Stijn Debrouwere")
     meta(name="og:site_name", content="stdout.be")
-    - if (meta.permalink)
-      meta(name="og:url", content="http://stdout.be#{meta.permalink}")
-    - if (meta.title)
-      meta(name="dc:title", content=meta.title)
-      meta(name="og:title", content=meta.title)
-    - if (meta.date)
-      meta(name="dc:date", content=meta.date.iso)
+    - if (permalink)
+      meta(name="og:url", content="http://stdout.be#{permalink}")
+    - if (title)
+      meta(name="dc:title", content=title)
+      meta(name="og:title", content=title)
+    - if (date && date.inferred)
+      meta(name="dc:date", content=date.inferred.iso)
     meta(name="dc:type", content="text")
     meta(name="og:type", content="blog")
     
     link(rel="foaf:primaryTopic foaf:maker", href="/en/about-me/")
-    link(rel='icon', href='/images/favicon.ico', type='image/png')
-    link(rel='stylesheet', href='/assets/stylesheets/styles.css')
+    link(rel='shortcut icon', href='/favicon.ico', type='image/png')
     link(title='English blogposts on stdout.be'
-      rel='alternate', type='application/atom+xml', href='/en/feed/')
+      rel='alternate', type='application/atom+xml', href='/feeds/en.atom')
     link(title='Nederlandstalige blogposts op stdout.be', 
-      rel='alternate', type='application/atom+xml', href='/nl/feed/')
+      rel='alternate', type='application/atom+xml', href='/feeds/nl.atom')
     link(title='Alle blogposts van stdout.be'
-      rel='alternate', type='application/atom+xml', href='/feed/')
-    script(type='text/javascript', src='//use.typekit.net/uwo6abd.js')
-    script(type='text/javascript', src='/assets/scripts/init.js')
-    //if lt IE 8
-      script(src='http://html5shiv.googlecode.com/svn/trunk/html5.js')
+      rel='alternate', type='application/atom+xml', href='/feeds/all.atom')
+    link(href='http://fonts.googleapis.com/css?family=Playfair+Display:700', rel='stylesheet', type='text/css')
+    link(rel='stylesheet', href='/assets/stylesheets/styles.css')
+    script(type='text/javascript')
+      include ../build/assets/scripts/analytics.js
+    
+    | <!--[if lt IE 8]>
+    script(src='http://html5shiv.googlecode.com/svn/trunk/html5.js')
+    | <![endif]-->
+
   body.home.post
     block content
-
-    //script(src='/vendor/jquery/1.9.1/jquery.min.js', data-cdn)
-    //script(src='/vendor/underscore.js/1.4.4/underscore-min.js', data-cdn)
-    //script(type='text/javascript', src='/assets/scripts.coffee')
