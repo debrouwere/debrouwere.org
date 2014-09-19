@@ -23,6 +23,7 @@ Temporary Items
 # symlinked cli apps (in development)
 render
 gather
+serve
 
 # build
 build
