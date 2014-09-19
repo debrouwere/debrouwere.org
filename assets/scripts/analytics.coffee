@@ -1,6 +1,6 @@
 GOOGLE_ANALYTICS =
     account: 'UA-12933299-1'
-    domain: 'stdout.be'
+    domain: 'debrouwere.org'
 
 _gaq = window._gaq ?= []
 _gaq.push ['_setAccount', GOOGLE_ANALYTICS.account]
