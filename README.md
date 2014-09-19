@@ -17,23 +17,23 @@ I mostly edit my blog posts in [Mou][mou] and the templates in [Sublime Text][su
 
 Previous iterations used [Hector][hector], [Jekyll][jekyll] and [WordPress][wordpress].
 
-[make] http://www.gnu.org/software/make/
-[textile] http://en.wikipedia.org/wiki/Textile_(markup_language)
-[yaml2json] https://github.com/stdbrouw/yaml2json
-[gather] https://github.com/stdbrouw/gather
-[disperse] https://github.com/stdbrouw/disperse
-[jq] http://stedolan.github.io/jq/manual/
-[refract] https://github.com/stdbrouw/refract
-[jade] http://jade-lang.com/
-[render] https://github.com/stdbrouw/render
-[coffeescript] http://coffeescript.org/
-[stylus] http://learnboost.github.io/stylus/
-[put] https://github.com/stdbrouw/put
-[s3] http://aws.amazon.com/s3/
-[aws-cli] http://aws.amazon.com/cli/
-[serve] https://github.com/stdbrouw/serve
-[mou] http://mouapp.com/
-[sublime] http://www.sublimetext.com/
-[hector] https://github.com/stdbrouw/hector
-[jekyll] http://jekyllrb.com/
-[wordpress] https://wordpress.org/
+[make]: http://www.gnu.org/software/make/
+[textile]: http://en.wikipedia.org/wiki/Textile_(markup_language)
+[yaml2json]: https://github.com/stdbrouw/yaml2json
+[gather]: https://github.com/stdbrouw/gather
+[disperse]: https://github.com/stdbrouw/disperse
+[jq]: http://stedolan.github.io/jq/manual/
+[refract]: https://github.com/stdbrouw/refract
+[jade]: http://jade-lang.com/
+[render]: https://github.com/stdbrouw/render
+[coffeescript]: http://coffeescript.org/
+[stylus]: http://learnboost.github.io/stylus/
+[put]: https://github.com/stdbrouw/put
+[s3]: http://aws.amazon.com/s3/
+[aws-cli]: http://aws.amazon.com/cli/
+[serve]: https://github.com/stdbrouw/serve
+[mou]: http://mouapp.com/
+[sublime]: http://www.sublimetext.com/
+[hector]: https://github.com/stdbrouw/hector
+[jekyll]: http://jekyllrb.com/
+[wordpress]: https://wordpress.org/
