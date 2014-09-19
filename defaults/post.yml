@@ -1,0 +1,3 @@
+title: humanize slug
+permalink: /#{date.inferred.path}/#{slug}
+shortlink: shortlink permalink
