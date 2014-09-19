@@ -1,6 +1,3 @@
-domus = 'jaf-domus-titling-web-1', 'jaf-domus-titling-web-2'
-acta = 'acta-display-1', 'acta-display-2'
-
 silver = #eee
 gray = #999
 blue = #1d53c2
@@ -65,7 +62,7 @@ div.nav
     display: inline-block
 
 nav.inline
-    font-family: domus
+    font-family: arial
 
     ul
         padding: 0
@@ -99,13 +96,13 @@ header
     margin-bottom: 20px
 
 h1, h2, h3, h4, h5, h6
-    font-family: domus, sans-serif
-    font-weight: 600
+    font-family: 'Playfair Display', serif
+    font-weight: bold
     line-height: 105%
     margin: 0
 
 h1
-    font-family: acta, sans-serif
+    font-family: 'Playfair Display', georgia, serif
     font-weight: 500
     margin: 0.3em 0 0.3em 0
     font-size: 3.4em
@@ -118,7 +115,9 @@ h2
     margin: 0 0 0.3em 0
 
 h3
-    margin: 1em 0
+    font-size: 1.55em
+    margin: 1.2em 0 -0.2em 0
+    line-height: 130%
 
 div#article-translation
     text-align: left
@@ -140,14 +139,11 @@ article.quotes
     blockquote.punchline
         font-size: 1.3em
 
-time, address
+address
     font-size: 1em
+    font-family: 'Playfair Display', sans-serif
     color: #222
-
-    a
-        font-family: domus, sans-serif
-        font-weight: 600
-        font-style: normal
+    font-style: normal
 
 a
     text-decoration: none
@@ -176,35 +172,6 @@ hr
         font-size: 0.9em
         color: #222
         margin: 0.15em
-
-#conversations
-    text-align: left
-    background: -webkit-linear-gradient(top, #eee, #fff 50%)
-    margin-top: 6%
-    padding: 12px 20px
-    //border-top: 1px solid #ccc
-
-    h3
-        margin: 0 0 0.6em 0
-
-    h4
-        margin: 0 0 1em 0
-
-    ul
-        margin: 0
-        padding: 0
-
-        img
-            border-radius: 3px
-            margin-right: 6px
-            margin-bottom: -10px
-
-        span
-            margin-left: 6px
-
-    li
-        list-style-type: none
-        margin-bottom: 10px
 
 @media (max-device-width: 500px)
     h1
