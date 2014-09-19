@@ -1,0 +1,32 @@
+#!/usr/bin/env coffee
+
+fs = require 'fs'
+fs.path = require 'path'
+_ = require 'underscore'
+
+here = (segments...) -> fs.path.join __dirname, '..', segments...
+
+postsPath = here 'build/data/posts.json'
+shortlinksPath = here '../writing/shortlinks.json'
+posts = JSON.parse fs.readFileSync postsPath
+shortlinks = JSON.parse fs.readFileSync shortlinksPath
+
+counter = _.max _.map shortlinks, (link) -> parseInt link, 36
+changed = no
+
+for post in posts
+    unless shortlink = shortlinks[post.permalink]
+        counter++
+        hexatri = counter.toString 36
+        shortlink = '/' + hexatri
+        shortlinks[post.permalink] = shortlink
+        changed = yes
+        console.log "Adding shortlink #{shortlink} for #{post.permalink}"
+
+    if post.shortlink isnt shortlink
+        post.shortlink = shortlink
+        changed = yes
+
+if changed
+    fs.writeFileSync shortlinksPath, JSON.stringify shortlinks, undefined, 2
+    fs.writeFileSync postsPath, JSON.stringify posts, undefined, 2

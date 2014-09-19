@@ -1,0 +1,18 @@
+#!/usr/bin/env coffee
+
+date = process.argv[2]
+
+if not date
+    date = new Date()
+else if parseInt date
+    while date.length < 13
+        date += '0'
+    date = new Date parseInt date
+else
+    date = new Date date
+
+if date.getTime()
+    expansion = (require 'date-expand') date
+    console.log JSON.stringify expansion, undefined, 2
+else
+    process.exit 1
