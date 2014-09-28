@@ -20,12 +20,6 @@ build/data/pages.json: ../writing
 		--template defaults/page.yml \
 		--missing --in-place
 
-# TODO: it's probably better to add in any defaults
-# at *this* stage rather than the rendering stage
-# (perhaps a nice `defaults` cli with support for 
-# #{placeholders} that we'll eval w/ CoffeeScript, 
-# and any program.args A=B are added too?
-# and --in-place? and works with objects and arrays?
 build/data/posts.json: ../writing
 	mkdir -p build/data
 	yaml2json ../writing \
@@ -63,7 +57,7 @@ pages: build/data/pages.json layouts assets
 posts: build/data/posts.json shortlinks layouts assets
 	render 'layouts/{category}.detail.jade' \
 		--context build/data/posts.json \
-		--globals globals.yml,defaults.yml \
+		--globals defaults/globals.yml \
 		--output 'build/{year}/{month}/{day}/{slug}/' \
 		--newer-than date.modified.iso $(FORCE) \
 		--fast \
@@ -79,7 +73,7 @@ feeds: build/data/posts.json layouts/feed.jade
 	do 								\
 		render 'layouts/feed.jade' 				\
 			--context posts:build/data/$$language.json	\
-			--globals build/data/site.json,defaults.yml 	\
+			--globals build/data/site.json 			\
 			--output build/feeds/$$language.atom 		\
 			--fast 						\
 			--verbose					\
