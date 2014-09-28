@@ -23,7 +23,7 @@ Previous iterations used [Hector][hector], [Jekyll][jekyll] and [WordPress][word
 [textile]: http://en.wikipedia.org/wiki/Textile_(markup_language)
 [yaml2json]: https://github.com/stdbrouw/yaml2json
 [gather]: https://github.com/stdbrouw/gather
-[disperse]: https://github.com/stdbrouw/disperse
+[groupby]: https://github.com/stdbrouw/groupby
 [jq]: http://stedolan.github.io/jq/manual/
 [refract]: https://github.com/stdbrouw/refract
 [jade]: http://jade-lang.com/
