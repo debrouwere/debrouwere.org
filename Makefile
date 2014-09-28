@@ -1,19 +1,24 @@
-# if -B or --always-make is specified, --fresh should be 
+# if -B or --always-make is specified, --force should be 
 # passed to the `gather` command
 ifneq (,$(findstring B,$(MAKEFLAGS)))
-	FRESH = --fresh
+	FORCE = --force
 endif
 
 all: assets pages posts feeds shortlinks media
 
 build/data/pages.json: ../writing
 	mkdir -p build/data
-	gather '../writing/pages/{language:s}/{slug:s}' \
+	yaml2json ../writing/pages \
+		--prose \
+		--output build/data/writing/pages
+	gather 'build/data/writing/pages/{language:s}/{slug:s}.json' \
 		--pretty \
 		--output build/data/pages.json \
-		$(FRESH)
-	jq 'map(.permalink = "/\(.language)/\(.slug)/")' \
-		build/data/pages.json --in-place
+		$(FORCE)
+	refract build/data/pages.json \
+		--each \
+		--template defaults/page.yml \
+		--missing --in-place
 
 # TODO: it's probably better to add in any defaults
 # at *this* stage rather than the rendering stage
@@ -23,25 +28,26 @@ build/data/pages.json: ../writing
 # and --in-place? and works with objects and arrays?
 build/data/posts.json: ../writing
 	mkdir -p build/data
-	gather '../writing/{year:Y}/{category:s}/{month:m}-{day:d}-{slug:s}' \
-		--pretty \
+	yaml2json ../writing \
+		--prose \
+		--output build/data/writing
+	gather 'build/data/writing/{year:Y}/{category:s}/{month:m}-{day:d}-{slug:s}.json' \
+		--indent \
+		--annotate \
 		--output build/data/posts.json \
-		$(FRESH)
-	# add permalinks
-	jq 'map(.permalink = "/\(.date.inferred.path)/\(.slug)/")' \
-		build/data/posts.json --in-place
-	# generate a title if it isn't there already, 
-	# using the post slug
-	./tools/titleize
+		$(FORCE)
+	# add permalinks and shortlinks
+	# if no title is present, generate one from the slug
+	refract build/data/posts.json \
+		--each \
+		--template defaults/post.yml \
+		--helpers tools/shortlinks.coffee \
+		--missing --in-place
 	# create per-language JSON for our feeds
 	ln -sf $(CURDIR)/build/data/posts.json $(CURDIR)/build/data/all.json
-	jq 'map(select(.language != "nl"))' build/data/posts.json \
-		> build/data/en.json
-	jq 'map(select(.language == "nl"))' build/data/posts.json \
-		> build/data/nl.json
+	groupby build/data/posts.json 'build/data/{language}.json'
 
-shortlinks: tools/generate-shortlinks ../writing/shortlinks.json
-	tools/generate-shortlinks
+shortlinks: ../writing/shortlinks.json
 	jq '. | to_entries | .[] | "\(.value) \(.key)"' \
 		../writing/shortlinks.json \
 		--raw-output > build/data/shortlinks.csv
@@ -51,25 +57,33 @@ pages: build/data/pages.json layouts assets
 		--context build/data/pages.json \
 		--output 'build/{language}/{slug}/' \
 		--newer-than date.modified.iso $(FRESH) \
-		--many
+		--many \
+		--verbose
 
 posts: build/data/posts.json shortlinks layouts assets
 	render 'layouts/{category}.detail.jade' \
 		--context build/data/posts.json \
 		--globals globals.yml,defaults.yml \
 		--output 'build/{year}/{month}/{day}/{slug}/' \
-		--newer-than date.modified.iso $(FRESH) \
-		--many
+		--newer-than date.modified.iso $(FORCE) \
+		--fast \
+		--many \
+		--verbose
 
 feeds: build/data/posts.json layouts/feed.jade
-	./tools/date | jq '{site: {date: .}, language: null}' > build/data/site.json
+	refract \
+		--new --template defaults/site.yml \
+		--helpers tools/date.coffee \
+		> build/data/site.json
 	for language in all en nl;					\
 	do 								\
 		render 'layouts/feed.jade' 				\
 			--context posts:build/data/$$language.json	\
 			--globals build/data/site.json,defaults.yml 	\
 			--output build/feeds/$$language.atom 		\
-			$(FRESH);					\
+			--fast 						\
+			--verbose					\
+			$(FORCE);					\
 	done
 
 .PHONY: assets

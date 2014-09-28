@@ -5,7 +5,7 @@ This is the code to my personal blog and homepage.
 The heart of my blogging platform lives in a [GNU Make][make] `Makefile`, which specifies the entire build process. Each blog post starts with YAML frontmatter (which contains metadata like the post's title) followed by the body content in [Textile][textile] markup.
 
 1. blog posts are preprocessed with [yaml2json][yaml2json]
-2. they are then bundled with [gather][gather] and [disperse][disperse]
+2. they are then bundled with [gather][gather] and [groupby][groupby]
 3. some defaults are filled in with [jq][jq] and [refract][refract]
 4. the [jade][jade] templates for posts and pages are rendered with [render][render]
 5. [CoffeeScript][coffeescript] and [Stylus][stylus] stylesheets are compiled

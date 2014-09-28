@@ -1,3 +1,4 @@
+language: en
 title: humanize slug
-permalink: /#{date.inferred.path}/#{slug}
+permalink: /#{date.inferred.path}/#{slug}/
 shortlink: shortlink permalink
