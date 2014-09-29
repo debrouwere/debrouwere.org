@@ -50,7 +50,7 @@ pages: build/data/pages.json layouts assets
 	render 'layouts/{layout}.jade' \
 		--context build/data/pages.json \
 		--output 'build/{language}/{slug}/' \
-		--newer-than date.modified.iso $(FRESH) \
+		--newer-than date.modified.iso $(FORCE) \
 		--many \
 		--verbose
 
