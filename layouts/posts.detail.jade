@@ -14,7 +14,8 @@ block content
   block header
     header
       //- todo: split up titles with colons into h1 and h2
-      time(pubdate, datetime=date.iso, title=date.human)= date.human
+      time(datetime=date.inferred.iso, title=date.inferred.human) 
+        | #{date.inferred.a}, #{date.inferred.b} #{date.inferred.day}, #{date.inferred.year}
       h1= title
       address.author
         - if (language == 'nl')
