@@ -3,7 +3,7 @@ translation: FALSE
 author: Stijn Debrouwere
 title: humanize slug
 permalink: /#{date.inferred.path}/#{slug}/
-shortlink: shortlink permalink
+shortlink: shortlinks.get permalink
 related: 
 summary: 
 context: 

@@ -102,12 +102,13 @@ serve:
 n ?= 1
 .PHONY: redirects
 redirects:
-	tail -n $(n) build/data/shortlinks.csv | 			\
-	while read shortlink permalink;					\
-	do 								\
-		aws s3 cp /dev/null s3://debrouwere.org$$shortlink	\
-			--website-redirect $$permalink			\
-			--profile debrouwere.org;			\
+	touch build/data/null
+	tail -n $(n) build/data/shortlinks.csv | 				\
+	while read shortlink permalink;						\
+	do 									\
+		aws s3 cp build/data/null s3://debrouwere.org$$shortlink	\
+			--website-redirect $$permalink				\
+			--profile debrouwere.org;				\
 	done
 
 upload: redirects
