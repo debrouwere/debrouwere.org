@@ -27,3 +27,6 @@ serve
 
 # build
 build
+
+# build dependencies
+node_modules
